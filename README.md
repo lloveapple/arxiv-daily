@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Diffusion Models are Minimax Optimal Distribution Estimators**|Kazusato Oko et.al.|[2303.01861v1](http://arxiv.org/abs/2303.01861v1)|null|
+|**2023-03-03**|**FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training**|Zhenheng Tang et.al.|[2303.01778v1](http://arxiv.org/abs/2303.01778v1)|null|
 |**2023-03-01**|**Poster: Sponge ML Model Attacks of Mobile Apps**|Souvik Paul et.al.|[2303.01243v1](http://arxiv.org/abs/2303.01243v1)|null|
 |**2023-03-02**|**Stochastic Clustered Federated Learning**|Dun Zeng et.al.|[2303.00897v1](http://arxiv.org/abs/2303.00897v1)|null|
 |**2023-03-01**|**Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**|Qiying Pan et.al.|[2303.00492v1](http://arxiv.org/abs/2303.00492v1)|null|
