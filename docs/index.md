@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**A Privacy Preserving System for Movie Recommendations using Federated Learning**|David Neumann et.al.|[2303.04689v1](http://arxiv.org/abs/2303.04689v1)|null|
+|**2023-03-08**|**Considerations on the Theory of Training Models with Differential Privacy**|Marten van Dijk et.al.|[2303.04676v1](http://arxiv.org/abs/2303.04676v1)|null|
+|**2023-03-08**|**Distributed and Deep Vertical Federated Learning with Big Data**|Ji Liu et.al.|[2303.04574v1](http://arxiv.org/abs/2303.04574v1)|null|
+|**2023-03-08**|**Federated Learning via Variational Bayesian Inference: Personalization, Sparsity and Clustering**|Xu Zhang et.al.|[2303.04345v1](http://arxiv.org/abs/2303.04345v1)|null|
+|**2023-03-08**|**Privacy-preserving and Uncertainty-aware Federated Trajectory Prediction for Connected Autonomous Vehicles**|Muzi Peng et.al.|[2303.04340v1](http://arxiv.org/abs/2303.04340v1)|null|
+|**2023-03-07**|**Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning**|Xin Yuan et.al.|[2303.04274v1](http://arxiv.org/abs/2303.04274v1)|null|
 |**2023-03-07**|**Private Read-Update-Write with Controllable Information Leakage for Storage-Efficient Federated Learning with Top $r$ Sparsification**|Sajani Vithana et.al.|[2303.04123v1](http://arxiv.org/abs/2303.04123v1)|null|
 |**2023-03-07**|**Predicted Embedding Power Regression for Large-Scale Out-of-Distribution Detection**|Hong Yang et.al.|[2303.04115v1](http://arxiv.org/abs/2303.04115v1)|null|
 |**2023-03-07**|**Client-specific Property Inference against Secure Aggregation in Federated Learning**|Raouf Kerkouche et.al.|[2303.03908v1](http://arxiv.org/abs/2303.03908v1)|null|
