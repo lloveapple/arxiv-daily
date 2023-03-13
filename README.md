@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.12
+## Updated on 2023.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2023-03-08**|**Memory-adaptive Depth-wise Heterogenous Federated Learning**|Kai Zhang et.al.|[2303.04887v1](http://arxiv.org/abs/2303.04887v1)|null|
 |**2023-03-07**|**A Privacy Preserving System for Movie Recommendations using Federated Learning**|David Neumann et.al.|[2303.04689v1](http://arxiv.org/abs/2303.04689v1)|null|
 |**2023-03-08**|**Considerations on the Theory of Training Models with Differential Privacy**|Marten van Dijk et.al.|[2303.04676v1](http://arxiv.org/abs/2303.04676v1)|null|
-|**2023-03-08**|**Distributed and Deep Vertical Federated Learning with Big Data**|Ji Liu et.al.|[2303.04574v1](http://arxiv.org/abs/2303.04574v1)|null|
+|**2023-03-10**|**Distributed and Deep Vertical Federated Learning with Big Data**|Ji Liu et.al.|[2303.04574v2](http://arxiv.org/abs/2303.04574v2)|null|
 |**2023-03-08**|**Federated Learning via Variational Bayesian Inference: Personalization, Sparsity and Clustering**|Xu Zhang et.al.|[2303.04345v1](http://arxiv.org/abs/2303.04345v1)|null|
 |**2023-03-08**|**Privacy-preserving and Uncertainty-aware Federated Trajectory Prediction for Connected Autonomous Vehicles**|Muzi Peng et.al.|[2303.04340v1](http://arxiv.org/abs/2303.04340v1)|null|
 |**2023-03-07**|**Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning**|Xin Yuan et.al.|[2303.04274v1](http://arxiv.org/abs/2303.04274v1)|null|
@@ -53,7 +53,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
