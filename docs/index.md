@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
+|**2023-03-09**|**An Evaluation of Non-Contrastive Self-Supervised Learning for Federated Medical Image Analysis**|Soumitri Chattopadhyay et.al.|[2303.05556v1](http://arxiv.org/abs/2303.05556v1)|null|
 |**2023-03-09**|**Cloudless-Training: A Framework to Improve Efficiency of Geo-Distributed ML Training**|Wenting Tan et.al.|[2303.05330v1](http://arxiv.org/abs/2303.05330v1)|null|
 |**2023-03-09**|**FedREP: A Byzantine-Robust, Communication-Efficient and Privacy-Preserving Framework for Federated Learning**|Yi-Rui Yang et.al.|[2303.05206v1](http://arxiv.org/abs/2303.05206v1)|null|
 |**2023-03-09**|**Semi-Federated Learning for Collaborative Intelligence in Massive IoT Networks**|Wanli Ni et.al.|[2303.05048v1](http://arxiv.org/abs/2303.05048v1)|**[link](https://github.com/niwanli/semifl_iot)**|
