@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Distributed Non-Bayesian Learning for Games with Incomplete Information**|Shijie Huang et.al.|[2303.07212v1](http://arxiv.org/abs/2303.07212v1)|null|
+|**2023-03-13**|**Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection**|Tong Xia et.al.|[2303.07067v1](http://arxiv.org/abs/2303.07067v1)|null|
+|**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|null|
+|**2023-03-13**|**Label Distribution Learning from Logical Label**|Yuheng Jia et.al.|[2303.06847v1](http://arxiv.org/abs/2303.06847v1)|null|
+|**2023-03-13**|**Label Information Bottleneck for Label Enhancement**|Qinghai Zheng et.al.|[2303.06836v1](http://arxiv.org/abs/2303.06836v1)|**[link](https://github.com/qinghai-zheng/lible)**|
+|**2023-03-12**|**Asynchronous Decentralized Federated Lifelong Learning for Landmark Localization in Medical Imaging**|Guangyao Zheng et.al.|[2303.06783v1](http://arxiv.org/abs/2303.06783v1)|null|
+|**2023-03-12**|**Multi-metrics adaptively identifies backdoors in Federated learning**|Siquan Huang et.al.|[2303.06601v1](http://arxiv.org/abs/2303.06601v1)|null|
+|**2023-03-12**|**Making Batch Normalization Great in Federated Deep Learning**|Jike Zhong et.al.|[2303.06530v1](http://arxiv.org/abs/2303.06530v1)|null|
+|**2023-03-11**|**Privacy-Preserving Cooperative Visible Light Positioning for Nonstationary Environment: A Federated Learning Perspective**|Tiankuo Wei et.al.|[2303.06361v1](http://arxiv.org/abs/2303.06361v1)|null|
+|**2023-03-11**|**FedLP: Layer-wise Pruning Mechanism for Communication-Computation Efficient Federated Learning**|Zheqi Zhu et.al.|[2303.06360v1](http://arxiv.org/abs/2303.06360v1)|null|
 |**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
 |**2023-03-09**|**An Evaluation of Non-Contrastive Self-Supervised Learning for Federated Medical Image Analysis**|Soumitri Chattopadhyay et.al.|[2303.05556v1](http://arxiv.org/abs/2303.05556v1)|null|
 |**2023-03-09**|**Cloudless-Training: A Framework to Improve Efficiency of Geo-Distributed ML Training**|Wenting Tan et.al.|[2303.05330v1](http://arxiv.org/abs/2303.05330v1)|null|
