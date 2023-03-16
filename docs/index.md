@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**Visual Prompt Based Personalized Federated Learning**|Guanghao Li et.al.|[2303.08678v1](http://arxiv.org/abs/2303.08678v1)|null|
+|**2023-03-13**|**Model Extraction Attacks on Split Federated Learning**|Jingtao Li et.al.|[2303.08581v1](http://arxiv.org/abs/2303.08581v1)|null|
+|**2023-03-15**|**Communication-Efficient Design for Quantized Decentralized Federated Learning**|Wei Liu et.al.|[2303.08423v1](http://arxiv.org/abs/2303.08423v1)|null|
+|**2023-03-15**|**Comparative Evaluation of Data Decoupling Techniques for Federated Machine Learning with Database as a Service**|Muhammad Jahanzeb Khan et.al.|[2303.08371v1](http://arxiv.org/abs/2303.08371v1)|null|
+|**2023-03-15**|**Towards Cooperative Federated Learning over Heterogeneous Edge/Fog Networks**|Su Wang et.al.|[2303.08361v1](http://arxiv.org/abs/2303.08361v1)|null|
+|**2023-03-15**|**Efficient and Secure Federated Learning for Financial Applications**|Tao Liu et.al.|[2303.08355v1](http://arxiv.org/abs/2303.08355v1)|null|
+|**2023-03-15**|**Optimization Design for Federated Learning in Heterogeneous 6G Networks**|Bing Luo et.al.|[2303.08322v1](http://arxiv.org/abs/2303.08322v1)|null|
+|**2023-03-14**|**Automated patent extraction powers generative modeling in focused chemical spaces**|Akshay Subramanian et.al.|[2303.08272v1](http://arxiv.org/abs/2303.08272v1)|null|
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|null|
 |**2023-03-13**|**Distributed Non-Bayesian Learning for Games with Incomplete Information**|Shijie Huang et.al.|[2303.07212v1](http://arxiv.org/abs/2303.07212v1)|null|
 |**2023-03-13**|**Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection**|Tong Xia et.al.|[2303.07067v1](http://arxiv.org/abs/2303.07067v1)|null|
