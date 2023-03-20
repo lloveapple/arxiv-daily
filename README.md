@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier**|Zexi Li et.al.|[2303.10058v1](http://arxiv.org/abs/2303.10058v1)|null|
 |**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
 |**2023-03-15**|**Connectivity-Aware Semi-Decentralized Federated Learning over Time-Varying D2D Networks**|Rohit Parasnis et.al.|[2303.08988v1](http://arxiv.org/abs/2303.08988v1)|null|
 |**2023-03-15**|**WIP: Federated Learning for Routing in Swarm Based Distributed Multi-Hop Networks**|Martha Cash et.al.|[2303.08871v1](http://arxiv.org/abs/2303.08871v1)|null|
