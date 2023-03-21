@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**Make Landscape Flatter in Differentially Private Federated Learning**|Yifan Shi et.al.|[2303.11242v1](http://arxiv.org/abs/2303.11242v1)|null|
+|**2023-03-20**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v1](http://arxiv.org/abs/2303.10920v1)|null|
+|**2023-03-20**|**FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System**|Weizhao Jin et.al.|[2303.10837v1](http://arxiv.org/abs/2303.10837v1)|null|
+|**2023-03-19**|**On the Convergence of Decentralized Federated Learning Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2303.10695v1](http://arxiv.org/abs/2303.10695v1)|null|
+|**2023-03-19**|**A Survey of Federated Learning for Connected and Automated Vehicles**|Vishnu Pandi Chellapandi et.al.|[2303.10677v1](http://arxiv.org/abs/2303.10677v1)|null|
+|**2023-03-19**|**Experimenting with Normalization Layers in Federated Learning on non-IID scenarios**|Bruno Casella et.al.|[2303.10630v1](http://arxiv.org/abs/2303.10630v1)|**[link](https://github.com/alpha-unito/benchmarking-normalization-layers-in-federated-learning-for-image-classification-tasks-on-non-iid)**|
+|**2023-03-19**|**PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients**|Manas Wadhwa et.al.|[2303.10624v1](http://arxiv.org/abs/2303.10624v1)|**[link](https://github.com/mnswdhw/pfsl)**|
+|**2023-03-19**|**Hierarchical Personalized Federated Learning Over Massive Mobile Edge Computing Networks**|Chaoqun You et.al.|[2303.10580v1](http://arxiv.org/abs/2303.10580v1)|null|
+|**2023-03-18**|**Report of the Medical Image De-Identification (MIDI) Task Group -- Best Practices and Recommendations**|David A. Clunie et.al.|[2303.10473v1](http://arxiv.org/abs/2303.10473v1)|null|
+|**2023-03-18**|**Byzantine-Resilient Federated Learning at Edge**|Youming Tao et.al.|[2303.10434v1](http://arxiv.org/abs/2303.10434v1)|null|
 |**2023-03-17**|**No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier**|Zexi Li et.al.|[2303.10058v1](http://arxiv.org/abs/2303.10058v1)|null|
 |**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
 |**2023-03-15**|**Connectivity-Aware Semi-Decentralized Federated Learning over Time-Varying D2D Networks**|Rohit Parasnis et.al.|[2303.08988v1](http://arxiv.org/abs/2303.08988v1)|null|
