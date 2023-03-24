@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.23
+## Updated on 2023.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-22**|**Delay-Aware Hierarchical Federated Learning**|Frank Po-Chen Lin et.al.|[2303.12414v1](http://arxiv.org/abs/2303.12414v1)|null|
+|**2023-03-23**|**Delay-Aware Hierarchical Federated Learning**|Frank Po-Chen Lin et.al.|[2303.12414v2](http://arxiv.org/abs/2303.12414v2)|null|
 |**2023-03-22**|**Re-thinking Federated Active Learning based on Inter-class Diversity**|SangMook Kim et.al.|[2303.12317v1](http://arxiv.org/abs/2303.12317v1)|**[link](https://github.com/raymin0223/logo)**|
 |**2023-03-22**|**Prototype Helps Federated Learning: Towards Faster Convergence**|Yu Qiao et.al.|[2303.12296v1](http://arxiv.org/abs/2303.12296v1)|null|
 |**2023-03-22**|**Adaptive Road Configurations for Improved Autonomous Vehicle-Pedestrian Interactions using Reinforcement Learning**|Qiming Ye et.al.|[2303.12289v1](http://arxiv.org/abs/2303.12289v1)|null|
@@ -100,7 +100,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

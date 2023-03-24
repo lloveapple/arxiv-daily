@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.23
+## Updated on 2023.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-22**|**Delay-Aware Hierarchical Federated Learning**|Frank Po-Chen Lin et.al.|[2303.12414v1](http://arxiv.org/abs/2303.12414v1)|null|
+|**2023-03-23**|**Delay-Aware Hierarchical Federated Learning**|Frank Po-Chen Lin et.al.|[2303.12414v2](http://arxiv.org/abs/2303.12414v2)|null|
 |**2023-03-22**|**Re-thinking Federated Active Learning based on Inter-class Diversity**|SangMook Kim et.al.|[2303.12317v1](http://arxiv.org/abs/2303.12317v1)|**[link](https://github.com/raymin0223/logo)**|
 |**2023-03-22**|**Prototype Helps Federated Learning: Towards Faster Convergence**|Yu Qiao et.al.|[2303.12296v1](http://arxiv.org/abs/2303.12296v1)|null|
 |**2023-03-22**|**Adaptive Road Configurations for Improved Autonomous Vehicle-Pedestrian Interactions using Reinforcement Learning**|Qiming Ye et.al.|[2303.12289v1](http://arxiv.org/abs/2303.12289v1)|null|
