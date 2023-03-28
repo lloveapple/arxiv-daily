@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**CoDeC: Communication-Efficient Decentralized Continual Learning**|Sakshi Choudhary et.al.|[2303.15378v1](http://arxiv.org/abs/2303.15378v1)|null|
+|**2023-03-27**|**Improving Neural Topic Models with Wasserstein Knowledge Distillation**|Suman Adhya et.al.|[2303.15350v1](http://arxiv.org/abs/2303.15350v1)|**[link](https://github.com/adhyasuman/ctmkd)**|
+|**2023-03-27**|**Asynchronous Online Federated Learning with Reduced Communication Requirements**|Francois Gauthier et.al.|[2303.15226v1](http://arxiv.org/abs/2303.15226v1)|null|
+|**2023-03-27**|**Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation**|Yang Lu et.al.|[2303.15168v1](http://arxiv.org/abs/2303.15168v1)|**[link](https://github.com/pxqian/fedafa)**|
+|**2023-03-27**|**Collaborative Authentication for 6G Networks: An Edge Intelligence based Autonomous Approach**|He Fang et.al.|[2303.15143v1](http://arxiv.org/abs/2303.15143v1)|null|
+|**2023-03-27**|**Adaptive Federated Learning via Entropy Approach**|Shensheng Zheng et.al.|[2303.14966v1](http://arxiv.org/abs/2303.14966v1)|null|
+|**2023-03-27**|**The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning**|Joshua C. Zhao et.al.|[2303.14868v1](http://arxiv.org/abs/2303.14868v1)|null|
+|**2023-03-26**|**A Generalized Look at Federated Learning: Survey and Perspectives**|Taki Hasan Rafi et.al.|[2303.14787v1](http://arxiv.org/abs/2303.14787v1)|null|
+|**2023-03-26**|**Green Federated Learning**|Ashkan Yousefpour et.al.|[2303.14604v1](http://arxiv.org/abs/2303.14604v1)|null|
+|**2023-03-25**|**Privacy-Enhancing Technologies in Federated Learning for the Internet of Healthcare Things: A Survey**|Fatemeh Mosaiyebzadeh et.al.|[2303.14544v1](http://arxiv.org/abs/2303.14544v1)|null|
 |**2023-03-24**|**A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing**|Ervin Moore et.al.|[2303.13727v1](http://arxiv.org/abs/2303.13727v1)|null|
 |**2023-03-23**|**Federated Learning on Heterogenous Data using Chest CT**|Edward H. Lee et.al.|[2303.13567v1](http://arxiv.org/abs/2303.13567v1)|null|
 |**2023-03-23**|**FS-Real: Towards Real-World Cross-Device Federated Learning**|Daoyuan Chen et.al.|[2303.13363v1](http://arxiv.org/abs/2303.13363v1)|null|
