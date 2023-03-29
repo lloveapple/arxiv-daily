@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**A Comparative Study of Federated Learning Models for COVID-19 Detection**|Erfan Darzidehkalani et.al.|[2303.16141v1](http://arxiv.org/abs/2303.16141v1)|null|
+|**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
+|**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|null|
+|**2023-03-28**|**Projected Latent Distillation for Data-Agnostic Consolidation in Distributed Continual Learning**|Antonio Carta et.al.|[2303.15888v1](http://arxiv.org/abs/2303.15888v1)|**[link](https://github.com/antoniocarta/data-agnostic-consolidation)**|
+|**2023-03-28**|**Fast Convergence Federated Learning with Aggregated Gradients**|Wenhao Yuan et.al.|[2303.15799v1](http://arxiv.org/abs/2303.15799v1)|null|
+|**2023-03-27**|**Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach**|Raz Paul et.al.|[2303.15544v1](http://arxiv.org/abs/2303.15544v1)|null|
 |**2023-03-27**|**CoDeC: Communication-Efficient Decentralized Continual Learning**|Sakshi Choudhary et.al.|[2303.15378v1](http://arxiv.org/abs/2303.15378v1)|null|
 |**2023-03-27**|**Improving Neural Topic Models with Wasserstein Knowledge Distillation**|Suman Adhya et.al.|[2303.15350v1](http://arxiv.org/abs/2303.15350v1)|**[link](https://github.com/adhyasuman/ctmkd)**|
 |**2023-03-27**|**Asynchronous Online Federated Learning with Reduced Communication Requirements**|Francois Gauthier et.al.|[2303.15226v1](http://arxiv.org/abs/2303.15226v1)|null|
