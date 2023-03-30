@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**A Byzantine-Resilient Aggregation Scheme for Federated Learning via Matrix Autoregression on Client Updates**|Gabriele Tolomei et.al.|[2303.16668v1](http://arxiv.org/abs/2303.16668v1)|null|
+|**2023-03-29**|**Federated Learning in MIMO Satellite Broadcast System**|Raphael Pinard et.al.|[2303.16603v1](http://arxiv.org/abs/2303.16603v1)|null|
+|**2023-03-29**|**Fair Federated Medical Image Segmentation via Client Contribution Estimation**|Meirui Jiang et.al.|[2303.16520v1](http://arxiv.org/abs/2303.16520v1)|null|
+|**2023-03-28**|**On the Local Cache Update Rules in Streaming Federated Learning**|Heqiang Wang et.al.|[2303.16340v1](http://arxiv.org/abs/2303.16340v1)|null|
+|**2023-03-28**|**Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples**|Jingwei Sun et.al.|[2303.16270v1](http://arxiv.org/abs/2303.16270v1)|null|
 |**2023-03-28**|**A Comparative Study of Federated Learning Models for COVID-19 Detection**|Erfan Darzidehkalani et.al.|[2303.16141v1](http://arxiv.org/abs/2303.16141v1)|null|
 |**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
 |**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|null|
