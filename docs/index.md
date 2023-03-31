@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Federated Learning from Heterogeneous Data via Controlled Bayesian Air Aggregation**|Tomer Gafni et.al.|[2303.17413v1](http://arxiv.org/abs/2303.17413v1)|null|
+|**2023-03-30**|**DPP-based Client Selection for Federated Learning with Non-IID Data**|Yuxuan Zhang et.al.|[2303.17358v1](http://arxiv.org/abs/2303.17358v1)|null|
 |**2023-03-29**|**A Byzantine-Resilient Aggregation Scheme for Federated Learning via Matrix Autoregression on Client Updates**|Gabriele Tolomei et.al.|[2303.16668v1](http://arxiv.org/abs/2303.16668v1)|null|
 |**2023-03-29**|**Federated Learning in MIMO Satellite Broadcast System**|Raphael Pinard et.al.|[2303.16603v1](http://arxiv.org/abs/2303.16603v1)|null|
 |**2023-03-29**|**Fair Federated Medical Image Segmentation via Client Contribution Estimation**|Meirui Jiang et.al.|[2303.16520v1](http://arxiv.org/abs/2303.16520v1)|null|
