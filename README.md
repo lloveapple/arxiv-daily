@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.30
+## Updated on 2023.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2023-03-29**|**Federated Learning in MIMO Satellite Broadcast System**|Raphael Pinard et.al.|[2303.16603v1](http://arxiv.org/abs/2303.16603v1)|null|
 |**2023-03-29**|**Fair Federated Medical Image Segmentation via Client Contribution Estimation**|Meirui Jiang et.al.|[2303.16520v1](http://arxiv.org/abs/2303.16520v1)|null|
 |**2023-03-28**|**On the Local Cache Update Rules in Streaming Federated Learning**|Heqiang Wang et.al.|[2303.16340v1](http://arxiv.org/abs/2303.16340v1)|null|
-|**2023-03-28**|**Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples**|Jingwei Sun et.al.|[2303.16270v1](http://arxiv.org/abs/2303.16270v1)|null|
+|**2023-03-30**|**Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples**|Jingwei Sun et.al.|[2303.16270v2](http://arxiv.org/abs/2303.16270v2)|null|
 |**2023-03-28**|**A Comparative Study of Federated Learning Models for COVID-19 Detection**|Erfan Darzidehkalani et.al.|[2303.16141v1](http://arxiv.org/abs/2303.16141v1)|null|
 |**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
 |**2023-03-28**|**Clustered Federated Learning Architecture for Network Anomaly Detection in Large Scale Heterogeneous IoT Networks**|Xabier Sáez-de-Cámara et.al.|[2303.15986v1](http://arxiv.org/abs/2303.15986v1)|null|
@@ -128,7 +128,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
