@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**|Jingwei Sun et.al.|[2303.18178v1](http://arxiv.org/abs/2303.18178v1)|null|
+|**2023-03-31**|**Benchmarking FedAvg and FedCurv for Image Classification Tasks**|Bruno Casella et.al.|[2303.17942v1](http://arxiv.org/abs/2303.17942v1)|null|
+|**2023-03-31**|**Accelerating Wireless Federated Learning via Nesterov's Momentum and Distributed Principle Component Analysis**|Yanjie Dong et.al.|[2303.17885v1](http://arxiv.org/abs/2303.17885v1)|null|
 |**2023-03-30**|**Federated Learning from Heterogeneous Data via Controlled Bayesian Air Aggregation**|Tomer Gafni et.al.|[2303.17413v1](http://arxiv.org/abs/2303.17413v1)|null|
 |**2023-03-30**|**DPP-based Client Selection for Federated Learning with Non-IID Data**|Yuxuan Zhang et.al.|[2303.17358v1](http://arxiv.org/abs/2303.17358v1)|null|
 |**2023-03-29**|**A Byzantine-Resilient Aggregation Scheme for Federated Learning via Matrix Autoregression on Client Updates**|Gabriele Tolomei et.al.|[2303.16668v1](http://arxiv.org/abs/2303.16668v1)|null|
