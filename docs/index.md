@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Federated Learning Based Multilingual Emoji Prediction In Clean and Attack Scenarios**|Karim Gamal et.al.|[2304.01005v1](http://arxiv.org/abs/2304.01005v1)|**[link](https://github.com/kareemgamalmahmoud/federated-learning-based-multilingual-emoji-prediction-in-clean-and-attack-scenarios)**|
+|**2023-04-03**|**Federated Kalman Filter for Secure IoT-based Device Monitoring Services**|Marc Jayson Baucas et.al.|[2304.00991v1](http://arxiv.org/abs/2304.00991v1)|null|
+|**2023-04-03**|**FedIN: Federated Intermediate Layers Learning for Model Heterogeneity**|Chan Yun-Hin et.al.|[2304.00759v1](http://arxiv.org/abs/2304.00759v1)|null|
+|**2023-04-02**|**Distributed Optimization for Quadratic Cost Functions over Large-Scale Networks with Quantized Communication and Finite-Time Convergence**|Apostolos I. Rikos et.al.|[2304.00596v1](http://arxiv.org/abs/2304.00596v1)|null|
+|**2023-04-02**|**FedFTN: Personalized Federated Learning with Deep Feature Transformation Network for Multi-institutional Low-count PET Denoising**|Bo Zhou et.al.|[2304.00570v1](http://arxiv.org/abs/2304.00570v1)|**[link](https://github.com/bbbbbbzhou/fedftn)**|
+|**2023-04-02**|**A Survey on Federated Learning for the Healthcare Metaverse: Concepts, Applications, Challenges, and Future Directions**|Ali Kashif Bashir et.al.|[2304.00524v1](http://arxiv.org/abs/2304.00524v1)|null|
+|**2023-03-31**|**Secure Federated Learning against Model Poisoning Attacks via Client Filtering**|Duygu Nur Yaldiz et.al.|[2304.00160v1](http://arxiv.org/abs/2304.00160v1)|null|
 |**2023-03-28**|**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**|Jingwei Sun et.al.|[2303.18178v1](http://arxiv.org/abs/2303.18178v1)|null|
 |**2023-03-31**|**Benchmarking FedAvg and FedCurv for Image Classification Tasks**|Bruno Casella et.al.|[2303.17942v1](http://arxiv.org/abs/2303.17942v1)|null|
 |**2023-03-31**|**Accelerating Wireless Federated Learning via Nesterov's Momentum and Distributed Principle Component Analysis**|Yanjie Dong et.al.|[2303.17885v1](http://arxiv.org/abs/2303.17885v1)|null|
