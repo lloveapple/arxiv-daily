@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**A Survey on Vertical Federated Learning: From a Layered Perspective**|Liu Yang et.al.|[2304.01829v1](http://arxiv.org/abs/2304.01829v1)|null|
+|**2023-04-02**|**Personalized Federated Learning with Local Attention**|Sicong Liang et.al.|[2304.01783v1](http://arxiv.org/abs/2304.01783v1)|null|
+|**2023-04-04**|**Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher**|Jiawei Shao et.al.|[2304.01731v1](http://arxiv.org/abs/2304.01731v1)|null|
+|**2023-04-04**|**Privacy-Preserving Federated Discovery of DNA Motifs with Differential Privacy**|Yao Chen et.al.|[2304.01689v1](http://arxiv.org/abs/2304.01689v1)|null|
+|**2023-04-04**|**Privacy Amplification via Compression: Achieving the Optimal Privacy-Accuracy-Communication Trade-off in Distributed Mean Estimation**|Wei-Ning Chen et.al.|[2304.01541v1](http://arxiv.org/abs/2304.01541v1)|null|
+|**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|null|
+|**2023-04-04**|**SLPerf: a Unified Framework for Benchmarking Split Learning**|Tianchen Zhou et.al.|[2304.01502v1](http://arxiv.org/abs/2304.01502v1)|null|
+|**2023-04-03**|**Kernel Affine Hull Machines for Differentially Private Learning**|Mohit Kumar et.al.|[2304.01300v1](http://arxiv.org/abs/2304.01300v1)|null|
 |**2023-03-30**|**Federated Learning Based Multilingual Emoji Prediction In Clean and Attack Scenarios**|Karim Gamal et.al.|[2304.01005v1](http://arxiv.org/abs/2304.01005v1)|**[link](https://github.com/kareemgamalmahmoud/federated-learning-based-multilingual-emoji-prediction-in-clean-and-attack-scenarios)**|
 |**2023-04-03**|**Federated Kalman Filter for Secure IoT-based Device Monitoring Services**|Marc Jayson Baucas et.al.|[2304.00991v1](http://arxiv.org/abs/2304.00991v1)|null|
 |**2023-04-03**|**FedIN: Federated Intermediate Layers Learning for Model Heterogeneity**|Chan Yun-Hin et.al.|[2304.00759v1](http://arxiv.org/abs/2304.00759v1)|null|
