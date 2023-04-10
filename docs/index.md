@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|
+|**2023-04-07**|**Asynchronous Federated Continual Learning**|Donald Shenaj et.al.|[2304.03626v1](http://arxiv.org/abs/2304.03626v1)|**[link](https://github.com/lttm/fedspace)**|
+|**2023-04-06**|**Approximate Wireless Communication for Federated Learning**|Xiang Ma et.al.|[2304.03359v1](http://arxiv.org/abs/2304.03359v1)|null|
 |**2023-04-04**|**FedBot: Enhancing Privacy in Chatbots with Federated Learning**|Addi Ait-Mlouk et.al.|[2304.03228v1](http://arxiv.org/abs/2304.03228v1)|null|
 |**2023-04-06**|**IoT Federated Blockchain Learning at the Edge**|James Calo et.al.|[2304.03006v1](http://arxiv.org/abs/2304.03006v1)|null|
 |**2023-04-06**|**Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients**|Chenrui Wu et.al.|[2304.02892v1](http://arxiv.org/abs/2304.02892v1)|null|
