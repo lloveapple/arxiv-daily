@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Federated PAC Learning**|Xiaojin Zhang et.al.|[2304.04641v1](http://arxiv.org/abs/2304.04641v1)|null|
+|**2023-04-10**|**Federated Incremental Semantic Segmentation**|Jiahua Dong et.al.|[2304.04620v1](http://arxiv.org/abs/2304.04620v1)|**[link](https://github.com/jiahuadong/fiss)**|
+|**2023-04-10**|**Differentially Private Numerical Vector Analyses in the Local and Shuffle Model**|Shaowei Wang et.al.|[2304.04410v1](http://arxiv.org/abs/2304.04410v1)|null|
+|**2023-04-10**|**Over-the-Air Federated Learning Over MIMO Channels: A Sparse-Coded Multiplexing Approach**|Chenxi Zhong et.al.|[2304.04402v1](http://arxiv.org/abs/2304.04402v1)|null|
+|**2023-04-09**|**SLowcal-SGD: Slow Query Points Improve Local-SGD for Stochastic Convex Optimization**|Kfir Y. Levy et.al.|[2304.04169v1](http://arxiv.org/abs/2304.04169v1)|null|
+|**2023-04-09**|**Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy**|Kang Wei et.al.|[2304.04164v1](http://arxiv.org/abs/2304.04164v1)|null|
+|**2023-04-09**|**Design of Two-Level Incentive Mechanisms for Hierarchical Federated Learning**|Shunfeng Chu et.al.|[2304.04162v1](http://arxiv.org/abs/2304.04162v1)|null|
+|**2023-04-09**|**FedPNN: One-shot Federated Classification via Evolving Clustering Method and Probabilistic Neural Network hybrid**|Polaki Durga Prasad et.al.|[2304.04147v1](http://arxiv.org/abs/2304.04147v1)|null|
+|**2023-04-09**|**Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning**|Wenxiang Xu et.al.|[2304.04135v1](http://arxiv.org/abs/2304.04135v1)|null|
+|**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|null|
 |**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|
 |**2023-04-07**|**Asynchronous Federated Continual Learning**|Donald Shenaj et.al.|[2304.03626v1](http://arxiv.org/abs/2304.03626v1)|**[link](https://github.com/lttm/fedspace)**|
 |**2023-04-06**|**Approximate Wireless Communication for Federated Learning**|Xiang Ma et.al.|[2304.03359v1](http://arxiv.org/abs/2304.03359v1)|null|
