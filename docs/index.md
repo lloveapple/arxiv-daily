@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Re-Weighted Softmax Cross-Entropy to Control Forgetting in Federated Learning**|Gwen Legate et.al.|[2304.05260v1](http://arxiv.org/abs/2304.05260v1)|null|
+|**2023-04-11**|**TinyReptile: TinyML with Federated Meta-Learning**|Haoyu Ren et.al.|[2304.05201v1](http://arxiv.org/abs/2304.05201v1)|null|
+|**2023-04-11**|**HPN: Personalized Federated Hyperparameter Optimization**|Anda Cheng et.al.|[2304.05195v1](http://arxiv.org/abs/2304.05195v1)|null|
+|**2023-04-11**|**TrajFlow: Learning the Distribution over Trajectories**|Anna Mészáros et.al.|[2304.05166v1](http://arxiv.org/abs/2304.05166v1)|null|
+|**2023-04-11**|**RecUP-FL: Reconciling Utility and Privacy in Federated Learning via User-configurable Privacy Defense**|Yue Cui et.al.|[2304.05135v1](http://arxiv.org/abs/2304.05135v1)|null|
+|**2023-04-11**|**Improving Performance of Private Federated Models in Medical Image Analysis**|Xiangjian Hou et.al.|[2304.05127v1](http://arxiv.org/abs/2304.05127v1)|null|
+|**2023-04-11**|**Federated Learning with Classifier Shift for Class Imbalance**|Yunheng Shen et.al.|[2304.04972v1](http://arxiv.org/abs/2304.04972v1)|null|
 |**2023-04-11**|**Probably Approximately Correct Federated Learning**|Xiaojin Zhang et.al.|[2304.04641v2](http://arxiv.org/abs/2304.04641v2)|null|
 |**2023-04-10**|**Federated Incremental Semantic Segmentation**|Jiahua Dong et.al.|[2304.04620v1](http://arxiv.org/abs/2304.04620v1)|**[link](https://github.com/jiahuadong/fiss)**|
 |**2023-04-10**|**Differentially Private Numerical Vector Analyses in the Local and Shuffle Model**|Shaowei Wang et.al.|[2304.04410v1](http://arxiv.org/abs/2304.04410v1)|null|
