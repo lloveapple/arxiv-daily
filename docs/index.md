@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-10**|**Federated PAC Learning**|Xiaojin Zhang et.al.|[2304.04641v1](http://arxiv.org/abs/2304.04641v1)|null|
+|**2023-04-11**|**Probably Approximately Correct Federated Learning**|Xiaojin Zhang et.al.|[2304.04641v2](http://arxiv.org/abs/2304.04641v2)|null|
 |**2023-04-10**|**Federated Incremental Semantic Segmentation**|Jiahua Dong et.al.|[2304.04620v1](http://arxiv.org/abs/2304.04620v1)|**[link](https://github.com/jiahuadong/fiss)**|
 |**2023-04-10**|**Differentially Private Numerical Vector Analyses in the Local and Shuffle Model**|Shaowei Wang et.al.|[2304.04410v1](http://arxiv.org/abs/2304.04410v1)|null|
 |**2023-04-10**|**Over-the-Air Federated Learning Over MIMO Channels: A Sparse-Coded Multiplexing Approach**|Chenxi Zhong et.al.|[2304.04402v1](http://arxiv.org/abs/2304.04402v1)|null|
