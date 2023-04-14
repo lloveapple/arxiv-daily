@@ -1228,6 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Decentralized federated learning methods for reducing communication cost and energy consumption in UAV networks**|Deng Pan et.al.|[2304.06551v1](http://arxiv.org/abs/2304.06551v1)|null|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871v1](http://arxiv.org/abs/2304.05871v1)|null|
 |**2023-04-11**|**A Game-theoretic Framework for Federated Learning**|Xiaojin Zhang et.al.|[2304.05836v1](http://arxiv.org/abs/2304.05836v1)|null|
 |**2023-04-12**|**FedTrip: A Resource-Efficient Federated Learning Method with Triplet Regularization**|Xujing Li et.al.|[2304.05824v1](http://arxiv.org/abs/2304.05824v1)|null|
