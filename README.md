@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training**|Tuo Zhang et.al.|[2304.06947v1](http://arxiv.org/abs/2304.06947v1)|null|
+|**2023-04-14**|**Scale Federated Learning for Label Set Mismatch in Medical Image Classification**|Zhipeng Deng et.al.|[2304.06931v1](http://arxiv.org/abs/2304.06931v1)|null|
 |**2023-04-13**|**Decentralized federated learning methods for reducing communication cost and energy consumption in UAV networks**|Deng Pan et.al.|[2304.06551v1](http://arxiv.org/abs/2304.06551v1)|null|
 |**2023-04-12**|**Edge-cloud Collaborative Learning with Federated and Centralized Features**|Zexi Li et.al.|[2304.05871v1](http://arxiv.org/abs/2304.05871v1)|null|
 |**2023-04-11**|**A Game-theoretic Framework for Federated Learning**|Xiaojin Zhang et.al.|[2304.05836v1](http://arxiv.org/abs/2304.05836v1)|null|
