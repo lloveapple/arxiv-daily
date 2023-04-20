@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-18**|**Joint Age-based Client Selection and Resource Allocation for Communication-Efficient Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2304.08996v1](http://arxiv.org/abs/2304.08996v1)|null|
+|**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|null|
 |**2023-04-18**|**BadVFL: Backdoor Attacks in Vertical Federated Learning**|Mohammad Naseri et.al.|[2304.08847v1](http://arxiv.org/abs/2304.08847v1)|null|
 |**2023-04-18**|**Impossibility of Characterizing Distribution Learning -- a simple solution to a long-standing problem**|Tosca Lechner et.al.|[2304.08712v1](http://arxiv.org/abs/2304.08712v1)|null|
 |**2023-04-17**|**Crossing Roads of Federated Learning and Smart Grids: Overview, Challenges, and Perspectives**|Hafsa Bousbiat et.al.|[2304.08602v1](http://arxiv.org/abs/2304.08602v1)|null|

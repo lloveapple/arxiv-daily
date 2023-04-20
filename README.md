@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-18**|**Joint Age-based Client Selection and Resource Allocation for Communication-Efficient Federated Learning over NOMA Networks**|Bibo Wu et.al.|[2304.08996v1](http://arxiv.org/abs/2304.08996v1)|null|
+|**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|null|
 |**2023-04-18**|**BadVFL: Backdoor Attacks in Vertical Federated Learning**|Mohammad Naseri et.al.|[2304.08847v1](http://arxiv.org/abs/2304.08847v1)|null|
 |**2023-04-18**|**Impossibility of Characterizing Distribution Learning -- a simple solution to a long-standing problem**|Tosca Lechner et.al.|[2304.08712v1](http://arxiv.org/abs/2304.08712v1)|null|
 |**2023-04-17**|**Crossing Roads of Federated Learning and Smart Grids: Overview, Challenges, and Perspectives**|Hafsa Bousbiat et.al.|[2304.08602v1](http://arxiv.org/abs/2304.08602v1)|null|
@@ -199,7 +199,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
