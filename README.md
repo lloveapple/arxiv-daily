@@ -17,9 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
+|**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397v1](http://arxiv.org/abs/2304.14397v1)|null|
+|**2023-04-27**|**Securing Autonomous Air Traffic Management: Blockchain Networks Driven by Explainable AI**|Louise Axon et.al.|[2304.14095v1](http://arxiv.org/abs/2304.14095v1)|null|
+|**2023-04-27**|**Attacks on Robust Distributed Learning Schemes via Sensitivity Curve Maximization**|Christian A. Schroth et.al.|[2304.14024v1](http://arxiv.org/abs/2304.14024v1)|null|
 |**2023-04-26**|**Killing Two Birds with One Stone: Quantization Achieves Privacy in Distributed Learning**|Guangfeng Yan et.al.|[2304.13545v1](http://arxiv.org/abs/2304.13545v1)|null|
 |**2023-04-26**|**Fair Selection of Edge Nodes to Participate in Clustered Federated Multitask Learning**|Abdullatif Albaseer et.al.|[2304.13423v1](http://arxiv.org/abs/2304.13423v1)|null|
-|**2023-04-26**|**Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework**|Dev Gurung et.al.|[2304.13413v1](http://arxiv.org/abs/2304.13413v1)|null|
+|**2023-04-26**|**Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework**|Dev Gurung et.al.|[2304.13413v1](http://arxiv.org/abs/2304.13413v1)|**[link](https://github.com/s222416822/pqc-qfl-model)**|
 |**2023-04-26**|**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**|Songze Li et.al.|[2304.13407v1](http://arxiv.org/abs/2304.13407v1)|null|
 |**2023-04-26**|**Blockchain-based Federated Learning with SMPC Model Verification Against Poisoning Attack for Healthcare Systems**|Aditya Pribadi Kalapaaking et.al.|[2304.13360v1](http://arxiv.org/abs/2304.13360v1)|null|
 |**2023-04-26**|**SMPC-based Federated Learning for 6G enabled Internet of Medical Things**|Aditya Pribadi Kalapaaking et.al.|[2304.13352v1](http://arxiv.org/abs/2304.13352v1)|null|
