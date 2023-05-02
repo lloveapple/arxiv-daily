@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2023-04-27**|**Securing Autonomous Air Traffic Management: Blockchain Networks Driven by Explainable AI**|Louise Axon et.al.|[2304.14095v1](http://arxiv.org/abs/2304.14095v1)|null|
 |**2023-04-27**|**Attacks on Robust Distributed Learning Schemes via Sensitivity Curve Maximization**|Christian A. Schroth et.al.|[2304.14024v1](http://arxiv.org/abs/2304.14024v1)|null|
 |**2023-04-26**|**Killing Two Birds with One Stone: Quantization Achieves Privacy in Distributed Learning**|Guangfeng Yan et.al.|[2304.13545v1](http://arxiv.org/abs/2304.13545v1)|null|
-|**2023-04-26**|**Fair Selection of Edge Nodes to Participate in Clustered Federated Multitask Learning**|Abdullatif Albaseer et.al.|[2304.13423v1](http://arxiv.org/abs/2304.13423v1)|null|
+|**2023-04-29**|**Fair Selection of Edge Nodes to Participate in Clustered Federated Multitask Learning**|Abdullatif Albaseer et.al.|[2304.13423v2](http://arxiv.org/abs/2304.13423v2)|null|
 |**2023-04-26**|**Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework**|Dev Gurung et.al.|[2304.13413v1](http://arxiv.org/abs/2304.13413v1)|**[link](https://github.com/s222416822/pqc-qfl-model)**|
 |**2023-04-26**|**FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models**|Songze Li et.al.|[2304.13407v1](http://arxiv.org/abs/2304.13407v1)|null|
 |**2023-04-26**|**Blockchain-based Federated Learning with SMPC Model Verification Against Poisoning Attack for Healthcare Systems**|Aditya Pribadi Kalapaaking et.al.|[2304.13360v1](http://arxiv.org/abs/2304.13360v1)|null|
@@ -239,7 +239,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
