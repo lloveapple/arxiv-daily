@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-01**|**Towards the Flatter Landscape and Better Generalization in Federated Learning under Client-level Differential Privacy**|Yifan Shi et.al.|[2305.00873v1](http://arxiv.org/abs/2305.00873v1)|null|
+|**2023-05-02**|**Towards the Flatter Landscape and Better Generalization in Federated Learning under Client-level Differential Privacy**|Yifan Shi et.al.|[2305.00873v2](http://arxiv.org/abs/2305.00873v2)|null|
 |**2023-05-01**|**FCA: Taming Long-tailed Federated Medical Image Classification by Classifier Anchoring**|Jeffry Wicaksana et.al.|[2305.00738v1](http://arxiv.org/abs/2305.00738v1)|**[link](https://github.com/jwicaksana/fca)**|
 |**2023-04-30**|**Green Federated Learning Over Cloud-RAN with Limited Fronthual Capacity and Quantized Neural Networks**|Jiali Wang et.al.|[2305.00504v1](http://arxiv.org/abs/2305.00504v1)|null|
 |**2023-04-29**|**FedGrad: Mitigating Backdoor Attacks in Federated Learning Through Local Ultimate Gradients Inspection**|Thuy Dung Nguyen et.al.|[2305.00328v1](http://arxiv.org/abs/2305.00328v1)|null|
