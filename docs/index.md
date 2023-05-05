@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1231,7 +1231,7 @@ layout: default
 |**2023-05-03**|**LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning**|Timothy Castiglia et.al.|[2305.02219v1](http://arxiv.org/abs/2305.02219v1)|null|
 |**2023-05-03**|**LearnDefend: Learning to Defend against Targeted Model-Poisoning Attacks on Federated Learning**|Kiran Purohit et.al.|[2305.02022v1](http://arxiv.org/abs/2305.02022v1)|null|
 |**2023-05-03**|**Optimal Resource Management for Hierarchical Federated Learning over HetNets with Wireless Energy Transfer**|Rami Hamdi et.al.|[2305.01953v1](http://arxiv.org/abs/2305.01953v1)|null|
-|**2023-05-01**|**Scalable Data Point Valuation in Decentralized Learning**|Konstantin D. Pandl et.al.|[2305.01657v1](http://arxiv.org/abs/2305.01657v1)|null|
+|**2023-05-01**|**Scalable Data Point Valuation in Decentralized Learning**|Konstantin D. Pandl et.al.|[2305.01657v1](http://arxiv.org/abs/2305.01657v1)|**[link](https://github.com/kpandl/Scalable-Data-Point-Valuation-in-Decentralized-Learning)**|
 |**2023-05-02**|**Efficient Federated Learning with Enhanced Privacy via Lottery Ticket Pruning in Edge Computing**|Yifan Shi et.al.|[2305.01387v1](http://arxiv.org/abs/2305.01387v1)|null|
 |**2023-05-02**|**DABS: Data-Agnostic Backdoor attack at the Server in Federated Learning**|Wenqiang Sun et.al.|[2305.01267v1](http://arxiv.org/abs/2305.01267v1)|null|
 |**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
