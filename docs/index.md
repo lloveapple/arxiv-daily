@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimization**|Jose A. Carrillo et.al.|[2305.02894v1](http://arxiv.org/abs/2305.02894v1)|**[link](https://github.com/sixuli/fedcbo)**|
+|**2023-05-04**|**Efficient Personalized Federated Learning via Sparse Model-Adaptation**|Daoyuan Chen et.al.|[2305.02776v1](http://arxiv.org/abs/2305.02776v1)|**[link](https://github.com/yxdyc/pfedgate)**|
+|**2023-05-04**|**Can Fair Federated Learning reduce the need for Personalisation?**|Alex Iacob et.al.|[2305.02728v1](http://arxiv.org/abs/2305.02728v1)|null|
 |**2023-05-03**|**LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning**|Timothy Castiglia et.al.|[2305.02219v1](http://arxiv.org/abs/2305.02219v1)|null|
 |**2023-05-03**|**LearnDefend: Learning to Defend against Targeted Model-Poisoning Attacks on Federated Learning**|Kiran Purohit et.al.|[2305.02022v1](http://arxiv.org/abs/2305.02022v1)|null|
 |**2023-05-03**|**Optimal Resource Management for Hierarchical Federated Learning over HetNets with Wireless Energy Transfer**|Rami Hamdi et.al.|[2305.01953v1](http://arxiv.org/abs/2305.01953v1)|null|
