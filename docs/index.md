@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Federated Learning in Wireless Networks via Over-the-Air Computations**|Halil Yigit Oksuz et.al.|[2305.04630v1](http://arxiv.org/abs/2305.04630v1)|null|
+|**2023-05-08**|**Blockchained Federated Learning for Internet of Things: A Comprehensive Survey**|Yanna Jiang et.al.|[2305.04513v1](http://arxiv.org/abs/2305.04513v1)|null|
+|**2023-05-08**|**FedZKP: Federated Model Ownership Verification with Zero-knowledge Proof**|Wenyuan Yang et.al.|[2305.04507v1](http://arxiv.org/abs/2305.04507v1)|null|
+|**2023-05-07**|**Towards Achieving Near-optimal Utility for Privacy-Preserving Federated Learning via Data Generation and Parameter Distortion**|Xiaojin Zhang et.al.|[2305.04288v1](http://arxiv.org/abs/2305.04288v1)|null|
+|**2023-05-07**|**MrTF: Model Refinery for Transductive Federated Learning**|Xin-Chun Li et.al.|[2305.04201v1](http://arxiv.org/abs/2305.04201v1)|**[link](https://github.com/lxcnju/mrtf)**|
+|**2023-05-06**|**Gradient Leakage Defense with Key-Lock Module for Federated Learning**|Hanchi Ren et.al.|[2305.04095v1](http://arxiv.org/abs/2305.04095v1)|**[link](https://github.com/rand2ai/fedkl)**|
+|**2023-05-06**|**Portfolio-Based Incentive Mechanism Design for Cross-Device Federated Learning**|Jiaxi Yang et.al.|[2305.04081v1](http://arxiv.org/abs/2305.04081v1)|null|
+|**2023-05-06**|**Exploring One-shot Semi-supervised Federated Learning with A Pre-trained Diffusion Model**|Mingzhao Yang et.al.|[2305.04063v1](http://arxiv.org/abs/2305.04063v1)|null|
+|**2023-05-06**|**Decentralised Semi-supervised Onboard Learning for Scene Classification in Low-Earth Orbit**|Johan Östman et.al.|[2305.04059v1](http://arxiv.org/abs/2305.04059v1)|null|
+|**2023-05-06**|**Joint Compression and Deadline Optimization for Wireless Federated Learning**|Maojun Zhang et.al.|[2305.03969v1](http://arxiv.org/abs/2305.03969v1)|null|
 |**2023-05-05**|**Now It Sounds Like You: Learning Personalized Vocabulary On Device**|Sid Wang et.al.|[2305.03584v1](http://arxiv.org/abs/2305.03584v1)|null|
 |**2023-05-05**|**Over-the-Air Federated Averaging with Limited Power and Privacy Budgets**|Na Yan et.al.|[2305.03547v1](http://arxiv.org/abs/2305.03547v1)|null|
 |**2023-05-05**|**WWFedCBMIR: World-Wide Federated Content-Based Medical Image Retrieval**|Zahra Tabatabaei et.al.|[2305.03383v1](http://arxiv.org/abs/2305.03383v1)|null|
