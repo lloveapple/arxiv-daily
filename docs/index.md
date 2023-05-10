@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Towards Building the Federated GPT: Federated Instruction Tuning**|Jianyi Zhang et.al.|[2305.05644v1](http://arxiv.org/abs/2305.05644v1)|**[link](https://github.com/jayzhang42/federatedgpt-shepherd)**|
+|**2023-05-09**|**Privacy-Preserving Collaborative Chinese Text Recognition with Federated Learning**|Shangchao Su et.al.|[2305.05602v1](http://arxiv.org/abs/2305.05602v1)|null|
+|**2023-05-09**|**Balancing Privacy and Security in Federated Learning with FedGT: A Group Testing Framework**|Marvin Xhemrishi et.al.|[2305.05506v1](http://arxiv.org/abs/2305.05506v1)|null|
+|**2023-05-09**|**Self-Evolving Integrated VHetNets for 6G: A Multi-Tier HFL Approach**|Amin Farajzadeh et.al.|[2305.05463v1](http://arxiv.org/abs/2305.05463v1)|null|
+|**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355v1](http://arxiv.org/abs/2305.05355v1)|null|
+|**2023-05-09**|**Survey of Federated Learning Models for Spatial-Temporal Mobility Applications**|Yacine Belal et.al.|[2305.05257v1](http://arxiv.org/abs/2305.05257v1)|null|
+|**2023-05-09**|**FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity**|Nannan Wu et.al.|[2305.05230v1](http://arxiv.org/abs/2305.05230v1)|**[link](https://github.com/wnn2000/fednoro)**|
+|**2023-05-09**|**BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation in Cross-Silo Federated Learning**|Yunchao Yang et.al.|[2305.05221v1](http://arxiv.org/abs/2305.05221v1)|null|
+|**2023-05-09**|**Federated Learning Operations Made Simple with Flame**|Harshit Daga et.al.|[2305.05118v1](http://arxiv.org/abs/2305.05118v1)|null|
+|**2023-05-09**|**Semi-Supervised Federated Learning for Keyword Spotting**|Enmao Diao et.al.|[2305.05110v1](http://arxiv.org/abs/2305.05110v1)|null|
 |**2023-05-08**|**Federated Learning in Wireless Networks via Over-the-Air Computations**|Halil Yigit Oksuz et.al.|[2305.04630v1](http://arxiv.org/abs/2305.04630v1)|null|
 |**2023-05-08**|**Blockchained Federated Learning for Internet of Things: A Comprehensive Survey**|Yanna Jiang et.al.|[2305.04513v1](http://arxiv.org/abs/2305.04513v1)|null|
 |**2023-05-08**|**FedZKP: Federated Model Ownership Verification with Zero-knowledge Proof**|Wenyuan Yang et.al.|[2305.04507v1](http://arxiv.org/abs/2305.04507v1)|null|
