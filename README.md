@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-05-09**|**Balancing Privacy and Security in Federated Learning with FedGT: A Group Testing Framework**|Marvin Xhemrishi et.al.|[2305.05506v1](http://arxiv.org/abs/2305.05506v1)|null|
 |**2023-05-09**|**Self-Evolving Integrated VHetNets for 6G: A Multi-Tier HFL Approach**|Amin Farajzadeh et.al.|[2305.05463v1](http://arxiv.org/abs/2305.05463v1)|null|
 |**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355v1](http://arxiv.org/abs/2305.05355v1)|null|
-|**2023-05-09**|**Survey of Federated Learning Models for Spatial-Temporal Mobility Applications**|Yacine Belal et.al.|[2305.05257v1](http://arxiv.org/abs/2305.05257v1)|null|
+|**2023-05-10**|**Survey of Federated Learning Models for Spatial-Temporal Mobility Applications**|Yacine Belal et.al.|[2305.05257v2](http://arxiv.org/abs/2305.05257v2)|null|
 |**2023-05-09**|**FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity**|Nannan Wu et.al.|[2305.05230v1](http://arxiv.org/abs/2305.05230v1)|**[link](https://github.com/wnn2000/fednoro)**|
 |**2023-05-09**|**BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation in Cross-Silo Federated Learning**|Yunchao Yang et.al.|[2305.05221v1](http://arxiv.org/abs/2305.05221v1)|null|
 |**2023-05-09**|**Federated Learning Operations Made Simple with Flame**|Harshit Daga et.al.|[2305.05118v1](http://arxiv.org/abs/2305.05118v1)|null|
@@ -281,7 +281,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
