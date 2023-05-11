@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation**|Sheng Wan et.al.|[2305.06272v1](http://arxiv.org/abs/2305.06272v1)|null|
+|**2023-05-10**|**Enabling Technologies for Programmable and Software-Defined Networks: Bolstering the Path Towards 6G**|David Carrascal et.al.|[2305.06228v1](http://arxiv.org/abs/2305.06228v1)|null|
+|**2023-05-10**|**FedDWA: Personalized Federated Learning with Online Weight Adjustment**|Jiahao Liu et.al.|[2305.06124v1](http://arxiv.org/abs/2305.06124v1)|null|
+|**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090v1](http://arxiv.org/abs/2305.06090v1)|**[link](https://github.com/bingzhaozhu/xtab)**|
+|**2023-05-10**|**FedSOV: Federated Model Secure Ownership Verification with Unforgeable Signature**|Wenyuan Yang et.al.|[2305.06085v1](http://arxiv.org/abs/2305.06085v1)|null|
+|**2023-05-10**|**Self-Supervised Federated Learning for Fast MR Imaging**|Juan Zou et.al.|[2305.06066v1](http://arxiv.org/abs/2305.06066v1)|null|
+|**2023-05-10**|**Spectrum Breathing: Protecting Over-the-Air Federated Learning Against Interference**|Zhanwei Wang et.al.|[2305.05933v1](http://arxiv.org/abs/2305.05933v1)|null|
 |**2023-05-09**|**Towards Building the Federated GPT: Federated Instruction Tuning**|Jianyi Zhang et.al.|[2305.05644v1](http://arxiv.org/abs/2305.05644v1)|**[link](https://github.com/jayzhang42/federatedgpt-shepherd)**|
 |**2023-05-09**|**Privacy-Preserving Collaborative Chinese Text Recognition with Federated Learning**|Shangchao Su et.al.|[2305.05602v1](http://arxiv.org/abs/2305.05602v1)|null|
 |**2023-05-09**|**Balancing Privacy and Security in Federated Learning with FedGT: A Group Testing Framework**|Marvin Xhemrishi et.al.|[2305.05506v1](http://arxiv.org/abs/2305.05506v1)|null|
