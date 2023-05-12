@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Multi-Tier Client Selection for Mobile Federated Learning Networks**|Yulan Gao et.al.|[2305.06865v1](http://arxiv.org/abs/2305.06865v1)|null|
+|**2023-05-11**|**Utility-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2305.06784v1](http://arxiv.org/abs/2305.06784v1)|null|
+|**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
+|**2023-05-10**|**Securing Distributed SGD against Gradient Leakage Threats**|Wenqi Wei et.al.|[2305.06473v1](http://arxiv.org/abs/2305.06473v1)|null|
 |**2023-05-09**|**FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation**|Sheng Wan et.al.|[2305.06272v1](http://arxiv.org/abs/2305.06272v1)|null|
 |**2023-05-10**|**Enabling Technologies for Programmable and Software-Defined Networks: Bolstering the Path Towards 6G**|David Carrascal et.al.|[2305.06228v1](http://arxiv.org/abs/2305.06228v1)|null|
 |**2023-05-10**|**FedDWA: Personalized Federated Learning with Online Weight Adjustment**|Jiahao Liu et.al.|[2305.06124v1](http://arxiv.org/abs/2305.06124v1)|null|
