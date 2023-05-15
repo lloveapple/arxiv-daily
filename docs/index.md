@@ -737,7 +737,7 @@ layout: default
 |**2022-04-18**|**Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**|Tingyu Wang et.al.|[2204.08381v1](http://arxiv.org/abs/2204.08381v1)|null|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
 |**2022-04-14**|**Composite Code Sparse Autoencoders for first stage retrieval**|Carlos Lassance et.al.|[2204.07023v1](http://arxiv.org/abs/2204.07023v1)|null|
-|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
+|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|**[link](https://github.com/jmorlana/dran)**|
 |**2022-04-12**|**Probabilistic Compositional Embeddings for Multimodal Image Retrieval**|Andrei Neculai et.al.|[2204.05845v1](http://arxiv.org/abs/2204.05845v1)|**[link](https://github.com/andreineculai/mpc)**|
 |**2022-04-12**|**Three-Stream Joint Network for Zero-Shot Sketch-Based Image Retrieval**|Yu-Wei Zhan et.al.|[2204.05666v1](http://arxiv.org/abs/2204.05666v1)|null|
 |**2022-04-12**|**HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**|Zhixing Hou et.al.|[2204.05481v1](http://arxiv.org/abs/2204.05481v1)|null|
@@ -1465,7 +1465,7 @@ layout: default
 |**2023-03-12**|**Making Batch Normalization Great in Federated Deep Learning**|Jike Zhong et.al.|[2303.06530v1](http://arxiv.org/abs/2303.06530v1)|null|
 |**2023-03-11**|**Privacy-Preserving Cooperative Visible Light Positioning for Nonstationary Environment: A Federated Learning Perspective**|Tiankuo Wei et.al.|[2303.06361v1](http://arxiv.org/abs/2303.06361v1)|null|
 |**2023-03-11**|**FedLP: Layer-wise Pruning Mechanism for Communication-Computation Efficient Federated Learning**|Zheqi Zhu et.al.|[2303.06360v1](http://arxiv.org/abs/2303.06360v1)|**[link](https://github.com/zhuzzq/fedlp)**|
-|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|**[link](https://github.com/maiph123/verticalgnn)**|
 |**2023-03-09**|**An Evaluation of Non-Contrastive Self-Supervised Learning for Federated Medical Image Analysis**|Soumitri Chattopadhyay et.al.|[2303.05556v1](http://arxiv.org/abs/2303.05556v1)|null|
 |**2023-03-09**|**Cloudless-Training: A Framework to Improve Efficiency of Geo-Distributed ML Training**|Wenting Tan et.al.|[2303.05330v1](http://arxiv.org/abs/2303.05330v1)|null|
 |**2023-03-09**|**FedREP: A Byzantine-Robust, Communication-Efficient and Privacy-Preserving Framework for Federated Learning**|Yi-Rui Yang et.al.|[2303.05206v1](http://arxiv.org/abs/2303.05206v1)|null|

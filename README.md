@@ -254,7 +254,7 @@
 |**2023-03-12**|**Making Batch Normalization Great in Federated Deep Learning**|Jike Zhong et.al.|[2303.06530v1](http://arxiv.org/abs/2303.06530v1)|null|
 |**2023-03-11**|**Privacy-Preserving Cooperative Visible Light Positioning for Nonstationary Environment: A Federated Learning Perspective**|Tiankuo Wei et.al.|[2303.06361v1](http://arxiv.org/abs/2303.06361v1)|null|
 |**2023-03-11**|**FedLP: Layer-wise Pruning Mechanism for Communication-Computation Efficient Federated Learning**|Zheqi Zhu et.al.|[2303.06360v1](http://arxiv.org/abs/2303.06360v1)|**[link](https://github.com/zhuzzq/fedlp)**|
-|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
+|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|**[link](https://github.com/maiph123/verticalgnn)**|
 |**2023-03-09**|**An Evaluation of Non-Contrastive Self-Supervised Learning for Federated Medical Image Analysis**|Soumitri Chattopadhyay et.al.|[2303.05556v1](http://arxiv.org/abs/2303.05556v1)|null|
 |**2023-03-09**|**Cloudless-Training: A Framework to Improve Efficiency of Geo-Distributed ML Training**|Wenting Tan et.al.|[2303.05330v1](http://arxiv.org/abs/2303.05330v1)|null|
 |**2023-03-09**|**FedREP: A Byzantine-Robust, Communication-Efficient and Privacy-Preserving Framework for Federated Learning**|Yi-Rui Yang et.al.|[2303.05206v1](http://arxiv.org/abs/2303.05206v1)|null|
