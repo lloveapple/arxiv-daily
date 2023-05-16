@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**ESAFL: Efficient Secure Additively Homomorphic Encryption for Cross-Silo Federated Learning**|Jiahui Wu et.al.|[2305.08599v1](http://arxiv.org/abs/2305.08599v1)|null|
+|**2023-05-15**|**FLARE: Detection and Mitigation of Concept Drift for Federated Learning based IoT Deployments**|Theo Chow et.al.|[2305.08504v1](http://arxiv.org/abs/2305.08504v1)|null|
+|**2023-05-15**|**Quadratic Functional Encryption for Secure Training in Vertical Federated Learning**|Shuangyi Chen et.al.|[2305.08358v1](http://arxiv.org/abs/2305.08358v1)|null|
+|**2023-05-15**|**FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning**|Penghui Wei et.al.|[2305.08328v1](http://arxiv.org/abs/2305.08328v1)|null|
+|**2023-05-14**|**Balancing Privacy and Utility of Spatio-Temporal Data for Taxi-Demand Prediction**|Yumeki Goto et.al.|[2305.08107v1](http://arxiv.org/abs/2305.08107v1)|null|
+|**2023-05-14**|**Federated TD Learning over Finite-Rate Erasure Channels: Linear Speedup under Markovian Sampling**|Nicolò Dal Fabbro et.al.|[2305.08104v1](http://arxiv.org/abs/2305.08104v1)|null|
+|**2023-05-14**|**A Survey of Federated Evaluation in Federated Learning**|Behnaz Soltani et.al.|[2305.08070v1](http://arxiv.org/abs/2305.08070v1)|null|
+|**2023-05-13**|**Network-GIANT: Fully distributed Newton-type optimization via harmonic Hessian consensus**|Alessio Maritan et.al.|[2305.07898v1](http://arxiv.org/abs/2305.07898v1)|null|
+|**2023-05-13**|**A Federated Learning-based Industrial Health Prognostics for Heterogeneous Edge Devices using Matched Feature Extraction**|Anushiya Arunan et.al.|[2305.07854v1](http://arxiv.org/abs/2305.07854v1)|null|
+|**2023-05-13**|**Understanding Model Averaging in Federated Learning on Heterogeneous Data**|Tailin Zhou et.al.|[2305.07845v1](http://arxiv.org/abs/2305.07845v1)|null|
 |**2023-05-12**|**Distributed Gradient Descent for Functional Learning**|Zhan Yu et.al.|[2305.07408v1](http://arxiv.org/abs/2305.07408v1)|null|
 |**2023-05-11**|**Divide-and-Conquer the NAS puzzle in Resource Constrained Federated Learning Systems**|Yeshwanth Venkatesha et.al.|[2305.07135v1](http://arxiv.org/abs/2305.07135v1)|null|
 |**2023-05-11**|**Multi-Tier Client Selection for Mobile Federated Learning Networks**|Yulan Gao et.al.|[2305.06865v1](http://arxiv.org/abs/2305.06865v1)|null|
