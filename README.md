@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2023-05-12**|**Distributed Gradient Descent for Functional Learning**|Zhan Yu et.al.|[2305.07408v1](http://arxiv.org/abs/2305.07408v1)|null|
 |**2023-05-11**|**Divide-and-Conquer the NAS puzzle in Resource Constrained Federated Learning Systems**|Yeshwanth Venkatesha et.al.|[2305.07135v1](http://arxiv.org/abs/2305.07135v1)|null|
 |**2023-05-11**|**Multi-Tier Client Selection for Mobile Federated Learning Networks**|Yulan Gao et.al.|[2305.06865v1](http://arxiv.org/abs/2305.06865v1)|null|
-|**2023-05-11**|**Utility-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2305.06784v1](http://arxiv.org/abs/2305.06784v1)|null|
+|**2023-05-15**|**Utility-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2305.06784v2](http://arxiv.org/abs/2305.06784v2)|null|
 |**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
 |**2023-05-10**|**Securing Distributed SGD against Gradient Leakage Threats**|Wenqi Wei et.al.|[2305.06473v1](http://arxiv.org/abs/2305.06473v1)|null|
 |**2023-05-09**|**FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation**|Sheng Wan et.al.|[2305.06272v1](http://arxiv.org/abs/2305.06272v1)|null|
@@ -294,7 +294,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
