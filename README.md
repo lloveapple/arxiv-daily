@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135v1](http://arxiv.org/abs/2305.11135v1)|null|
+|**2023-05-18**|**FedMR: Federated Learning via Model Recombination**|Ming Hu et.al.|[2305.10730v1](http://arxiv.org/abs/2305.10730v1)|null|
 |**2023-05-17**|**DualFL: A Duality-based Federated Learning Algorithm with Communication Acceleration in the General Convex Regime**|Jongho Park et.al.|[2305.10294v1](http://arxiv.org/abs/2305.10294v1)|null|
 |**2023-05-17**|**Over-the-Air Federated Learning in MIMO Cloud-RAN Systems**|Haoming Ma et.al.|[2305.10000v1](http://arxiv.org/abs/2305.10000v1)|null|
 |**2023-05-17**|**Mitigating Group Bias in Federated Learning: Beyond Local Fairness**|Ganghua Wang et.al.|[2305.09931v1](http://arxiv.org/abs/2305.09931v1)|null|
