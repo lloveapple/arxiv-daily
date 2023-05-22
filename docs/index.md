@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection**|Rui Song et.al.|[2305.11654v1](http://arxiv.org/abs/2305.11654v1)|null|
+|**2023-05-19**|**Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation**|Shashi Raj Pandey et.al.|[2305.11633v1](http://arxiv.org/abs/2305.11633v1)|null|
+|**2023-05-19**|**Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape**|Yan Sun et.al.|[2305.11584v1](http://arxiv.org/abs/2305.11584v1)|null|
+|**2023-05-19**|**Trustworthy Federated Learning: A Survey**|Asadullah Tariq et.al.|[2305.11537v1](http://arxiv.org/abs/2305.11537v1)|null|
+|**2023-05-19**|**PS-FedGAN: An Efficient Federated Learning Framework Based on Partially Shared Generative Adversarial Networks For Data Privacy**|Achintha Wijesinghe et.al.|[2305.11437v1](http://arxiv.org/abs/2305.11437v1)|null|
+|**2023-05-19**|**Federated Foundation Models: Privacy-Preserving and Collaborative Learning for Large Models**|Sixing Yu et.al.|[2305.11414v1](http://arxiv.org/abs/2305.11414v1)|null|
+|**2023-05-19**|**Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods**|Raphael Poulain et.al.|[2305.11386v1](http://arxiv.org/abs/2305.11386v1)|null|
+|**2023-05-18**|**Federated learning for secure development of AI models for Parkinson's disease detection using speech from different languages**|Soroosh Tayebi Arasteh et.al.|[2305.11284v1](http://arxiv.org/abs/2305.11284v1)|null|
+|**2023-05-18**|**Efficient Vertical Federated Learning with Secure Aggregation**|Xinchi Qiu et.al.|[2305.11236v1](http://arxiv.org/abs/2305.11236v1)|null|
 |**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135v1](http://arxiv.org/abs/2305.11135v1)|null|
 |**2023-05-18**|**FedMR: Federated Learning via Model Recombination**|Ming Hu et.al.|[2305.10730v1](http://arxiv.org/abs/2305.10730v1)|null|
 |**2023-05-17**|**DualFL: A Duality-based Federated Learning Algorithm with Communication Acceleration in the General Convex Regime**|Jongho Park et.al.|[2305.10294v1](http://arxiv.org/abs/2305.10294v1)|null|
