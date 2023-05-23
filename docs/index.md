@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning**|Kai Yi et.al.|[2305.13170v1](http://arxiv.org/abs/2305.13170v1)|**[link](https://github.com/williamyi96/scafflix)**|
+|**2023-05-22**|**Federated Learning of Medical Concepts Embedding using BEHRT**|Ofir Ben Shoham et.al.|[2305.13052v1](http://arxiv.org/abs/2305.13052v1)|**[link](https://github.com/nadavlab/federatedbehrt)**|
+|**2023-05-22**|**Distributed Learning over Networks with Graph-Attention-Based Personalization**|Zhuojun Tian et.al.|[2305.13041v1](http://arxiv.org/abs/2305.13041v1)|null|
+|**2023-05-22**|**FSSA: Efficient 3-Round Secure Aggregation for Privacy-Preserving Federated Learning**|Fucai Luo et.al.|[2305.12950v1](http://arxiv.org/abs/2305.12950v1)|null|
+|**2023-05-22**|**Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables**|Yifeng Zheng et.al.|[2305.12652v1](http://arxiv.org/abs/2305.12652v1)|null|
+|**2023-05-21**|**Confidence-aware Personalized Federated Learning via Variational Expectation Maximization**|Junyi Zhu et.al.|[2305.12557v1](http://arxiv.org/abs/2305.12557v1)|**[link](https://github.com/junyizhu-ai/confidence_aware_pfl)**|
+|**2023-05-21**|**Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter**|Yi Liu et.al.|[2305.12449v1](http://arxiv.org/abs/2305.12449v1)|**[link](https://github.com/lancopku/fedmnmt)**|
+|**2023-05-21**|**One-Shot Federated Learning for LEO Constellations that Reduces Convergence Time from Days to 90 Minutes**|Mohamed Elmahallawy et.al.|[2305.12316v1](http://arxiv.org/abs/2305.12316v1)|null|
+|**2023-05-20**|**Privacy in Multimodal Federated Human Activity Recognition**|Alex Iacob et.al.|[2305.12134v1](http://arxiv.org/abs/2305.12134v1)|null|
+|**2023-05-20**|**Can Public Large Language Models Help Private Cross-device Federated Learning?**|Boxin Wang et.al.|[2305.12132v1](http://arxiv.org/abs/2305.12132v1)|null|
 |**2023-05-19**|**V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection**|Rui Song et.al.|[2305.11654v1](http://arxiv.org/abs/2305.11654v1)|null|
 |**2023-05-19**|**Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation**|Shashi Raj Pandey et.al.|[2305.11633v1](http://arxiv.org/abs/2305.11633v1)|null|
 |**2023-05-19**|**Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape**|Yan Sun et.al.|[2305.11584v1](http://arxiv.org/abs/2305.11584v1)|null|
