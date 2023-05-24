@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Distributed Inexact Newton Method with Adaptive Step Sizes**|Dusan Jakovetic et.al.|[2305.13985v1](http://arxiv.org/abs/2305.13985v1)|null|
+|**2023-05-23**|**CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation**|Jingning Xu et.al.|[2305.13962v1](http://arxiv.org/abs/2305.13962v1)|null|
+|**2023-05-23**|**Failure-Sentient Composition For Swarm-Based Drone Services**|Balsam Alkouz et.al.|[2305.13892v1](http://arxiv.org/abs/2305.13892v1)|null|
+|**2023-05-23**|**Fair Differentially Private Federated Learning Framework**|Ayush K. Varshney et.al.|[2305.13878v1](http://arxiv.org/abs/2305.13878v1)|null|
+|**2023-05-23**|**On the Optimal Batch Size for Byzantine-Robust Distributed Learning**|Yi-Rui Yang et.al.|[2305.13856v1](http://arxiv.org/abs/2305.13856v1)|null|
+|**2023-05-23**|**Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation**|Rishabh Gupta et.al.|[2305.13776v1](http://arxiv.org/abs/2305.13776v1)|**[link](https://github.com/lcs2-iiitd/quarc-counterspeech)**|
+|**2023-05-23**|**Federated Variational Inference: Towards Improved Personalization and Generalization**|Elahe Vedadi et.al.|[2305.13672v1](http://arxiv.org/abs/2305.13672v1)|null|
+|**2023-05-23**|**Federated Primal Dual Fixed Point Algorithm**|Ya-Nan Zhu et.al.|[2305.13604v1](http://arxiv.org/abs/2305.13604v1)|null|
+|**2023-05-22**|**Asynchronous Multi-Model Federated Learning over Wireless Networks: Theory, Modeling, and Optimization**|Zhan-Lun Chang et.al.|[2305.13503v1](http://arxiv.org/abs/2305.13503v1)|null|
 |**2023-05-22**|**Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning**|Kai Yi et.al.|[2305.13170v1](http://arxiv.org/abs/2305.13170v1)|**[link](https://github.com/williamyi96/scafflix)**|
 |**2023-05-22**|**Federated Learning of Medical Concepts Embedding using BEHRT**|Ofir Ben Shoham et.al.|[2305.13052v1](http://arxiv.org/abs/2305.13052v1)|**[link](https://github.com/nadavlab/federatedbehrt)**|
 |**2023-05-22**|**Distributed Learning over Networks with Graph-Attention-Based Personalization**|Zhuojun Tian et.al.|[2305.13041v1](http://arxiv.org/abs/2305.13041v1)|null|
