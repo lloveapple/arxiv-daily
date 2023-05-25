@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|null|
+|**2023-05-24**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v1](http://arxiv.org/abs/2305.15270v1)|null|
+|**2023-05-24**|**Towards More Suitable Personalization in Federated Learning via Decentralized Partial Model Training**|Yifan Shi et.al.|[2305.15157v1](http://arxiv.org/abs/2305.15157v1)|null|
+|**2023-05-24**|**Theoretically Principled Federated Learning for Balancing Privacy and Utility**|Xiaojin Zhang et.al.|[2305.15148v1](http://arxiv.org/abs/2305.15148v1)|null|
+|**2023-05-24**|**FedZero: Leveraging Renewable Excess Energy in Federated Learning**|Philipp Wiesner et.al.|[2305.15092v1](http://arxiv.org/abs/2305.15092v1)|null|
+|**2023-05-24**|**Local SGD Accelerates Convergence by Exploiting Second Order Information of the Loss Function**|Linxuan Pan et.al.|[2305.15013v1](http://arxiv.org/abs/2305.15013v1)|null|
 |**2023-05-23**|**Distributed Inexact Newton Method with Adaptive Step Sizes**|Dusan Jakovetic et.al.|[2305.13985v1](http://arxiv.org/abs/2305.13985v1)|null|
 |**2023-05-23**|**CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation**|Jingning Xu et.al.|[2305.13962v1](http://arxiv.org/abs/2305.13962v1)|null|
 |**2023-05-23**|**Failure-Sentient Composition For Swarm-Based Drone Services**|Balsam Alkouz et.al.|[2305.13892v1](http://arxiv.org/abs/2305.13892v1)|null|
