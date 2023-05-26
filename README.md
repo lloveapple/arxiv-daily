@@ -17,7 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|null|
+|**2023-05-25**|**Incentivizing Honesty among Competitors in Collaborative Learning and Optimization**|Florian E. Dorner et.al.|[2305.16272v1](http://arxiv.org/abs/2305.16272v1)|null|
+|**2023-05-25**|**FAVAS: Federated AVeraging with ASynchronous clients**|Louis Leconte et.al.|[2305.16099v1](http://arxiv.org/abs/2305.16099v1)|null|
+|**2023-05-25**|**pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning**|Jiahao Tan et.al.|[2305.15706v1](http://arxiv.org/abs/2305.15706v1)|null|
+|**2023-05-25**|**FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients**|Min Zhang et.al.|[2305.15668v1](http://arxiv.org/abs/2305.15668v1)|null|
+|**2023-05-25**|**Federated Composite Saddle Point Optimization**|Site Bai et.al.|[2305.15643v1](http://arxiv.org/abs/2305.15643v1)|null|
+|**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|**[link](https://github.com/smrhadou/fed-surf)**|
 |**2023-05-25**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v2](http://arxiv.org/abs/2305.15270v2)|null|
 |**2023-05-24**|**Towards More Suitable Personalization in Federated Learning via Decentralized Partial Model Training**|Yifan Shi et.al.|[2305.15157v1](http://arxiv.org/abs/2305.15157v1)|null|
 |**2023-05-24**|**Theoretically Principled Federated Learning for Balancing Privacy and Utility**|Xiaojin Zhang et.al.|[2305.15148v1](http://arxiv.org/abs/2305.15148v1)|null|
