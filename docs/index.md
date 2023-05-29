@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**A Framework for Incentivized Collaborative Learning**|Xinran Wang et.al.|[2305.17052v1](http://arxiv.org/abs/2305.17052v1)|null|
+|**2023-05-26**|**Joint Antenna Selection and Beamforming for Massive MIMO-enabled Over-the-Air Federated Learning**|Saba Asaad et.al.|[2305.17022v1](http://arxiv.org/abs/2305.17022v1)|null|
+|**2023-05-26**|**Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices**|Kilian Pfeiffer et.al.|[2305.17005v1](http://arxiv.org/abs/2305.17005v1)|null|
+|**2023-05-26**|**Channel and Gradient-Importance Aware Device Scheduling for Over-the-Air Federated Learning**|Yuchang Sun et.al.|[2305.16854v1](http://arxiv.org/abs/2305.16854v1)|null|
+|**2023-05-26**|**vFedSec: Efficient Secure Aggregation for Vertical Federated Learning via Secure Layer**|Xinchi Qiu et.al.|[2305.16794v1](http://arxiv.org/abs/2305.16794v1)|null|
+|**2023-05-26**|**Parameter-Efficient Fine-Tuning without Introducing New Latency**|Baohao Liao et.al.|[2305.16742v1](http://arxiv.org/abs/2305.16742v1)|null|
+|**2023-05-25**|**Federated Neural Compression Under Heterogeneous Data**|Eric Lei et.al.|[2305.16416v1](http://arxiv.org/abs/2305.16416v1)|null|
 |**2023-05-25**|**Incentivizing Honesty among Competitors in Collaborative Learning and Optimization**|Florian E. Dorner et.al.|[2305.16272v1](http://arxiv.org/abs/2305.16272v1)|null|
 |**2023-05-25**|**FAVAS: Federated AVeraging with ASynchronous clients**|Louis Leconte et.al.|[2305.16099v1](http://arxiv.org/abs/2305.16099v1)|null|
 |**2023-05-25**|**pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning**|Jiahao Tan et.al.|[2305.15706v1](http://arxiv.org/abs/2305.15706v1)|null|
