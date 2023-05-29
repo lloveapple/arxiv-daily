@@ -84,7 +84,7 @@ layout: default
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
-|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|**[link](https://github.com/hitsz-nrsl/iglov)**|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|**[link](https://github.com/ignaciotb/uwexploration)**|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
@@ -1264,7 +1264,7 @@ layout: default
 |**2023-05-19**|**Trustworthy Federated Learning: A Survey**|Asadullah Tariq et.al.|[2305.11537v1](http://arxiv.org/abs/2305.11537v1)|null|
 |**2023-05-19**|**PS-FedGAN: An Efficient Federated Learning Framework Based on Partially Shared Generative Adversarial Networks For Data Privacy**|Achintha Wijesinghe et.al.|[2305.11437v1](http://arxiv.org/abs/2305.11437v1)|null|
 |**2023-05-19**|**Federated Foundation Models: Privacy-Preserving and Collaborative Learning for Large Models**|Sixing Yu et.al.|[2305.11414v1](http://arxiv.org/abs/2305.11414v1)|null|
-|**2023-05-19**|**Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods**|Raphael Poulain et.al.|[2305.11386v1](http://arxiv.org/abs/2305.11386v1)|null|
+|**2023-05-19**|**Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods**|Raphael Poulain et.al.|[2305.11386v1](http://arxiv.org/abs/2305.11386v1)|**[link](https://github.com/healthylaife/fairfedavg)**|
 |**2023-05-18**|**Federated learning for secure development of AI models for Parkinson's disease detection using speech from different languages**|Soroosh Tayebi Arasteh et.al.|[2305.11284v1](http://arxiv.org/abs/2305.11284v1)|null|
 |**2023-05-18**|**Efficient Vertical Federated Learning with Secure Aggregation**|Xinchi Qiu et.al.|[2305.11236v1](http://arxiv.org/abs/2305.11236v1)|null|
 |**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135v1](http://arxiv.org/abs/2305.11135v1)|null|
@@ -1338,7 +1338,7 @@ layout: default
 |**2023-05-01**|**Scalable Data Point Valuation in Decentralized Learning**|Konstantin D. Pandl et.al.|[2305.01657v1](http://arxiv.org/abs/2305.01657v1)|**[link](https://github.com/kpandl/Scalable-Data-Point-Valuation-in-Decentralized-Learning)**|
 |**2023-05-02**|**Efficient Federated Learning with Enhanced Privacy via Lottery Ticket Pruning in Edge Computing**|Yifan Shi et.al.|[2305.01387v1](http://arxiv.org/abs/2305.01387v1)|null|
 |**2023-05-02**|**DABS: Data-Agnostic Backdoor attack at the Server in Federated Learning**|Wenqiang Sun et.al.|[2305.01267v1](http://arxiv.org/abs/2305.01267v1)|null|
-|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
+|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|**[link](https://github.com/lachholden/fednerf-pytorch)**|
 |**2023-05-02**|**FedAVO: Improving Communication Efficiency in Federated Learning with African Vultures Optimizer**|Md Zarif Hossain et.al.|[2305.01154v1](http://arxiv.org/abs/2305.01154v1)|null|
 |**2023-05-01**|**Personalized Federated Learning under Mixture of Distributions**|Yue Wu et.al.|[2305.01068v1](http://arxiv.org/abs/2305.01068v1)|null|
 |**2023-05-02**|**Towards the Flatter Landscape and Better Generalization in Federated Learning under Client-level Differential Privacy**|Yifan Shi et.al.|[2305.00873v2](http://arxiv.org/abs/2305.00873v2)|**[link](https://github.com/YMJS-Irfan/DP-FedSAM)**|
@@ -1536,7 +1536,7 @@ layout: default
 |**2023-03-09**|**FedREP: A Byzantine-Robust, Communication-Efficient and Privacy-Preserving Framework for Federated Learning**|Yi-Rui Yang et.al.|[2303.05206v1](http://arxiv.org/abs/2303.05206v1)|null|
 |**2023-03-09**|**Semi-Federated Learning for Collaborative Intelligence in Massive IoT Networks**|Wanli Ni et.al.|[2303.05048v1](http://arxiv.org/abs/2303.05048v1)|**[link](https://github.com/niwanli/semifl_iot)**|
 |**2023-03-08**|**Model-Agnostic Federated Learning**|Gianluca Mittone et.al.|[2303.04906v1](http://arxiv.org/abs/2303.04906v1)|null|
-|**2023-03-08**|**Memory-adaptive Depth-wise Heterogenous Federated Learning**|Kai Zhang et.al.|[2303.04887v1](http://arxiv.org/abs/2303.04887v1)|null|
+|**2023-03-08**|**Memory-adaptive Depth-wise Heterogenous Federated Learning**|Kai Zhang et.al.|[2303.04887v1](http://arxiv.org/abs/2303.04887v1)|**[link](https://github.com/taokz/FeDepth)**|
 |**2023-03-07**|**A Privacy Preserving System for Movie Recommendations using Federated Learning**|David Neumann et.al.|[2303.04689v1](http://arxiv.org/abs/2303.04689v1)|null|
 |**2023-03-08**|**Considerations on the Theory of Training Models with Differential Privacy**|Marten van Dijk et.al.|[2303.04676v1](http://arxiv.org/abs/2303.04676v1)|null|
 |**2023-03-10**|**Distributed and Deep Vertical Federated Learning with Big Data**|Ji Liu et.al.|[2303.04574v2](http://arxiv.org/abs/2303.04574v2)|null|
