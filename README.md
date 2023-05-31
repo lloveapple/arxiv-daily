@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-05-27**|**Federated Conformal Predictors for Distributed Uncertainty Quantification**|Charles Lu et.al.|[2305.17564v1](http://arxiv.org/abs/2305.17564v1)|**[link](https://github.com/clu5/federated-conformal)**|
 |**2023-05-27**|**Privacy-Preserving Model Aggregation for Asynchronous Federated Learning**|Jianxiang Zhao et.al.|[2305.17521v1](http://arxiv.org/abs/2305.17521v1)|null|
 |**2023-05-27**|**Federated Empirical Risk Minimization via Second-Order Method**|Song Bian et.al.|[2305.17482v1](http://arxiv.org/abs/2305.17482v1)|null|
-|**2023-05-26**|**Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms**|Tianshu Zhang et.al.|[2305.17221v1](http://arxiv.org/abs/2305.17221v1)|null|
+|**2023-05-26**|**Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms**|Tianshu Zhang et.al.|[2305.17221v1](http://arxiv.org/abs/2305.17221v1)|**[link](https://github.com/osu-nlp-group/fl4semanticparsing)**|
 |**2023-05-26**|**A Framework for Incentivized Collaborative Learning**|Xinran Wang et.al.|[2305.17052v1](http://arxiv.org/abs/2305.17052v1)|null|
 |**2023-05-26**|**Joint Antenna Selection and Beamforming for Massive MIMO-enabled Over-the-Air Federated Learning**|Saba Asaad et.al.|[2305.17022v1](http://arxiv.org/abs/2305.17022v1)|null|
 |**2023-05-26**|**Aggregating Capacity in FL through Successive Layer Training for Computationally-Constrained Devices**|Kilian Pfeiffer et.al.|[2305.17005v1](http://arxiv.org/abs/2305.17005v1)|null|
@@ -370,7 +370,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
