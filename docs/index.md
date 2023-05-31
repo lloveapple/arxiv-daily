@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**FedDisco: Federated Learning with Discrepancy-Aware Collaboration**|Rui Ye et.al.|[2305.19229v1](http://arxiv.org/abs/2305.19229v1)|null|
+|**2023-05-30**|**Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**|Songge Zhang et.al.|[2305.18889v1](http://arxiv.org/abs/2305.18889v1)|null|
+|**2023-05-30**|**A Federated Channel Modeling System using Generative Neural Networks**|Saira Bano et.al.|[2305.18856v1](http://arxiv.org/abs/2305.18856v1)|null|
+|**2023-05-29**|**Deep Equilibrium Models Meet Federated Learning**|Alexandros Gkillas et.al.|[2305.18646v1](http://arxiv.org/abs/2305.18646v1)|null|
+|**2023-05-29**|**Global-QSGD: Practical Floatless Quantization for Distributed Learning with Theoretical Guarantees**|Jihao Xin et.al.|[2305.18627v1](http://arxiv.org/abs/2305.18627v1)|null|
+|**2023-05-29**|**Reducing Communication for Split Learning by Randomized Top-k Sparsification**|Fei Zheng et.al.|[2305.18469v1](http://arxiv.org/abs/2305.18469v1)|null|
+|**2023-05-29**|**Federated Learning of Gboard Language Models with Differential Privacy**|Zheng Xu et.al.|[2305.18465v1](http://arxiv.org/abs/2305.18465v1)|null|
+|**2023-05-28**|**A Meta-learning Framework for Tuning Parameters of Protection Mechanisms in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2305.18400v1](http://arxiv.org/abs/2305.18400v1)|null|
 |**2023-05-29**|**Partially Personalized Federated Learning: Breaking the Curse of Data Heterogeneity**|Konstantin Mishchenko et.al.|[2305.18285v1](http://arxiv.org/abs/2305.18285v1)|null|
 |**2023-05-28**|**BFRT: Blockchained Federated Learning for Real-time Traffic Flow Prediction**|Collin Meese et.al.|[2305.17677v1](http://arxiv.org/abs/2305.17677v1)|null|
 |**2023-05-27**|**Federated Conformal Predictors for Distributed Uncertainty Quantification**|Charles Lu et.al.|[2305.17564v1](http://arxiv.org/abs/2305.17564v1)|**[link](https://github.com/clu5/federated-conformal)**|
