@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Learning Across Decentralized Multi-Modal Remote Sensing Archives with Federated Learning**|Barış Büyüktaş et.al.|[2306.00792v1](http://arxiv.org/abs/2306.00792v1)|null|
+|**2023-06-01**|**RHFedMTL: Resource-Aware Hierarchical Federated Multi-Task Learning**|Xingfu Yi et.al.|[2306.00675v1](http://arxiv.org/abs/2306.00675v1)|null|
+|**2023-06-01**|**CRS-FL: Conditional Random Sampling for Communication-Efficient and Privacy-Preserving Federated Learning**|Jianhua Wang. Xiaolin Chang et.al.|[2306.00674v1](http://arxiv.org/abs/2306.00674v1)|null|
+|**2023-06-01**|**Byzantine-Robust Clustered Federated Learning**|Zhixu Tao et.al.|[2306.00638v1](http://arxiv.org/abs/2306.00638v1)|null|
+|**2023-06-01**|**FACT: Federated Adversarial Cross Training**|Stefan Schrod et.al.|[2306.00607v1](http://arxiv.org/abs/2306.00607v1)|null|
+|**2023-06-01**|**Towards Bias Correction of FedAvg over Nonuniform and Time-Varying Communications**|Ming Xiang et.al.|[2306.00280v1](http://arxiv.org/abs/2306.00280v1)|null|
+|**2023-05-31**|**Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning**|Junyi Zhu et.al.|[2306.00127v1](http://arxiv.org/abs/2306.00127v1)|null|
 |**2023-05-31**|**A Simple Python Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2305.20027v1](http://arxiv.org/abs/2305.20027v1)|null|
 |**2023-05-31**|**Federated Learning in the Presence of Adversarial Client Unavailability**|Lili Su et.al.|[2305.19971v1](http://arxiv.org/abs/2305.19971v1)|null|
 |**2023-05-31**|**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**|Kok-Seng Wong et.al.|[2305.19831v1](http://arxiv.org/abs/2305.19831v1)|null|
