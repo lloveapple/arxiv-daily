@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Decentralized Federated Learning: A Survey and Perspective**|Liangqi Yuan et.al.|[2306.01603v1](http://arxiv.org/abs/2306.01603v1)|null|
+|**2023-06-02**|**On Knowledge Editing in Federated Learning: Perspectives, Challenges, and Future Directions**|Leijie Wu et.al.|[2306.01431v1](http://arxiv.org/abs/2306.01431v1)|null|
+|**2023-06-02**|**FedCIP: Federated Client Intellectual Property Protection with Traitor Tracking**|Junchuan Liang et.al.|[2306.01356v1](http://arxiv.org/abs/2306.01356v1)|null|
+|**2023-06-02**|**Covert Communication Based on the Poisoning Attack in Federated Learning**|Junchuan Liang et.al.|[2306.01342v1](http://arxiv.org/abs/2306.01342v1)|null|
+|**2023-06-02**|**Resource-Efficient Federated Hyperdimensional Computing**|Nikita Zeulin et.al.|[2306.01339v1](http://arxiv.org/abs/2306.01339v1)|null|
+|**2023-06-02**|**Federated Domain Generalization: A Survey**|Ying Li et.al.|[2306.01334v1](http://arxiv.org/abs/2306.01334v1)|null|
+|**2023-06-02**|**Federated Learning Games for Reconfigurable Intelligent Surfaces via Causal Representations**|Charbel Bou Chaaya et.al.|[2306.01306v1](http://arxiv.org/abs/2306.01306v1)|null|
+|**2023-06-02**|**Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs**|Tengfei Ma et.al.|[2306.01240v1](http://arxiv.org/abs/2306.01240v1)|null|
+|**2023-06-01**|**CSMAAFL: Client Scheduling and Model Aggregation in Asynchronous Federated Learning**|Xiang Ma et.al.|[2306.01207v1](http://arxiv.org/abs/2306.01207v1)|null|
+|**2023-06-01**|**Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging**|Jiamian Wang et.al.|[2306.01176v1](http://arxiv.org/abs/2306.01176v1)|null|
 |**2023-06-01**|**Learning Across Decentralized Multi-Modal Remote Sensing Archives with Federated Learning**|Barış Büyüktaş et.al.|[2306.00792v1](http://arxiv.org/abs/2306.00792v1)|null|
 |**2023-06-01**|**RHFedMTL: Resource-Aware Hierarchical Federated Multi-Task Learning**|Xingfu Yi et.al.|[2306.00675v1](http://arxiv.org/abs/2306.00675v1)|null|
 |**2023-06-01**|**CRS-FL: Conditional Random Sampling for Communication-Efficient and Privacy-Preserving Federated Learning**|Jianhua Wang. Xiaolin Chang et.al.|[2306.00674v1](http://arxiv.org/abs/2306.00674v1)|null|
