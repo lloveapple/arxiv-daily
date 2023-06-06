@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning**|Kostadin Garov et.al.|[2306.03013v1](http://arxiv.org/abs/2306.03013v1)|null|
+|**2023-06-05**|**Over-the-Air Federated Learning in Satellite systems**|Edward Akito Carlos et.al.|[2306.02996v1](http://arxiv.org/abs/2306.02996v1)|null|
+|**2023-06-05**|**Unlocking the Potential of Federated Learning for Deeper Models**|Haolin Wang et.al.|[2306.02701v1](http://arxiv.org/abs/2306.02701v1)|null|
+|**2023-06-05**|**A Privacy-Preserving Federated Learning Approach for Kernel methods**|Anika Hannemann et.al.|[2306.02677v1](http://arxiv.org/abs/2306.02677v1)|null|
+|**2023-06-05**|**Cross-Modal Vertical Federated Learning for MRI Reconstruction**|Yunlu Yan et.al.|[2306.02673v1](http://arxiv.org/abs/2306.02673v1)|null|
+|**2023-06-05**|**Jammer classification with Federated Learning**|Peng Wu et.al.|[2306.02587v1](http://arxiv.org/abs/2306.02587v1)|null|
+|**2023-06-05**|**When Decentralized Optimization Meets Federated Learning**|Hongchang Gao et.al.|[2306.02570v1](http://arxiv.org/abs/2306.02570v1)|null|
+|**2023-06-05**|**Large-Scale Distributed Learning via Private On-Device Locality-Sensitive Hashing**|Tahseen Rabbani et.al.|[2306.02563v1](http://arxiv.org/abs/2306.02563v1)|null|
+|**2023-06-04**|**Riemannian Low-Rank Model Compression for Federated Learning with Over-the-Air Aggregation**|Ye Xue et.al.|[2306.02433v1](http://arxiv.org/abs/2306.02433v1)|null|
+|**2023-06-04**|**Resilient Constrained Learning**|Ignacio Hounie et.al.|[2306.02426v1](http://arxiv.org/abs/2306.02426v1)|null|
 |**2023-06-02**|**Decentralized Federated Learning: A Survey and Perspective**|Liangqi Yuan et.al.|[2306.01603v1](http://arxiv.org/abs/2306.01603v1)|null|
 |**2023-06-02**|**On Knowledge Editing in Federated Learning: Perspectives, Challenges, and Future Directions**|Leijie Wu et.al.|[2306.01431v1](http://arxiv.org/abs/2306.01431v1)|null|
 |**2023-06-02**|**FedCIP: Federated Client Intellectual Property Protection with Traitor Tracking**|Junchuan Liang et.al.|[2306.01356v1](http://arxiv.org/abs/2306.01356v1)|null|
