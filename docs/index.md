@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-05**|**Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning**|Kostadin Garov et.al.|[2306.03013v1](http://arxiv.org/abs/2306.03013v1)|null|
+|**2023-06-06**|**Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning**|Kostadin Garov et.al.|[2306.03013v2](http://arxiv.org/abs/2306.03013v2)|null|
 |**2023-06-05**|**Over-the-Air Federated Learning in Satellite systems**|Edward Akito Carlos et.al.|[2306.02996v1](http://arxiv.org/abs/2306.02996v1)|null|
 |**2023-06-05**|**Unlocking the Potential of Federated Learning for Deeper Models**|Haolin Wang et.al.|[2306.02701v1](http://arxiv.org/abs/2306.02701v1)|null|
 |**2023-06-05**|**A Privacy-Preserving Federated Learning Approach for Kernel methods**|Anika Hannemann et.al.|[2306.02677v1](http://arxiv.org/abs/2306.02677v1)|null|
