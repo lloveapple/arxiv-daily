@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Understanding Generalization of Federated Learning via Stability: Heterogeneity Matters**|Zhenyu Sun et.al.|[2306.03824v1](http://arxiv.org/abs/2306.03824v1)|null|
+|**2023-06-06**|**Avoid Adversarial Adaption in Federated Learning by Multi-Metric Investigations**|Torsten Krauß et.al.|[2306.03600v1](http://arxiv.org/abs/2306.03600v1)|null|
+|**2023-06-06**|**Personalization Disentanglement for Federated Learning**|Peng Yan et.al.|[2306.03570v1](http://arxiv.org/abs/2306.03570v1)|null|
+|**2023-06-06**|**Masked Autoencoders are Efficient Continual Federated Learners**|Subarnaduti Paul et.al.|[2306.03542v1](http://arxiv.org/abs/2306.03542v1)|**[link](https://github.com/ml-research/confedmade)**|
+|**2023-06-06**|**A Lightweight Method for Tackling Unknown Participation Probabilities in Federated Averaging**|Shiqiang Wang et.al.|[2306.03401v1](http://arxiv.org/abs/2306.03401v1)|null|
+|**2023-06-06**|**A Survey on Federated Learning Poisoning Attacks and Defenses**|Junchuan Lianga et.al.|[2306.03397v1](http://arxiv.org/abs/2306.03397v1)|null|
+|**2023-06-05**|**Improving Accelerated Federated Learning with Compression and Importance Sampling**|Michał Grudzień et.al.|[2306.03240v1](http://arxiv.org/abs/2306.03240v1)|null|
+|**2023-06-05**|**Confidence-based federated distillation for vision-based lane-centering**|Yitao Chen et.al.|[2306.03222v1](http://arxiv.org/abs/2306.03222v1)|null|
+|**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|
 |**2023-06-06**|**Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning**|Kostadin Garov et.al.|[2306.03013v2](http://arxiv.org/abs/2306.03013v2)|null|
 |**2023-06-05**|**Over-the-Air Federated Learning in Satellite systems**|Edward Akito Carlos et.al.|[2306.02996v1](http://arxiv.org/abs/2306.02996v1)|null|
 |**2023-06-05**|**Unlocking the Potential of Federated Learning for Deeper Models**|Haolin Wang et.al.|[2306.02701v1](http://arxiv.org/abs/2306.02701v1)|null|
