@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Federated Learning under Covariate Shifts with Generalization Guarantees**|Ali Ramezani-Kebrya et.al.|[2306.05325v1](http://arxiv.org/abs/2306.05325v1)|null|
+|**2023-06-08**|**Conformal Prediction for Federated Uncertainty Quantification Under Label Shift**|Vincent Plassier et.al.|[2306.05131v1](http://arxiv.org/abs/2306.05131v1)|null|
+|**2023-06-08**|**FheFL: Fully Homomorphic Encryption Friendly Privacy-Preserving Federated Learning with Byzantine Users**|Yogachandran Rahulamathavan et.al.|[2306.05112v1](http://arxiv.org/abs/2306.05112v1)|null|
+|**2023-06-08**|**Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates**|Siqi Zhang et.al.|[2306.05100v1](http://arxiv.org/abs/2306.05100v1)|null|
+|**2023-06-08**|**G $^2$ uardFL: Safeguarding Federated Learning Against Backdoor Attacks through Attributed Client Graph Clustering**|Hao Yu et.al.|[2306.04984v1](http://arxiv.org/abs/2306.04984v1)|null|
+|**2023-06-08**|**FedMLSecurity: A Benchmark for Attacks and Defenses in Federated Learning and LLMs**|Shanshan Han et.al.|[2306.04959v1](http://arxiv.org/abs/2306.04959v1)|**[link](https://github.com/FedML-AI/FedML)**|
+|**2023-06-08**|**Mitigating Evasion Attacks in Federated Learning-Based Signal Classifiers**|Su Wang et.al.|[2306.04872v1](http://arxiv.org/abs/2306.04872v1)|null|
+|**2023-06-08**|**A Systematic Literature Review on Client Selection in Federated Learning**|Carl Smestad et.al.|[2306.04862v1](http://arxiv.org/abs/2306.04862v1)|null|
 |**2023-06-07**|**Fast Optimal Locally Private Mean Estimation via Random Projections**|Hilal Asi et.al.|[2306.04444v1](http://arxiv.org/abs/2306.04444v1)|null|
 |**2023-06-07**|**Resource Aware Clustering for Tackling the Heterogeneity of Participants in Federated Learning**|Rahul Mishra et.al.|[2306.04207v1](http://arxiv.org/abs/2306.04207v1)|null|
 |**2023-06-07**|**Towards Fast Personalized Semi-Supervised Federated Learning in Edge Networks: Algorithm Design and Theoretical Guarantee**|Shuai Wang et.al.|[2306.04155v1](http://arxiv.org/abs/2306.04155v1)|null|
