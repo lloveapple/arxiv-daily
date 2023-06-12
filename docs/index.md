@@ -1278,7 +1278,7 @@ layout: default
 |**2023-06-01**|**Byzantine-Robust Clustered Federated Learning**|Zhixu Tao et.al.|[2306.00638v1](http://arxiv.org/abs/2306.00638v1)|**[link](https://github.com/kun0906/brifca)**|
 |**2023-06-01**|**FACT: Federated Adversarial Cross Training**|Stefan Schrod et.al.|[2306.00607v1](http://arxiv.org/abs/2306.00607v1)|**[link](https://github.com/jonas-lippl/fact)**|
 |**2023-06-01**|**Towards Bias Correction of FedAvg over Nonuniform and Time-Varying Communications**|Ming Xiang et.al.|[2306.00280v1](http://arxiv.org/abs/2306.00280v1)|null|
-|**2023-05-31**|**Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning**|Junyi Zhu et.al.|[2306.00127v1](http://arxiv.org/abs/2306.00127v1)|null|
+|**2023-05-31**|**Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning**|Junyi Zhu et.al.|[2306.00127v1](http://arxiv.org/abs/2306.00127v1)|**[link](https://github.com/junyizhu-ai/surrogate_model_extension)**|
 |**2023-05-31**|**A Simple Python Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2305.20027v1](http://arxiv.org/abs/2305.20027v1)|null|
 |**2023-05-31**|**Federated Learning in the Presence of Adversarial Client Unavailability**|Lili Su et.al.|[2305.19971v1](http://arxiv.org/abs/2305.19971v1)|null|
 |**2023-05-31**|**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**|Kok-Seng Wong et.al.|[2305.19831v1](http://arxiv.org/abs/2305.19831v1)|null|
