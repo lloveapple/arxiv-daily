@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Federated Learning for Medical Image Analysis: A Survey**|Hao Guan et.al.|[2306.05980v1](http://arxiv.org/abs/2306.05980v1)|null|
+|**2023-06-09**|**Is Normalization Indispensable for Multi-domain Federated Learning?**|Weiming Zhuang et.al.|[2306.05879v1](http://arxiv.org/abs/2306.05879v1)|null|
+|**2023-06-09**|**Federated Learning You May Communicate Less Often!**|Milad Sefidgaran et.al.|[2306.05862v1](http://arxiv.org/abs/2306.05862v1)|null|
+|**2023-06-09**|**Understanding How Consistency Works in Federated Learning via Stage-wise Relaxed Initialization**|Yan Sun et.al.|[2306.05706v1](http://arxiv.org/abs/2306.05706v1)|null|
+|**2023-06-09**|**Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning**|Xu Du et.al.|[2306.05662v1](http://arxiv.org/abs/2306.05662v1)|null|
+|**2023-06-09**|**Communication-Efficient Zeroth-Order Distributed Online Optimization: Algorithm, Theory, and Applications**|Ege C. Kaya et.al.|[2306.05655v1](http://arxiv.org/abs/2306.05655v1)|**[link](https://github.com/sunses-hub/fed-ef-zo-sgd)**|
+|**2023-06-08**|**Evaluating and Incentivizing Diverse Data Contributions in Collaborative Learning**|Baihe Huang et.al.|[2306.05592v1](http://arxiv.org/abs/2306.05592v1)|null|
+|**2023-06-08**|**PeFLL: A Lifelong Learning Approach to Personalized Federated Learning**|Jonathan Scott et.al.|[2306.05515v1](http://arxiv.org/abs/2306.05515v1)|null|
 |**2023-06-08**|**Federated Learning under Covariate Shifts with Generalization Guarantees**|Ali Ramezani-Kebrya et.al.|[2306.05325v1](http://arxiv.org/abs/2306.05325v1)|null|
 |**2023-06-08**|**Conformal Prediction for Federated Uncertainty Quantification Under Label Shift**|Vincent Plassier et.al.|[2306.05131v1](http://arxiv.org/abs/2306.05131v1)|null|
 |**2023-06-08**|**FheFL: Fully Homomorphic Encryption Friendly Privacy-Preserving Federated Learning with Byzantine Users**|Yogachandran Rahulamathavan et.al.|[2306.05112v1](http://arxiv.org/abs/2306.05112v1)|null|
