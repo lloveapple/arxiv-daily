@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning**|Ghada Almashaqbeh et.al.|[2306.06825v1](http://arxiv.org/abs/2306.06825v1)|null|
+|**2023-06-11**|**FedDec: Peer-to-peer Aided Federated Learning**|Marina Costantini et.al.|[2306.06715v1](http://arxiv.org/abs/2306.06715v1)|null|
+|**2023-06-11**|**Analysis of a contention-based approach over 5G NR for Federated Learning in an Industrial Internet of Things scenario**|Giampaolo Cuozzo et.al.|[2306.06647v1](http://arxiv.org/abs/2306.06647v1)|null|
+|**2023-06-10**|**Optimizing the Collaboration Structure in Cross-Silo Federated Learning**|Wenxuan Bao et.al.|[2306.06508v1](http://arxiv.org/abs/2306.06508v1)|**[link](https://github.com/baowenxuan/fedcollab)**|
+|**2023-06-10**|**Personalized Graph Federated Learning with Differential Privacy**|Francois Gauthier et.al.|[2306.06399v1](http://arxiv.org/abs/2306.06399v1)|null|
 |**2023-06-09**|**Federated Learning for Medical Image Analysis: A Survey**|Hao Guan et.al.|[2306.05980v1](http://arxiv.org/abs/2306.05980v1)|null|
 |**2023-06-09**|**Is Normalization Indispensable for Multi-domain Federated Learning?**|Weiming Zhuang et.al.|[2306.05879v1](http://arxiv.org/abs/2306.05879v1)|null|
 |**2023-06-09**|**Federated Learning You May Communicate Less Often!**|Milad Sefidgaran et.al.|[2306.05862v1](http://arxiv.org/abs/2306.05862v1)|null|
