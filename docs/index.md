@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
+|**2023-06-13**|**Temporal Gradient Inversion Attacks with Robust Optimization**|Bowen Li et.al.|[2306.07883v1](http://arxiv.org/abs/2306.07883v1)|null|
+|**2023-06-13**|**SRATTA : Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning**|Tanguy Marchand et.al.|[2306.07644v1](http://arxiv.org/abs/2306.07644v1)|**[link](https://github.com/owkin/sratta)**|
+|**2023-06-13**|**GQFedWAvg: Optimization-Based Quantized Federated Learning in General Edge Computing Systems**|Yangchen Li et.al.|[2306.07497v1](http://arxiv.org/abs/2306.07497v1)|null|
 |**2023-06-12**|**AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning**|Ghada Almashaqbeh et.al.|[2306.06825v1](http://arxiv.org/abs/2306.06825v1)|null|
 |**2023-06-11**|**FedDec: Peer-to-peer Aided Federated Learning**|Marina Costantini et.al.|[2306.06715v1](http://arxiv.org/abs/2306.06715v1)|null|
 |**2023-06-11**|**Analysis of a contention-based approach over 5G NR for Federated Learning in an Industrial Internet of Things scenario**|Giampaolo Cuozzo et.al.|[2306.06647v1](http://arxiv.org/abs/2306.06647v1)|null|
