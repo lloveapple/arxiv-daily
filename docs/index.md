@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Your Room is not Private: Gradient Inversion Attack for Deep Q-Learning**|Miao Li et.al.|[2306.09273v1](http://arxiv.org/abs/2306.09273v1)|null|
+|**2023-06-15**|**An Efficient and Multi-private Key Secure Aggregation for Federated Learning**|Xue Yang et.al.|[2306.08970v1](http://arxiv.org/abs/2306.08970v1)|null|
+|**2023-06-15**|**Community Detection Attack against Collaborative Learning-based Recommender Systems**|Yacine Belal et.al.|[2306.08929v1](http://arxiv.org/abs/2306.08929v1)|null|
+|**2023-06-14**|**A Client-server Deep Federated Learning for Cross-domain Surgical Image Segmentation**|Ronast Subedi et.al.|[2306.08720v1](http://arxiv.org/abs/2306.08720v1)|null|
+|**2023-06-14**|**Fed-ZERO: Efficient Zero-shot Personalization with Federated Mixture of Experts**|Chen Dun et.al.|[2306.08586v1](http://arxiv.org/abs/2306.08586v1)|null|
+|**2023-06-14**|**Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks**|Zhe Wang et.al.|[2306.08566v1](http://arxiv.org/abs/2306.08566v1)|**[link](https://github.com/codertylor/fl-tp)**|
+|**2023-06-14**|**Fairness and Privacy-Preserving in Federated Learning: A Survey**|Taki Hasan Rafi et.al.|[2306.08402v1](http://arxiv.org/abs/2306.08402v1)|null|
+|**2023-06-14**|**Provably Personalized and Robust Federated Learning**|Mariel Werner et.al.|[2306.08393v1](http://arxiv.org/abs/2306.08393v1)|null|
+|**2023-06-14**|**Differentially Private Wireless Federated Learning Using Orthogonal Sequences**|Xizixiang Wei et.al.|[2306.08280v1](http://arxiv.org/abs/2306.08280v1)|null|
+|**2023-06-13**|**(Amplified) Banded Matrix Factorization: A unified approach to private training**|Christopher A. Choquette-Choo et.al.|[2306.08153v1](http://arxiv.org/abs/2306.08153v1)|null|
 |**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
 |**2023-06-13**|**Temporal Gradient Inversion Attacks with Robust Optimization**|Bowen Li et.al.|[2306.07883v1](http://arxiv.org/abs/2306.07883v1)|null|
 |**2023-06-13**|**SRATTA : Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning**|Tanguy Marchand et.al.|[2306.07644v1](http://arxiv.org/abs/2306.07644v1)|**[link](https://github.com/owkin/sratta)**|
