@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning**|Shaunak Halbe et.al.|[2306.09970v1](http://arxiv.org/abs/2306.09970v1)|null|
+|**2023-06-16**|**Towards Quantum Federated Learning**|Chao Ren et.al.|[2306.09912v1](http://arxiv.org/abs/2306.09912v1)|null|
+|**2023-06-16**|**Fedstellar: A Platform for Decentralized Federated Learning**|Enrique Tomás Martínez Beltrán et.al.|[2306.09750v1](http://arxiv.org/abs/2306.09750v1)|**[link](https://github.com/enriquetomasmb/fedstellar)**|
+|**2023-06-15**|**FedMultimodal: A Benchmark For Multimodal Federated Learning**|Tiantian Feng et.al.|[2306.09486v1](http://arxiv.org/abs/2306.09486v1)|null|
+|**2023-06-15**|**Opportunistic Transmission of Distributed Learning Models in Mobile UAVs**|Jingxin Li et.al.|[2306.09484v1](http://arxiv.org/abs/2306.09484v1)|null|
+|**2023-06-15**|**Towards Practical Federated Causal Structure Learning**|Zhaoyu Wang et.al.|[2306.09433v1](http://arxiv.org/abs/2306.09433v1)|null|
+|**2023-06-15**|**Non-Asymptotic Performance of Social Machine Learning Under Limited Data**|Ping Hu et.al.|[2306.09397v1](http://arxiv.org/abs/2306.09397v1)|null|
 |**2023-06-15**|**Your Room is not Private: Gradient Inversion Attack for Deep Q-Learning**|Miao Li et.al.|[2306.09273v1](http://arxiv.org/abs/2306.09273v1)|null|
 |**2023-06-15**|**An Efficient and Multi-private Key Secure Aggregation for Federated Learning**|Xue Yang et.al.|[2306.08970v1](http://arxiv.org/abs/2306.08970v1)|null|
 |**2023-06-15**|**Community Detection Attack against Collaborative Learning-based Recommender Systems**|Yacine Belal et.al.|[2306.08929v1](http://arxiv.org/abs/2306.08929v1)|null|
