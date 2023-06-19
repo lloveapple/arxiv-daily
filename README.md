@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.18
+## Updated on 2023.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-06-14**|**A Client-server Deep Federated Learning for Cross-domain Surgical Image Segmentation**|Ronast Subedi et.al.|[2306.08720v1](http://arxiv.org/abs/2306.08720v1)|null|
 |**2023-06-14**|**Fed-ZERO: Efficient Zero-shot Personalization with Federated Mixture of Experts**|Chen Dun et.al.|[2306.08586v1](http://arxiv.org/abs/2306.08586v1)|null|
 |**2023-06-14**|**Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks**|Zhe Wang et.al.|[2306.08566v1](http://arxiv.org/abs/2306.08566v1)|**[link](https://github.com/codertylor/fl-tp)**|
-|**2023-06-14**|**Fairness and Privacy-Preserving in Federated Learning: A Survey**|Taki Hasan Rafi et.al.|[2306.08402v1](http://arxiv.org/abs/2306.08402v1)|null|
+|**2023-06-14**|**Fairness and Privacy-Preserving in Federated Learning: A Survey**|Taki Hasan Rafi et.al.|[2306.08402v1](http://arxiv.org/abs/2306.08402v1)|**[link](https://github.com/takihasan/fairness-and-privacy-in-fl-survey)**|
 |**2023-06-14**|**Provably Personalized and Robust Federated Learning**|Mariel Werner et.al.|[2306.08393v1](http://arxiv.org/abs/2306.08393v1)|null|
 |**2023-06-14**|**Differentially Private Wireless Federated Learning Using Orthogonal Sequences**|Xizixiang Wei et.al.|[2306.08280v1](http://arxiv.org/abs/2306.08280v1)|null|
 |**2023-06-13**|**(Amplified) Banded Matrix Factorization: A unified approach to private training**|Christopher A. Choquette-Choo et.al.|[2306.08153v1](http://arxiv.org/abs/2306.08153v1)|null|
@@ -461,7 +461,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
