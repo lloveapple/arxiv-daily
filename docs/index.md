@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**FedNoisy: Federated Noisy Label Learning Benchmark**|Siqi Liang et.al.|[2306.11650v1](http://arxiv.org/abs/2306.11650v1)|**[link](https://github.com/smilelab-fl/fednoisy)**|
+|**2023-06-20**|**Decentralized Quantum Federated Learning for Metaverse: Analysis, Design and Implementation**|Dev Gurung et.al.|[2306.11297v1](http://arxiv.org/abs/2306.11297v1)|**[link](https://github.com/s222416822/bqfl)**|
+|**2023-06-19**|**Adaptive Federated Learning with Auto-Tuned Clients**|Junhyung Lyle Kim et.al.|[2306.11201v1](http://arxiv.org/abs/2306.11201v1)|null|
+|**2023-06-19**|**FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**|Jingwen Guo et.al.|[2306.11046v1](http://arxiv.org/abs/2306.11046v1)|null|
+|**2023-06-19**|**Differentially Private Over-the-Air Federated Learning Over MIMO Fading Channels**|Hang Liu et.al.|[2306.10982v1](http://arxiv.org/abs/2306.10982v1)|null|
+|**2023-06-19**|**Blockchain-Enabled Federated Learning: A Reference Architecture Incorporating a DID Access System**|Eunsu Goh et.al.|[2306.10841v1](http://arxiv.org/abs/2306.10841v1)|null|
+|**2023-06-19**|**Practical and General Backdoor Attacks against Vertical Federated Learning**|Yuexin Xuan et.al.|[2306.10746v1](http://arxiv.org/abs/2306.10746v1)|null|
+|**2023-06-19**|**Data-Heterogeneous Hierarchical Federated Learning with Mobility**|Tan Chen et.al.|[2306.10692v1](http://arxiv.org/abs/2306.10692v1)|null|
+|**2023-06-17**|**Federated Learning Based Distributed Localization of False Data Injection Attacks on Smart Grids**|Cihat Keçeci et.al.|[2306.10420v1](http://arxiv.org/abs/2306.10420v1)|null|
+|**2023-06-17**|**Query2GMM: Learning Representation with Gaussian Mixture Model for Reasoning over Knowledge Graphs**|Yuhan Wu et.al.|[2306.10367v1](http://arxiv.org/abs/2306.10367v1)|null|
 |**2023-06-16**|**HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning**|Shaunak Halbe et.al.|[2306.09970v1](http://arxiv.org/abs/2306.09970v1)|null|
 |**2023-06-16**|**Towards Quantum Federated Learning**|Chao Ren et.al.|[2306.09912v1](http://arxiv.org/abs/2306.09912v1)|null|
 |**2023-06-16**|**Fedstellar: A Platform for Decentralized Federated Learning**|Enrique Tomás Martínez Beltrán et.al.|[2306.09750v1](http://arxiv.org/abs/2306.09750v1)|**[link](https://github.com/enriquetomasmb/fedstellar)**|
