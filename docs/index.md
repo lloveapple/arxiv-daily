@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
+|**2023-06-22**|**Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering**|Tianyu Zhao et.al.|[2306.12859v1](http://arxiv.org/abs/2306.12859v1)|null|
+|**2023-06-22**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v1](http://arxiv.org/abs/2306.12625v1)|null|
+|**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|null|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400v1](http://arxiv.org/abs/2306.12400v1)|null|
 |**2023-06-21**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v1](http://arxiv.org/abs/2306.12212v1)|null|
 |**2023-06-21**|**Split Learning in 6G Edge Networks**|Zheng Lin et.al.|[2306.12194v1](http://arxiv.org/abs/2306.12194v1)|null|
