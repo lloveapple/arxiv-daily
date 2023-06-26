@@ -1428,7 +1428,7 @@ layout: default
 |**2023-05-11**|**Multi-Tier Client Selection for Mobile Federated Learning Networks**|Yulan Gao et.al.|[2305.06865v1](http://arxiv.org/abs/2305.06865v1)|null|
 |**2023-05-15**|**Utility-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2305.06784v2](http://arxiv.org/abs/2305.06784v2)|null|
 |**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
-|**2023-05-10**|**Securing Distributed SGD against Gradient Leakage Threats**|Wenqi Wei et.al.|[2305.06473v1](http://arxiv.org/abs/2305.06473v1)|null|
+|**2023-05-10**|**Securing Distributed SGD against Gradient Leakage Threats**|Wenqi Wei et.al.|[2305.06473v1](http://arxiv.org/abs/2305.06473v1)|**[link](https://github.com/git-disl/fed-alphacdp)**|
 |**2023-05-09**|**FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation**|Sheng Wan et.al.|[2305.06272v1](http://arxiv.org/abs/2305.06272v1)|null|
 |**2023-05-10**|**Enabling Technologies for Programmable and Software-Defined Networks: Bolstering the Path Towards 6G**|David Carrascal et.al.|[2305.06228v1](http://arxiv.org/abs/2305.06228v1)|null|
 |**2023-05-10**|**FedDWA: Personalized Federated Learning with Online Weight Adjustment**|Jiahao Liu et.al.|[2305.06124v1](http://arxiv.org/abs/2305.06124v1)|null|
@@ -1505,7 +1505,7 @@ layout: default
 |**2023-04-24**|**Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications**|Francesco Cremonesi et.al.|[2304.12012v1](http://arxiv.org/abs/2304.12012v1)|null|
 |**2023-04-23**|**Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges**|Chuan Chen et.al.|[2304.11643v1](http://arxiv.org/abs/2304.11643v1)|null|
 |**2023-04-23**|**Personalized Federated Learning via Gradient Modulation for Heterogeneous Text Summarization**|Rongfeng Pan et.al.|[2304.11524v1](http://arxiv.org/abs/2304.11524v1)|null|
-|**2023-04-22**|**Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack**|Hideaki Takahashi et.al.|[2304.11436v1](http://arxiv.org/abs/2304.11436v1)|null|
+|**2023-04-22**|**Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack**|Hideaki Takahashi et.al.|[2304.11436v1](http://arxiv.org/abs/2304.11436v1)|**[link](https://github.com/FLAIR-THU/PairedLogitsInversion)**|
 |**2023-04-22**|**Universal Adversarial Backdoor Attacks to Fool Vertical Federated Learning in Cloud-Edge Collaboration**|Peng Chen et.al.|[2304.11432v1](http://arxiv.org/abs/2304.11432v1)|null|
 |**2023-04-22**|**On-Device Intelligence for 5G RAN: Knowledge Transfer and Federated Learning enabled UE-Centric Traffic Steering**|Han Zhang et.al.|[2304.11282v1](http://arxiv.org/abs/2304.11282v1)|null|
 |**2023-04-21**|**Federated Learning for Predictive Maintenance and Quality Inspection in Industrial Applications**|Viktorija Pruckovskaja et.al.|[2304.11101v1](http://arxiv.org/abs/2304.11101v1)|null|
@@ -1632,7 +1632,7 @@ layout: default
 |**2023-03-20**|**Make Landscape Flatter in Differentially Private Federated Learning**|Yifan Shi et.al.|[2303.11242v1](http://arxiv.org/abs/2303.11242v1)|**[link](https://github.com/YMJS-Irfan/DP-FedSAM)**|
 |**2023-03-20**|**Task-Oriented Communications for 6G: Vision, Principles, and Technologies**|Yuanming Shi et.al.|[2303.10920v1](http://arxiv.org/abs/2303.10920v1)|null|
 |**2023-03-20**|**FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System**|Weizhao Jin et.al.|[2303.10837v1](http://arxiv.org/abs/2303.10837v1)|**[link](https://github.com/FedML-AI/FedML)**|
-|**2023-03-19**|**On the Convergence of Decentralized Federated Learning Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2303.10695v1](http://arxiv.org/abs/2303.10695v1)|null|
+|**2023-03-19**|**On the Convergence of Decentralized Federated Learning Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2303.10695v1](http://arxiv.org/abs/2303.10695v1)|**[link](https://github.com/vishnupandi/FedNDL3)**|
 |**2023-03-19**|**A Survey of Federated Learning for Connected and Automated Vehicles**|Vishnu Pandi Chellapandi et.al.|[2303.10677v1](http://arxiv.org/abs/2303.10677v1)|null|
 |**2023-03-19**|**Experimenting with Normalization Layers in Federated Learning on non-IID scenarios**|Bruno Casella et.al.|[2303.10630v1](http://arxiv.org/abs/2303.10630v1)|**[link](https://github.com/alpha-unito/benchmarking-normalization-layers-in-federated-learning-for-image-classification-tasks-on-non-iid)**|
 |**2023-03-19**|**PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients**|Manas Wadhwa et.al.|[2303.10624v1](http://arxiv.org/abs/2303.10624v1)|**[link](https://github.com/mnswdhw/pfsl)**|
