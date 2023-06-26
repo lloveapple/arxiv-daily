@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)**|Henger Li et.al.|[2306.13273v1](http://arxiv.org/abs/2306.13273v1)|null|
+|**2023-06-23**|**FedSelect: Customized Selection of Parameters for Fine-Tuning during Personalized Federated Learning**|Rishub Tamirisa et.al.|[2306.13264v1](http://arxiv.org/abs/2306.13264v1)|null|
+|**2023-06-23**|**Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity**|Bo Li et.al.|[2306.13263v1](http://arxiv.org/abs/2306.13263v1)|null|
 |**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
 |**2023-06-23**|**Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering**|Tianyu Zhao et.al.|[2306.12859v2](http://arxiv.org/abs/2306.12859v2)|null|
 |**2023-06-22**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v1](http://arxiv.org/abs/2306.12625v1)|null|
