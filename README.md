@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Private Federated Learning in Gboard**|Yuanbo Zhang et.al.|[2306.14793v1](http://arxiv.org/abs/2306.14793v1)|null|
+|**2023-06-26**|**Performance Analysis and Evaluation of Post Quantum Secure Blockchain Federated Learning**|Dev Gurung et.al.|[2306.14772v1](http://arxiv.org/abs/2306.14772v1)|null|
+|**2023-06-26**|**FeSViBS: Federated Split Learning of Vision Transformer with Block Sampling**|Faris Almalik et.al.|[2306.14638v1](http://arxiv.org/abs/2306.14638v1)|null|
+|**2023-06-26**|**Correct orchestration of Federated Learning generic algorithms: formalisation and verification in CSP**|Ivan Prokić et.al.|[2306.14529v1](http://arxiv.org/abs/2306.14529v1)|null|
+|**2023-06-26**|**Practical Privacy-Preserving Gaussian Process Regression via Secret Sharing**|Jinglong Luo et.al.|[2306.14498v1](http://arxiv.org/abs/2306.14498v1)|null|
+|**2023-06-26**|**Medical Federated Model with Mixture of Personalized and Sharing Components**|Yawei Zhao et.al.|[2306.14483v1](http://arxiv.org/abs/2306.14483v1)|**[link](https://github.com/applicationtechnologyofmedicalbigdata/pfednet-code)**|
+|**2023-06-26**|**Federated Learning on Non-iid Data via Local and Global Distillation**|Xiaolin Zheng et.al.|[2306.14443v1](http://arxiv.org/abs/2306.14443v1)|null|
+|**2023-06-25**|**FedSampling: A Better Sampling Strategy for Federated Learning**|Tao Qi et.al.|[2306.14245v1](http://arxiv.org/abs/2306.14245v1)|null|
+|**2023-06-25**|**A Safe Genetic Algorithm Approach for Energy Efficient Federated Learning in Wireless Communication Networks**|Lina Magoula et.al.|[2306.14237v1](http://arxiv.org/abs/2306.14237v1)|null|
+|**2023-06-25**|**Privacy and Fairness in Federated Learning: on the Perspective of Trade-off**|Huiqiang Chen et.al.|[2306.14123v1](http://arxiv.org/abs/2306.14123v1)|null|
 |**2023-06-23**|**A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)**|Henger Li et.al.|[2306.13273v1](http://arxiv.org/abs/2306.13273v1)|null|
 |**2023-06-23**|**FedSelect: Customized Selection of Parameters for Fine-Tuning during Personalized Federated Learning**|Rishub Tamirisa et.al.|[2306.13264v1](http://arxiv.org/abs/2306.13264v1)|null|
 |**2023-06-23**|**Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity**|Bo Li et.al.|[2306.13263v1](http://arxiv.org/abs/2306.13263v1)|null|
