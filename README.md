@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,11 +22,11 @@
 |**2023-06-23**|**Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity**|Bo Li et.al.|[2306.13263v1](http://arxiv.org/abs/2306.13263v1)|null|
 |**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
 |**2023-06-23**|**Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering**|Tianyu Zhao et.al.|[2306.12859v2](http://arxiv.org/abs/2306.12859v2)|null|
-|**2023-06-22**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v1](http://arxiv.org/abs/2306.12625v1)|null|
+|**2023-06-25**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v2](http://arxiv.org/abs/2306.12625v2)|null|
 |**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|null|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400v1](http://arxiv.org/abs/2306.12400v1)|null|
 |**2023-06-23**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v2](http://arxiv.org/abs/2306.12212v2)|null|
-|**2023-06-21**|**Split Learning in 6G Edge Networks**|Zheng Lin et.al.|[2306.12194v1](http://arxiv.org/abs/2306.12194v1)|null|
+|**2023-06-24**|**Split Learning in 6G Edge Networks**|Zheng Lin et.al.|[2306.12194v2](http://arxiv.org/abs/2306.12194v2)|null|
 |**2023-06-21**|**An Efficient Virtual Data Generation Method for Reducing Communication in Federated Learning**|Cheng Yang et.al.|[2306.12088v1](http://arxiv.org/abs/2306.12088v1)|null|
 |**2023-06-21**|**FLGo: A Fully Customizable Federated Learning Platform**|Zheng Wang et.al.|[2306.12079v1](http://arxiv.org/abs/2306.12079v1)|null|
 |**2023-06-20**|**Randomized Quantization is All You Need for Differential Privacy in Federated Learning**|Yeojoon Youn et.al.|[2306.11913v1](http://arxiv.org/abs/2306.11913v1)|null|
@@ -492,7 +492,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
