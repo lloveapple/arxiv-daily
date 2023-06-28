@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**When Foundation Model Meets Federated Learning: Motivations, Challenges, and Future Directions**|Weiming Zhuang et.al.|[2306.15546v1](http://arxiv.org/abs/2306.15546v1)|null|
+|**2023-06-27**|**FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer**|Chenghao Liu et.al.|[2306.15347v1](http://arxiv.org/abs/2306.15347v1)|null|
+|**2023-06-27**|**Wasserstein Generative Regression**|Shanshan Song et.al.|[2306.15163v1](http://arxiv.org/abs/2306.15163v1)|null|
+|**2023-06-26**|**Towards Sybil Resilience in Decentralized Learning**|Thomas Werthenbach et.al.|[2306.15044v1](http://arxiv.org/abs/2306.15044v1)|null|
 |**2023-06-26**|**Private Federated Learning in Gboard**|Yuanbo Zhang et.al.|[2306.14793v1](http://arxiv.org/abs/2306.14793v1)|null|
 |**2023-06-26**|**Performance Analysis and Evaluation of Post Quantum Secure Blockchain Federated Learning**|Dev Gurung et.al.|[2306.14772v1](http://arxiv.org/abs/2306.14772v1)|null|
 |**2023-06-26**|**FeSViBS: Federated Split Learning of Vision Transformer with Block Sampling**|Faris Almalik et.al.|[2306.14638v1](http://arxiv.org/abs/2306.14638v1)|null|
