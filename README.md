@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation**|Fubao Zhu et.al.|[2306.17008v1](http://arxiv.org/abs/2306.17008v1)|null|
+|**2023-06-29**|**Elastically-Constrained Meta-Learner for Federated Learning**|Peng Lan et.al.|[2306.16703v1](http://arxiv.org/abs/2306.16703v1)|null|
+|**2023-06-28**|**Momentum Benefits Non-IID Federated Learning Simply and Provably**|Ziheng Cheng et.al.|[2306.16504v1](http://arxiv.org/abs/2306.16504v1)|null|
 |**2023-06-28**|**Multi-Site Clinical Federated Learning using Recursive and Attentive Models and NVFlare**|Won Joon Yun et.al.|[2306.16367v1](http://arxiv.org/abs/2306.16367v1)|null|
 |**2023-06-28**|**Frequency Modulation Aggregation for Federated Learning**|Marc Martinez-Gost et.al.|[2306.16347v1](http://arxiv.org/abs/2306.16347v1)|null|
 |**2023-06-28**|**Communication Resources Constrained Hierarchical Federated Learning for End-to-End Autonomous Driving**|Wei-Bin Kou et.al.|[2306.16169v1](http://arxiv.org/abs/2306.16169v1)|null|
