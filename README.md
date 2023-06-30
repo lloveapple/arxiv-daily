@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.29
+## Updated on 2023.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,10 +21,10 @@
 |**2023-06-28**|**Frequency Modulation Aggregation for Federated Learning**|Marc Martinez-Gost et.al.|[2306.16347v1](http://arxiv.org/abs/2306.16347v1)|null|
 |**2023-06-28**|**Communication Resources Constrained Hierarchical Federated Learning for End-to-End Autonomous Driving**|Wei-Bin Kou et.al.|[2306.16169v1](http://arxiv.org/abs/2306.16169v1)|null|
 |**2023-06-28**|**VERTICES: Efficient Two-Party Vertical Federated Linear Model with TTP-aided Secret Sharing**|Mingxuan Fan et.al.|[2306.16139v1](http://arxiv.org/abs/2306.16139v1)|null|
-|**2023-06-28**|**Secure and Fast Asynchronous Vertical Federated Learning via Cascaded Hybrid Optimization**|Ganyu Wang et.al.|[2306.16077v1](http://arxiv.org/abs/2306.16077v1)|null|
+|**2023-06-29**|**Secure and Fast Asynchronous Vertical Federated Learning via Cascaded Hybrid Optimization**|Ganyu Wang et.al.|[2306.16077v2](http://arxiv.org/abs/2306.16077v2)|null|
 |**2023-06-28**|**Federated Generative Learning with Foundation Models**|Jie Zhang et.al.|[2306.16064v1](http://arxiv.org/abs/2306.16064v1)|null|
 |**2023-06-28**|**A Distributed Computation Model Based on Federated Learning Integrates Heterogeneous models and Consortium Blockchain for Solving Time-Varying Problems**|Zhihao Hao et.al.|[2306.16023v1](http://arxiv.org/abs/2306.16023v1)|null|
-|**2023-06-28**|**NIPD: A Federated Learning Person Detection Benchmark Based on Real-World Non-IID Data**|Kangning Yin et.al.|[2306.15932v1](http://arxiv.org/abs/2306.15932v1)|null|
+|**2023-06-28**|**NIPD: A Federated Learning Person Detection Benchmark Based on Real-World Non-IID Data**|Kangning Yin et.al.|[2306.15932v1](http://arxiv.org/abs/2306.15932v1)|**[link](https://github.com/ShenSuanZiZhen/NIID_Person_Detection)**|
 |**2023-06-28**|**Federated Deep Reinforcement Learning-based Bitrate Adaptation for Dynamic Adaptive Streaming over HTTP**|Phuong L. Vo et.al.|[2306.15860v1](http://arxiv.org/abs/2306.15860v1)|null|
 |**2023-06-27**|**When Foundation Model Meets Federated Learning: Motivations, Challenges, and Future Directions**|Weiming Zhuang et.al.|[2306.15546v1](http://arxiv.org/abs/2306.15546v1)|null|
 |**2023-06-27**|**FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer**|Chenghao Liu et.al.|[2306.15347v1](http://arxiv.org/abs/2306.15347v1)|null|
@@ -515,7 +515,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
