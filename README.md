@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829v1](http://arxiv.org/abs/2306.17829v1)|null|
+|**2023-06-30**|**Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**|Kishore Babu Nampalle et.al.|[2306.17794v1](http://arxiv.org/abs/2306.17794v1)|null|
+|**2023-06-30**|**Federated Object Detection for Quality Inspection in Shared Production**|Vinit Hegiste et.al.|[2306.17645v1](http://arxiv.org/abs/2306.17645v1)|null|
+|**2023-06-30**|**FedBone: Towards Large-Scale Federated Multi-Task Learning**|Yiqiang Chen et.al.|[2306.17465v1](http://arxiv.org/abs/2306.17465v1)|null|
+|**2023-06-30**|**High-throughput Simulation of Federated Learning via Resource-Aware Client Placement**|Lorenzo Sani et.al.|[2306.17453v1](http://arxiv.org/abs/2306.17453v1)|null|
+|**2023-06-30**|**Improving Federated Aggregation with Deep Unfolding Networks**|Shanika I Nanayakkara et.al.|[2306.17362v1](http://arxiv.org/abs/2306.17362v1)|null|
+|**2023-06-29**|**A Survey on Blockchain-Based Federated Learning and Data Privacy**|Bipin Chhetri et.al.|[2306.17338v1](http://arxiv.org/abs/2306.17338v1)|null|
 |**2023-06-29**|**MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation**|Fubao Zhu et.al.|[2306.17008v1](http://arxiv.org/abs/2306.17008v1)|null|
 |**2023-06-30**|**Elastically-Constrained Meta-Learner for Federated Learning**|Peng Lan et.al.|[2306.16703v2](http://arxiv.org/abs/2306.16703v2)|null|
 |**2023-06-28**|**Momentum Benefits Non-IID Federated Learning Simply and Provably**|Ziheng Cheng et.al.|[2306.16504v1](http://arxiv.org/abs/2306.16504v1)|null|
