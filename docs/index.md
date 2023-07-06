@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Privacy-Preserving Federated Heavy Hitter Analytics for Non-IID Data**|Jiaqi Shao et.al.|[2307.02277v1](http://arxiv.org/abs/2307.02277v1)|null|
+|**2023-07-05**|**Personalized Federated Learning via Amortized Bayesian Meta-Learning**|Shiyu Liu et.al.|[2307.02222v1](http://arxiv.org/abs/2307.02222v1)|null|
+|**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|null|
+|**2023-07-05**|**VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks**|Zhaomin Wu et.al.|[2307.02040v1](http://arxiv.org/abs/2307.02040v1)|null|
+|**2023-07-04**|**FedHIL: Heterogeneity Resilient Federated Learning for Robust Indoor Localization with Mobile Devices**|Danish Gufran et.al.|[2307.01780v1](http://arxiv.org/abs/2307.01780v1)|null|
+|**2023-07-04**|**An Analysis of Untargeted Poisoning Attack and Defense Methods for Federated Online Learning to Rank Systems**|Shuyi Wang et.al.|[2307.01565v1](http://arxiv.org/abs/2307.01565v1)|null|
+|**2023-07-04**|**SelfFed: Self-supervised Federated Learning for Data Heterogeneity and Label Scarcity in IoMT**|Sunder Ali Khowaja et.al.|[2307.01514v1](http://arxiv.org/abs/2307.01514v1)|null|
 |**2023-07-03**|**Learning Mixtures of Gaussians Using the DDPM Objective**|Kulin Shah et.al.|[2307.01178v1](http://arxiv.org/abs/2307.01178v1)|null|
 |**2023-07-03**|**Over-The-Air Federated Learning: Status Quo, Open Challenges, and Future Directions**|Bingnan Xiao et.al.|[2307.00974v1](http://arxiv.org/abs/2307.00974v1)|null|
 |**2023-07-02**|**Defending Against Malicious Behaviors in Federated Learning with Blockchain**|Nanqing Dong et.al.|[2307.00543v1](http://arxiv.org/abs/2307.00543v1)|null|
