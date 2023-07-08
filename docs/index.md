@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.07
+## Updated on 2023.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1233,7 +1233,7 @@ layout: default
 |**2023-07-05**|**FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout**|Irene Wang et.al.|[2307.02623v1](http://arxiv.org/abs/2307.02623v1)|null|
 |**2023-07-05**|**Privacy-Preserving Federated Heavy Hitter Analytics for Non-IID Data**|Jiaqi Shao et.al.|[2307.02277v1](http://arxiv.org/abs/2307.02277v1)|null|
 |**2023-07-05**|**Personalized Federated Learning via Amortized Bayesian Meta-Learning**|Shiyu Liu et.al.|[2307.02222v1](http://arxiv.org/abs/2307.02222v1)|null|
-|**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|null|
+|**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|**[link](https://github.com/morningd/model-centric-fml)**|
 |**2023-07-05**|**VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks**|Zhaomin Wu et.al.|[2307.02040v1](http://arxiv.org/abs/2307.02040v1)|null|
 |**2023-07-04**|**FedHIL: Heterogeneity Resilient Federated Learning for Robust Indoor Localization with Mobile Devices**|Danish Gufran et.al.|[2307.01780v1](http://arxiv.org/abs/2307.01780v1)|null|
 |**2023-07-04**|**An Analysis of Untargeted Poisoning Attack and Defense Methods for Federated Online Learning to Rank Systems**|Shuyi Wang et.al.|[2307.01565v1](http://arxiv.org/abs/2307.01565v1)|null|
