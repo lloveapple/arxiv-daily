@@ -1252,14 +1252,14 @@ layout: default
 |**2023-06-30**|**Federated Object Detection for Quality Inspection in Shared Production**|Vinit Hegiste et.al.|[2306.17645v1](http://arxiv.org/abs/2306.17645v1)|null|
 |**2023-06-30**|**FedBone: Towards Large-Scale Federated Multi-Task Learning**|Yiqiang Chen et.al.|[2306.17465v1](http://arxiv.org/abs/2306.17465v1)|null|
 |**2023-06-30**|**High-throughput Simulation of Federated Learning via Resource-Aware Client Placement**|Lorenzo Sani et.al.|[2306.17453v1](http://arxiv.org/abs/2306.17453v1)|null|
-|**2023-06-30**|**Improving Federated Aggregation with Deep Unfolding Networks**|Shanika I Nanayakkara et.al.|[2306.17362v1](http://arxiv.org/abs/2306.17362v1)|null|
+|**2023-06-30**|**Improving Federated Aggregation with Deep Unfolding Networks**|Shanika I Nanayakkara et.al.|[2306.17362v1](http://arxiv.org/abs/2306.17362v1)|**[link](https://github.com/shanikairoshi/improved_dun_basedfl_aggregation)**|
 |**2023-06-29**|**A Survey on Blockchain-Based Federated Learning and Data Privacy**|Bipin Chhetri et.al.|[2306.17338v1](http://arxiv.org/abs/2306.17338v1)|null|
 |**2023-06-29**|**MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation**|Fubao Zhu et.al.|[2306.17008v1](http://arxiv.org/abs/2306.17008v1)|null|
 |**2023-06-30**|**Elastically-Constrained Meta-Learner for Federated Learning**|Peng Lan et.al.|[2306.16703v2](http://arxiv.org/abs/2306.16703v2)|null|
 |**2023-06-28**|**Momentum Benefits Non-IID Federated Learning Simply and Provably**|Ziheng Cheng et.al.|[2306.16504v1](http://arxiv.org/abs/2306.16504v1)|null|
 |**2023-06-28**|**Multi-Site Clinical Federated Learning using Recursive and Attentive Models and NVFlare**|Won Joon Yun et.al.|[2306.16367v1](http://arxiv.org/abs/2306.16367v1)|null|
 |**2023-06-28**|**Frequency Modulation Aggregation for Federated Learning**|Marc Martinez-Gost et.al.|[2306.16347v1](http://arxiv.org/abs/2306.16347v1)|null|
-|**2023-06-28**|**Communication Resources Constrained Hierarchical Federated Learning for End-to-End Autonomous Driving**|Wei-Bin Kou et.al.|[2306.16169v1](http://arxiv.org/abs/2306.16169v1)|null|
+|**2023-06-28**|**Communication Resources Constrained Hierarchical Federated Learning for End-to-End Autonomous Driving**|Wei-Bin Kou et.al.|[2306.16169v1](http://arxiv.org/abs/2306.16169v1)|**[link](https://github.com/weibinkou/crchfl)**|
 |**2023-06-28**|**VERTICES: Efficient Two-Party Vertical Federated Linear Model with TTP-aided Secret Sharing**|Mingxuan Fan et.al.|[2306.16139v1](http://arxiv.org/abs/2306.16139v1)|null|
 |**2023-06-29**|**Secure and Fast Asynchronous Vertical Federated Learning via Cascaded Hybrid Optimization**|Ganyu Wang et.al.|[2306.16077v2](http://arxiv.org/abs/2306.16077v2)|null|
 |**2023-06-28**|**Federated Generative Learning with Foundation Models**|Jie Zhang et.al.|[2306.16064v1](http://arxiv.org/abs/2306.16064v1)|**[link](https://github.com/zj-jayzhang/federated_generative_learning)**|
@@ -1421,7 +1421,7 @@ layout: default
 |**2023-05-25**|**FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients**|Min Zhang et.al.|[2305.15668v1](http://arxiv.org/abs/2305.15668v1)|null|
 |**2023-05-25**|**Federated Composite Saddle Point Optimization**|Site Bai et.al.|[2305.15643v1](http://arxiv.org/abs/2305.15643v1)|null|
 |**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371v1](http://arxiv.org/abs/2305.15371v1)|**[link](https://github.com/smrhadou/fed-surf)**|
-|**2023-05-25**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v2](http://arxiv.org/abs/2305.15270v2)|null|
+|**2023-05-25**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270v2](http://arxiv.org/abs/2305.15270v2)|**[link](https://github.com/tongxu-05/regnn-multiple-appropriate-facial-reaction-generation)**|
 |**2023-05-24**|**Towards More Suitable Personalization in Federated Learning via Decentralized Partial Model Training**|Yifan Shi et.al.|[2305.15157v1](http://arxiv.org/abs/2305.15157v1)|null|
 |**2023-05-24**|**Theoretically Principled Federated Learning for Balancing Privacy and Utility**|Xiaojin Zhang et.al.|[2305.15148v1](http://arxiv.org/abs/2305.15148v1)|null|
 |**2023-05-24**|**FedZero: Leveraging Renewable Excess Energy in Federated Learning**|Philipp Wiesner et.al.|[2305.15092v1](http://arxiv.org/abs/2305.15092v1)|null|
@@ -1630,7 +1630,7 @@ layout: default
 |**2023-04-04**|**Privacy-Preserving Federated Discovery of DNA Motifs with Differential Privacy**|Yao Chen et.al.|[2304.01689v1](http://arxiv.org/abs/2304.01689v1)|null|
 |**2023-04-04**|**Privacy Amplification via Compression: Achieving the Optimal Privacy-Accuracy-Communication Trade-off in Distributed Mean Estimation**|Wei-Ning Chen et.al.|[2304.01541v1](http://arxiv.org/abs/2304.01541v1)|null|
 |**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|null|
-|**2023-04-04**|**SLPerf: a Unified Framework for Benchmarking Split Learning**|Tianchen Zhou et.al.|[2304.01502v1](http://arxiv.org/abs/2304.01502v1)|null|
+|**2023-04-04**|**SLPerf: a Unified Framework for Benchmarking Split Learning**|Tianchen Zhou et.al.|[2304.01502v1](http://arxiv.org/abs/2304.01502v1)|**[link](https://github.com/rainysponge/split-learning-attacks)**|
 |**2023-04-03**|**Kernel Affine Hull Machines for Differentially Private Learning**|Mohit Kumar et.al.|[2304.01300v1](http://arxiv.org/abs/2304.01300v1)|null|
 |**2023-03-30**|**Federated Learning Based Multilingual Emoji Prediction In Clean and Attack Scenarios**|Karim Gamal et.al.|[2304.01005v1](http://arxiv.org/abs/2304.01005v1)|**[link](https://github.com/kareemgamalmahmoud/federated-learning-based-multilingual-emoji-prediction-in-clean-and-attack-scenarios)**|
 |**2023-04-03**|**Federated Kalman Filter for Secure IoT-based Device Monitoring Services**|Marc Jayson Baucas et.al.|[2304.00991v1](http://arxiv.org/abs/2304.00991v1)|null|
