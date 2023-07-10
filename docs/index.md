@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Incentive Allocation in Vertical Federated Learning Based on Bankruptcy Problem**|Afsana Khan et.al.|[2307.03515v1](http://arxiv.org/abs/2307.03515v1)|null|
+|**2023-07-07**|**Federated Unlearning via Active Forgetting**|Yuyuan Li et.al.|[2307.03363v1](http://arxiv.org/abs/2307.03363v1)|null|
 |**2023-07-06**|**Meta Federated Reinforcement Learning for Distributed Resource Allocation**|Zelin Ji et.al.|[2307.02900v1](http://arxiv.org/abs/2307.02900v1)|null|
 |**2023-07-06**|**Large Language Models Empowered Autonomous Edge AI for Connected Intelligence**|Yifei Shen et.al.|[2307.02779v1](http://arxiv.org/abs/2307.02779v1)|null|
 |**2023-07-05**|**FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout**|Irene Wang et.al.|[2307.02623v1](http://arxiv.org/abs/2307.02623v1)|null|
