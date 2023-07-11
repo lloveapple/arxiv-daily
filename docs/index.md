@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,7 +1230,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-07**|**Incentive Allocation in Vertical Federated Learning Based on Bankruptcy Problem**|Afsana Khan et.al.|[2307.03515v1](http://arxiv.org/abs/2307.03515v1)|null|
 |**2023-07-07**|**Federated Unlearning via Active Forgetting**|Yuyuan Li et.al.|[2307.03363v1](http://arxiv.org/abs/2307.03363v1)|null|
-|**2023-07-06**|**Meta Federated Reinforcement Learning for Distributed Resource Allocation**|Zelin Ji et.al.|[2307.02900v1](http://arxiv.org/abs/2307.02900v1)|null|
+|**2023-07-09**|**Meta Federated Reinforcement Learning for Distributed Resource Allocation**|Zelin Ji et.al.|[2307.02900v2](http://arxiv.org/abs/2307.02900v2)|null|
 |**2023-07-06**|**Large Language Models Empowered Autonomous Edge AI for Connected Intelligence**|Yifei Shen et.al.|[2307.02779v1](http://arxiv.org/abs/2307.02779v1)|null|
 |**2023-07-05**|**FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout**|Irene Wang et.al.|[2307.02623v1](http://arxiv.org/abs/2307.02623v1)|null|
 |**2023-07-05**|**Privacy-Preserving Federated Heavy Hitter Analytics for Non-IID Data**|Jiaqi Shao et.al.|[2307.02277v1](http://arxiv.org/abs/2307.02277v1)|null|
