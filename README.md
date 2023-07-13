@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators**|Sikai Bai et.al.|[2307.05358v1](http://arxiv.org/abs/2307.05358v1)|null|
+|**2023-07-11**|**Benchmarking Algorithms for Federated Domain Generalization**|Ruqi Bai et.al.|[2307.04942v1](http://arxiv.org/abs/2307.04942v1)|**[link](https://github.com/inouye-lab/feddg_benchmark)**|
+|**2023-07-10**|**FedYolo: Augmenting Federated Learning with Pretrained Transformers**|Xuechen Zhang et.al.|[2307.04905v1](http://arxiv.org/abs/2307.04905v1)|null|
 |**2023-07-10**|**Advances and Challenges in Meta-Learning: A Technical Review**|Anna Vettoruzzo et.al.|[2307.04722v1](http://arxiv.org/abs/2307.04722v1)|null|
 |**2023-07-11**|**Generalization Error of First-Order Methods for Statistical Learning with Generic Oracles**|Kevin Scaman et.al.|[2307.04679v2](http://arxiv.org/abs/2307.04679v2)|null|
 |**2023-07-10**|**FedDCT: A Dynamic Cross-Tier Federated Learning Scheme in Wireless Communication Networks**|Peng Liu et.al.|[2307.04420v1](http://arxiv.org/abs/2307.04420v1)|null|
@@ -551,7 +554,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
