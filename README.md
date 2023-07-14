@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jiang et.al.|[2307.06933v1](http://arxiv.org/abs/2307.06933v1)|null|
+|**2023-07-13**|**Online Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2307.06620v1](http://arxiv.org/abs/2307.06620v1)|null|
+|**2023-07-13**|**A Case for Offloading Federated Learning Server on Smart NIC**|Naoki Shibahara et.al.|[2307.06561v1](http://arxiv.org/abs/2307.06561v1)|null|
+|**2023-07-13**|**An Image-Denoising Framework Fit for Quantum Annealing via QUBO and Restricted Boltzmann Machines**|Phillip Kerger et.al.|[2307.06542v1](http://arxiv.org/abs/2307.06542v1)|null|
 |**2023-07-12**|**Information-Theoretically Private Federated Submodel Learning with Storage Constrained Databases**|Sajani Vithana et.al.|[2307.06323v1](http://arxiv.org/abs/2307.06323v1)|null|
 |**2023-07-12**|**Locally Adaptive Federated Learning via Stochastic Polyak Stepsizes**|Sohom Mukherjee et.al.|[2307.06306v1](http://arxiv.org/abs/2307.06306v1)|**[link](https://github.com/IssamLaradji/sps)**|
 |**2023-07-12**|**Tackling Computational Heterogeneity in FL: A Few Theoretical Insights**|Adnan Ben Mansour et.al.|[2307.06283v1](http://arxiv.org/abs/2307.06283v1)|null|
