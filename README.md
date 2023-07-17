@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Population Expansion for Training Language Models with Private Federated Learning**|Tatsuki Koga et.al.|[2307.07477v1](http://arxiv.org/abs/2307.07477v1)|null|
+|**2023-07-14**|**Improved Convergence Analysis and SNR Control Strategies for Federated Learning in the Presence of Noise**|Antesh Upadhyay et.al.|[2307.07406v1](http://arxiv.org/abs/2307.07406v1)|null|
+|**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|null|
+|**2023-07-14**|**Ed-Fed: A generic federated learning framework with resource-aware client selection for edge devices**|Zitha Sasindran et.al.|[2307.07199v1](http://arxiv.org/abs/2307.07199v1)|null|
+|**2023-07-14**|**FedBIAD: Communication-Efficient and Accuracy-Guaranteed Federated Learning with Bayesian Inference-Based Adaptive Dropout**|Jingjing Xue et.al.|[2307.07172v1](http://arxiv.org/abs/2307.07172v1)|null|
+|**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146v1](http://arxiv.org/abs/2307.07146v1)|null|
+|**2023-07-13**|**CryptoQFL: Quantum Federated Learning on Encrypted Data**|Cheng Chu et.al.|[2307.07012v1](http://arxiv.org/abs/2307.07012v1)|null|
 |**2023-07-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jiang et.al.|[2307.06933v1](http://arxiv.org/abs/2307.06933v1)|null|
 |**2023-07-13**|**Online Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2307.06620v1](http://arxiv.org/abs/2307.06620v1)|null|
 |**2023-07-13**|**A Case for Offloading Federated Learning Server on Smart NIC**|Naoki Shibahara et.al.|[2307.06561v1](http://arxiv.org/abs/2307.06561v1)|null|
