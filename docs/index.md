@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**FedCME: Client Matching and Classifier Exchanging to Handle Data Heterogeneity in Federated Learning**|Jun Nie et.al.|[2307.08574v1](http://arxiv.org/abs/2307.08574v1)|null|
+|**2023-07-17**|**On-board Federated Learning for Satellite Clusters with Inter-Satellite Links**|Nasrin Razmi et.al.|[2307.08346v1](http://arxiv.org/abs/2307.08346v1)|null|
+|**2023-07-17**|**A Secure Aggregation for Federated Learning on Long-Tailed Data**|Yanna Jiang et.al.|[2307.08324v1](http://arxiv.org/abs/2307.08324v1)|null|
+|**2023-07-16**|**A Recursive Bateson-Inspired Model for the Generation of Semantic Formal Concepts from Spatial Sensory Data**|Jaime de Miguel Rodriguez et.al.|[2307.08087v1](http://arxiv.org/abs/2307.08087v1)|null|
+|**2023-07-16**|**Optimal Compression of Unit Norm Vectors in the High Distortion Regime**|Heng Zhu et.al.|[2307.07941v1](http://arxiv.org/abs/2307.07941v1)|null|
 |**2023-07-14**|**Population Expansion for Training Language Models with Private Federated Learning**|Tatsuki Koga et.al.|[2307.07477v1](http://arxiv.org/abs/2307.07477v1)|null|
 |**2023-07-14**|**Improved Convergence Analysis and SNR Control Strategies for Federated Learning in the Presence of Noise**|Antesh Upadhyay et.al.|[2307.07406v1](http://arxiv.org/abs/2307.07406v1)|null|
 |**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|null|
