@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Mobility-Aware Joint User Scheduling and Resource Allocation for Low Latency Federated Learning**|Kecheng Fan et.al.|[2307.09263v1](http://arxiv.org/abs/2307.09263v1)|null|
+|**2023-07-18**|**Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey**|Kilian Pfeiffer et.al.|[2307.09182v1](http://arxiv.org/abs/2307.09182v1)|null|
+|**2023-07-18**|**A Federated learning model for Electric Energy management using Blockchain Technology**|Muhammad Shoaib Farooq et.al.|[2307.09080v1](http://arxiv.org/abs/2307.09080v1)|null|
+|**2023-07-18**|**FedDefender: Client-Side Attack-Tolerant Federated Learning**|Sungwon Park et.al.|[2307.09048v1](http://arxiv.org/abs/2307.09048v1)|**[link](https://github.com/deu30303/feddefender)**|
+|**2023-07-18**|**Federated Large Language Model: A Position Paper**|Chaochao Chen et.al.|[2307.08925v1](http://arxiv.org/abs/2307.08925v1)|null|
+|**2023-07-17**|**Privacy-preserving patient clustering for personalized federated learning**|Ahmed Elhussein et.al.|[2307.08847v1](http://arxiv.org/abs/2307.08847v1)|**[link](https://github.com/g2lab/pcfbl)**|
+|**2023-07-17**|**Local or Global: Selective Knowledge Assimilation for Federated Learning with Limited Labels**|Yae Jee Cho et.al.|[2307.08809v1](http://arxiv.org/abs/2307.08809v1)|null|
 |**2023-07-17**|**FedCME: Client Matching and Classifier Exchanging to Handle Data Heterogeneity in Federated Learning**|Jun Nie et.al.|[2307.08574v1](http://arxiv.org/abs/2307.08574v1)|null|
 |**2023-07-17**|**On-board Federated Learning for Satellite Clusters with Inter-Satellite Links**|Nasrin Razmi et.al.|[2307.08346v1](http://arxiv.org/abs/2307.08346v1)|null|
 |**2023-07-17**|**A Secure Aggregation for Federated Learning on Long-Tailed Data**|Yanna Jiang et.al.|[2307.08324v1](http://arxiv.org/abs/2307.08324v1)|null|
