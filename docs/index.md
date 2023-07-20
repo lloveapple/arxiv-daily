@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Learner Referral for Cost-Effective Federated Learning Over Hierarchical IoT Networks**|Yulan Gao et.al.|[2307.09977v1](http://arxiv.org/abs/2307.09977v1)|null|
+|**2023-07-19**|**Graph Federated Learning Based on the Decentralized Framework**|Peilin Liu et.al.|[2307.09801v1](http://arxiv.org/abs/2307.09801v1)|null|
+|**2023-07-18**|**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning**|Zachary Charles et.al.|[2307.09619v1](http://arxiv.org/abs/2307.09619v1)|**[link](https://github.com/google-research/dataset_grouper)**|
+|**2023-07-18**|**Explanation-Guided Fair Federated Learning for Transparent 6G RAN Slicing**|Swastika Roy et.al.|[2307.09494v1](http://arxiv.org/abs/2307.09494v1)|null|
 |**2023-07-18**|**Mobility-Aware Joint User Scheduling and Resource Allocation for Low Latency Federated Learning**|Kecheng Fan et.al.|[2307.09263v1](http://arxiv.org/abs/2307.09263v1)|null|
 |**2023-07-18**|**Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey**|Kilian Pfeiffer et.al.|[2307.09182v1](http://arxiv.org/abs/2307.09182v1)|null|
 |**2023-07-18**|**A Federated learning model for Electric Energy management using Blockchain Technology**|Muhammad Shoaib Farooq et.al.|[2307.09080v1](http://arxiv.org/abs/2307.09080v1)|null|
