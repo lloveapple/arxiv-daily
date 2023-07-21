@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Private Federated Learning with Autotuned Compression**|Enayat Ullah et.al.|[2307.10999v1](http://arxiv.org/abs/2307.10999v1)|null|
+|**2023-07-20**|**Communication-Efficient Federated Learning over Capacity-Limited Wireless Networks**|Jaewon Yun et.al.|[2307.10815v1](http://arxiv.org/abs/2307.10815v1)|null|
+|**2023-07-20**|**Fairness-Aware Client Selection for Federated Learning**|Yuxin Shi et.al.|[2307.10738v1](http://arxiv.org/abs/2307.10738v1)|null|
+|**2023-07-20**|**A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency**|Jiawei Shao et.al.|[2307.10655v1](http://arxiv.org/abs/2307.10655v1)|null|
+|**2023-07-20**|**Heterogeneous Federated Learning: State-of-the-art and Research Challenges**|Mang Ye et.al.|[2307.10616v1](http://arxiv.org/abs/2307.10616v1)|**[link](https://github.com/marswhu/hfl_survey)**|
+|**2023-07-20**|**SecureBoost Hyperparameter Tuning via Multi-Objective Federated Learning**|Ziyao Ren et.al.|[2307.10579v1](http://arxiv.org/abs/2307.10579v1)|null|
+|**2023-07-20**|**Boosting Federated Learning Convergence with Prototype Regularization**|Yu Qiao et.al.|[2307.10575v1](http://arxiv.org/abs/2307.10575v1)|null|
+|**2023-07-20**|**FedSoup: Improving Generalization and Personalization in Federated Learning via Selective Model Interpolation**|Minghui Chen et.al.|[2307.10507v1](http://arxiv.org/abs/2307.10507v1)|**[link](https://github.com/ubc-tea/fedsoup)**|
+|**2023-07-19**|**Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior**|Amir Jaberzadeh et.al.|[2307.10492v1](http://arxiv.org/abs/2307.10492v1)|null|
 |**2023-07-19**|**Learner Referral for Cost-Effective Federated Learning Over Hierarchical IoT Networks**|Yulan Gao et.al.|[2307.09977v1](http://arxiv.org/abs/2307.09977v1)|null|
 |**2023-07-19**|**Graph Federated Learning Based on the Decentralized Framework**|Peilin Liu et.al.|[2307.09801v1](http://arxiv.org/abs/2307.09801v1)|null|
 |**2023-07-18**|**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning**|Zachary Charles et.al.|[2307.09619v1](http://arxiv.org/abs/2307.09619v1)|**[link](https://github.com/google-research/dataset_grouper)**|
