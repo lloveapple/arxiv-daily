@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730v1](http://arxiv.org/abs/2307.11730v1)|null|
+|**2023-07-21**|**FedAutoMRI: Federated Neural Architecture Search for MR Image Reconstruction**|Ruoyou Wu et.al.|[2307.11538v1](http://arxiv.org/abs/2307.11538v1)|null|
+|**2023-07-21**|**Training Latency Minimization for Model-Splitting Allowed Federated Edge Learning**|Yao Wen et.al.|[2307.11532v1](http://arxiv.org/abs/2307.11532v1)|null|
+|**2023-07-21**|**Zero-touch realization of Pervasive Artificial Intelligence-as-a-service in 6G networks**|Emna Baccour et.al.|[2307.11468v1](http://arxiv.org/abs/2307.11468v1)|null|
+|**2023-07-21**|**Demystifying Local and Global Fairness Trade-offs in Federated Learning Using Partial Information Decomposition**|Faisal Hamman et.al.|[2307.11333v1](http://arxiv.org/abs/2307.11333v1)|null|
+|**2023-07-21**|**MAS: Towards Resource-Efficient Federated Multiple-Task Learning**|Weiming Zhuang et.al.|[2307.11285v1](http://arxiv.org/abs/2307.11285v1)|null|
+|**2023-07-20**|**A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing**|Le Peng et.al.|[2307.11254v1](http://arxiv.org/abs/2307.11254v1)|null|
 |**2023-07-20**|**Private Federated Learning with Autotuned Compression**|Enayat Ullah et.al.|[2307.10999v1](http://arxiv.org/abs/2307.10999v1)|**[link](https://github.com/google-research/federated)**|
 |**2023-07-20**|**Communication-Efficient Federated Learning over Capacity-Limited Wireless Networks**|Jaewon Yun et.al.|[2307.10815v1](http://arxiv.org/abs/2307.10815v1)|null|
 |**2023-07-20**|**Fairness-Aware Client Selection for Federated Learning**|Yuxin Shi et.al.|[2307.10738v1](http://arxiv.org/abs/2307.10738v1)|null|
