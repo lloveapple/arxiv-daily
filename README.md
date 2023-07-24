@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-07-20**|**Fairness-Aware Client Selection for Federated Learning**|Yuxin Shi et.al.|[2307.10738v1](http://arxiv.org/abs/2307.10738v1)|null|
 |**2023-07-20**|**A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency**|Jiawei Shao et.al.|[2307.10655v1](http://arxiv.org/abs/2307.10655v1)|null|
 |**2023-07-20**|**Heterogeneous Federated Learning: State-of-the-art and Research Challenges**|Mang Ye et.al.|[2307.10616v1](http://arxiv.org/abs/2307.10616v1)|**[link](https://github.com/marswhu/hfl_survey)**|
-|**2023-07-20**|**SecureBoost Hyperparameter Tuning via Multi-Objective Federated Learning**|Ziyao Ren et.al.|[2307.10579v1](http://arxiv.org/abs/2307.10579v1)|null|
+|**2023-07-21**|**SecureBoost Hyperparameter Tuning via Multi-Objective Federated Learning**|Ziyao Ren et.al.|[2307.10579v2](http://arxiv.org/abs/2307.10579v2)|null|
 |**2023-07-20**|**Boosting Federated Learning Convergence with Prototype Regularization**|Yu Qiao et.al.|[2307.10575v1](http://arxiv.org/abs/2307.10575v1)|null|
 |**2023-07-20**|**FedSoup: Improving Generalization and Personalization in Federated Learning via Selective Model Interpolation**|Minghui Chen et.al.|[2307.10507v1](http://arxiv.org/abs/2307.10507v1)|**[link](https://github.com/ubc-tea/fedsoup)**|
 |**2023-07-19**|**Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior**|Amir Jaberzadeh et.al.|[2307.10492v1](http://arxiv.org/abs/2307.10492v1)|null|
@@ -594,7 +594,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
