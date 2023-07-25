@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Towards Bridging the FL Performance-Explainability Trade-Off: A Trustworthy 6G RAN Slicing Use-Case**|Swastika Roy et.al.|[2307.12903v1](http://arxiv.org/abs/2307.12903v1)|null|
+|**2023-07-24**|**Imperfect CSI: A Key Factor of Uncertainty to Over-the-Air Federated Learning**|Jiacheng Yao et.al.|[2307.12793v1](http://arxiv.org/abs/2307.12793v1)|null|
+|**2023-07-24**|**Client-Level Differential Privacy via Adaptive Intermediary in Federated Medical Imaging**|Meirui Jiang et.al.|[2307.12542v1](http://arxiv.org/abs/2307.12542v1)|**[link](https://github.com/med-air/client-dp-fl)**|
+|**2023-07-23**|**ProtoFL: Unsupervised Federated Learning via Prototypical Distillation**|Hansol Kim et.al.|[2307.12450v1](http://arxiv.org/abs/2307.12450v1)|null|
+|**2023-07-22**|**Security and Privacy Issues of Federated Learning**|Jahid Hasan et.al.|[2307.12181v1](http://arxiv.org/abs/2307.12181v1)|null|
+|**2023-07-22**|**CorrFL: Correlation-Based Neural Network Architecture for Unavailability Concerns in a Heterogeneous IoT Environment**|Ibrahim Shaer et.al.|[2307.12149v1](http://arxiv.org/abs/2307.12149v1)|**[link](https://github.com/Western-OC2-Lab/CorrFL)**|
+|**2023-07-22**|**The Sample Complexity of Multi-Distribution Learning for VC Classes**|Pranjal Awasthi et.al.|[2307.12135v1](http://arxiv.org/abs/2307.12135v1)|null|
+|**2023-07-21**|**Project Florida: Federated Learning Made Easy**|Daniel Madrigal Diaz et.al.|[2307.11899v1](http://arxiv.org/abs/2307.11899v1)|null|
 |**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730v1](http://arxiv.org/abs/2307.11730v1)|null|
 |**2023-07-21**|**FedAutoMRI: Federated Neural Architecture Search for MR Image Reconstruction**|Ruoyou Wu et.al.|[2307.11538v1](http://arxiv.org/abs/2307.11538v1)|null|
 |**2023-07-21**|**Training Latency Minimization for Model-Splitting Allowed Federated Edge Learning**|Yao Wen et.al.|[2307.11532v1](http://arxiv.org/abs/2307.11532v1)|null|
