@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Secure Aggregation with an Oblivious Server**|Hua Sun et.al.|[2307.13474v1](http://arxiv.org/abs/2307.13474v1)|null|
+|**2023-07-25**|**Scaff-PD: Communication Efficient Fair and Robust Federated Learning**|Yaodong Yu et.al.|[2307.13381v1](http://arxiv.org/abs/2307.13381v1)|null|
+|**2023-07-25**|**High Dimensional Distributed Gradient Descent with Arbitrary Number of Byzantine Attackers**|Puning Zhao et.al.|[2307.13352v1](http://arxiv.org/abs/2307.13352v1)|null|
+|**2023-07-25**|**Mitigating Cross-client GANs-based Attack in Federated Learning**|Hong Huang et.al.|[2307.13314v1](http://arxiv.org/abs/2307.13314v1)|null|
+|**2023-07-25**|**FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning**|Huy Q. Le et.al.|[2307.13214v1](http://arxiv.org/abs/2307.13214v1)|null|
+|**2023-07-24**|**HasTEE: Programming Trusted Execution Environments with Haskell**|Abhiroop Sarkar et.al.|[2307.13172v1](http://arxiv.org/abs/2307.13172v1)|null|
 |**2023-07-24**|**Towards Bridging the FL Performance-Explainability Trade-Off: A Trustworthy 6G RAN Slicing Use-Case**|Swastika Roy et.al.|[2307.12903v1](http://arxiv.org/abs/2307.12903v1)|null|
 |**2023-07-24**|**Imperfect CSI: A Key Factor of Uncertainty to Over-the-Air Federated Learning**|Jiacheng Yao et.al.|[2307.12793v1](http://arxiv.org/abs/2307.12793v1)|null|
 |**2023-07-24**|**Client-Level Differential Privacy via Adaptive Intermediary in Federated Medical Imaging**|Meirui Jiang et.al.|[2307.12542v1](http://arxiv.org/abs/2307.12542v1)|**[link](https://github.com/med-air/client-dp-fl)**|
