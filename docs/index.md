@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**A Clustering Strategy for Enhanced FL-Based Intrusion Detection in IoT Networks**|Jacopo Talpini et.al.|[2307.14268v1](http://arxiv.org/abs/2307.14268v1)|null|
+|**2023-07-26**|**Take Your Pick: Enabling Effective Personalized Federated Learning within Low-dimensional Feature Space**|Guogang Zhu et.al.|[2307.13995v1](http://arxiv.org/abs/2307.13995v1)|null|
+|**2023-07-26**|**Low-Parameter Federated Learning with Large Language Models**|Jingang Jiang et.al.|[2307.13896v1](http://arxiv.org/abs/2307.13896v1)|null|
+|**2023-07-25**|**SplitFed resilience to packet loss: Where to split, that is the question**|Chamani Shiranthika et.al.|[2307.13851v1](http://arxiv.org/abs/2307.13851v1)|null|
+|**2023-07-25**|**Integration of Digital Twin and Federated Learning for Securing Vehicular Internet of Things**|Deepti Gupta et.al.|[2307.13794v1](http://arxiv.org/abs/2307.13794v1)|null|
+|**2023-07-25**|**FedDRL: A Trustworthy Federated Learning Model Fusion Method Based on Staged Reinforcement Learning**|Leiming Chen et.al.|[2307.13716v1](http://arxiv.org/abs/2307.13716v1)|null|
 |**2023-07-25**|**Secure Aggregation with an Oblivious Server**|Hua Sun et.al.|[2307.13474v1](http://arxiv.org/abs/2307.13474v1)|null|
 |**2023-07-25**|**Scaff-PD: Communication Efficient Fair and Robust Federated Learning**|Yaodong Yu et.al.|[2307.13381v1](http://arxiv.org/abs/2307.13381v1)|null|
 |**2023-07-25**|**High Dimensional Distributed Gradient Descent with Arbitrary Number of Byzantine Attackers**|Puning Zhao et.al.|[2307.13352v1](http://arxiv.org/abs/2307.13352v1)|null|
