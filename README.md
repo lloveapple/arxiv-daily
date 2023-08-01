@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**Proof-of-Federated-Learning-Subchain: Free Partner Selection Subchain Based on Federated Learning**|Boyang Li et.al.|[2307.16342v1](http://arxiv.org/abs/2307.16342v1)|null|
+|**2023-07-30**|**Shuffled Differentially Private Federated Learning for Time Series Data Analytics**|Chenxi Huang et.al.|[2307.16196v1](http://arxiv.org/abs/2307.16196v1)|null|
+|**2023-07-29**|**Structural restrictions in local causal discovery: identifying direct causes of a target variable**|Juraj Bodik et.al.|[2307.16048v1](http://arxiv.org/abs/2307.16048v1)|**[link](https://github.com/jurobodik/structural-restrictions-in-local-causal-discovery)**|
+|**2023-07-29**|**UPFL: Unsupervised Personalized Federated Learning towards New Clients**|Tiandi Ye et.al.|[2307.15994v1](http://arxiv.org/abs/2307.15994v1)|**[link](https://github.com/anonymous-federated-learning/code)**|
+|**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975v1](http://arxiv.org/abs/2307.15975v1)|null|
+|**2023-07-29**|**You Can Backdoor Personalized Federated Learning**|Tiandi Ye et.al.|[2307.15971v1](http://arxiv.org/abs/2307.15971v1)|**[link](https://github.com/bapfl/code)**|
+|**2023-07-29**|**Efficient Semi-Supervised Federated Learning for Heterogeneous Participants**|Zhipeng Sun et.al.|[2307.15870v1](http://arxiv.org/abs/2307.15870v1)|null|
+|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860v1](http://arxiv.org/abs/2307.15860v1)|null|
 |**2023-07-28**|**The Applicability of Federated Learning to Official Statistics**|Joshua Stock et.al.|[2307.15503v1](http://arxiv.org/abs/2307.15503v1)|null|
 |**2023-07-28**|**A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design**|Mahdi Morafah et.al.|[2307.15245v1](http://arxiv.org/abs/2307.15245v1)|**[link](https://github.com/mmorafah/fedzoo-bench)**|
 |**2023-07-27**|**Samplable Anonymous Aggregation for Private Federated Data Analysis**|Kunal Talwar et.al.|[2307.15017v1](http://arxiv.org/abs/2307.15017v1)|null|
