@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning**|Huimin Li et.al.|[2308.00553v1](http://arxiv.org/abs/2308.00553v1)|null|
+|**2023-08-01**|**Compressed Private Aggregation for Scalable and Robust Federated Learning over Massive Networks**|Natalie Lang et.al.|[2308.00540v1](http://arxiv.org/abs/2308.00540v1)|**[link](https://github.com/langnatalie/CPA)**|
+|**2023-08-01**|**Computation Offloading with Multiple Agents in Edge-Computing-Supported IoT**|Shihao Shen et.al.|[2308.00463v1](http://arxiv.org/abs/2308.00463v1)|null|
+|**2023-08-01**|**Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification**|Ziyuan Yang et.al.|[2308.00451v1](http://arxiv.org/abs/2308.00451v1)|null|
+|**2023-08-01**|**Data Collaboration Analysis applied to Compound Datasets and the Introduction of Projection data to Non-IID settings**|Akihiro Mizoguchi et.al.|[2308.00280v1](http://arxiv.org/abs/2308.00280v1)|null|
+|**2023-08-01**|**Enhanced Security with Encrypted Vision Transformer in Federated Learning**|Rei Aso et.al.|[2308.00271v1](http://arxiv.org/abs/2308.00271v1)|null|
+|**2023-08-01**|**Asynchronous Federated Learning with Bidirectional Quantized Communications and Buffered Aggregation**|Tomas Ortega et.al.|[2308.00263v1](http://arxiv.org/abs/2308.00263v1)|null|
+|**2023-08-01**|**AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**|Zihao Zhao et.al.|[2308.00258v1](http://arxiv.org/abs/2308.00258v1)|null|
+|**2023-07-31**|**Federated Learning for Data and Model Heterogeneity in Medical Imaging**|Hussain Ahmad Madni et.al.|[2308.00155v1](http://arxiv.org/abs/2308.00155v1)|null|
 |**2023-07-30**|**Proof-of-Federated-Learning-Subchain: Free Partner Selection Subchain Based on Federated Learning**|Boyang Li et.al.|[2307.16342v1](http://arxiv.org/abs/2307.16342v1)|null|
 |**2023-07-30**|**Shuffled Differentially Private Federated Learning for Time Series Data Analytics**|Chenxi Huang et.al.|[2307.16196v1](http://arxiv.org/abs/2307.16196v1)|null|
 |**2023-07-29**|**Structural restrictions in local causal discovery: identifying direct causes of a target variable**|Juraj Bodik et.al.|[2307.16048v1](http://arxiv.org/abs/2307.16048v1)|**[link](https://github.com/jurobodik/structural-restrictions-in-local-causal-discovery)**|
