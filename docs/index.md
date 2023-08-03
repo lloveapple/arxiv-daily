@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Straggler Mitigation and Latency Optimization in Blockchain-based Hierarchical Federated Learning**|Zhilin Wang et.al.|[2308.01296v1](http://arxiv.org/abs/2308.01296v1)|null|
+|**2023-08-02**|**Dynamic Privacy Allocation for Locally Differentially Private Federated Learning with Composite Objectives**|Jiaojiao Zhang et.al.|[2308.01139v1](http://arxiv.org/abs/2308.01139v1)|null|
+|**2023-08-01**|**Differential Privacy for Adaptive Weight Aggregation in Federated Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2308.00856v1](http://arxiv.org/abs/2308.00856v1)|null|
 |**2023-08-01**|**FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning**|Huimin Li et.al.|[2308.00553v1](http://arxiv.org/abs/2308.00553v1)|null|
 |**2023-08-01**|**Compressed Private Aggregation for Scalable and Robust Federated Learning over Massive Networks**|Natalie Lang et.al.|[2308.00540v1](http://arxiv.org/abs/2308.00540v1)|**[link](https://github.com/langnatalie/CPA)**|
 |**2023-08-01**|**Computation Offloading with Multiple Agents in Edge-Computing-Supported IoT**|Shihao Shen et.al.|[2308.00463v1](http://arxiv.org/abs/2308.00463v1)|null|
