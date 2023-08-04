@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Exploiting Multi-Label Correlation in Label Distribution Learning**|Zhiqiang Kou jing wang yuheng jia xin geng et.al.|[2308.01742v1](http://arxiv.org/abs/2308.01742v1)|null|
+|**2023-08-03**|**Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity**|Md Ferdous Pervej et.al.|[2308.01562v1](http://arxiv.org/abs/2308.01562v1)|null|
+|**2023-08-03**|**Towards Fair and Privacy Preserving Federated Learning for the Healthcare Domain**|Navya Annapareddy et.al.|[2308.01529v1](http://arxiv.org/abs/2308.01529v1)|null|
+|**2023-08-02**|**Compressed and distributed least-squares regression: convergence rates with applications to Federated Learning**|Constantin Philippenko et.al.|[2308.01358v1](http://arxiv.org/abs/2308.01358v1)|null|
 |**2023-08-02**|**Straggler Mitigation and Latency Optimization in Blockchain-based Hierarchical Federated Learning**|Zhilin Wang et.al.|[2308.01296v1](http://arxiv.org/abs/2308.01296v1)|null|
 |**2023-08-02**|**Dynamic Privacy Allocation for Locally Differentially Private Federated Learning with Composite Objectives**|Jiaojiao Zhang et.al.|[2308.01139v1](http://arxiv.org/abs/2308.01139v1)|null|
 |**2023-08-01**|**Differential Privacy for Adaptive Weight Aggregation in Federated Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2308.00856v1](http://arxiv.org/abs/2308.00856v1)|null|
