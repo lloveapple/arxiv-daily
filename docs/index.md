@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
+|**2023-08-04**|**Scaling Survival Analysis in Healthcare with Federated Survival Forests: A Comparative Study on Heart Failure and Breast Cancer Genomics**|Alberto Archetti et.al.|[2308.02382v1](http://arxiv.org/abs/2308.02382v1)|null|
+|**2023-08-04**|**Federated Learning: Organizational Opportunities, Challenges, and Adoption Strategies**|Joaquin Delgado Fernandez et.al.|[2308.02219v1](http://arxiv.org/abs/2308.02219v1)|null|
+|**2023-08-04**|**LISA: LIghtweight single-server Secure Aggregation with a public source of randomness**|Elina van Kempen et.al.|[2308.02208v1](http://arxiv.org/abs/2308.02208v1)|null|
+|**2023-08-03**|**Federated Representation Learning for Automatic Speech Recognition**|Guruprasad V Rames et.al.|[2308.02013v1](http://arxiv.org/abs/2308.02013v1)|null|
 |**2023-08-03**|**Exploiting Multi-Label Correlation in Label Distribution Learning**|Zhiqiang Kou jing wang yuheng jia xin geng et.al.|[2308.01742v1](http://arxiv.org/abs/2308.01742v1)|null|
 |**2023-08-03**|**Hierarchical Federated Learning in Wireless Networks: Pruning Tackles Bandwidth Scarcity and System Heterogeneity**|Md Ferdous Pervej et.al.|[2308.01562v1](http://arxiv.org/abs/2308.01562v1)|null|
 |**2023-08-03**|**Towards Fair and Privacy Preserving Federated Learning for the Healthcare Domain**|Navya Annapareddy et.al.|[2308.01529v1](http://arxiv.org/abs/2308.01529v1)|null|
