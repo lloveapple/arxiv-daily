@@ -275,7 +275,7 @@
 |**2023-06-02**|**Resource-Efficient Federated Hyperdimensional Computing**|Nikita Zeulin et.al.|[2306.01339v1](http://arxiv.org/abs/2306.01339v1)|null|
 |**2023-06-02**|**Federated Domain Generalization: A Survey**|Ying Li et.al.|[2306.01334v1](http://arxiv.org/abs/2306.01334v1)|null|
 |**2023-06-02**|**Federated Learning Games for Reconfigurable Intelligent Surfaces via Causal Representations**|Charbel Bou Chaaya et.al.|[2306.01306v1](http://arxiv.org/abs/2306.01306v1)|null|
-|**2023-06-02**|**Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs**|Tengfei Ma et.al.|[2306.01240v1](http://arxiv.org/abs/2306.01240v1)|null|
+|**2023-06-02**|**Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs**|Tengfei Ma et.al.|[2306.01240v1](http://arxiv.org/abs/2306.01240v1)|**[link](https://github.com/matenure/federated_feature_fusion)**|
 |**2023-06-01**|**CSMAAFL: Client Scheduling and Model Aggregation in Asynchronous Federated Learning**|Xiang Ma et.al.|[2306.01207v1](http://arxiv.org/abs/2306.01207v1)|null|
 |**2023-06-01**|**Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging**|Jiamian Wang et.al.|[2306.01176v1](http://arxiv.org/abs/2306.01176v1)|null|
 |**2023-06-01**|**Learning Across Decentralized Multi-Modal Remote Sensing Archives with Federated Learning**|Barış Büyüktaş et.al.|[2306.00792v1](http://arxiv.org/abs/2306.00792v1)|null|
@@ -564,7 +564,7 @@
 |**2023-03-24**|**A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing**|Ervin Moore et.al.|[2303.13727v1](http://arxiv.org/abs/2303.13727v1)|null|
 |**2023-03-23**|**Federated Learning on Heterogenous Data using Chest CT**|Edward H. Lee et.al.|[2303.13567v1](http://arxiv.org/abs/2303.13567v1)|null|
 |**2023-03-23**|**FS-Real: Towards Real-World Cross-Device Federated Learning**|Daoyuan Chen et.al.|[2303.13363v1](http://arxiv.org/abs/2303.13363v1)|null|
-|**2023-03-23**|**FedGH: Heterogeneous Federated Learning with Generalized Global Header**|Liping Yi et.al.|[2303.13137v1](http://arxiv.org/abs/2303.13137v1)|null|
+|**2023-03-23**|**FedGH: Heterogeneous Federated Learning with Generalized Global Header**|Liping Yi et.al.|[2303.13137v1](http://arxiv.org/abs/2303.13137v1)|**[link](https://github.com/lipingyi/fedgh)**|
 |**2023-03-23**|**Federated Uncertainty-Aware Aggregation for Fundus Diabetic Retinopathy Staging**|Meng Wang et.al.|[2303.13033v1](http://arxiv.org/abs/2303.13033v1)|null|
 |**2023-03-23**|**Failure-tolerant Distributed Learning for Anomaly Detection in Wireless Networks**|Marc Katzef et.al.|[2303.13015v1](http://arxiv.org/abs/2303.13015v1)|null|
 |**2023-03-23**|**Automated Federated Learning in Mobile Edge Networks -- Fast Adaptation and Convergence**|Chaoqun You et.al.|[2303.12999v1](http://arxiv.org/abs/2303.12999v1)|null|
