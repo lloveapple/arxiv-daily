@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v1](http://arxiv.org/abs/2308.03713v1)|null|
+|**2023-08-07**|**When Federated Learning meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection**|Mohammed Lansari et.al.|[2308.03573v1](http://arxiv.org/abs/2308.03573v1)|null|
+|**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|null|
+|**2023-08-07**|**Cross-Silo Prototypical Calibration for Federated Learning with Non-IID Data**|Zhuang Qi et.al.|[2308.03457v1](http://arxiv.org/abs/2308.03457v1)|null|
+|**2023-08-07**|**Cuing Without Sharing: A Federated Cued Speech Recognition Framework via Mutual Knowledge Distillation**|Yuxuan Zhang et.al.|[2308.03432v1](http://arxiv.org/abs/2308.03432v1)|null|
+|**2023-08-07**|**A Four-Pronged Defense Against Byzantine Attacks in Federated Learning**|Wei Wan et.al.|[2308.03331v1](http://arxiv.org/abs/2308.03331v1)|null|
+|**2023-08-07**|**Binary Federated Learning with Client-Level Differential Privacy**|Lumin Liu et.al.|[2308.03320v1](http://arxiv.org/abs/2308.03320v1)|null|
+|**2023-08-07**|**Adapter-based Selective Knowledge Distillation for Federated Multi-domain Meeting Summarization**|Xiachong Feng et.al.|[2308.03275v1](http://arxiv.org/abs/2308.03275v1)|null|
+|**2023-08-06**|**Serverless Federated AUPRC Optimization for Multi-Party Collaborative Imbalanced Data Mining**|Xidong Wu et.al.|[2308.03035v1](http://arxiv.org/abs/2308.03035v1)|null|
+|**2023-08-06**|**StyleEDL: Style-Guided High-order Attention Network for Image Emotion Distribution Learning**|Peiguang Jing et.al.|[2308.03000v1](http://arxiv.org/abs/2308.03000v1)|**[link](https://github.com/liuxianyi/styleedl)**|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
 |**2023-08-04**|**Scaling Survival Analysis in Healthcare with Federated Survival Forests: A Comparative Study on Heart Failure and Breast Cancer Genomics**|Alberto Archetti et.al.|[2308.02382v1](http://arxiv.org/abs/2308.02382v1)|null|
 |**2023-08-04**|**Federated Learning: Organizational Opportunities, Challenges, and Adoption Strategies**|Joaquin Delgado Fernandez et.al.|[2308.02219v1](http://arxiv.org/abs/2308.02219v1)|null|
