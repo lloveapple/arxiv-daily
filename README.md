@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning**|Simon Queyrut et.al.|[2308.04373v1](http://arxiv.org/abs/2308.04373v1)|null|
+|**2023-08-08**|**Communication-Efficient Cooperative Multi-Agent PPO via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2308.04198v1](http://arxiv.org/abs/2308.04198v1)|null|
+|**2023-08-08**|**Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients**|Yao Shu et.al.|[2308.04077v1](http://arxiv.org/abs/2308.04077v1)|null|
+|**2023-08-08**|**ConDistFL: Conditional Distillation for Federated Learning from Partially Annotated Data**|Pochuan Wang et.al.|[2308.04070v1](http://arxiv.org/abs/2308.04070v1)|**[link](https://github.com/nvidia/nvflare)**|
+|**2023-08-08**|**NEOLAF, an LLM-powered neural-symbolic cognitive architecture**|Richard Jiarui Tong et.al.|[2308.03990v1](http://arxiv.org/abs/2308.03990v1)|null|
+|**2023-08-07**|**The Prospect of Enhancing Large-Scale Heterogeneous Federated Learning with Transformers**|Yulan Gao et.al.|[2308.03945v1](http://arxiv.org/abs/2308.03945v1)|null|
+|**2023-08-07**|**A Reinforcement Learning-Based Approach to Graph Discovery in D2D-Enabled Federated Learning**|Satyavrat Wagle et.al.|[2308.03933v1](http://arxiv.org/abs/2308.03933v1)|null|
+|**2023-08-07**|**FLIPS: Federated Learning using Intelligent Participant Selection**|Rahul Atul Bhope et.al.|[2308.03901v1](http://arxiv.org/abs/2308.03901v1)|null|
 |**2023-08-08**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v2](http://arxiv.org/abs/2308.03713v2)|null|
 |**2023-08-07**|**When Federated Learning meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection**|Mohammed Lansari et.al.|[2308.03573v1](http://arxiv.org/abs/2308.03573v1)|null|
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|null|
