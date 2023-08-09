@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v1](http://arxiv.org/abs/2308.03713v1)|null|
+|**2023-08-08**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v2](http://arxiv.org/abs/2308.03713v2)|null|
 |**2023-08-07**|**When Federated Learning meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection**|Mohammed Lansari et.al.|[2308.03573v1](http://arxiv.org/abs/2308.03573v1)|null|
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|null|
 |**2023-08-07**|**Cross-Silo Prototypical Calibration for Federated Learning with Non-IID Data**|Zhuang Qi et.al.|[2308.03457v1](http://arxiv.org/abs/2308.03457v1)|null|
