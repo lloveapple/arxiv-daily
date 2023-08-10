@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**An Empirical Study of Bugs in Open-Source Federated Learning Framework**|Weijie Shao et.al.|[2308.05014v1](http://arxiv.org/abs/2308.05014v1)|null|
+|**2023-08-09**|**Wirelessly Powered Federated Learning Networks: Joint Power Transfer, Data Sensing, Model Training, and Resource Allocation**|Mai Le et.al.|[2308.04953v1](http://arxiv.org/abs/2308.04953v1)|null|
+|**2023-08-09**|**Tram-FL: Routing-based Model Training for Decentralized Federated Learning**|Kota Maejima et.al.|[2308.04762v1](http://arxiv.org/abs/2308.04762v1)|null|
+|**2023-08-09**|**Feature Matching Data Synthesis for Non-IID Federated Learning**|Zijian Li et.al.|[2308.04761v1](http://arxiv.org/abs/2308.04761v1)|null|
+|**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699v1](http://arxiv.org/abs/2308.04699v1)|**[link](https://github.com/ffhibnese/gifd)**|
+|**2023-08-09**|**Communication-Efficient Search under Fully Homomorphic Encryption for Federated Machine Learning**|Dongfang Zhao et.al.|[2308.04648v1](http://arxiv.org/abs/2308.04648v1)|null|
+|**2023-08-08**|**A Survey on Decentralized Federated Learning**|Edoardo Gabrielli et.al.|[2308.04604v1](http://arxiv.org/abs/2308.04604v1)|null|
 |**2023-08-08**|**Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning**|Simon Queyrut et.al.|[2308.04373v1](http://arxiv.org/abs/2308.04373v1)|null|
 |**2023-08-08**|**Communication-Efficient Cooperative Multi-Agent PPO via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2308.04198v1](http://arxiv.org/abs/2308.04198v1)|null|
 |**2023-08-08**|**Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients**|Yao Shu et.al.|[2308.04077v1](http://arxiv.org/abs/2308.04077v1)|null|
