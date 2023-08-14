@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Private Distribution Learning with Public Data: The View from Sample Compression**|Shai Ben-David et.al.|[2308.06239v1](http://arxiv.org/abs/2308.06239v1)|null|
+|**2023-08-11**|**Towards Instance-adaptive Inference for Federated Learning**|Chun-Mei Feng et.al.|[2308.06051v1](http://arxiv.org/abs/2308.06051v1)|null|
+|**2023-08-10**|**UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**|Achintha Wijesinghe et.al.|[2308.05870v1](http://arxiv.org/abs/2308.05870v1)|null|
+|**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840v1](http://arxiv.org/abs/2308.05840v1)|null|
+|**2023-08-10**|**FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks**|Ehsanul Kabir et.al.|[2308.05832v1](http://arxiv.org/abs/2308.05832v1)|null|
 |**2023-08-09**|**An Empirical Study of Bugs in Open-Source Federated Learning Framework**|Weijie Shao et.al.|[2308.05014v1](http://arxiv.org/abs/2308.05014v1)|null|
 |**2023-08-09**|**Wirelessly Powered Federated Learning Networks: Joint Power Transfer, Data Sensing, Model Training, and Resource Allocation**|Mai Le et.al.|[2308.04953v1](http://arxiv.org/abs/2308.04953v1)|null|
 |**2023-08-09**|**Tram-FL: Routing-based Model Training for Decentralized Federated Learning**|Kota Maejima et.al.|[2308.04762v1](http://arxiv.org/abs/2308.04762v1)|null|
