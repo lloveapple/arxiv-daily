@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Data-Efficient Energy-Aware Participant Selection for UAV-Enabled Federated Learning**|Youssra Cheriguene et.al.|[2308.07273v1](http://arxiv.org/abs/2308.07273v1)|null|
+|**2023-08-14**|**Federated Learning Assisted Deep Q-Learning for Joint Task Offloading and Fronthaul Segment Routing in Open RAN**|Anselme Ndikumana et.al.|[2308.07258v1](http://arxiv.org/abs/2308.07258v1)|null|
+|**2023-08-14**|**Multimodal Multiple Federated Feature Construction Method for IoT Environments**|Afsaneh Mahanipour et.al.|[2308.07131v1](http://arxiv.org/abs/2308.07131v1)|null|
+|**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
+|**2023-08-14**|**FedEdge AI-TC: A Semi-supervised Traffic Classification Method based on Trusted Federated Deep Learning for Mobile Edge Computing**|Pan Wang et.al.|[2308.06924v1](http://arxiv.org/abs/2308.06924v1)|null|
+|**2023-08-14**|**Federated Classification in Hyperbolic Spaces via Secure Aggregation of Convex Hulls**|Saurav Prakash et.al.|[2308.06895v1](http://arxiv.org/abs/2308.06895v1)|null|
+|**2023-08-13**|**Approximate and Weighted Data Reconstruction Attack in Federated Learning**|Ziqi Wang et.al.|[2308.06822v1](http://arxiv.org/abs/2308.06822v1)|null|
+|**2023-08-12**|**SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models**|Sara Babakniya et.al.|[2308.06522v1](http://arxiv.org/abs/2308.06522v1)|null|
+|**2023-08-12**|**Performance Analysis for Resource Constrained Decentralized Federated Learning Over Wireless Networks**|Zhigang Yan et.al.|[2308.06496v1](http://arxiv.org/abs/2308.06496v1)|null|
+|**2023-08-11**|**Learning Distributions via Monte-Carlo Marginalization**|Chenqiu Zhao et.al.|[2308.06352v1](http://arxiv.org/abs/2308.06352v1)|null|
 |**2023-08-11**|**Private Distribution Learning with Public Data: The View from Sample Compression**|Shai Ben-David et.al.|[2308.06239v1](http://arxiv.org/abs/2308.06239v1)|null|
 |**2023-08-11**|**Towards Instance-adaptive Inference for Federated Learning**|Chun-Mei Feng et.al.|[2308.06051v1](http://arxiv.org/abs/2308.06051v1)|null|
 |**2023-08-10**|**UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**|Achintha Wijesinghe et.al.|[2308.05870v1](http://arxiv.org/abs/2308.05870v1)|null|
