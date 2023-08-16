@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**PoFEL: Energy-efficient Consensus for Blockchain-based Hierarchical Federated Learning**|Shengyang Li et.al.|[2308.07840v1](http://arxiv.org/abs/2308.07840v1)|null|
+|**2023-08-15**|**FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence**|Zhiyuan Wu et.al.|[2308.07816v1](http://arxiv.org/abs/2308.07816v1)|null|
+|**2023-08-15**|**Fairness and Privacy in Federated Learning and Their Implications in Healthcare**|Navya Annapareddy et.al.|[2308.07805v1](http://arxiv.org/abs/2308.07805v1)|null|
+|**2023-08-15**|**NeFL: Nested Federated Learning for Heterogeneous Clients**|Honggu Kang et.al.|[2308.07761v1](http://arxiv.org/abs/2308.07761v1)|null|
+|**2023-08-15**|**Block-Wise Encryption for Reliable Vision Transformer models**|Hitoshi Kiya et.al.|[2308.07612v1](http://arxiv.org/abs/2308.07612v1)|null|
+|**2023-08-14**|**DISBELIEVE: Distance Between Client Models is Very Essential for Effective Local Model Poisoning Attacks**|Indu Joshi et.al.|[2308.07387v1](http://arxiv.org/abs/2308.07387v1)|null|
 |**2023-08-14**|**Data-Efficient Energy-Aware Participant Selection for UAV-Enabled Federated Learning**|Youssra Cheriguene et.al.|[2308.07273v1](http://arxiv.org/abs/2308.07273v1)|null|
 |**2023-08-14**|**Federated Learning Assisted Deep Q-Learning for Joint Task Offloading and Fronthaul Segment Routing in Open RAN**|Anselme Ndikumana et.al.|[2308.07258v1](http://arxiv.org/abs/2308.07258v1)|null|
 |**2023-08-14**|**Multimodal Multiple Federated Feature Construction Method for IoT Environments**|Afsaneh Mahanipour et.al.|[2308.07131v1](http://arxiv.org/abs/2308.07131v1)|null|
