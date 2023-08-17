@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2023-08-15**|**PoFEL: Energy-efficient Consensus for Blockchain-based Hierarchical Federated Learning**|Shengyang Li et.al.|[2308.07840v1](http://arxiv.org/abs/2308.07840v1)|null|
 |**2023-08-15**|**FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence**|Zhiyuan Wu et.al.|[2308.07816v1](http://arxiv.org/abs/2308.07816v1)|null|
-|**2023-08-15**|**Fairness and Privacy in Federated Learning and Their Implications in Healthcare**|Navya Annapareddy et.al.|[2308.07805v1](http://arxiv.org/abs/2308.07805v1)|null|
+|**2023-08-15**|**Fairness and Privacy in Federated Learning and Their Implications in Healthcare**|Navya Annapareddy et.al.|[2308.07805v1](http://arxiv.org/abs/2308.07805v1)|**[link](https://github.com/UVA-MLSys/DS7406)**|
 |**2023-08-15**|**NeFL: Nested Federated Learning for Heterogeneous Clients**|Honggu Kang et.al.|[2308.07761v1](http://arxiv.org/abs/2308.07761v1)|null|
 |**2023-08-15**|**Block-Wise Encryption for Reliable Vision Transformer models**|Hitoshi Kiya et.al.|[2308.07612v1](http://arxiv.org/abs/2308.07612v1)|null|
 |**2023-08-14**|**DISBELIEVE: Distance Between Client Models is Very Essential for Effective Local Model Poisoning Attacks**|Indu Joshi et.al.|[2308.07387v1](http://arxiv.org/abs/2308.07387v1)|null|
@@ -702,7 +702,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
