@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift**|Guojun Zhang et.al.|[2308.09565v1](http://arxiv.org/abs/2308.09565v1)|null|
+|**2023-08-18**|**Intrusion Detection based on Federated Learning: a systematic review**|Jose L. Hernandez-Ramos et.al.|[2308.09522v1](http://arxiv.org/abs/2308.09522v1)|null|
+|**2023-08-18**|**Defending Label Inference Attacks in Split Learning under Regression Setting**|Haoze Qiu et.al.|[2308.09448v1](http://arxiv.org/abs/2308.09448v1)|null|
+|**2023-08-18**|**Towards Attack-tolerant Federated Learning via Critical Parameter Analysis**|Sungwon Han et.al.|[2308.09318v1](http://arxiv.org/abs/2308.09318v1)|**[link](https://github.com/sungwon-han/fedcpa)**|
+|**2023-08-17**|**FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning**|Guangyu Sun et.al.|[2308.09160v1](http://arxiv.org/abs/2308.09160v1)|**[link](https://github.com/imguangyu/fedperfix)**|
+|**2023-08-17**|**Over-the-Air Computation Aided Federated Learning with the Aggregation of Normalized Gradient**|Rongfei Fan et.al.|[2308.09082v1](http://arxiv.org/abs/2308.09082v1)|null|
+|**2023-08-17**|**Joint Power Control and Data Size Selection for Over-the-Air Computation Aided Federated Learning**|Xuming An et.al.|[2308.09072v1](http://arxiv.org/abs/2308.09072v1)|null|
+|**2023-08-17**|**Multi-FedLS: a Framework for Cross-Silo Federated Learning Applications on Multi-Cloud Environments**|Rafaela C. Brum et.al.|[2308.08967v1](http://arxiv.org/abs/2308.08967v1)|null|
+|**2023-08-17**|**Controlling Federated Learning for Covertness**|Adit Jain et.al.|[2308.08825v1](http://arxiv.org/abs/2308.08825v1)|null|
+|**2023-08-17**|**APPFLx: Providing Privacy-Preserving Cross-Silo Federated Learning as a Service**|Zilinghan Li et.al.|[2308.08786v1](http://arxiv.org/abs/2308.08786v1)|null|
 |**2023-08-16**|**Incremental Collaborative Beam Alignment for Millimeter Wave Cell-Free MIMO Systems**|Cheng Zhang et.al.|[2308.08324v1](http://arxiv.org/abs/2308.08324v1)|null|
 |**2023-08-16**|**DFedADMM: Dual Constraints Controlled Model Inconsistency for Decentralized Federated Learning**|Qinglun Li et.al.|[2308.08290v1](http://arxiv.org/abs/2308.08290v1)|null|
 |**2023-08-16**|**Towards Benchmarking Power-Performance Characteristics of Federated Learning Clients**|Pratik Agrawal et.al.|[2308.08270v1](http://arxiv.org/abs/2308.08270v1)|null|
