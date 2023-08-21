@@ -1073,7 +1073,7 @@ layout: default
 |**2023-01-10**|**Traditional Readability Formulas Compared for English**|Bruce W. Lee et.al.|[2301.02975v2](http://arxiv.org/abs/2301.02975v2)|null|
 |**2023-01-09**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v2](http://arxiv.org/abs/2301.00950v2)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-11**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v2](http://arxiv.org/abs/2301.00411v2)|**[link](https://github.com/luciferbobo/d4nerf)**|
-|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
+|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871v1](http://arxiv.org/abs/2212.12871v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
@@ -1172,7 +1172,7 @@ layout: default
 |**2022-10-10**|**SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**|Yitong Xia et.al.|[2210.04553v1](http://arxiv.org/abs/2210.04553v1)|**[link](https://github.com/yitongx/sinerf)**|
 |**2022-10-09**|**Robustifying the Multi-Scale Representation of Neural Radiance Fields**|Nishant Jain et.al.|[2210.04233v1](http://arxiv.org/abs/2210.04233v1)|null|
 |**2022-10-09**|**Estimating Neural Reflectance Field from Radiance Field using Tree Structures**|Xiu Li et.al.|[2210.04217v1](http://arxiv.org/abs/2210.04217v1)|null|
-|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214v1](http://arxiv.org/abs/2210.04214v1)|null|
+|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214v1](http://arxiv.org/abs/2210.04214v1)|**[link](https://github.com/mbortolon97/vm-nerf)**|
 |**2022-10-09**|**Towards Efficient Neural Scene Graphs by Learning Consistency Fields**|Yeji Song et.al.|[2210.04127v1](http://arxiv.org/abs/2210.04127v1)|null|
 |**2022-10-08**|**ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**|Yinpeng Dong et.al.|[2210.03895v1](http://arxiv.org/abs/2210.03895v1)|**[link](https://github.com/heathcliff-saku/viewfool_)**|
 |**2022-10-04**|**SelfNeRF: Fast Training NeRF for Human from Monocular Self-rotating Video**|Bo Peng et.al.|[2210.01651v1](http://arxiv.org/abs/2210.01651v1)|null|
@@ -1872,7 +1872,7 @@ layout: default
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|null|
 |**2023-03-13**|**Distributed Non-Bayesian Learning for Games with Incomplete Information**|Shijie Huang et.al.|[2303.07212v1](http://arxiv.org/abs/2303.07212v1)|null|
 |**2023-03-13**|**Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection**|Tong Xia et.al.|[2303.07067v1](http://arxiv.org/abs/2303.07067v1)|null|
-|**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|null|
+|**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|**[link](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning)**|
 |**2023-03-13**|**Label Distribution Learning from Logical Label**|Yuheng Jia et.al.|[2303.06847v1](http://arxiv.org/abs/2303.06847v1)|null|
 |**2023-03-14**|**Label Information Bottleneck for Label Enhancement**|Qinghai Zheng et.al.|[2303.06836v2](http://arxiv.org/abs/2303.06836v2)|**[link](https://github.com/qinghai-zheng/lible)**|
 |**2023-03-12**|**Asynchronous Decentralized Federated Lifelong Learning for Landmark Localization in Medical Imaging**|Guangyao Zheng et.al.|[2303.06783v1](http://arxiv.org/abs/2303.06783v1)|null|

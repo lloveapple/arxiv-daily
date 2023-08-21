@@ -661,7 +661,7 @@
 |**2023-03-13**|**Network Anomaly Detection Using Federated Learning**|William Marfo et.al.|[2303.07452v1](http://arxiv.org/abs/2303.07452v1)|null|
 |**2023-03-13**|**Distributed Non-Bayesian Learning for Games with Incomplete Information**|Shijie Huang et.al.|[2303.07212v1](http://arxiv.org/abs/2303.07212v1)|null|
 |**2023-03-13**|**Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection**|Tong Xia et.al.|[2303.07067v1](http://arxiv.org/abs/2303.07067v1)|null|
-|**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|null|
+|**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|**[link](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning)**|
 |**2023-03-13**|**Label Distribution Learning from Logical Label**|Yuheng Jia et.al.|[2303.06847v1](http://arxiv.org/abs/2303.06847v1)|null|
 |**2023-03-14**|**Label Information Bottleneck for Label Enhancement**|Qinghai Zheng et.al.|[2303.06836v2](http://arxiv.org/abs/2303.06836v2)|**[link](https://github.com/qinghai-zheng/lible)**|
 |**2023-03-12**|**Asynchronous Decentralized Federated Lifelong Learning for Landmark Localization in Medical Imaging**|Guangyao Zheng et.al.|[2303.06783v1](http://arxiv.org/abs/2303.06783v1)|null|
