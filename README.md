@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-08-18**|**Towards Attack-tolerant Federated Learning via Critical Parameter Analysis**|Sungwon Han et.al.|[2308.09318v1](http://arxiv.org/abs/2308.09318v1)|**[link](https://github.com/sungwon-han/fedcpa)**|
 |**2023-08-17**|**FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning**|Guangyu Sun et.al.|[2308.09160v1](http://arxiv.org/abs/2308.09160v1)|**[link](https://github.com/imguangyu/fedperfix)**|
 |**2023-08-17**|**Over-the-Air Computation Aided Federated Learning with the Aggregation of Normalized Gradient**|Rongfei Fan et.al.|[2308.09082v1](http://arxiv.org/abs/2308.09082v1)|null|
-|**2023-08-17**|**Joint Power Control and Data Size Selection for Over-the-Air Computation Aided Federated Learning**|Xuming An et.al.|[2308.09072v1](http://arxiv.org/abs/2308.09072v1)|null|
+|**2023-08-17**|**Joint Power Control and Data Size Selection for Over-the-Air Computation Aided Federated Learning**|Xuming An et.al.|[2308.09072v1](http://arxiv.org/abs/2308.09072v1)|**[link](https://github.com/anxuming/fedaircomp)**|
 |**2023-08-17**|**Multi-FedLS: a Framework for Cross-Silo Federated Learning Applications on Multi-Cloud Environments**|Rafaela C. Brum et.al.|[2308.08967v1](http://arxiv.org/abs/2308.08967v1)|null|
 |**2023-08-17**|**Controlling Federated Learning for Covertness**|Adit Jain et.al.|[2308.08825v1](http://arxiv.org/abs/2308.08825v1)|null|
 |**2023-08-17**|**APPFLx: Providing Privacy-Preserving Cross-Silo Federated Learning as a Service**|Zilinghan Li et.al.|[2308.08786v1](http://arxiv.org/abs/2308.08786v1)|null|
@@ -717,7 +717,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
