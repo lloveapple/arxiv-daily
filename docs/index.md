@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**A Safe Deep Reinforcement Learning Approach for Energy Efficient Federated Learning in Wireless Communication Networks**|Nikolaos Koursioumpas et.al.|[2308.10664v1](http://arxiv.org/abs/2308.10664v1)|null|
+|**2023-08-21**|**Adaptive Local Steps Federated Learning with Differential Privacy Driven by Convergence Analysis**|Xinpeng Ling et.al.|[2308.10457v1](http://arxiv.org/abs/2308.10457v1)|null|
+|**2023-08-21**|**Federated Learning Robust to Byzantine Attacks: Achieving Zero Optimality Gap**|Shiyuan Zuo et.al.|[2308.10427v1](http://arxiv.org/abs/2308.10427v1)|null|
+|**2023-08-21**|**Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges**|Vishnu Pandi Chellapandi et.al.|[2308.10407v1](http://arxiv.org/abs/2308.10407v1)|null|
+|**2023-08-20**|**Preserving Specificity in Federated Graph Learning for fMRI-based Neurological Disorder Identification**|Junhao Zhang et.al.|[2308.10302v1](http://arxiv.org/abs/2308.10302v1)|null|
+|**2023-08-20**|**Arena: A Learning-based Synchronization Scheme for Hierarchical Federated Learning--Technical Report**|Tianyu Qi et.al.|[2308.10298v1](http://arxiv.org/abs/2308.10298v1)|null|
+|**2023-08-20**|**GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning**|Jianqing Zhang et.al.|[2308.10279v1](http://arxiv.org/abs/2308.10279v1)|null|
+|**2023-08-20**|**FedSIS: Federated Split Learning with Intermediate Representation Sampling for Privacy-preserving Generalized Face Presentation Attack Detection**|Naif Alkhunaizi et.al.|[2308.10236v1](http://arxiv.org/abs/2308.10236v1)|**[link](https://github.com/naiftt/fedsis)**|
+|**2023-08-20**|**Rethinking Client Drift in Federated Learning: A Logit Perspective**|Yunlu Yan et.al.|[2308.10162v1](http://arxiv.org/abs/2308.10162v1)|null|
+|**2023-08-20**|**Resource-Adaptive Newton's Method for Distributed Learning**|Shuzhen Chen et.al.|[2308.10154v1](http://arxiv.org/abs/2308.10154v1)|null|
 |**2023-08-18**|**Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift**|Guojun Zhang et.al.|[2308.09565v1](http://arxiv.org/abs/2308.09565v1)|null|
 |**2023-08-18**|**Intrusion Detection based on Federated Learning: a systematic review**|Jose L. Hernandez-Ramos et.al.|[2308.09522v1](http://arxiv.org/abs/2308.09522v1)|null|
 |**2023-08-18**|**Defending Label Inference Attacks in Split Learning under Regression Setting**|Haoze Qiu et.al.|[2308.09448v1](http://arxiv.org/abs/2308.09448v1)|null|
