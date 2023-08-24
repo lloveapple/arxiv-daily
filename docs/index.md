@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**ULDP-FL: Federated Learning with Across Silo User-Level Differential Privacy**|Fumiyuki Kato et.al.|[2308.12210v1](http://arxiv.org/abs/2308.12210v1)|**[link](https://github.com/fumiyukikato/uldp-fl)**|
+|**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|null|
+|**2023-08-23**|**When MiniBatch SGD Meets SplitFed Learning:Convergence Analysis and Performance Evaluation**|Chao Huang et.al.|[2308.11953v1](http://arxiv.org/abs/2308.11953v1)|null|
+|**2023-08-23**|**A Survey for Federated Learning Evaluations: Goals and Measures**|Di Chai et.al.|[2308.11841v1](http://arxiv.org/abs/2308.11841v1)|null|
+|**2023-08-22**|**Understanding Hessian Alignment for Domain Generalization**|Sobhan Hemati et.al.|[2308.11778v1](http://arxiv.org/abs/2308.11778v1)|**[link](https://github.com/huawei-noah/federated-learning)**|
+|**2023-08-22**|**Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach**|Han Wang et.al.|[2308.11743v1](http://arxiv.org/abs/2308.11743v1)|null|
 |**2023-08-22**|**EM for Mixture of Linear Regression with Clustered Data**|Amirhossein Reisizadeh et.al.|[2308.11518v1](http://arxiv.org/abs/2308.11518v1)|null|
 |**2023-08-22**|**Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning**|Yun-Hin Chan et.al.|[2308.11464v1](http://arxiv.org/abs/2308.11464v1)|null|
 |**2023-08-22**|**Protect Federated Learning Against Backdoor Attacks via Data-Free Trigger Generation**|Yanxin Yang et.al.|[2308.11333v1](http://arxiv.org/abs/2308.11333v1)|null|
