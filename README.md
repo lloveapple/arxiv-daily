@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2023-08-22**|**Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning**|Yun-Hin Chan et.al.|[2308.11464v1](http://arxiv.org/abs/2308.11464v1)|null|
 |**2023-08-22**|**Protect Federated Learning Against Backdoor Attacks via Data-Free Trigger Generation**|Yanxin Yang et.al.|[2308.11333v1](http://arxiv.org/abs/2308.11333v1)|null|
 |**2023-08-22**|**Federated Learning on Patient Data for Privacy-Protecting Polycystic Ovary Syndrome Treatment**|Lucia Morris et.al.|[2308.11220v1](http://arxiv.org/abs/2308.11220v1)|**[link](https://github.com/toriqiu/fl-pcos)**|
-|**2023-08-22**|**Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**|Zengxiang Li et.al.|[2308.11217v1](http://arxiv.org/abs/2308.11217v1)|null|
+|**2023-08-23**|**Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**|Zengxiang Li et.al.|[2308.11217v2](http://arxiv.org/abs/2308.11217v2)|null|
 |**2023-08-21**|**Split Learning for Distributed Collaborative Training of Deep Learning Models in Health Informatics**|Zhuohang Li et.al.|[2308.11027v1](http://arxiv.org/abs/2308.11027v1)|null|
 |**2023-08-21**|**A Safe Deep Reinforcement Learning Approach for Energy Efficient Federated Learning in Wireless Communication Networks**|Nikolaos Koursioumpas et.al.|[2308.10664v1](http://arxiv.org/abs/2308.10664v1)|null|
 |**2023-08-21**|**Adaptive Local Steps Federated Learning with Differential Privacy Driven by Convergence Analysis**|Xinpeng Ling et.al.|[2308.10457v1](http://arxiv.org/abs/2308.10457v1)|null|
@@ -733,7 +733,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
