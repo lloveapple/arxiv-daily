@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**LR-XFL: Logical Reasoning-based Explainable Federated Learning**|Yanci Zhang et.al.|[2308.12681v1](http://arxiv.org/abs/2308.12681v1)|null|
+|**2023-08-24**|**A Huber Loss Minimization Approach to Byzantine Robust Federated Learning**|Puning Zhao et.al.|[2308.12581v1](http://arxiv.org/abs/2308.12581v1)|null|
+|**2023-08-24**|**FedSoL: Bridging Global Alignment and Local Generality in Federated Learning**|Gihun Lee et.al.|[2308.12532v1](http://arxiv.org/abs/2308.12532v1)|null|
+|**2023-08-24**|**Incentive Mechanism Design for Federated Learning and Unlearning**|Ningning Ding et.al.|[2308.12502v1](http://arxiv.org/abs/2308.12502v1)|null|
+|**2023-08-23**|**PFL-GAN: When Client Heterogeneity Meets Generative Models in Personalized Federated Learning**|Achintha Wijesinghe et.al.|[2308.12454v1](http://arxiv.org/abs/2308.12454v1)|null|
 |**2023-08-23**|**ULDP-FL: Federated Learning with Across Silo User-Level Differential Privacy**|Fumiyuki Kato et.al.|[2308.12210v1](http://arxiv.org/abs/2308.12210v1)|**[link](https://github.com/fumiyukikato/uldp-fl)**|
 |**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|null|
 |**2023-08-23**|**When MiniBatch SGD Meets SplitFed Learning:Convergence Analysis and Performance Evaluation**|Chao Huang et.al.|[2308.11953v1](http://arxiv.org/abs/2308.11953v1)|null|
