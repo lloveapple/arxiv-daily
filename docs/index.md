@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Heterogeneous Federated Learning via Personalized Generative Networks**|Zahra Taghiyarrenani et.al.|[2308.13265v1](http://arxiv.org/abs/2308.13265v1)|null|
+|**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158v1](http://arxiv.org/abs/2308.13158v1)|null|
+|**2023-08-25**|**Federated Learning in IoT: a Survey from a Resource-Constrained Perspective**|Ishmeet Kaur andAdwaita Janardhan Jadhav et.al.|[2308.13157v1](http://arxiv.org/abs/2308.13157v1)|null|
+|**2023-08-24**|**Federated Learning of Causal Effects from Incomplete Observational Data**|Thanh Vinh Vo et.al.|[2308.13047v1](http://arxiv.org/abs/2308.13047v1)|null|
 |**2023-08-24**|**LR-XFL: Logical Reasoning-based Explainable Federated Learning**|Yanci Zhang et.al.|[2308.12681v1](http://arxiv.org/abs/2308.12681v1)|null|
 |**2023-08-24**|**A Huber Loss Minimization Approach to Byzantine Robust Federated Learning**|Puning Zhao et.al.|[2308.12581v1](http://arxiv.org/abs/2308.12581v1)|null|
 |**2023-08-24**|**FedSoL: Bridging Global Alignment and Local Generality in Federated Learning**|Gihun Lee et.al.|[2308.12532v1](http://arxiv.org/abs/2308.12532v1)|null|
