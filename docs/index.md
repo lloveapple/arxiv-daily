@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Adversarial Predictions of Data Distributions Across Federated Internet-of-Things Devices**|Samir Rajani et.al.|[2308.14658v1](http://arxiv.org/abs/2308.14658v1)|null|
+|**2023-08-27**|**Revolutionizing Disease Diagnosis: A Microservices-Based Architecture for Privacy-Preserving and Efficient IoT Data Analytics Using Federated Learning**|Safa Ben Atitallah et.al.|[2308.14017v1](http://arxiv.org/abs/2308.14017v1)|null|
+|**2023-08-27**|**Generalizable Learning Reconstruction for Accelerating MR Imaging via Federated Neural Architecture Search**|Ruoyou Wu et.al.|[2308.13995v1](http://arxiv.org/abs/2308.13995v1)|null|
+|**2023-08-26**|**FAM: fast adaptive meta-learning**|Indrajeet Kumar Sinha et.al.|[2308.13970v1](http://arxiv.org/abs/2308.13970v1)|null|
+|**2023-08-26**|**Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices**|Mengwei Xu et.al.|[2308.13894v1](http://arxiv.org/abs/2308.13894v1)|null|
+|**2023-08-26**|**Effectively Heterogeneous Federated Learning: A Pairing and Split Learning Based Approach**|Jinglong Shen et.al.|[2308.13849v1](http://arxiv.org/abs/2308.13849v1)|null|
+|**2023-08-26**|**Price-Discrimination Game for Distributed Resource Management in Federated Learning**|Han Zhang et.al.|[2308.13838v1](http://arxiv.org/abs/2308.13838v1)|null|
+|**2023-08-26**|**Uncovering Promises and Challenges of Federated Learning to Detect Cardiovascular Diseases: A Scoping Literature Review**|Sricharan Donkada et.al.|[2308.13714v1](http://arxiv.org/abs/2308.13714v1)|null|
+|**2023-08-25**|**Resource-Efficient Federated Learning for Heterogenous and Resource-Constrained Environments**|Humaid Ahmed Desai et.al.|[2308.13662v1](http://arxiv.org/abs/2308.13662v1)|null|
+|**2023-08-25**|**Is Deep Learning Network Necessary for Image Generation?**|Chenqiu Zhao et.al.|[2308.13612v1](http://arxiv.org/abs/2308.13612v1)|null|
 |**2023-08-25**|**Heterogeneous Federated Learning via Personalized Generative Networks**|Zahra Taghiyarrenani et.al.|[2308.13265v1](http://arxiv.org/abs/2308.13265v1)|null|
 |**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158v1](http://arxiv.org/abs/2308.13158v1)|null|
 |**2023-08-25**|**Federated Learning in IoT: a Survey from a Resource-Constrained Perspective**|Ishmeet Kaur andAdwaita Janardhan Jadhav et.al.|[2308.13157v1](http://arxiv.org/abs/2308.13157v1)|null|
