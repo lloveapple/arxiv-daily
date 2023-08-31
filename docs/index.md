@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Federated Two Stage Decoupling With Adaptive Personalization Layers**|Hangyu Zhu et.al.|[2308.15821v1](http://arxiv.org/abs/2308.15821v1)|null|
+|**2023-08-30**|**FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features**|Zijian Li et.al.|[2308.15786v1](http://arxiv.org/abs/2308.15786v1)|null|
+|**2023-08-29**|**Bridging Distribution Learning and Image Clustering in High-dimensional Space**|Guanfang Dong et.al.|[2308.15667v1](http://arxiv.org/abs/2308.15667v1)|null|
 |**2023-08-29**|**Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation**|Fu-En Yang et.al.|[2308.15367v1](http://arxiv.org/abs/2308.15367v1)|null|
 |**2023-08-29**|**FedChain: An Efficient and Secure Consensus Protocol based on Proof of Useful Federated Learning for Blockchain**|Peiran Wang et.al.|[2308.15095v1](http://arxiv.org/abs/2308.15095v1)|null|
 |**2023-08-29**|**CEFHRI: A Communication Efficient Federated Learning Framework for Recognizing Industrial Human-Robot Interaction**|Umar Khalid et.al.|[2308.14965v1](http://arxiv.org/abs/2308.14965v1)|**[link](https://github.com/umarkhalidai/cefhri-efficient-federated-learning)**|
