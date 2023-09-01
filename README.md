@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Federated Learning in UAV-Enhanced Networks: Joint Coverage and Convergence Time Optimization**|Mariam Yahya et.al.|[2308.16889v1](http://arxiv.org/abs/2308.16889v1)|null|
+|**2023-08-31**|**Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization**|Wissam Kontar et.al.|[2308.16870v1](http://arxiv.org/abs/2308.16870v1)|null|
+|**2023-08-31**|**FedDD: Toward Communication-efficient Federated Learning with Differential Parameter Dropout**|Zhiying Feng et.al.|[2308.16835v1](http://arxiv.org/abs/2308.16835v1)|null|
+|**2023-08-31**|**Robust Networked Federated Learning for Localization**|Reza Mirzaeifard et.al.|[2308.16737v1](http://arxiv.org/abs/2308.16737v1)|null|
+|**2023-08-31**|**Post-Deployment Adaptation with Access to Source Data via Federated Learning and Source-Target Remote Gradient Alignment**|Felix Wagner et.al.|[2308.16735v1](http://arxiv.org/abs/2308.16735v1)|**[link](https://github.com/felixwag/staralign)**|
+|**2023-08-31**|**Communication-Efficient Decentralized Federated Learning via One-Bit Compressive Sensing**|Shenglong Zhou et.al.|[2308.16671v1](http://arxiv.org/abs/2308.16671v1)|null|
+|**2023-08-31**|**Improving Multiple Sclerosis Lesion Segmentation Across Clinical Sites: A Federated Learning Approach with Noise-Resilient Training**|Lei Bai et.al.|[2308.16376v1](http://arxiv.org/abs/2308.16376v1)|null|
+|**2023-08-30**|**RetroBridge: Modeling Retrosynthesis with Markov Bridges**|Ilia Igashov et.al.|[2308.16212v1](http://arxiv.org/abs/2308.16212v1)|null|
 |**2023-08-30**|**Federated Two Stage Decoupling With Adaptive Personalization Layers**|Hangyu Zhu et.al.|[2308.15821v1](http://arxiv.org/abs/2308.15821v1)|null|
 |**2023-08-30**|**FedCiR: Client-Invariant Representation Learning for Federated Non-IID Features**|Zijian Li et.al.|[2308.15786v1](http://arxiv.org/abs/2308.15786v1)|null|
 |**2023-08-29**|**Bridging Distribution Learning and Image Clustering in High-dimensional Space**|Guanfang Dong et.al.|[2308.15667v1](http://arxiv.org/abs/2308.15667v1)|null|
