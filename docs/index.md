@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Online Distributed Learning over Random Networks**|Nicola Bastianello et.al.|[2309.00520v1](http://arxiv.org/abs/2309.00520v1)|null|
+|**2023-09-01**|**Advancing Personalized Federated Learning: Group Privacy, Fairness, and Beyond**|Filippo Galli et.al.|[2309.00416v1](http://arxiv.org/abs/2309.00416v1)|null|
+|**2023-09-01**|**FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning**|Weirui Kuang et.al.|[2309.00363v1](http://arxiv.org/abs/2309.00363v1)|**[link](https://github.com/alibaba/federatedscope)**|
+|**2023-09-01**|**Leveraging Learning Metrics for Improved Federated Learning**|Andre Fu et.al.|[2309.00257v1](http://arxiv.org/abs/2309.00257v1)|null|
+|**2023-08-31**|**FTA: Stealthy and Robust Backdoor Attack with Flexible Trigger on Federated Learning**|Yanqi Qiao et.al.|[2309.00127v1](http://arxiv.org/abs/2309.00127v1)|null|
 |**2023-08-31**|**Federated Learning in UAV-Enhanced Networks: Joint Coverage and Convergence Time Optimization**|Mariam Yahya et.al.|[2308.16889v1](http://arxiv.org/abs/2308.16889v1)|null|
 |**2023-08-31**|**Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization**|Wissam Kontar et.al.|[2308.16870v1](http://arxiv.org/abs/2308.16870v1)|null|
 |**2023-09-01**|**FedDD: Toward Communication-efficient Federated Learning with Differential Parameter Dropout**|Zhiying Feng et.al.|[2308.16835v2](http://arxiv.org/abs/2308.16835v2)|null|
