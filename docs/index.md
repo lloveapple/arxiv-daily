@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|null|
+|**2023-09-05**|**Personalized Federated Deep Reinforcement Learning-based Trajectory Optimization for Multi-UAV Assisted Edge Computing**|Zhengrong Song et.al.|[2309.02193v1](http://arxiv.org/abs/2309.02193v1)|null|
+|**2023-09-05**|**Bias Propagation in Federated Learning**|Hongyan Chang et.al.|[2309.02160v1](http://arxiv.org/abs/2309.02160v1)|null|
+|**2023-09-04**|**Secure and Efficient Federated Learning in LEO Constellations using Decentralized Key Generation and On-Orbit Model Aggregation**|Mohamed Elmahallawy et.al.|[2309.01828v1](http://arxiv.org/abs/2309.01828v1)|null|
+|**2023-09-04**|**Computation and Communication Efficient Federated Learning over Wireless Networks**|Xiaonan Liu et.al.|[2309.01816v1](http://arxiv.org/abs/2309.01816v1)|null|
+|**2023-09-04**|**Composite federated learning with heterogeneous data**|Jiaojiao Zhang et.al.|[2309.01795v1](http://arxiv.org/abs/2309.01795v1)|null|
+|**2023-09-04**|**DRAG: Divergence-based Adaptive Aggregation in Federated learning on Non-IID Data**|Feng Zhu et.al.|[2309.01779v1](http://arxiv.org/abs/2309.01779v1)|null|
+|**2023-09-04**|**Federated cINN Clustering for Accurate Clustered Federated Learning**|Yuhao Zhou et.al.|[2309.01515v1](http://arxiv.org/abs/2309.01515v1)|null|
+|**2023-09-04**|**Communication-Efficient Design of Learning System for Energy Demand Forecasting of Electrical Vehicles**|Jiacong Xu et.al.|[2309.01297v1](http://arxiv.org/abs/2309.01297v1)|null|
+|**2023-09-03**|**Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning**|Yavuz Faruk Bakman et.al.|[2309.01289v1](http://arxiv.org/abs/2309.01289v1)|null|
 |**2023-09-01**|**Online Distributed Learning over Random Networks**|Nicola Bastianello et.al.|[2309.00520v1](http://arxiv.org/abs/2309.00520v1)|null|
 |**2023-09-01**|**Advancing Personalized Federated Learning: Group Privacy, Fairness, and Beyond**|Filippo Galli et.al.|[2309.00416v1](http://arxiv.org/abs/2309.00416v1)|null|
 |**2023-09-01**|**FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning**|Weirui Kuang et.al.|[2309.00363v1](http://arxiv.org/abs/2309.00363v1)|**[link](https://github.com/alibaba/federatedscope)**|
