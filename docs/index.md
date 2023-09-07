@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**EdgeFL: A Lightweight Decentralized Federated Learning Framework**|Hongyi Zhang et.al.|[2309.02936v1](http://arxiv.org/abs/2309.02936v1)|null|
+|**2023-09-06**|**Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**|Omar Alhussein et.al.|[2309.02787v1](http://arxiv.org/abs/2309.02787v1)|null|
 |**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|null|
 |**2023-09-05**|**Personalized Federated Deep Reinforcement Learning-based Trajectory Optimization for Multi-UAV Assisted Edge Computing**|Zhengrong Song et.al.|[2309.02193v1](http://arxiv.org/abs/2309.02193v1)|null|
 |**2023-09-05**|**Bias Propagation in Federated Learning**|Hongyan Chang et.al.|[2309.02160v1](http://arxiv.org/abs/2309.02160v1)|null|
