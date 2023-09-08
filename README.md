@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569v1](http://arxiv.org/abs/2309.03569v1)|null|
+|**2023-09-07**|**On the dynamics of multi agent nonlinear filtering and learning**|Sayed Pouria Talebi et.al.|[2309.03557v1](http://arxiv.org/abs/2309.03557v1)|null|
+|**2023-09-07**|**Privacy-preserving Continual Federated Clustering via Adaptive Resonance Theory**|Naoki Masuyama et.al.|[2309.03487v1](http://arxiv.org/abs/2309.03487v1)|**[link](https://github.com/Masuyama-lab/FCAC)**|
+|**2023-09-07**|**Byzantine-Robust Federated Learning with Variance Reduction and Differential Privacy**|Zikai Zhang et.al.|[2309.03437v1](http://arxiv.org/abs/2309.03437v1)|null|
+|**2023-09-06**|**Federated Learning Over Images: Vertical Decompositions and Pre-Trained Backbones Are Difficult to Beat**|Erdong Hu et.al.|[2309.03237v1](http://arxiv.org/abs/2309.03237v1)|null|
 |**2023-09-06**|**EdgeFL: A Lightweight Decentralized Federated Learning Framework**|Hongyi Zhang et.al.|[2309.02936v1](http://arxiv.org/abs/2309.02936v1)|null|
 |**2023-09-06**|**Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**|Omar Alhussein et.al.|[2309.02787v1](http://arxiv.org/abs/2309.02787v1)|null|
 |**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|null|
