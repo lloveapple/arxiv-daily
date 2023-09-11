@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Federated Learning for Early Dropout Prediction on Healthy Ageing Applications**|Christos Chrysanthos Nikolaidis et.al.|[2309.04311v1](http://arxiv.org/abs/2309.04311v1)|null|
+|**2023-09-08**|**Adaptive Distributed Kernel Ridge Regression: A Feasible Distributed Learning Scheme for Data Silos**|Di Wang et.al.|[2309.04236v1](http://arxiv.org/abs/2309.04236v1)|null|
 |**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569v1](http://arxiv.org/abs/2309.03569v1)|null|
 |**2023-09-07**|**On the dynamics of multi agent nonlinear filtering and learning**|Sayed Pouria Talebi et.al.|[2309.03557v1](http://arxiv.org/abs/2309.03557v1)|null|
 |**2023-09-07**|**Privacy-preserving Continual Federated Clustering via Adaptive Resonance Theory**|Naoki Masuyama et.al.|[2309.03487v1](http://arxiv.org/abs/2309.03487v1)|**[link](https://github.com/Masuyama-lab/FCAC)**|
