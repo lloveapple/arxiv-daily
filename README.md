@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525v1](http://arxiv.org/abs/2309.05525v1)|null|
+|**2023-09-11**|**Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning**|Zebang Shen et.al.|[2309.05505v1](http://arxiv.org/abs/2309.05505v1)|**[link](https://github.com/shenzebang/centaur-privacy-federated-representation-learning)**|
+|**2023-09-11**|**Practical Homomorphic Aggregation for Byzantine ML**|Antoine Choffrut et.al.|[2309.05395v1](http://arxiv.org/abs/2309.05395v1)|null|
+|**2023-09-11**|**Towards Federated Learning Under Resource Constraints via Layer-wise Training and Depth Dropout**|Pengfei Guo et.al.|[2309.05213v1](http://arxiv.org/abs/2309.05213v1)|null|
+|**2023-09-10**|**Federated Learning Incentive Mechanism under Buyers' Auction Market**|Jiaxi Yang et.al.|[2309.05063v1](http://arxiv.org/abs/2309.05063v1)|null|
+|**2023-09-08**|**Privacy Preserving Federated Learning with Convolutional Variational Bottlenecks**|Daniel Scheliga et.al.|[2309.04515v1](http://arxiv.org/abs/2309.04515v1)|null|
 |**2023-09-08**|**Federated Learning for Early Dropout Prediction on Healthy Ageing Applications**|Christos Chrysanthos Nikolaidis et.al.|[2309.04311v1](http://arxiv.org/abs/2309.04311v1)|null|
 |**2023-09-08**|**Adaptive Distributed Kernel Ridge Regression: A Feasible Distributed Learning Scheme for Data Silos**|Di Wang et.al.|[2309.04236v1](http://arxiv.org/abs/2309.04236v1)|null|
 |**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569v1](http://arxiv.org/abs/2309.03569v1)|null|
