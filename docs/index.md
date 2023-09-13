@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Energy-Aware Federated Learning with Distributed User Sampling and Multichannel ALOHA**|Rafael Valente da Silva et.al.|[2309.06033v1](http://arxiv.org/abs/2309.06033v1)|null|
+|**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525v1](http://arxiv.org/abs/2309.05525v1)|null|
 |**2023-09-11**|**Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning**|Zebang Shen et.al.|[2309.05505v1](http://arxiv.org/abs/2309.05505v1)|**[link](https://github.com/shenzebang/centaur-privacy-federated-representation-learning)**|
 |**2023-09-11**|**Practical Homomorphic Aggregation for Byzantine ML**|Antoine Choffrut et.al.|[2309.05395v1](http://arxiv.org/abs/2309.05395v1)|null|
