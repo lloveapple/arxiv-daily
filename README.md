@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Mitigating Group Bias in Federated Learning for Heterogeneous Devices**|Khotso Selialia et.al.|[2309.07085v1](http://arxiv.org/abs/2309.07085v1)|null|
+|**2023-09-13**|**FedDIP: Federated Learning with Extreme Dynamic Pruning and Incremental Regularization**|Qianyu Long et.al.|[2309.06805v1](http://arxiv.org/abs/2309.06805v1)|**[link](https://github.com/ericloong/feddip)**|
+|**2023-09-13**|**Distributed Learning Dynamics for Coalitional Games**|Aya Hamed et.al.|[2309.06705v1](http://arxiv.org/abs/2309.06705v1)|null|
+|**2023-09-13**|**Tackling the Non-IID Issue in Heterogeneous Federated Learning by Gradient Harmonization**|Xinyu Zhang et.al.|[2309.06692v1](http://arxiv.org/abs/2309.06692v1)|null|
+|**2023-09-13**|**Federated PAC-Bayesian Learning on Non-IID data**|Zihao Zhao et.al.|[2309.06683v1](http://arxiv.org/abs/2309.06683v1)|null|
 |**2023-09-12**|**Energy-Aware Federated Learning with Distributed User Sampling and Multichannel ALOHA**|Rafael Valente da Silva et.al.|[2309.06033v1](http://arxiv.org/abs/2309.06033v1)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525v1](http://arxiv.org/abs/2309.05525v1)|null|
