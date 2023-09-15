@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Communication Efficient Private Federated Learning Using Dithering**|Burak Hasircioglu et.al.|[2309.07809v1](http://arxiv.org/abs/2309.07809v1)|null|
+|**2023-09-14**|**Client-side Gradient Inversion Against Federated Learning from Poisoning**|Jiaheng Wei et.al.|[2309.07415v1](http://arxiv.org/abs/2309.07415v1)|**[link](https://github.com/clientsidegia/cgi)**|
+|**2023-09-13**|**Mitigating Adversarial Attacks in Federated Learning with Trusted Execution Environments**|Simon Queyrut et.al.|[2309.07197v1](http://arxiv.org/abs/2309.07197v1)|**[link](https://github.com/queyrusi/pelta)**|
+|**2023-09-13**|**Learning From Drift: Federated Learning on Non-IID Data via Drift Regularization**|Yeachan Kim et.al.|[2309.07189v1](http://arxiv.org/abs/2309.07189v1)|null|
 |**2023-09-13**|**Mitigating Group Bias in Federated Learning for Heterogeneous Devices**|Khotso Selialia et.al.|[2309.07085v1](http://arxiv.org/abs/2309.07085v1)|null|
 |**2023-09-13**|**FedDIP: Federated Learning with Extreme Dynamic Pruning and Incremental Regularization**|Qianyu Long et.al.|[2309.06805v1](http://arxiv.org/abs/2309.06805v1)|**[link](https://github.com/ericloong/feddip)**|
 |**2023-09-13**|**Distributed Learning Dynamics for Coalitional Games**|Aya Hamed et.al.|[2309.06705v1](http://arxiv.org/abs/2309.06705v1)|null|
