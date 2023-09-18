@@ -1256,7 +1256,7 @@ layout: default
 |**2023-09-06**|**Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**|Omar Alhussein et.al.|[2309.02787v1](http://arxiv.org/abs/2309.02787v1)|null|
 |**2023-09-05**|**Distributionally Robust Machine Learning with Multi-source Data**|Zhenyu Wang et.al.|[2309.02211v1](http://arxiv.org/abs/2309.02211v1)|null|
 |**2023-09-05**|**Personalized Federated Deep Reinforcement Learning-based Trajectory Optimization for Multi-UAV Assisted Edge Computing**|Zhengrong Song et.al.|[2309.02193v1](http://arxiv.org/abs/2309.02193v1)|null|
-|**2023-09-05**|**Bias Propagation in Federated Learning**|Hongyan Chang et.al.|[2309.02160v1](http://arxiv.org/abs/2309.02160v1)|null|
+|**2023-09-05**|**Bias Propagation in Federated Learning**|Hongyan Chang et.al.|[2309.02160v1](http://arxiv.org/abs/2309.02160v1)|**[link](https://github.com/privacytrustlab/bias_in_FL)**|
 |**2023-09-04**|**Secure and Efficient Federated Learning in LEO Constellations using Decentralized Key Generation and On-Orbit Model Aggregation**|Mohamed Elmahallawy et.al.|[2309.01828v1](http://arxiv.org/abs/2309.01828v1)|null|
 |**2023-09-04**|**Computation and Communication Efficient Federated Learning over Wireless Networks**|Xiaonan Liu et.al.|[2309.01816v1](http://arxiv.org/abs/2309.01816v1)|null|
 |**2023-09-04**|**Composite federated learning with heterogeneous data**|Jiaojiao Zhang et.al.|[2309.01795v1](http://arxiv.org/abs/2309.01795v1)|null|
@@ -1320,7 +1320,7 @@ layout: default
 |**2023-08-21**|**Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges**|Vishnu Pandi Chellapandi et.al.|[2308.10407v1](http://arxiv.org/abs/2308.10407v1)|null|
 |**2023-08-20**|**Preserving Specificity in Federated Graph Learning for fMRI-based Neurological Disorder Identification**|Junhao Zhang et.al.|[2308.10302v1](http://arxiv.org/abs/2308.10302v1)|null|
 |**2023-08-20**|**Arena: A Learning-based Synchronization Scheme for Hierarchical Federated Learning--Technical Report**|Tianyu Qi et.al.|[2308.10298v1](http://arxiv.org/abs/2308.10298v1)|null|
-|**2023-08-20**|**GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning**|Jianqing Zhang et.al.|[2308.10279v1](http://arxiv.org/abs/2308.10279v1)|null|
+|**2023-08-20**|**GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning**|Jianqing Zhang et.al.|[2308.10279v1](http://arxiv.org/abs/2308.10279v1)|**[link](https://github.com/TsingZ0/GPFL)**|
 |**2023-08-20**|**FedSIS: Federated Split Learning with Intermediate Representation Sampling for Privacy-preserving Generalized Face Presentation Attack Detection**|Naif Alkhunaizi et.al.|[2308.10236v1](http://arxiv.org/abs/2308.10236v1)|**[link](https://github.com/naiftt/fedsis)**|
 |**2023-08-20**|**Rethinking Client Drift in Federated Learning: A Logit Perspective**|Yunlu Yan et.al.|[2308.10162v1](http://arxiv.org/abs/2308.10162v1)|null|
 |**2023-08-20**|**Resource-Adaptive Newton's Method for Distributed Learning**|Shuzhen Chen et.al.|[2308.10154v1](http://arxiv.org/abs/2308.10154v1)|null|
@@ -1898,7 +1898,7 @@ layout: default
 |**2023-04-10**|**Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher**|Jiawei Shao et.al.|[2304.01731v2](http://arxiv.org/abs/2304.01731v2)|null|
 |**2023-04-04**|**Privacy-Preserving Federated Discovery of DNA Motifs with Differential Privacy**|Yao Chen et.al.|[2304.01689v1](http://arxiv.org/abs/2304.01689v1)|null|
 |**2023-04-04**|**Privacy Amplification via Compression: Achieving the Optimal Privacy-Accuracy-Communication Trade-off in Distributed Mean Estimation**|Wei-Ning Chen et.al.|[2304.01541v1](http://arxiv.org/abs/2304.01541v1)|null|
-|**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|null|
+|**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|**[link](https://github.com/rruisong/fedbevt)**|
 |**2023-04-04**|**SLPerf: a Unified Framework for Benchmarking Split Learning**|Tianchen Zhou et.al.|[2304.01502v1](http://arxiv.org/abs/2304.01502v1)|**[link](https://github.com/rainysponge/split-learning-attacks)**|
 |**2023-04-03**|**Kernel Affine Hull Machines for Differentially Private Learning**|Mohit Kumar et.al.|[2304.01300v1](http://arxiv.org/abs/2304.01300v1)|null|
 |**2023-03-30**|**Federated Learning Based Multilingual Emoji Prediction In Clean and Attack Scenarios**|Karim Gamal et.al.|[2304.01005v1](http://arxiv.org/abs/2304.01005v1)|**[link](https://github.com/kareemgamalmahmoud/federated-learning-based-multilingual-emoji-prediction-in-clean-and-attack-scenarios)**|
