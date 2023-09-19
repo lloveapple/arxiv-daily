@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,7 +1230,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-15**|**XFedHunter: An Explainable Federated Learning Framework for Advanced Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
 |**2023-09-15**|**FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning**|Hongyu Zhang et.al.|[2309.08420v1](http://arxiv.org/abs/2309.08420v1)|**[link](https://github.com/orion-orion/FedDCSR)**|
-|**2023-09-15**|**Gaussian Processes with Linear Multiple Kernel: Spectrum Design and Distributed Learning for Multi-Dimensional Data**|Richard Cornelius Suwandi et.al.|[2309.08201v1](http://arxiv.org/abs/2309.08201v1)|null|
+|**2023-09-15**|**Gaussian Processes with Linear Multiple Kernel: Spectrum Design and Distributed Learning for Multi-Dimensional Data**|Richard Cornelius Suwandi et.al.|[2309.08201v1](http://arxiv.org/abs/2309.08201v1)|**[link](https://github.com/richardcsuwandi/distributed-gsm)**|
 |**2023-09-15**|**FedJudge: Federated Legal Large Language Model**|Linan Yue et.al.|[2309.08173v1](http://arxiv.org/abs/2309.08173v1)|**[link](https://github.com/yuelinan/fedjudge)**|
 |**2023-09-14**|**Communication Efficient Private Federated Learning Using Dithering**|Burak Hasircioglu et.al.|[2309.07809v1](http://arxiv.org/abs/2309.07809v1)|null|
 |**2023-09-14**|**Client-side Gradient Inversion Against Federated Learning from Poisoning**|Jiaheng Wei et.al.|[2309.07415v1](http://arxiv.org/abs/2309.07415v1)|**[link](https://github.com/clientsidegia/cgi)**|
