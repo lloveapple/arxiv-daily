@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning**|Pedro Valdeira et.al.|[2309.09977v1](http://arxiv.org/abs/2309.09977v1)|null|
+|**2023-09-18**|**ROAR-Fed: RIS-Assisted Over-the-Air Adaptive Resource Allocation for Federated Learning**|Jiayu Mao et.al.|[2309.09883v1](http://arxiv.org/abs/2309.09883v1)|null|
+|**2023-09-18**|**FedLALR: Client-Specific Adaptive Learning Rates Achieve Linear Speedup for Non-IID Data**|Hao Sun et.al.|[2309.09719v1](http://arxiv.org/abs/2309.09719v1)|null|
+|**2023-09-17**|**Federated Learning in Temporal Heterogeneity**|Junghwan Lee et.al.|[2309.09381v1](http://arxiv.org/abs/2309.09381v1)|null|
+|**2023-09-17**|**User Assignment and Resource Allocation for Hierarchical Federated Learning over Wireless Networks**|Tinghao Zhang et.al.|[2309.09253v1](http://arxiv.org/abs/2309.09253v1)|null|
+|**2023-09-16**|**Split Federated Learning for 6G Enabled-Networks: Requirements, Challenges and Future Directions**|Houda Hafi et.al.|[2309.09086v1](http://arxiv.org/abs/2309.09086v1)|null|
+|**2023-09-16**|**UNIDEAL: Curriculum Knowledge Distillation Federated Learning**|Yuwen Yang et.al.|[2309.08961v1](http://arxiv.org/abs/2309.08961v1)|null|
 |**2023-09-15**|**XFedHunter: An Explainable Federated Learning Framework for Advanced Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485v1](http://arxiv.org/abs/2309.08485v1)|null|
 |**2023-09-15**|**FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning**|Hongyu Zhang et.al.|[2309.08420v1](http://arxiv.org/abs/2309.08420v1)|**[link](https://github.com/orion-orion/FedDCSR)**|
 |**2023-09-15**|**Gaussian Processes with Linear Multiple Kernel: Spectrum Design and Distributed Learning for Multi-Dimensional Data**|Richard Cornelius Suwandi et.al.|[2309.08201v1](http://arxiv.org/abs/2309.08201v1)|**[link](https://github.com/richardcsuwandi/distributed-gsm)**|
