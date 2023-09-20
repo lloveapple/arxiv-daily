@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**RIS-Assisted Over-the-Air Adaptive Federated Learning with Noisy Downlink**|Jiayu Mao et.al.|[2309.10758v1](http://arxiv.org/abs/2309.10758v1)|null|
+|**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645v1](http://arxiv.org/abs/2309.10645v1)|null|
+|**2023-09-19**|**SPFL: A Self-purified Federated Learning Method Against Poisoning Attacks**|Zizhen Liu et.al.|[2309.10607v1](http://arxiv.org/abs/2309.10607v1)|null|
+|**2023-09-19**|**Toward efficient resource utilization at edge nodes in federated learning**|Sadi Alawadi et.al.|[2309.10367v1](http://arxiv.org/abs/2309.10367v1)|null|
+|**2023-09-19**|**FedWOA: A Federated Learning Model that uses the Whale Optimization Algorithm for Renewable Energy Prediction**|Viorica Chifu et.al.|[2309.10337v1](http://arxiv.org/abs/2309.10337v1)|null|
+|**2023-09-19**|**FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning**|Thanveer Shaik et.al.|[2309.10283v1](http://arxiv.org/abs/2309.10283v1)|null|
 |**2023-09-18**|**A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning**|Pedro Valdeira et.al.|[2309.09977v1](http://arxiv.org/abs/2309.09977v1)|null|
 |**2023-09-18**|**ROAR-Fed: RIS-Assisted Over-the-Air Adaptive Resource Allocation for Federated Learning**|Jiayu Mao et.al.|[2309.09883v1](http://arxiv.org/abs/2309.09883v1)|null|
 |**2023-09-18**|**FedLALR: Client-Specific Adaptive Learning Rates Achieve Linear Speedup for Non-IID Data**|Hao Sun et.al.|[2309.09719v1](http://arxiv.org/abs/2309.09719v1)|null|
