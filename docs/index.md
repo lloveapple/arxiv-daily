@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Preconditioned Federated Learning**|Zeyi Tao et.al.|[2309.11378v1](http://arxiv.org/abs/2309.11378v1)|null|
+|**2023-09-20**|**Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration**|Xinghao Wu et.al.|[2309.11103v1](http://arxiv.org/abs/2309.11103v1)|null|
+|**2023-09-20**|**Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat Detection System via Autoencoder-based Latent Space Inspection**|Tran Duc Luong et.al.|[2309.11053v1](http://arxiv.org/abs/2309.11053v1)|null|
+|**2023-09-20**|**Clustered FedStack: Intermediate Global Models with Bayesian Information Criterion**|Thanveer Shaik et.al.|[2309.11044v1](http://arxiv.org/abs/2309.11044v1)|null|
+|**2023-09-20**|**Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems**|Shiying Zhang et.al.|[2309.11039v1](http://arxiv.org/abs/2309.11039v1)|null|
+|**2023-09-19**|**Sparser Random Networks Exist: Enforcing Communication-Efficient Federated Learning via Regularization**|Mohamad Mestoukirdi et.al.|[2309.10834v1](http://arxiv.org/abs/2309.10834v1)|null|
 |**2023-09-19**|**RIS-Assisted Over-the-Air Adaptive Federated Learning with Noisy Downlink**|Jiayu Mao et.al.|[2309.10758v1](http://arxiv.org/abs/2309.10758v1)|null|
 |**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645v1](http://arxiv.org/abs/2309.10645v1)|**[link](https://github.com/vperifan/federated-time-series-forecasting)**|
 |**2023-09-19**|**SPFL: A Self-purified Federated Learning Method Against Poisoning Attacks**|Zizhen Liu et.al.|[2309.10607v1](http://arxiv.org/abs/2309.10607v1)|null|
