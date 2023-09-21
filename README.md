@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-19**|**RIS-Assisted Over-the-Air Adaptive Federated Learning with Noisy Downlink**|Jiayu Mao et.al.|[2309.10758v1](http://arxiv.org/abs/2309.10758v1)|null|
-|**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645v1](http://arxiv.org/abs/2309.10645v1)|null|
+|**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645v1](http://arxiv.org/abs/2309.10645v1)|**[link](https://github.com/vperifan/federated-time-series-forecasting)**|
 |**2023-09-19**|**SPFL: A Self-purified Federated Learning Method Against Poisoning Attacks**|Zizhen Liu et.al.|[2309.10607v1](http://arxiv.org/abs/2309.10607v1)|null|
 |**2023-09-19**|**Toward efficient resource utilization at edge nodes in federated learning**|Sadi Alawadi et.al.|[2309.10367v1](http://arxiv.org/abs/2309.10367v1)|null|
 |**2023-09-19**|**FedWOA: A Federated Learning Model that uses the Whale Optimization Algorithm for Renewable Energy Prediction**|Viorica Chifu et.al.|[2309.10337v1](http://arxiv.org/abs/2309.10337v1)|null|
@@ -830,7 +830,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
