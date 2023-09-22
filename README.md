@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267v1](http://arxiv.org/abs/2309.12267v1)|null|
+|**2023-09-21**|**Efficient Core-selecting Incentive Mechanism for Data Sharing in Federated Learning**|Mengda Ji et.al.|[2309.11722v1](http://arxiv.org/abs/2309.11722v1)|null|
+|**2023-09-20**|**Federated Learning with Neural Graphical Models**|Urszula Chajewska et.al.|[2309.11680v1](http://arxiv.org/abs/2309.11680v1)|null|
+|**2023-09-20**|**Likelihood-based Sensor Calibration for Expert-Supported Distributed Learning Algorithms in IoT Systems**|Rüdiger Machhamer et.al.|[2309.11526v1](http://arxiv.org/abs/2309.11526v1)|null|
 |**2023-09-20**|**Preconditioned Federated Learning**|Zeyi Tao et.al.|[2309.11378v1](http://arxiv.org/abs/2309.11378v1)|null|
 |**2023-09-20**|**Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration**|Xinghao Wu et.al.|[2309.11103v1](http://arxiv.org/abs/2309.11103v1)|**[link](https://github.com/kxzxvbk/Fling)**|
 |**2023-09-20**|**Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat Detection System via Autoencoder-based Latent Space Inspection**|Tran Duc Luong et.al.|[2309.11053v1](http://arxiv.org/abs/2309.11053v1)|null|
