@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1229,7 +1229,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Preconditioned Federated Learning**|Zeyi Tao et.al.|[2309.11378v1](http://arxiv.org/abs/2309.11378v1)|null|
-|**2023-09-20**|**Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration**|Xinghao Wu et.al.|[2309.11103v1](http://arxiv.org/abs/2309.11103v1)|null|
+|**2023-09-20**|**Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration**|Xinghao Wu et.al.|[2309.11103v1](http://arxiv.org/abs/2309.11103v1)|**[link](https://github.com/kxzxvbk/Fling)**|
 |**2023-09-20**|**Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat Detection System via Autoencoder-based Latent Space Inspection**|Tran Duc Luong et.al.|[2309.11053v1](http://arxiv.org/abs/2309.11053v1)|null|
 |**2023-09-20**|**Clustered FedStack: Intermediate Global Models with Bayesian Information Criterion**|Thanveer Shaik et.al.|[2309.11044v1](http://arxiv.org/abs/2309.11044v1)|null|
 |**2023-09-20**|**Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems**|Shiying Zhang et.al.|[2309.11039v1](http://arxiv.org/abs/2309.11039v1)|null|
