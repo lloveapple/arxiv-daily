@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024v1](http://arxiv.org/abs/2309.13024v1)|null|
+|**2023-09-22**|**Understanding Deep Gradient Leakage via Inversion Influence Functions**|Haobo Zhang et.al.|[2309.13016v1](http://arxiv.org/abs/2309.13016v1)|**[link](https://github.com/illidanlab/inversion-influence-function)**|
+|**2023-09-22**|**Expressive variational quantum circuits provide inherent privacy in federated learning**|Niraj Kumar et.al.|[2309.13002v1](http://arxiv.org/abs/2309.13002v1)|null|
+|**2023-09-22**|**Multi-objective Optimization of Space-Air-Ground Integrated Network Slicing Relying on a Pair of Central and Distributed Learning Algorithms**|Guorong Zhou et.al.|[2309.12783v1](http://arxiv.org/abs/2309.12783v1)|null|
+|**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593v1](http://arxiv.org/abs/2309.12593v1)|null|
+|**2023-09-21**|**User-Level Differential Privacy With Few Examples Per User**|Badih Ghazi et.al.|[2309.12500v1](http://arxiv.org/abs/2309.12500v1)|null|
 |**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267v1](http://arxiv.org/abs/2309.12267v1)|null|
 |**2023-09-21**|**Efficient Core-selecting Incentive Mechanism for Data Sharing in Federated Learning**|Mengda Ji et.al.|[2309.11722v1](http://arxiv.org/abs/2309.11722v1)|null|
 |**2023-09-20**|**Federated Learning with Neural Graphical Models**|Urszula Chajewska et.al.|[2309.11680v1](http://arxiv.org/abs/2309.11680v1)|null|
