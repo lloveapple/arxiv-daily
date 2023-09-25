@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "FL":
         filters: ["Federated Learning", "Distributed Learning"]
+    "MMS":
+        filters: ["Multimedia Security", "Media Content Security"]
 #     "SLAM": 
 #         filters: ["SLAM", "Visual Odometry"]
 #     "SFM":
