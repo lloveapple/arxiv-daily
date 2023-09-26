@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Federated Learning Under Restricted User Availability**|Periklis Theodoropoulos et.al.|[2309.14176v1](http://arxiv.org/abs/2309.14176v1)|null|
+|**2023-09-25**|**REPA: Client Clustering without Training and Data Labels for Improved Federated Learning in Non-IID Settings**|Boris Radovič et.al.|[2309.14088v1](http://arxiv.org/abs/2309.14088v1)|null|
+|**2023-09-25**|**PA-iMFL: Communication-Efficient Privacy Amplification Method against Data Reconstruction Attack in Improved Multi-Layer Federated Learning**|Jianhua Wang et.al.|[2309.13864v1](http://arxiv.org/abs/2309.13864v1)|null|
+|**2023-09-24**|**REWAFL: Residual Energy and Wireless Aware Participant Selection for Efficient Federated Learning over Mobile Devices**|Y. Li et.al.|[2309.13643v1](http://arxiv.org/abs/2309.13643v1)|null|
+|**2023-09-24**|**Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity**|Youssef Allouah et.al.|[2309.13591v1](http://arxiv.org/abs/2309.13591v1)|null|
+|**2023-09-24**|**DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning**|Kangyang Luo et.al.|[2309.13546v1](http://arxiv.org/abs/2309.13546v1)|null|
+|**2023-09-24**|**Tackling the Unlimited Staleness in Federated Learning with Intertwined Data and Device Heterogeneities**|Haoming Wang et.al.|[2309.13536v1](http://arxiv.org/abs/2309.13536v1)|null|
+|**2023-09-23**|**FedDrive v2: an Analysis of the Impact of Label Skewness in Federated Semantic Segmentation for Autonomous Driving**|Eros Fanì et.al.|[2309.13336v1](http://arxiv.org/abs/2309.13336v1)|null|
+|**2023-09-22**|**Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients**|Shourya Bose et.al.|[2309.13194v1](http://arxiv.org/abs/2309.13194v1)|null|
 |**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024v1](http://arxiv.org/abs/2309.13024v1)|null|
 |**2023-09-22**|**Understanding Deep Gradient Leakage via Inversion Influence Functions**|Haobo Zhang et.al.|[2309.13016v1](http://arxiv.org/abs/2309.13016v1)|**[link](https://github.com/illidanlab/inversion-influence-function)**|
 |**2023-09-22**|**Expressive variational quantum circuits provide inherent privacy in federated learning**|Niraj Kumar et.al.|[2309.13002v1](http://arxiv.org/abs/2309.13002v1)|null|
