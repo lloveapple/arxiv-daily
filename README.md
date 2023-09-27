@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks**|Hao-kai Zhang et.al.|[2309.14980v1](http://arxiv.org/abs/2309.14980v1)|**[link](https://github.com/chenghongz/lim_learning_state)**|
+|**2023-09-26**|**Markov Chain Mirror Descent On Data Federation**|Yawei Zhao et.al.|[2309.14775v1](http://arxiv.org/abs/2309.14775v1)|null|
+|**2023-09-26**|**PLMM: Personal Large Models on Mobile Devices**|Yuanhao Gong et.al.|[2309.14726v1](http://arxiv.org/abs/2309.14726v1)|null|
+|**2023-09-26**|**FedCompass: Efficient Cross-Silo Federated Learning on Heterogeneous Client Devices using a Computing Power Aware Scheduler**|Zilinghan Li et.al.|[2309.14675v1](http://arxiv.org/abs/2309.14675v1)|null|
 |**2023-09-25**|**Federated Learning Under Restricted User Availability**|Periklis Theodoropoulos et.al.|[2309.14176v1](http://arxiv.org/abs/2309.14176v1)|null|
 |**2023-09-25**|**REPA: Client Clustering without Training and Data Labels for Improved Federated Learning in Non-IID Settings**|Boris Radovič et.al.|[2309.14088v1](http://arxiv.org/abs/2309.14088v1)|null|
 |**2023-09-25**|**PA-iMFL: Communication-Efficient Privacy Amplification Method against Data Reconstruction Attack in Improved Multi-Layer Federated Learning**|Jianhua Wang et.al.|[2309.13864v1](http://arxiv.org/abs/2309.13864v1)|null|
