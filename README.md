@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746v1](http://arxiv.org/abs/2309.15746v1)|null|
+|**2023-09-27**|**Federated Deep Equilibrium Learning: A Compact Shared Representation for Edge Communication Efficiency**|Long Tan Le et.al.|[2309.15659v1](http://arxiv.org/abs/2309.15659v1)|null|
+|**2023-09-27**|**Robust Internal Representations for Domain Generalization**|Mohammad Rostami et.al.|[2309.15522v1](http://arxiv.org/abs/2309.15522v1)|null|
+|**2023-09-27**|**Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations**|Hui Chen et.al.|[2309.15499v1](http://arxiv.org/abs/2309.15499v1)|null|
+|**2023-09-27**|**Multi-dimensional Data Quick Query for Blockchain-based Federated Learning**|Jiaxi Yang et.al.|[2309.15348v1](http://arxiv.org/abs/2309.15348v1)|null|
 |**2023-09-26**|**Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks**|Hao-kai Zhang et.al.|[2309.14980v1](http://arxiv.org/abs/2309.14980v1)|**[link](https://github.com/chenghongz/lim_learning_state)**|
 |**2023-09-26**|**Markov Chain Mirror Descent On Data Federation**|Yawei Zhao et.al.|[2309.14775v1](http://arxiv.org/abs/2309.14775v1)|null|
 |**2023-09-26**|**PLMM: Personal Large Models on Mobile Devices**|Yuanhao Gong et.al.|[2309.14726v1](http://arxiv.org/abs/2309.14726v1)|null|
