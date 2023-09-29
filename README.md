@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**A Design Toolbox for the Development of Collaborative Distributed Machine Learning Systems**|David Jin et.al.|[2309.16584v1](http://arxiv.org/abs/2309.16584v1)|null|
+|**2023-09-28**|**Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective**|Zhen Qin et.al.|[2309.16456v1](http://arxiv.org/abs/2309.16456v1)|null|
+|**2023-09-28**|**EFFL: Egalitarian Fairness in Federated Learning for Mitigating Matthew Effect**|Jiashi Gao et.al.|[2309.16338v1](http://arxiv.org/abs/2309.16338v1)|null|
+|**2023-09-28**|**Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning**|Wenke Huang et.al.|[2309.16286v1](http://arxiv.org/abs/2309.16286v1)|**[link](https://github.com/wenkehuang/fccl)**|
 |**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746v1](http://arxiv.org/abs/2309.15746v1)|null|
 |**2023-09-27**|**Federated Deep Equilibrium Learning: A Compact Shared Representation for Edge Communication Efficiency**|Long Tan Le et.al.|[2309.15659v1](http://arxiv.org/abs/2309.15659v1)|null|
 |**2023-09-27**|**Robust Internal Representations for Domain Generalization**|Mohammad Rostami et.al.|[2309.15522v1](http://arxiv.org/abs/2309.15522v1)|null|
