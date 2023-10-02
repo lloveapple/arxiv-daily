@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization**|Yiming Chen et.al.|[2309.17409v1](http://arxiv.org/abs/2309.17409v1)|null|
+|**2023-09-29**|**A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration**|Yixing Huang et.al.|[2309.17192v1](http://arxiv.org/abs/2309.17192v1)|**[link](https://github.com/yixinghuang/itlsurvey)**|
+|**2023-09-29**|**FedZeN: Towards superlinear zeroth-order federated learning via incremental Hessian estimation**|Alessio Maritan et.al.|[2309.17174v1](http://arxiv.org/abs/2309.17174v1)|null|
+|**2023-09-29**|**Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation**|Lucia Innocenti et.al.|[2309.17097v1](http://arxiv.org/abs/2309.17097v1)|null|
+|**2023-09-29**|**Mode Connectivity and Data Heterogeneity of Federated Learning**|Tailin Zhou et.al.|[2309.16923v1](http://arxiv.org/abs/2309.16923v1)|null|
+|**2023-09-28**|**Applications of Federated Learning in IoT for Hyper Personalisation**|Veer Dosi et.al.|[2309.16854v1](http://arxiv.org/abs/2309.16854v1)|null|
+|**2023-09-28**|**FENDA-FL: Personalized Federated Learning on Heterogeneous Clinical Datasets**|Fatemeh Tavakoli et.al.|[2309.16825v1](http://arxiv.org/abs/2309.16825v1)|null|
 |**2023-09-28**|**A Design Toolbox for the Development of Collaborative Distributed Machine Learning Systems**|David Jin et.al.|[2309.16584v1](http://arxiv.org/abs/2309.16584v1)|null|
 |**2023-09-28**|**Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective**|Zhen Qin et.al.|[2309.16456v1](http://arxiv.org/abs/2309.16456v1)|null|
 |**2023-09-28**|**EFFL: Egalitarian Fairness in Federated Learning for Mitigating Matthew Effect**|Jiashi Gao et.al.|[2309.16338v1](http://arxiv.org/abs/2309.16338v1)|null|
