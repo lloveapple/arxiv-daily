@@ -1247,7 +1247,7 @@ layout: default
 |**2023-09-24**|**REWAFL: Residual Energy and Wireless Aware Participant Selection for Efficient Federated Learning over Mobile Devices**|Y. Li et.al.|[2309.13643v1](http://arxiv.org/abs/2309.13643v1)|null|
 |**2023-09-24**|**Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity**|Youssef Allouah et.al.|[2309.13591v1](http://arxiv.org/abs/2309.13591v1)|null|
 |**2023-09-24**|**DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning**|Kangyang Luo et.al.|[2309.13546v1](http://arxiv.org/abs/2309.13546v1)|null|
-|**2023-09-24**|**Tackling the Unlimited Staleness in Federated Learning with Intertwined Data and Device Heterogeneities**|Haoming Wang et.al.|[2309.13536v1](http://arxiv.org/abs/2309.13536v1)|null|
+|**2023-09-24**|**Tackling the Unlimited Staleness in Federated Learning with Intertwined Data and Device Heterogeneities**|Haoming Wang et.al.|[2309.13536v1](http://arxiv.org/abs/2309.13536v1)|**[link](https://github.com/pittisl/fl-with-intertwined-heterogeneity)**|
 |**2023-09-23**|**FedDrive v2: an Analysis of the Impact of Label Skewness in Federated Semantic Segmentation for Autonomous Driving**|Eros Fanì et.al.|[2309.13336v1](http://arxiv.org/abs/2309.13336v1)|null|
 |**2023-09-22**|**Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients**|Shourya Bose et.al.|[2309.13194v1](http://arxiv.org/abs/2309.13194v1)|null|
 |**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024v1](http://arxiv.org/abs/2309.13024v1)|null|
@@ -1554,7 +1554,7 @@ layout: default
 |**2023-07-07**|**Federated Unlearning via Active Forgetting**|Yuyuan Li et.al.|[2307.03363v1](http://arxiv.org/abs/2307.03363v1)|null|
 |**2023-07-09**|**Meta Federated Reinforcement Learning for Distributed Resource Allocation**|Zelin Ji et.al.|[2307.02900v2](http://arxiv.org/abs/2307.02900v2)|null|
 |**2023-07-06**|**Large Language Models Empowered Autonomous Edge AI for Connected Intelligence**|Yifei Shen et.al.|[2307.02779v1](http://arxiv.org/abs/2307.02779v1)|null|
-|**2023-07-10**|**FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout**|Irene Wang et.al.|[2307.02623v2](http://arxiv.org/abs/2307.02623v2)|null|
+|**2023-07-10**|**FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout**|Irene Wang et.al.|[2307.02623v2](http://arxiv.org/abs/2307.02623v2)|**[link](https://github.com/iwang05/fluid)**|
 |**2023-07-05**|**Privacy-Preserving Federated Heavy Hitter Analytics for Non-IID Data**|Jiaqi Shao et.al.|[2307.02277v1](http://arxiv.org/abs/2307.02277v1)|null|
 |**2023-07-05**|**Personalized Federated Learning via Amortized Bayesian Meta-Learning**|Shiyu Liu et.al.|[2307.02222v1](http://arxiv.org/abs/2307.02222v1)|null|
 |**2023-07-05**|**Towards Open Federated Learning Platforms: Survey and Vision from Technical and Legal Perspectives**|Moming Duan et.al.|[2307.02140v1](http://arxiv.org/abs/2307.02140v1)|**[link](https://github.com/morningd/model-centric-fml)**|
@@ -1939,7 +1939,7 @@ layout: default
 |**2023-04-09**|**Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy**|Kang Wei et.al.|[2304.04164v1](http://arxiv.org/abs/2304.04164v1)|null|
 |**2023-04-09**|**Design of Two-Level Incentive Mechanisms for Hierarchical Federated Learning**|Shunfeng Chu et.al.|[2304.04162v1](http://arxiv.org/abs/2304.04162v1)|null|
 |**2023-04-09**|**FedPNN: One-shot Federated Classification via Evolving Clustering Method and Probabilistic Neural Network hybrid**|Polaki Durga Prasad et.al.|[2304.04147v1](http://arxiv.org/abs/2304.04147v1)|null|
-|**2023-04-09**|**Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning**|Wenxiang Xu et.al.|[2304.04135v1](http://arxiv.org/abs/2304.04135v1)|null|
+|**2023-04-09**|**Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning**|Wenxiang Xu et.al.|[2304.04135v1](http://arxiv.org/abs/2304.04135v1)|**[link](https://github.com/tcmyxc/propheter)**|
 |**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|null|
 |**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|
 |**2023-04-07**|**Asynchronous Federated Continual Learning**|Donald Shenaj et.al.|[2304.03626v1](http://arxiv.org/abs/2304.03626v1)|**[link](https://github.com/lttm/fedspace)**|
