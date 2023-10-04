@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**FLEDGE: Ledger-based Federated Learning Resilient to Inference and Backdoor Attacks**|Jorge Castillo et.al.|[2310.02113v1](http://arxiv.org/abs/2310.02113v1)|null|
+|**2023-10-03**|**Federated Wasserstein Distance**|Alain Rakotomamonjy et.al.|[2310.01973v1](http://arxiv.org/abs/2310.01973v1)|null|
+|**2023-10-02**|**Adversarial Client Detection via Non-parametric Subspace Monitoring in the Internet of Federated Things**|Xianjian Xie et.al.|[2310.01537v1](http://arxiv.org/abs/2310.01537v1)|null|
+|**2023-10-02**|**FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models**|Jingwei Sun et.al.|[2310.01467v1](http://arxiv.org/abs/2310.01467v1)|null|
+|**2023-10-02**|**Window-based Model Averaging Improves Generalization in Heterogeneous Federated Learning**|Debora Caldarola et.al.|[2310.01366v1](http://arxiv.org/abs/2310.01366v1)|null|
+|**2023-10-02**|**Fleet Policy Learning via Weight Merging and An Application to Robotic Tool-Use**|Lirui Wang et.al.|[2310.01362v1](http://arxiv.org/abs/2310.01362v1)|null|
+|**2023-10-02**|**Federated K-means Clustering**|Swier Garst et.al.|[2310.01195v1](http://arxiv.org/abs/2310.01195v1)|null|
+|**2023-10-01**|**Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models**|Soroosh Tayebi Arasteh et.al.|[2310.00757v1](http://arxiv.org/abs/2310.00757v1)|null|
+|**2023-10-01**|**Intelligent Client Selection for Federated Learning using Cellular Automata**|Nikolaos Pavlidis et.al.|[2310.00627v1](http://arxiv.org/abs/2310.00627v1)|null|
+|**2023-10-01**|**Understanding Adversarial Transferability in Federated Learning**|Yijiang Li et.al.|[2310.00616v1](http://arxiv.org/abs/2310.00616v1)|null|
 |**2023-09-29**|**Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization**|Yiming Chen et.al.|[2309.17409v1](http://arxiv.org/abs/2309.17409v1)|null|
 |**2023-09-29**|**A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration**|Yixing Huang et.al.|[2309.17192v1](http://arxiv.org/abs/2309.17192v1)|**[link](https://github.com/yixinghuang/itlsurvey)**|
 |**2023-09-29**|**FedZeN: Towards superlinear zeroth-order federated learning via incremental Hessian estimation**|Alessio Maritan et.al.|[2309.17174v1](http://arxiv.org/abs/2309.17174v1)|null|
