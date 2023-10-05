@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Recent Methodological Advances in Federated Learning for Healthcare**|Fan Zhang et.al.|[2310.02874v1](http://arxiv.org/abs/2310.02874v1)|null|
+|**2023-10-04**|**Learning Probability Distributions of Intraday Electricity Prices**|Jozef Barunik et.al.|[2310.02867v1](http://arxiv.org/abs/2310.02867v1)|null|
+|**2023-10-04**|**Tackling Hybrid Heterogeneity on Federated Optimization via Gradient Diversity Maximization**|Dun Zeng et.al.|[2310.02702v1](http://arxiv.org/abs/2310.02702v1)|null|
+|**2023-10-04**|**Exploring Federated Optimization by Reducing Variance of Adaptive Unbiased Client Sampling**|Dun Zeng et.al.|[2310.02698v1](http://arxiv.org/abs/2310.02698v1)|null|
+|**2023-10-04**|**Hire When You Need to: Gradual Participant Recruitment for Auction-based Federated Learning**|Xavier Tan et.al.|[2310.02651v1](http://arxiv.org/abs/2310.02651v1)|null|
+|**2023-10-04**|**Semi-Federated Learning: Convergence Analysis and Optimization of A Hybrid Learning Framework**|Jingheng Zheng et.al.|[2310.02559v1](http://arxiv.org/abs/2310.02559v1)|null|
+|**2023-10-04**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554v1](http://arxiv.org/abs/2310.02554v1)|null|
+|**2023-10-04**|**Convergence Analysis and Latency Minimization for Semi-Federated Learning in Massive IoT Networks**|Jianyang Ren et.al.|[2310.02550v1](http://arxiv.org/abs/2310.02550v1)|null|
+|**2023-10-04**|**Heterogeneous Federated Learning Using Knowledge Codistillation**|Jared Lichtarge et.al.|[2310.02549v1](http://arxiv.org/abs/2310.02549v1)|null|
+|**2023-10-04**|**Federated Conditional Stochastic Optimization**|Xidong Wu et.al.|[2310.02524v1](http://arxiv.org/abs/2310.02524v1)|null|
 |**2023-10-03**|**FLEDGE: Ledger-based Federated Learning Resilient to Inference and Backdoor Attacks**|Jorge Castillo et.al.|[2310.02113v1](http://arxiv.org/abs/2310.02113v1)|null|
 |**2023-10-03**|**Federated Wasserstein Distance**|Alain Rakotomamonjy et.al.|[2310.01973v1](http://arxiv.org/abs/2310.01973v1)|null|
 |**2023-10-02**|**Adversarial Client Detection via Non-parametric Subspace Monitoring in the Internet of Federated Things**|Xianjian Xie et.al.|[2310.01537v1](http://arxiv.org/abs/2310.01537v1)|null|
