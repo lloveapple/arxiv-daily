@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|null|
+|**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461v1](http://arxiv.org/abs/2310.03461v1)|null|
+|**2023-10-05**|**Over-the-Air Federated Learning with Compressed Sensing: Is Sparsification Necessary?**|Adrian Edin et.al.|[2310.03410v1](http://arxiv.org/abs/2310.03410v1)|null|
+|**2023-10-04**|**Digital Ethics in Federated Learning**|Liangqi Yuan et.al.|[2310.03178v1](http://arxiv.org/abs/2310.03178v1)|null|
+|**2023-10-04**|**FedNAR: Federated Optimization with Normalized Annealing Regularization**|Junbo Li et.al.|[2310.03163v1](http://arxiv.org/abs/2310.03163v1)|**[link](https://github.com/ljb121002/fednar)**|
+|**2023-10-04**|**FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent**|Ziyao Wang et.al.|[2310.03156v1](http://arxiv.org/abs/2310.03156v1)|null|
+|**2023-10-04**|**Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly**|Herbert Woisetschläger et.al.|[2310.03150v1](http://arxiv.org/abs/2310.03150v1)|null|
+|**2023-10-04**|**Dual Prompt Tuning for Domain-Aware Federated Learning**|Guoyizhe Wei et.al.|[2310.03103v1](http://arxiv.org/abs/2310.03103v1)|null|
 |**2023-10-04**|**Recent Methodological Advances in Federated Learning for Healthcare**|Fan Zhang et.al.|[2310.02874v1](http://arxiv.org/abs/2310.02874v1)|null|
 |**2023-10-04**|**Learning Probability Distributions of Intraday Electricity Prices**|Jozef Barunik et.al.|[2310.02867v1](http://arxiv.org/abs/2310.02867v1)|null|
 |**2023-10-04**|**Tackling Hybrid Heterogeneity on Federated Optimization via Gradient Diversity Maximization**|Dun Zeng et.al.|[2310.02702v1](http://arxiv.org/abs/2310.02702v1)|null|
