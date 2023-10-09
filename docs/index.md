@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
+|**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|null|
+|**2023-10-06**|**The Role of Federated Learning in a Wireless World with Foundation Models**|Zihan Chen et.al.|[2310.04003v1](http://arxiv.org/abs/2310.04003v1)|null|
+|**2023-10-05**|**PrIeD-KIE: Towards Privacy Preserved Document Key Information Extraction**|Saifullah Saifullah et.al.|[2310.03777v1](http://arxiv.org/abs/2310.03777v1)|null|
 |**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|null|
 |**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461v1](http://arxiv.org/abs/2310.03461v1)|null|
 |**2023-10-05**|**Over-the-Air Federated Learning with Compressed Sensing: Is Sparsification Necessary?**|Adrian Edin et.al.|[2310.03410v1](http://arxiv.org/abs/2310.03410v1)|null|
