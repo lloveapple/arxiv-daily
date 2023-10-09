@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1233,7 +1233,7 @@ layout: default
 |**2023-10-05**|**Over-the-Air Federated Learning with Compressed Sensing: Is Sparsification Necessary?**|Adrian Edin et.al.|[2310.03410v1](http://arxiv.org/abs/2310.03410v1)|null|
 |**2023-10-04**|**Digital Ethics in Federated Learning**|Liangqi Yuan et.al.|[2310.03178v1](http://arxiv.org/abs/2310.03178v1)|null|
 |**2023-10-04**|**FedNAR: Federated Optimization with Normalized Annealing Regularization**|Junbo Li et.al.|[2310.03163v1](http://arxiv.org/abs/2310.03163v1)|**[link](https://github.com/ljb121002/fednar)**|
-|**2023-10-04**|**FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent**|Ziyao Wang et.al.|[2310.03156v1](http://arxiv.org/abs/2310.03156v1)|null|
+|**2023-10-06**|**FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent**|Ziyao Wang et.al.|[2310.03156v2](http://arxiv.org/abs/2310.03156v2)|null|
 |**2023-10-04**|**Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly**|Herbert Woisetschläger et.al.|[2310.03150v1](http://arxiv.org/abs/2310.03150v1)|null|
 |**2023-10-04**|**Dual Prompt Tuning for Domain-Aware Federated Learning**|Guoyizhe Wei et.al.|[2310.03103v1](http://arxiv.org/abs/2310.03103v1)|null|
 |**2023-10-04**|**Recent Methodological Advances in Federated Learning for Healthcare**|Fan Zhang et.al.|[2310.02874v1](http://arxiv.org/abs/2310.02874v1)|null|
