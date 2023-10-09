@@ -41,10 +41,10 @@
 |**2023-10-02**|**Adversarial Client Detection via Non-parametric Subspace Monitoring in the Internet of Federated Things**|Xianjian Xie et.al.|[2310.01537v1](http://arxiv.org/abs/2310.01537v1)|null|
 |**2023-10-02**|**FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models**|Jingwei Sun et.al.|[2310.01467v1](http://arxiv.org/abs/2310.01467v1)|null|
 |**2023-10-02**|**Window-based Model Averaging Improves Generalization in Heterogeneous Federated Learning**|Debora Caldarola et.al.|[2310.01366v1](http://arxiv.org/abs/2310.01366v1)|null|
-|**2023-10-02**|**Fleet Policy Learning via Weight Merging and An Application to Robotic Tool-Use**|Lirui Wang et.al.|[2310.01362v1](http://arxiv.org/abs/2310.01362v1)|null|
+|**2023-10-02**|**Fleet Policy Learning via Weight Merging and An Application to Robotic Tool-Use**|Lirui Wang et.al.|[2310.01362v1](http://arxiv.org/abs/2310.01362v1)|**[link](https://github.com/liruiw/fleet-tools)**|
 |**2023-10-02**|**Federated K-means Clustering**|Swier Garst et.al.|[2310.01195v1](http://arxiv.org/abs/2310.01195v1)|null|
-|**2023-10-01**|**Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models**|Soroosh Tayebi Arasteh et.al.|[2310.00757v1](http://arxiv.org/abs/2310.00757v1)|null|
-|**2023-10-01**|**Intelligent Client Selection for Federated Learning using Cellular Automata**|Nikolaos Pavlidis et.al.|[2310.00627v1](http://arxiv.org/abs/2310.00627v1)|null|
+|**2023-10-01**|**Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models**|Soroosh Tayebi Arasteh et.al.|[2310.00757v1](http://arxiv.org/abs/2310.00757v1)|**[link](https://github.com/tayebiarasteh/fldomain)**|
+|**2023-10-01**|**Intelligent Client Selection for Federated Learning using Cellular Automata**|Nikolaos Pavlidis et.al.|[2310.00627v1](http://arxiv.org/abs/2310.00627v1)|**[link](https://github.com/nikopavl4/ca_client_selection)**|
 |**2023-10-01**|**Understanding Adversarial Transferability in Federated Learning**|Yijiang Li et.al.|[2310.00616v1](http://arxiv.org/abs/2310.00616v1)|null|
 |**2023-09-29**|**Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization**|Yiming Chen et.al.|[2309.17409v1](http://arxiv.org/abs/2309.17409v1)|null|
 |**2023-09-29**|**A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration**|Yixing Huang et.al.|[2309.17192v1](http://arxiv.org/abs/2309.17192v1)|**[link](https://github.com/yixinghuang/itlsurvey)**|
@@ -249,7 +249,7 @@
 |**2023-08-08**|**A Survey on Decentralized Federated Learning**|Edoardo Gabrielli et.al.|[2308.04604v1](http://arxiv.org/abs/2308.04604v1)|null|
 |**2023-08-08**|**Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning**|Simon Queyrut et.al.|[2308.04373v1](http://arxiv.org/abs/2308.04373v1)|null|
 |**2023-08-08**|**Communication-Efficient Cooperative Multi-Agent PPO via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2308.04198v1](http://arxiv.org/abs/2308.04198v1)|null|
-|**2023-08-08**|**Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients**|Yao Shu et.al.|[2308.04077v1](http://arxiv.org/abs/2308.04077v1)|null|
+|**2023-08-08**|**Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients**|Yao Shu et.al.|[2308.04077v1](http://arxiv.org/abs/2308.04077v1)|**[link](https://github.com/shuyao95/FZooS)**|
 |**2023-08-08**|**ConDistFL: Conditional Distillation for Federated Learning from Partially Annotated Data**|Pochuan Wang et.al.|[2308.04070v1](http://arxiv.org/abs/2308.04070v1)|**[link](https://github.com/nvidia/nvflare)**|
 |**2023-08-08**|**NEOLAF, an LLM-powered neural-symbolic cognitive architecture**|Richard Jiarui Tong et.al.|[2308.03990v1](http://arxiv.org/abs/2308.03990v1)|null|
 |**2023-08-07**|**The Prospect of Enhancing Large-Scale Heterogeneous Federated Learning with Transformers**|Yulan Gao et.al.|[2308.03945v1](http://arxiv.org/abs/2308.03945v1)|null|
