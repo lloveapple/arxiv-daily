@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858v1](http://arxiv.org/abs/2310.05858v1)|null|
+|**2023-10-09**|**Protecting Sensitive Data through Federated Co-Training**|Amr Abourayya et.al.|[2310.05696v1](http://arxiv.org/abs/2310.05696v1)|null|
+|**2023-10-09**|**RECESS Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks**|Haonan Yan et.al.|[2310.05431v1](http://arxiv.org/abs/2310.05431v1)|null|
+|**2023-10-09**|**Find Your Optimal Assignments On-the-fly: A Holistic Framework for Clustered Federated Learning**|Yongxin Guo et.al.|[2310.05397v1](http://arxiv.org/abs/2310.05397v1)|null|
+|**2023-10-08**|**Federated Learning: A Cutting-Edge Survey of the Latest Advancements and Applications**|Azim Akhtarshenas et.al.|[2310.05269v1](http://arxiv.org/abs/2310.05269v1)|null|
+|**2023-10-08**|**ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning**|Wang Lu et.al.|[2310.05143v1](http://arxiv.org/abs/2310.05143v1)|**[link](https://github.com/microsoft/personalizedfl)**|
+|**2023-10-08**|**A Federated Learning Algorithms Development Paradigm**|Miroslav Popovic et.al.|[2310.05102v1](http://arxiv.org/abs/2310.05102v1)|null|
+|**2023-10-08**|**Asymmetrically Decentralized Federated Learning**|Qinglun Li et.al.|[2310.05093v1](http://arxiv.org/abs/2310.05093v1)|null|
+|**2023-10-08**|**FedFed: Feature Distillation against Data Heterogeneity in Federated Learning**|Zhiqin Yang et.al.|[2310.05077v1](http://arxiv.org/abs/2310.05077v1)|null|
+|**2023-10-08**|**Towards Scalable Wireless Federated Learning: Challenges and Solutions**|Yong Zhou et.al.|[2310.05076v1](http://arxiv.org/abs/2310.05076v1)|null|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|null|
 |**2023-10-06**|**The Role of Federated Learning in a Wireless World with Foundation Models**|Zihan Chen et.al.|[2310.04003v1](http://arxiv.org/abs/2310.04003v1)|null|
