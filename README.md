@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Asynchronous Federated Learning with Incentive Mechanism Based on Contract Theory**|Danni Yang et.al.|[2310.06448v1](http://arxiv.org/abs/2310.06448v1)|null|
+|**2023-10-10**|**Federated Learning with Reduced Information Leakage and Computation**|Tongxin Yin et.al.|[2310.06341v1](http://arxiv.org/abs/2310.06341v1)|null|
+|**2023-10-10**|**HoloFed: Environment-Adaptive Positioning via Multi-band Reconfigurable Holographic Surfaces and Federated Learning**|Jingzhi Hu et.al.|[2310.06336v1](http://arxiv.org/abs/2310.06336v1)|null|
+|**2023-10-10**|**Differentially Private Multi-Site Treatment Effect Estimation**|Tatsuki Koga et.al.|[2310.06237v1](http://arxiv.org/abs/2310.06237v1)|null|
+|**2023-10-10**|**Exploring adversarial attacks in federated learning for medical imaging**|Erfan Darzi et.al.|[2310.06227v1](http://arxiv.org/abs/2310.06227v1)|null|
+|**2023-10-09**|**Text-driven Prompt Generation for Vision-Language Models in Federated Learning**|Chen Qiu et.al.|[2310.06123v1](http://arxiv.org/abs/2310.06123v1)|null|
 |**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858v1](http://arxiv.org/abs/2310.05858v1)|null|
 |**2023-10-09**|**Protecting Sensitive Data through Federated Co-Training**|Amr Abourayya et.al.|[2310.05696v1](http://arxiv.org/abs/2310.05696v1)|null|
 |**2023-10-09**|**RECESS Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks**|Haonan Yan et.al.|[2310.05431v1](http://arxiv.org/abs/2310.05431v1)|null|
