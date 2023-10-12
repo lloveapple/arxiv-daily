@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Sample-Driven Federated Learning for Energy-Efficient and Real-Time IoT Sensing**|Minh Ngoc Luu et.al.|[2310.07497v1](http://arxiv.org/abs/2310.07497v1)|**[link](https://github.com/skyd-fl/scfl)**|
+|**2023-10-11**|**The Implications of Decentralization in Blockchained Federated Learning: Evaluating the Impact of Model Staleness and Inconsistencies**|Francesc Wilhelmi et.al.|[2310.07471v1](http://arxiv.org/abs/2310.07471v1)|null|
+|**2023-10-11**|**IRS Assisted Federated Learning A Broadband Over-the-Air Aggregation Approach**|Deyou Zhang et.al.|[2310.07405v1](http://arxiv.org/abs/2310.07405v1)|null|
+|**2023-10-11**|**Histopathological Image Classification and Vulnerability Analysis using Federated Learning**|Sankalp Vyas et.al.|[2310.07380v1](http://arxiv.org/abs/2310.07380v1)|null|
+|**2023-10-11**|**RaftFed: A Lightweight Federated Learning Framework for Vehicular Crowd Intelligence**|Changan Yang et.al.|[2310.07268v1](http://arxiv.org/abs/2310.07268v1)|null|
+|**2023-10-11**|**Federated Generalization via Information-Theoretic Distribution Diversification**|Zheshun Wu et.al.|[2310.07171v1](http://arxiv.org/abs/2310.07171v1)|null|
+|**2023-10-11**|**Exponential Quantum Communication Advantage in Distributed Learning**|Dar Gilboa et.al.|[2310.07136v1](http://arxiv.org/abs/2310.07136v1)|null|
+|**2023-10-10**|**Secure Decentralized Learning with Blockchain**|Xiaoxue Zhang et.al.|[2310.07079v1](http://arxiv.org/abs/2310.07079v1)|null|
+|**2023-10-10**|**FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication**|Liangqi Yuan et.al.|[2310.07048v1](http://arxiv.org/abs/2310.07048v1)|null|
+|**2023-10-10**|**Federated Quantum Machine Learning with Differential Privacy**|Rod Rofougaran et.al.|[2310.06973v1](http://arxiv.org/abs/2310.06973v1)|null|
 |**2023-10-10**|**Asynchronous Federated Learning with Incentive Mechanism Based on Contract Theory**|Danni Yang et.al.|[2310.06448v1](http://arxiv.org/abs/2310.06448v1)|null|
 |**2023-10-10**|**Federated Learning with Reduced Information Leakage and Computation**|Tongxin Yin et.al.|[2310.06341v1](http://arxiv.org/abs/2310.06341v1)|null|
 |**2023-10-10**|**HoloFed: Environment-Adaptive Positioning via Multi-band Reconfigurable Holographic Surfaces and Federated Learning**|Jingzhi Hu et.al.|[2310.06336v1](http://arxiv.org/abs/2310.06336v1)|null|
