@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-10-11**|**IRS Assisted Federated Learning A Broadband Over-the-Air Aggregation Approach**|Deyou Zhang et.al.|[2310.07405v1](http://arxiv.org/abs/2310.07405v1)|null|
 |**2023-10-11**|**Histopathological Image Classification and Vulnerability Analysis using Federated Learning**|Sankalp Vyas et.al.|[2310.07380v1](http://arxiv.org/abs/2310.07380v1)|null|
 |**2023-10-11**|**RaftFed: A Lightweight Federated Learning Framework for Vehicular Crowd Intelligence**|Changan Yang et.al.|[2310.07268v1](http://arxiv.org/abs/2310.07268v1)|null|
-|**2023-10-11**|**Federated Generalization via Information-Theoretic Distribution Diversification**|Zheshun Wu et.al.|[2310.07171v1](http://arxiv.org/abs/2310.07171v1)|null|
+|**2023-10-12**|**Federated Generalization via Information-Theoretic Distribution Diversification**|Zheshun Wu et.al.|[2310.07171v2](http://arxiv.org/abs/2310.07171v2)|null|
 |**2023-10-11**|**Exponential Quantum Communication Advantage in Distributed Learning**|Dar Gilboa et.al.|[2310.07136v1](http://arxiv.org/abs/2310.07136v1)|null|
 |**2023-10-10**|**Secure Decentralized Learning with Blockchain**|Xiaoxue Zhang et.al.|[2310.07079v1](http://arxiv.org/abs/2310.07079v1)|null|
 |**2023-10-10**|**FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication**|Liangqi Yuan et.al.|[2310.07048v1](http://arxiv.org/abs/2310.07048v1)|null|
@@ -934,7 +934,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
 ## MMS
 
@@ -951,7 +951,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
