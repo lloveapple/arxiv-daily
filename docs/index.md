@@ -1259,7 +1259,7 @@ layout: default
 |**2023-10-08**|**ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning**|Wang Lu et.al.|[2310.05143v1](http://arxiv.org/abs/2310.05143v1)|**[link](https://github.com/microsoft/personalizedfl)**|
 |**2023-10-08**|**A Federated Learning Algorithms Development Paradigm**|Miroslav Popovic et.al.|[2310.05102v1](http://arxiv.org/abs/2310.05102v1)|null|
 |**2023-10-08**|**Asymmetrically Decentralized Federated Learning**|Qinglun Li et.al.|[2310.05093v1](http://arxiv.org/abs/2310.05093v1)|null|
-|**2023-10-08**|**FedFed: Feature Distillation against Data Heterogeneity in Federated Learning**|Zhiqin Yang et.al.|[2310.05077v1](http://arxiv.org/abs/2310.05077v1)|null|
+|**2023-10-08**|**FedFed: Feature Distillation against Data Heterogeneity in Federated Learning**|Zhiqin Yang et.al.|[2310.05077v1](http://arxiv.org/abs/2310.05077v1)|**[link](https://github.com/visitworld123/fedfed)**|
 |**2023-10-08**|**Towards Scalable Wireless Federated Learning: Challenges and Solutions**|Yong Zhou et.al.|[2310.05076v1](http://arxiv.org/abs/2310.05076v1)|null|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|null|
@@ -1505,7 +1505,7 @@ layout: default
 |**2023-08-08**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v2](http://arxiv.org/abs/2308.03713v2)|null|
 |**2023-08-07**|**When Federated Learning meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection**|Mohammed Lansari et.al.|[2308.03573v1](http://arxiv.org/abs/2308.03573v1)|null|
 |**2023-08-07**|**TemporalFED: Detecting Cyberattacks in Industrial Time-Series Data Using Decentralized Federated Learning**|Ángel Luis Perales Gómez et.al.|[2308.03554v1](http://arxiv.org/abs/2308.03554v1)|null|
-|**2023-08-07**|**Cross-Silo Prototypical Calibration for Federated Learning with Non-IID Data**|Zhuang Qi et.al.|[2308.03457v1](http://arxiv.org/abs/2308.03457v1)|null|
+|**2023-08-07**|**Cross-Silo Prototypical Calibration for Federated Learning with Non-IID Data**|Zhuang Qi et.al.|[2308.03457v1](http://arxiv.org/abs/2308.03457v1)|**[link](https://github.com/qizhuang-qz/fedcspc)**|
 |**2023-08-07**|**Cuing Without Sharing: A Federated Cued Speech Recognition Framework via Mutual Knowledge Distillation**|Yuxuan Zhang et.al.|[2308.03432v1](http://arxiv.org/abs/2308.03432v1)|**[link](https://github.com/yuxuanzhang0713/fedcsr)**|
 |**2023-08-07**|**A Four-Pronged Defense Against Byzantine Attacks in Federated Learning**|Wei Wan et.al.|[2308.03331v1](http://arxiv.org/abs/2308.03331v1)|null|
 |**2023-08-07**|**Binary Federated Learning with Client-Level Differential Privacy**|Lumin Liu et.al.|[2308.03320v1](http://arxiv.org/abs/2308.03320v1)|null|
