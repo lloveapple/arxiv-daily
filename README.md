@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey**|Mai Le et.al.|[2310.10549v1](http://arxiv.org/abs/2310.10549v1)|null|
+|**2023-10-16**|**Passive Inference Attacks on Split Learning via Adversarial Regularization**|Xiaochen Zhu et.al.|[2310.10483v1](http://arxiv.org/abs/2310.10483v1)|null|
+|**2023-10-16**|**A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**|Chuan He et.al.|[2310.10117v1](http://arxiv.org/abs/2310.10117v1)|null|
+|**2023-10-16**|**Over-the-Air Federated Learning and Optimization**|Jingyang Zhu et.al.|[2310.10089v1](http://arxiv.org/abs/2310.10089v1)|null|
+|**2023-10-16**|**FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models**|Tao Fan et.al.|[2310.10049v1](http://arxiv.org/abs/2310.10049v1)|null|
+|**2023-10-15**|**The Capacity Region of Information Theoretic Secure Aggregation with Uncoded Groupwise Keys**|Kai Wan et.al.|[2310.09889v1](http://arxiv.org/abs/2310.09889v1)|null|
+|**2023-10-15**|**Federated Multi-Objective Learning**|Haibo Yang et.al.|[2310.09866v1](http://arxiv.org/abs/2310.09866v1)|null|
+|**2023-10-15**|**Federated Reinforcement Learning for Resource Allocation in V2X Networks**|Kaidi Xu et.al.|[2310.09858v1](http://arxiv.org/abs/2310.09858v1)|null|
+|**2023-10-15**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|null|
+|**2023-10-15**|**Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates**|Ahmad Rammal et.al.|[2310.09804v1](http://arxiv.org/abs/2310.09804v1)|null|
 |**2023-10-13**|**PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning**|Mingjia Shi et.al.|[2310.09183v1](http://arxiv.org/abs/2310.09183v1)|null|
 |**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002v1](http://arxiv.org/abs/2310.09002v1)|null|
 |**2023-10-13**|**PAGE: Equilibrate Personalization and Generalization in Federated Learning**|Qian Chen et.al.|[2310.08961v1](http://arxiv.org/abs/2310.08961v1)|null|
