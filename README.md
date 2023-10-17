@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning**|Mingjia Shi et.al.|[2310.09183v1](http://arxiv.org/abs/2310.09183v1)|null|
+|**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002v1](http://arxiv.org/abs/2310.09002v1)|null|
+|**2023-10-13**|**PAGE: Equilibrate Personalization and Generalization in Federated Learning**|Qian Chen et.al.|[2310.08961v1](http://arxiv.org/abs/2310.08961v1)|null|
+|**2023-10-13**|**Federated Class-Incremental Learning with Prompting**|Jiale Liu et.al.|[2310.08948v1](http://arxiv.org/abs/2310.08948v1)|null|
+|**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839v1](http://arxiv.org/abs/2310.08839v1)|null|
+|**2023-10-13**|**Federated Learning in Competitive EV Charging Market**|Chenxi Sun et.al.|[2310.08794v1](http://arxiv.org/abs/2310.08794v1)|null|
+|**2023-10-13**|**Price of Stability in Quality-Aware Federated Learning**|Yizhou Yan et.al.|[2310.08790v1](http://arxiv.org/abs/2310.08790v1)|null|
+|**2023-10-12**|**Voyager: MTD-Based Aggregation Protocol for Mitigating Poisoning Attacks on DFL**|Chao Feng et.al.|[2310.08739v1](http://arxiv.org/abs/2310.08739v1)|null|
+|**2023-10-12**|**Fed-Safe: Securing Federated Learning in Healthcare Against Adversarial Attacks**|Erfan Darzi et.al.|[2310.08681v1](http://arxiv.org/abs/2310.08681v1)|null|
+|**2023-10-12**|**Every Parameter Matters: Ensuring the Convergence of Federated Learning with Dynamic Heterogeneous Models Reduction**|Hanhan Zhou et.al.|[2310.08670v1](http://arxiv.org/abs/2310.08670v1)|null|
 |**2023-10-12**|**2SFGL: A Simple And Robust Protocol For Graph-Based Fraud Detection**|Zhirui Pan et.al.|[2310.08335v1](http://arxiv.org/abs/2310.08335v1)|null|
 |**2023-10-12**|**Boosting Client Selection of Federated Learning under Device and Data Heterogeneity**|Shuaijun Chen et.al.|[2310.08147v1](http://arxiv.org/abs/2310.08147v1)|null|
 |**2023-10-12**|**Sentinel: An Aggregation Function to Secure Decentralized Federated Learning**|Chao Feng et.al.|[2310.08097v1](http://arxiv.org/abs/2310.08097v1)|null|
@@ -941,7 +951,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## MMS
 
@@ -958,7 +968,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
