@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Federated Learning with Nonvacuous Generalisation Bounds**|Pierre Jobic et.al.|[2310.11203v1](http://arxiv.org/abs/2310.11203v1)|null|
+|**2023-10-16**|**Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**|Erfan Shayegani et.al.|[2310.10844v1](http://arxiv.org/abs/2310.10844v1)|null|
 |**2023-10-16**|**Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey**|Mai Le et.al.|[2310.10549v1](http://arxiv.org/abs/2310.10549v1)|null|
 |**2023-10-16**|**Passive Inference Attacks on Split Learning via Adversarial Regularization**|Xiaochen Zhu et.al.|[2310.10483v1](http://arxiv.org/abs/2310.10483v1)|null|
 |**2023-10-16**|**A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**|Chuan He et.al.|[2310.10117v1](http://arxiv.org/abs/2310.10117v1)|null|
