@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,11 +22,11 @@
 |**2023-10-16**|**Passive Inference Attacks on Split Learning via Adversarial Regularization**|Xiaochen Zhu et.al.|[2310.10483v1](http://arxiv.org/abs/2310.10483v1)|null|
 |**2023-10-16**|**A proximal augmented Lagrangian based algorithm for federated learning with global and local convex conic constraints**|Chuan He et.al.|[2310.10117v1](http://arxiv.org/abs/2310.10117v1)|null|
 |**2023-10-16**|**Over-the-Air Federated Learning and Optimization**|Jingyang Zhu et.al.|[2310.10089v1](http://arxiv.org/abs/2310.10089v1)|null|
-|**2023-10-16**|**FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models**|Tao Fan et.al.|[2310.10049v1](http://arxiv.org/abs/2310.10049v1)|null|
+|**2023-10-16**|**FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models**|Tao Fan et.al.|[2310.10049v1](http://arxiv.org/abs/2310.10049v1)|**[link](https://github.com/FederatedAI/FATE-LLM)**|
 |**2023-10-15**|**The Capacity Region of Information Theoretic Secure Aggregation with Uncoded Groupwise Keys**|Kai Wan et.al.|[2310.09889v1](http://arxiv.org/abs/2310.09889v1)|null|
 |**2023-10-15**|**Federated Multi-Objective Learning**|Haibo Yang et.al.|[2310.09866v1](http://arxiv.org/abs/2310.09866v1)|null|
 |**2023-10-15**|**Federated Reinforcement Learning for Resource Allocation in V2X Networks**|Kaidi Xu et.al.|[2310.09858v1](http://arxiv.org/abs/2310.09858v1)|null|
-|**2023-10-15**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|null|
+|**2023-10-15**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|**[link](https://github.com/flair-thu/vflair)**|
 |**2023-10-15**|**Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates**|Ahmad Rammal et.al.|[2310.09804v1](http://arxiv.org/abs/2310.09804v1)|null|
 |**2023-10-13**|**PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning**|Mingjia Shi et.al.|[2310.09183v1](http://arxiv.org/abs/2310.09183v1)|null|
 |**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002v1](http://arxiv.org/abs/2310.09002v1)|null|
@@ -961,7 +961,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## MMS
 
@@ -978,7 +978,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
