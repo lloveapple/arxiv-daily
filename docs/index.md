@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,7 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-18**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998v1](http://arxiv.org/abs/2310.11998v1)|null|
+|**2023-10-19**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998v2](http://arxiv.org/abs/2310.11998v2)|null|
 |**2023-10-18**|**Effective and Efficient Federated Tree Learning on Hybrid Data**|Qinbin Li et.al.|[2310.11865v1](http://arxiv.org/abs/2310.11865v1)|null|
 |**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714v1](http://arxiv.org/abs/2310.11714v1)|null|
 |**2023-10-18**|**Cloud-Magnetic Resonance Imaging System: In the Era of 6G and Artificial Intelligence**|Yirong Zhou et.al.|[2310.11641v1](http://arxiv.org/abs/2310.11641v1)|null|
