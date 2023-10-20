@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|**[link](https://github.com/yuening-lab/f2gnn)**|
+|**2023-10-18**|**Fact-based Agent modeling for Multi-Agent Reinforcement Learning**|Baofu Fang et.al.|[2310.12290v1](http://arxiv.org/abs/2310.12290v1)|null|
 |**2023-10-19**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998v2](http://arxiv.org/abs/2310.11998v2)|null|
 |**2023-10-18**|**Effective and Efficient Federated Tree Learning on Hybrid Data**|Qinbin Li et.al.|[2310.11865v1](http://arxiv.org/abs/2310.11865v1)|null|
 |**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714v1](http://arxiv.org/abs/2310.11714v1)|null|
