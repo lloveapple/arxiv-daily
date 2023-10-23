@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**RealFM: A Realistic Mechanism to Incentivize Data Contribution and Device Participation**|Marco Bornstein et.al.|[2310.13681v1](http://arxiv.org/abs/2310.13681v1)|null|
+|**2023-10-20**|**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**|Xinyu Zhang et.al.|[2310.13424v1](http://arxiv.org/abs/2310.13424v1)|null|
+|**2023-10-20**|**BRFL: A Blockchain-based Byzantine-Robust Federated Learning Model**|Yang Li et.al.|[2310.13403v1](http://arxiv.org/abs/2310.13403v1)|null|
+|**2023-10-20**|**VFedMH: Vertical Federated Learning for Training Multi-party Heterogeneous Models**|Shuo Wang et.al.|[2310.13367v1](http://arxiv.org/abs/2310.13367v1)|null|
+|**2023-10-20**|**FedLoRA: Model-Heterogeneous Personalized Federated Learning with LoRA Tuning**|Liping Yi et.al.|[2310.13283v1](http://arxiv.org/abs/2310.13283v1)|null|
+|**2023-10-20**|**FLEE-GNN: A Federated Learning System for Edge-Enhanced Graph Neural Network in Analyzing Geospatial Resilience of Multicommodity Food Flows**|Yuxiao Qu et.al.|[2310.13248v1](http://arxiv.org/abs/2310.13248v1)|**[link](https://github.com/geods/flee-gnn)**|
+|**2023-10-20**|**Training A Semantic Communication System with Federated Learning**|Loc X. Nguyen et.al.|[2310.13236v1](http://arxiv.org/abs/2310.13236v1)|null|
+|**2023-10-19**|**A Distributed Approach to Meteorological Predictions: Addressing Data Imbalance in Precipitation Prediction Models through Federated Learning and GANs**|Elaheh Jafarigol et.al.|[2310.13161v1](http://arxiv.org/abs/2310.13161v1)|null|
 |**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|**[link](https://github.com/yuening-lab/f2gnn)**|
 |**2023-10-18**|**Fact-based Agent modeling for Multi-Agent Reinforcement Learning**|Baofu Fang et.al.|[2310.12290v1](http://arxiv.org/abs/2310.12290v1)|null|
 |**2023-10-19**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998v2](http://arxiv.org/abs/2310.11998v2)|null|
