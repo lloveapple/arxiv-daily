@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
+|**2023-10-23**|**Quantum Federated Learning With Quantum Networks**|Tyler Wang et.al.|[2310.15084v1](http://arxiv.org/abs/2310.15084v1)|null|
+|**2023-10-23**|**Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization**|Tianshi Che et.al.|[2310.15080v1](http://arxiv.org/abs/2310.15080v1)|**[link](https://github.com/llm-eff/fedpeptao)**|
+|**2023-10-23**|**Coordinated Replay Sample Selection for Continual Federated Learning**|Jack Good et.al.|[2310.15054v1](http://arxiv.org/abs/2310.15054v1)|null|
+|**2023-10-23**|**Dynamically Weighted Federated k-Means**|Patrick Holzer et.al.|[2310.14858v1](http://arxiv.org/abs/2310.14858v1)|null|
+|**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848v1](http://arxiv.org/abs/2310.14848v1)|null|
+|**2023-10-23**|**An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation**|Wenhao Yan et.al.|[2310.14784v1](http://arxiv.org/abs/2310.14784v1)|null|
+|**2023-10-23**|**Federated learning compression designed for lightweight communications**|Lucas Grativol Ribeiro et.al.|[2310.14693v1](http://arxiv.org/abs/2310.14693v1)|**[link](https://github.com/lgrativol/fl_exps)**|
+|**2023-10-23**|**B^2SFL: A Bi-level Blockchained Architecture for Secure Federated Learning-based Traffic Prediction**|Hao Guo et.al.|[2310.14669v1](http://arxiv.org/abs/2310.14669v1)|null|
+|**2023-10-23**|**FedSplitX: Federated Split Learning for Computationally-Constrained Heterogeneous Clients**|Jiyun Shin et.al.|[2310.14579v1](http://arxiv.org/abs/2310.14579v1)|null|
 |**2023-10-20**|**RealFM: A Realistic Mechanism to Incentivize Data Contribution and Device Participation**|Marco Bornstein et.al.|[2310.13681v1](http://arxiv.org/abs/2310.13681v1)|null|
 |**2023-10-20**|**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**|Xinyu Zhang et.al.|[2310.13424v1](http://arxiv.org/abs/2310.13424v1)|null|
 |**2023-10-20**|**BRFL: A Blockchain-based Byzantine-Robust Federated Learning Model**|Yang Li et.al.|[2310.13403v1](http://arxiv.org/abs/2310.13403v1)|null|
