@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Accelerating Split Federated Learning over Wireless Communication Networks**|Ce Xu et.al.|[2310.15584v1](http://arxiv.org/abs/2310.15584v1)|null|
+|**2023-10-24**|**Robust Representation Learning for Unified Online Top-K Recommendation**|Minfang Lu et.al.|[2310.15492v1](http://arxiv.org/abs/2310.15492v1)|null|
+|**2023-10-23**|**Error analysis of generative adversarial network**|Mahmud Hasan et.al.|[2310.15387v1](http://arxiv.org/abs/2310.15387v1)|null|
+|**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371v1](http://arxiv.org/abs/2310.15371v1)|null|
+|**2023-10-23**|**Unsupervised Federated Learning: A Federated Gradient EM Algorithm for Heterogeneous Mixture Models with Robustness against Adversarial Attacks**|Ye Tian et.al.|[2310.15330v1](http://arxiv.org/abs/2310.15330v1)|null|
+|**2023-10-23**|**Serverless Federated Learning with flwr-serverless**|Sanjeev V. Namjoshi et.al.|[2310.15329v1](http://arxiv.org/abs/2310.15329v1)|**[link](https://github.com/kungfuai/flwr_serverless)**|
+|**2023-10-23**|**ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease**|Xiaomin Ouyang et.al.|[2310.15301v1](http://arxiv.org/abs/2310.15301v1)|null|
 |**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
 |**2023-10-23**|**Quantum Federated Learning With Quantum Networks**|Tyler Wang et.al.|[2310.15084v1](http://arxiv.org/abs/2310.15084v1)|null|
 |**2023-10-23**|**Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization**|Tianshi Che et.al.|[2310.15080v1](http://arxiv.org/abs/2310.15080v1)|**[link](https://github.com/llm-eff/fedpeptao)**|
