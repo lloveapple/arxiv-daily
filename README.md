@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**How Robust is Federated Learning to Communication Error? A Comparison Study Between Uplink and Downlink Channels**|Linping Qu et.al.|[2310.16652v1](http://arxiv.org/abs/2310.16652v1)|null|
+|**2023-10-25**|**AirFL-Mem: Improving Communication-Learning Trade-Off by Long-Term Memory**|Haifeng Wen et.al.|[2310.16606v1](http://arxiv.org/abs/2310.16606v1)|null|
+|**2023-10-25**|**Over-the-air Federated Policy Gradient**|Huiwen Yang et.al.|[2310.16592v1](http://arxiv.org/abs/2310.16592v1)|null|
+|**2023-10-25**|**FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning**|Jaemin Shin et.al.|[2310.16538v1](http://arxiv.org/abs/2310.16538v1)|null|
+|**2023-10-25**|**Information-Theoretic Generalization Analysis for Topology-aware Heterogeneous Federated Edge Learning over Noisy Channels**|Zheshun Wu et.al.|[2310.16407v1](http://arxiv.org/abs/2310.16407v1)|null|
+|**2023-10-25**|**Joint Distributional Learning via Cramer-Wold Distance**|Seunghwan An et.al.|[2310.16374v1](http://arxiv.org/abs/2310.16374v1)|null|
+|**2023-10-25**|**Personalized Federated X -armed Bandit**|Wenjie Li et.al.|[2310.16323v1](http://arxiv.org/abs/2310.16323v1)|null|
+|**2023-10-24**|**FLTrojan: Privacy Leakage Attacks against Federated Language Models Through Selective Weight Tampering**|Md Rafi Ur Rashid et.al.|[2310.16152v1](http://arxiv.org/abs/2310.16152v1)|null|
+|**2023-10-24**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105v1](http://arxiv.org/abs/2310.16105v1)|null|
 |**2023-10-24**|**Accelerating Split Federated Learning over Wireless Communication Networks**|Ce Xu et.al.|[2310.15584v1](http://arxiv.org/abs/2310.15584v1)|null|
 |**2023-10-24**|**Robust Representation Learning for Unified Online Top-K Recommendation**|Minfang Lu et.al.|[2310.15492v1](http://arxiv.org/abs/2310.15492v1)|null|
 |**2023-10-23**|**Error analysis of generative adversarial network**|Mahmud Hasan et.al.|[2310.15387v1](http://arxiv.org/abs/2310.15387v1)|null|
