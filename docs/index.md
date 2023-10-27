@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**FedPEAT: Convergence of Federated Learning, Parameter-Efficient Fine Tuning, and Emulator Assisted Tuning for Artificial Intelligence Foundation Models with Mobile Edge Computing**|Terence Jie Chua et.al.|[2310.17491v1](http://arxiv.org/abs/2310.17491v1)|null|
+|**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477v1](http://arxiv.org/abs/2310.17477v1)|null|
+|**2023-10-26**|**A Challenge in Reweighting Data with Bilevel Optimization**|Anastasia Ivanova et.al.|[2310.17386v1](http://arxiv.org/abs/2310.17386v1)|null|
+|**2023-10-26**|**Taming Gradient Variance in Federated Learning with Networked Control Variates**|Xingyan Chen et.al.|[2310.17200v1](http://arxiv.org/abs/2310.17200v1)|null|
+|**2023-10-26**|**Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection**|Taehyeon Kim et.al.|[2310.17097v1](http://arxiv.org/abs/2310.17097v1)|null|
 |**2023-10-25**|**How Robust is Federated Learning to Communication Error? A Comparison Study Between Uplink and Downlink Channels**|Linping Qu et.al.|[2310.16652v1](http://arxiv.org/abs/2310.16652v1)|null|
 |**2023-10-25**|**AirFL-Mem: Improving Communication-Learning Trade-Off by Long-Term Memory**|Haifeng Wen et.al.|[2310.16606v1](http://arxiv.org/abs/2310.16606v1)|null|
 |**2023-10-25**|**Over-the-air Federated Policy Gradient**|Huiwen Yang et.al.|[2310.16592v1](http://arxiv.org/abs/2310.16592v1)|null|
