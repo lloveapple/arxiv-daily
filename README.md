@@ -18,11 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313v1](http://arxiv.org/abs/2310.18313v1)|**[link](https://github.com/azure/ms-amp)**|
+|**2023-10-27**|**Heterogeneous Federated Learning with Group-Aware Prompt Tuning**|Wenlong Deng et.al.|[2310.18285v1](http://arxiv.org/abs/2310.18285v1)|null|
+|**2023-10-27**|**"Honey, Tell Me What's Wrong", Global Explanation of Textual Discriminative Models through Cooperative Generation**|Antoine Chaffin et.al.|[2310.18063v1](http://arxiv.org/abs/2310.18063v1)|null|
+|**2023-10-27**|**CEFL: Carbon-Efficient Federated Learning**|Talha Mehboob et.al.|[2310.17972v1](http://arxiv.org/abs/2310.17972v1)|null|
+|**2023-10-27**|**Submodel Partitioning in Hierarchical Federated Learning: Algorithm Design and Convergence Analysis**|Wenzhi Fang et.al.|[2310.17890v1](http://arxiv.org/abs/2310.17890v1)|null|
 |**2023-10-26**|**FedPEAT: Convergence of Federated Learning, Parameter-Efficient Fine Tuning, and Emulator Assisted Tuning for Artificial Intelligence Foundation Models with Mobile Edge Computing**|Terence Jie Chua et.al.|[2310.17491v1](http://arxiv.org/abs/2310.17491v1)|null|
 |**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477v1](http://arxiv.org/abs/2310.17477v1)|null|
 |**2023-10-26**|**A Challenge in Reweighting Data with Bilevel Optimization**|Anastasia Ivanova et.al.|[2310.17386v1](http://arxiv.org/abs/2310.17386v1)|null|
 |**2023-10-26**|**Taming Gradient Variance in Federated Learning with Networked Control Variates**|Xingyan Chen et.al.|[2310.17200v1](http://arxiv.org/abs/2310.17200v1)|null|
-|**2023-10-26**|**Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection**|Taehyeon Kim et.al.|[2310.17097v1](http://arxiv.org/abs/2310.17097v1)|null|
+|**2023-10-27**|**Navigating Data Heterogeneity in Federated Learning A Semi-Supervised Approach for Object Detection**|Taehyeon Kim et.al.|[2310.17097v2](http://arxiv.org/abs/2310.17097v2)|null|
 |**2023-10-25**|**How Robust is Federated Learning to Communication Error? A Comparison Study Between Uplink and Downlink Channels**|Linping Qu et.al.|[2310.16652v1](http://arxiv.org/abs/2310.16652v1)|null|
 |**2023-10-25**|**AirFL-Mem: Improving Communication-Learning Trade-Off by Long-Term Memory**|Haifeng Wen et.al.|[2310.16606v1](http://arxiv.org/abs/2310.16606v1)|null|
 |**2023-10-25**|**Over-the-air Federated Policy Gradient**|Huiwen Yang et.al.|[2310.16592v1](http://arxiv.org/abs/2310.16592v1)|null|
