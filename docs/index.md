@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Theoretical Analysis of Impact of Delayed Updates on Decentralized Federated Learning**|Yong Zeng et.al.|[2311.01229v1](http://arxiv.org/abs/2311.01229v1)|null|
+|**2023-11-02**|**Federated Learning on Edge Sensing Devices: A Review**|Berrenur Saylam et.al.|[2311.01201v1](http://arxiv.org/abs/2311.01201v1)|null|
+|**2023-11-02**|**Decentralized Federated Learning on the Edge over Wireless Mesh Networks**|Abdelaziz Salama et.al.|[2311.01186v1](http://arxiv.org/abs/2311.01186v1)|null|
+|**2023-11-02**|**Dynamic Fair Federated Learning Based on Reinforcement Learning**|Weikang Chen et.al.|[2311.00959v1](http://arxiv.org/abs/2311.00959v1)|null|
+|**2023-11-02**|**Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization**|Wei Shen et.al.|[2311.00944v1](http://arxiv.org/abs/2311.00944v1)|null|
 |**2023-11-01**|**MetisFL: An Embarrassingly Parallelized Controller for Scalable & Efficient Federated Learning Workflows**|Dimitris Stripelis et.al.|[2311.00334v1](http://arxiv.org/abs/2311.00334v1)|null|
 |**2023-11-01**|**StableFDG: Style and Attention Based Learning for Federated Domain Generalization**|Jungwuk Park et.al.|[2311.00227v1](http://arxiv.org/abs/2311.00227v1)|null|
 |**2023-10-31**|**Backdoor Threats from Compromised Foundation Models to Federated Learning**|Xi Li et.al.|[2311.00144v1](http://arxiv.org/abs/2311.00144v1)|null|
