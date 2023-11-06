@@ -1320,7 +1320,7 @@ layout: default
 |**2023-10-15**|**Federated Reinforcement Learning for Resource Allocation in V2X Networks**|Kaidi Xu et.al.|[2310.09858v1](http://arxiv.org/abs/2310.09858v1)|null|
 |**2023-10-15**|**VFLAIR: A Research Library and Benchmark for Vertical Federated Learning**|Tianyuan Zou et.al.|[2310.09827v1](http://arxiv.org/abs/2310.09827v1)|**[link](https://github.com/flair-thu/vflair)**|
 |**2023-10-15**|**Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates**|Ahmad Rammal et.al.|[2310.09804v1](http://arxiv.org/abs/2310.09804v1)|null|
-|**2023-10-13**|**PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning**|Mingjia Shi et.al.|[2310.09183v1](http://arxiv.org/abs/2310.09183v1)|null|
+|**2023-10-13**|**PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning**|Mingjia Shi et.al.|[2310.09183v1](http://arxiv.org/abs/2310.09183v1)|**[link](https://github.com/bdemo/pfedbred_public)**|
 |**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002v1](http://arxiv.org/abs/2310.09002v1)|null|
 |**2023-10-13**|**PAGE: Equilibrate Personalization and Generalization in Federated Learning**|Qian Chen et.al.|[2310.08961v1](http://arxiv.org/abs/2310.08961v1)|null|
 |**2023-10-13**|**Federated Class-Incremental Learning with Prompting**|Jiale Liu et.al.|[2310.08948v1](http://arxiv.org/abs/2310.08948v1)|null|
@@ -1422,7 +1422,7 @@ layout: default
 |**2023-09-24**|**Robust Distributed Learning: Tight Error Bounds and Breakdown Point under Data Heterogeneity**|Youssef Allouah et.al.|[2309.13591v1](http://arxiv.org/abs/2309.13591v1)|null|
 |**2023-09-24**|**DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning**|Kangyang Luo et.al.|[2309.13546v1](http://arxiv.org/abs/2309.13546v1)|null|
 |**2023-09-24**|**Tackling the Unlimited Staleness in Federated Learning with Intertwined Data and Device Heterogeneities**|Haoming Wang et.al.|[2309.13536v1](http://arxiv.org/abs/2309.13536v1)|**[link](https://github.com/pittisl/fl-with-intertwined-heterogeneity)**|
-|**2023-09-23**|**FedDrive v2: an Analysis of the Impact of Label Skewness in Federated Semantic Segmentation for Autonomous Driving**|Eros Fanì et.al.|[2309.13336v1](http://arxiv.org/abs/2309.13336v1)|null|
+|**2023-09-23**|**FedDrive v2: an Analysis of the Impact of Label Skewness in Federated Semantic Segmentation for Autonomous Driving**|Eros Fanì et.al.|[2309.13336v1](http://arxiv.org/abs/2309.13336v1)|**[link](https://github.com/Erosinho13/FedDrive)**|
 |**2023-09-22**|**Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients**|Shourya Bose et.al.|[2309.13194v1](http://arxiv.org/abs/2309.13194v1)|null|
 |**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024v1](http://arxiv.org/abs/2309.13024v1)|null|
 |**2023-09-22**|**Understanding Deep Gradient Leakage via Inversion Influence Functions**|Haobo Zhang et.al.|[2309.13016v1](http://arxiv.org/abs/2309.13016v1)|**[link](https://github.com/illidanlab/inversion-influence-function)**|
@@ -2230,7 +2230,7 @@ layout: default
 |**2023-03-07**|**Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning**|Xin Yuan et.al.|[2303.04274v1](http://arxiv.org/abs/2303.04274v1)|null|
 |**2023-03-07**|**Private Read-Update-Write with Controllable Information Leakage for Storage-Efficient Federated Learning with Top $r$ Sparsification**|Sajani Vithana et.al.|[2303.04123v1](http://arxiv.org/abs/2303.04123v1)|null|
 |**2023-03-07**|**Predicted Embedding Power Regression for Large-Scale Out-of-Distribution Detection**|Hong Yang et.al.|[2303.04115v1](http://arxiv.org/abs/2303.04115v1)|null|
-|**2023-03-07**|**Client-specific Property Inference against Secure Aggregation in Federated Learning**|Raouf Kerkouche et.al.|[2303.03908v1](http://arxiv.org/abs/2303.03908v1)|null|
+|**2023-03-07**|**Client-specific Property Inference against Secure Aggregation in Federated Learning**|Raouf Kerkouche et.al.|[2303.03908v1](http://arxiv.org/abs/2303.03908v1)|**[link](https://github.com/raouf-kerkouche/prolin)**|
 |**2023-03-07**|**Can Decentralized Learning be more robust than Federated Learning?**|Mathilde Raynal et.al.|[2303.03829v1](http://arxiv.org/abs/2303.03829v1)|null|
 |**2023-03-06**|**Learning to Backdoor Federated Learning**|Henger Li et.al.|[2303.03320v1](http://arxiv.org/abs/2303.03320v1)|**[link](https://github.com/HengerLi/RLBackdoorFL)**|
 |**2023-03-06**|**A VHetNet-Enabled Asynchronous Federated Learning-Based Anomaly Detection Framework for Ubiquitous IoT**|Weili Wang et.al.|[2303.02948v1](http://arxiv.org/abs/2303.02948v1)|null|
