@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1235,7 +1235,7 @@ layout: default
 |**2023-11-02**|**Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization**|Wei Shen et.al.|[2311.00944v1](http://arxiv.org/abs/2311.00944v1)|null|
 |**2023-11-01**|**MetisFL: An Embarrassingly Parallelized Controller for Scalable & Efficient Federated Learning Workflows**|Dimitris Stripelis et.al.|[2311.00334v1](http://arxiv.org/abs/2311.00334v1)|null|
 |**2023-11-01**|**StableFDG: Style and Attention Based Learning for Federated Domain Generalization**|Jungwuk Park et.al.|[2311.00227v1](http://arxiv.org/abs/2311.00227v1)|null|
-|**2023-10-31**|**Backdoor Threats from Compromised Foundation Models to Federated Learning**|Xi Li et.al.|[2311.00144v1](http://arxiv.org/abs/2311.00144v1)|null|
+|**2023-10-31**|**Backdoor Threats from Compromised Foundation Models to Federated Learning**|Xi Li et.al.|[2311.00144v1](http://arxiv.org/abs/2311.00144v1)|**[link](https://github.com/lixi1994/backdoor_fm_fl)**|
 |**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682v1](http://arxiv.org/abs/2310.20682v1)|null|
 |**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552v1](http://arxiv.org/abs/2310.20552v1)|null|
 |**2023-10-31**|**FlexTrain: A Dynamic Training Framework for Heterogeneous Devices Environments**|Mert Unsal et.al.|[2310.20457v1](http://arxiv.org/abs/2310.20457v1)|null|
