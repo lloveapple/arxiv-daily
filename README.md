@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Epidemic Decision-making System Based Federated Reinforcement Learning**|Yangxi Zhou et.al.|[2311.01749v1](http://arxiv.org/abs/2311.01749v1)|null|
+|**2023-11-03**|**Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces**|Aditya Desai et.al.|[2311.01722v1](http://arxiv.org/abs/2311.01722v1)|**[link](https://github.com/apd10/flcf)**|
+|**2023-11-02**|**FedSN: A General Federated Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2311.01483v1](http://arxiv.org/abs/2311.01483v1)|null|
 |**2023-11-02**|**Theoretical Analysis of Impact of Delayed Updates on Decentralized Federated Learning**|Yong Zeng et.al.|[2311.01229v1](http://arxiv.org/abs/2311.01229v1)|null|
 |**2023-11-02**|**Federated Learning on Edge Sensing Devices: A Review**|Berrenur Saylam et.al.|[2311.01201v1](http://arxiv.org/abs/2311.01201v1)|null|
 |**2023-11-02**|**Decentralized Federated Learning on the Edge over Wireless Mesh Networks**|Abdelaziz Salama et.al.|[2311.01186v1](http://arxiv.org/abs/2311.01186v1)|null|
