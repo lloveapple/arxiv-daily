@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Convergence Analysis of Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2311.03154v1](http://arxiv.org/abs/2311.03154v1)|**[link](https://github.com/liyipeng00/convergence)**|
+|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-06**|**Goal-Oriented Wireless Communication Resource Allocation for Cyber-Physical Systems**|Cheng Feng et.al.|[2311.02911v1](http://arxiv.org/abs/2311.02911v1)|null|
+|**2023-11-04**|**Hybrid quantum image classification and federated learning for hepatic steatosis diagnosis**|Luca Lusnig et.al.|[2311.02402v1](http://arxiv.org/abs/2311.02402v1)|null|
+|**2023-11-04**|**Sample Complexity of Opinion Formation on Networks**|Haolin Liu et.al.|[2311.02349v1](http://arxiv.org/abs/2311.02349v1)|null|
+|**2023-11-03**|**Client Orchestration and Cost-Efficient Joint Optimization for NOMA-Enabled Hierarchical Federated Learning**|Bibo Wu et.al.|[2311.02130v1](http://arxiv.org/abs/2311.02130v1)|null|
 |**2023-11-03**|**Epidemic Decision-making System Based Federated Reinforcement Learning**|Yangxi Zhou et.al.|[2311.01749v1](http://arxiv.org/abs/2311.01749v1)|null|
 |**2023-11-03**|**Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces**|Aditya Desai et.al.|[2311.01722v1](http://arxiv.org/abs/2311.01722v1)|**[link](https://github.com/apd10/flcf)**|
 |**2023-11-02**|**FedSN: A General Federated Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2311.01483v1](http://arxiv.org/abs/2311.01483v1)|null|
