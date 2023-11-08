@@ -1228,8 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Over-the-Air Computation Empowered Federated Learning: A Joint Uplink-Downlink Design**|Deyou Zhang et.al.|[2311.04059v1](http://arxiv.org/abs/2311.04059v1)|null|
+|**2023-11-07**|**Federated Learning via Active RIS Assisted Over-the-Air Computation**|Deyou Zhang et.al.|[2311.03982v1](http://arxiv.org/abs/2311.03982v1)|null|
+|**2023-11-07**|**Integrated Sensing, Communication, and Computing for Cost-effective Multimodal Federated Perception**|Ning Chen et.al.|[2311.03815v1](http://arxiv.org/abs/2311.03815v1)|null|
+|**2023-11-07**|**Mitigating Estimation Errors by Twin TD-Regularized Actor and Critic for Deep Reinforcement Learning**|Junmin Zhong et.al.|[2311.03711v1](http://arxiv.org/abs/2311.03711v1)|null|
+|**2023-11-06**|**CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers**|Jieming Bian et.al.|[2311.03615v1](http://arxiv.org/abs/2311.03615v1)|null|
+|**2023-11-06**|**Asynchronous Local Computations in Distributed Bayesian Learning**|Kinjal Bhar et.al.|[2311.03496v1](http://arxiv.org/abs/2311.03496v1)|null|
+|**2023-11-06**|**Federated Learning for Clinical Structured Data: A Benchmark Comparison of Engineering and Statistical Approaches**|Siqi Li et.al.|[2311.03417v1](http://arxiv.org/abs/2311.03417v1)|**[link](https://github.com/nliulab/fl-benchmark)**|
 |**2023-11-06**|**Convergence Analysis of Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2311.03154v1](http://arxiv.org/abs/2311.03154v1)|**[link](https://github.com/liyipeng00/convergence)**|
-|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
 |**2023-11-06**|**Goal-Oriented Wireless Communication Resource Allocation for Cyber-Physical Systems**|Cheng Feng et.al.|[2311.02911v1](http://arxiv.org/abs/2311.02911v1)|null|
 |**2023-11-04**|**Hybrid quantum image classification and federated learning for hepatic steatosis diagnosis**|Luca Lusnig et.al.|[2311.02402v1](http://arxiv.org/abs/2311.02402v1)|null|
 |**2023-11-04**|**Sample Complexity of Opinion Formation on Networks**|Haolin Liu et.al.|[2311.02349v1](http://arxiv.org/abs/2311.02349v1)|null|
