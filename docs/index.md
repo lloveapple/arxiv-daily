@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Cross-Silo Federated Learning Across Divergent Domains with Iterative Parameter Alignment**|Matt Gorbett et.al.|[2311.04818v1](http://arxiv.org/abs/2311.04818v1)|**[link](https://github.com/mattgorb/iterative_parameter_alignment)**|
+|**2023-11-08**|**Decentralized Personalized Online Federated Learning**|Renzhi Wu et.al.|[2311.04817v1](http://arxiv.org/abs/2311.04817v1)|null|
+|**2023-11-08**|**Robust and Communication-Efficient Federated Domain Adaptation via Random Features**|Zhanbo Feng et.al.|[2311.04686v1](http://arxiv.org/abs/2311.04686v1)|**[link](https://github.com/sadangelf/fedrf-tca)**|
+|**2023-11-08**|**Byzantine-Tolerant Methods for Distributed Variational Inequalities**|Nazarii Tupitsa et.al.|[2311.04611v1](http://arxiv.org/abs/2311.04611v1)|**[link](https://github.com/nazya/sgda-ra)**|
+|**2023-11-08**|**Accurate Autism Spectrum Disorder prediction using Support Vector Classifier based on Federated Learning (SVCFL)**|Ali Mohammadifar et.al.|[2311.04606v1](http://arxiv.org/abs/2311.04606v1)|null|
+|**2023-11-08**|**Zeroth-order Asynchronous Learning with Bounded Delays with a Use-case in Resource Allocation in Communication Networks**|Pourya Behmandpoor et.al.|[2311.04604v1](http://arxiv.org/abs/2311.04604v1)|null|
+|**2023-11-07**|**Device Sampling and Resource Optimization for Federated Learning in Cooperative Edge Networks**|Su Wang et.al.|[2311.04350v1](http://arxiv.org/abs/2311.04350v1)|null|
+|**2023-11-07**|**SaFL: Sybil-aware Federated Learning with Application to Face Recognition**|Mahdi Ghafourian et.al.|[2311.04346v1](http://arxiv.org/abs/2311.04346v1)|null|
 |**2023-11-07**|**Over-the-Air Computation Empowered Federated Learning: A Joint Uplink-Downlink Design**|Deyou Zhang et.al.|[2311.04059v1](http://arxiv.org/abs/2311.04059v1)|null|
 |**2023-11-07**|**Federated Learning via Active RIS Assisted Over-the-Air Computation**|Deyou Zhang et.al.|[2311.03982v1](http://arxiv.org/abs/2311.03982v1)|null|
 |**2023-11-07**|**Integrated Sensing, Communication, and Computing for Cost-effective Multimodal Federated Perception**|Ning Chen et.al.|[2311.03815v1](http://arxiv.org/abs/2311.03815v1)|null|
