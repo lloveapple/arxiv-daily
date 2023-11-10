@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
+|**2023-11-09**|**Data Valuation and Detections in Federated Learning**|Wenqian Li et.al.|[2311.05304v1](http://arxiv.org/abs/2311.05304v1)|**[link](https://github.com/muz1lee/motdata)**|
+|**2023-11-09**|**Personalized Online Federated Learning with Multiple Kernels**|Pouya M. Ghari et.al.|[2311.05108v1](http://arxiv.org/abs/2311.05108v1)|**[link](https://github.com/pouyamghari/pof-mkl)**|
+|**2023-11-08**|**Edge-assisted U-Shaped Split Federated Learning with Privacy-preserving for Internet of Things**|Hengliang Tang et.al.|[2311.04944v1](http://arxiv.org/abs/2311.04944v1)|null|
 |**2023-11-08**|**Cross-Silo Federated Learning Across Divergent Domains with Iterative Parameter Alignment**|Matt Gorbett et.al.|[2311.04818v1](http://arxiv.org/abs/2311.04818v1)|**[link](https://github.com/mattgorb/iterative_parameter_alignment)**|
 |**2023-11-08**|**Decentralized Personalized Online Federated Learning**|Renzhi Wu et.al.|[2311.04817v1](http://arxiv.org/abs/2311.04817v1)|null|
 |**2023-11-08**|**Robust and Communication-Efficient Federated Domain Adaptation via Random Features**|Zhanbo Feng et.al.|[2311.04686v1](http://arxiv.org/abs/2311.04686v1)|**[link](https://github.com/sadangelf/fedrf-tca)**|
