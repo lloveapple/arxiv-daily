@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Federated Learning Across Decentralized and Unshared Archives for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2311.06141v1](http://arxiv.org/abs/2311.06141v1)|null|
+|**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|null|
+|**2023-11-10**|**Aggregation Weighting of Federated Learning via Generalization Bound Estimation**|Mingwei Xu et.al.|[2311.05936v1](http://arxiv.org/abs/2311.05936v1)|null|
+|**2023-11-10**|**Federated Learning with Manifold Regularization and Normalized Update Reaggregation**|Xuming An et.al.|[2311.05924v1](http://arxiv.org/abs/2311.05924v1)|null|
+|**2023-11-10**|**Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios**|Yanli Li et.al.|[2311.05826v1](http://arxiv.org/abs/2311.05826v1)|null|
+|**2023-11-10**|**Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction**|Shanghao Shi et.al.|[2311.05808v1](http://arxiv.org/abs/2311.05808v1)|null|
+|**2023-11-09**|**The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning**|Elaheh Jafarigol et.al.|[2311.05790v1](http://arxiv.org/abs/2311.05790v1)|null|
+|**2023-11-09**|**Deep Learning Architecture for Network-Efficiency at the Edge**|Akrit Mudvari et.al.|[2311.05739v1](http://arxiv.org/abs/2311.05739v1)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
 |**2023-11-09**|**Data Valuation and Detections in Federated Learning**|Wenqian Li et.al.|[2311.05304v1](http://arxiv.org/abs/2311.05304v1)|**[link](https://github.com/muz1lee/motdata)**|
 |**2023-11-09**|**Personalized Online Federated Learning with Multiple Kernels**|Pouya M. Ghari et.al.|[2311.05108v1](http://arxiv.org/abs/2311.05108v1)|**[link](https://github.com/pouyamghari/pof-mkl)**|
