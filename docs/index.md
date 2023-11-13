@@ -1731,7 +1731,7 @@ layout: default
 |**2023-07-16**|**Optimal Compression of Unit Norm Vectors in the High Distortion Regime**|Heng Zhu et.al.|[2307.07941v1](http://arxiv.org/abs/2307.07941v1)|null|
 |**2023-07-14**|**Population Expansion for Training Language Models with Private Federated Learning**|Tatsuki Koga et.al.|[2307.07477v1](http://arxiv.org/abs/2307.07477v1)|null|
 |**2023-07-14**|**Improved Convergence Analysis and SNR Control Strategies for Federated Learning in the Presence of Noise**|Antesh Upadhyay et.al.|[2307.07406v1](http://arxiv.org/abs/2307.07406v1)|null|
-|**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|null|
+|**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|**[link](https://github.com/yasar-rehman/L-DAWA)**|
 |**2023-07-14**|**Ed-Fed: A generic federated learning framework with resource-aware client selection for edge devices**|Zitha Sasindran et.al.|[2307.07199v1](http://arxiv.org/abs/2307.07199v1)|null|
 |**2023-07-14**|**FedBIAD: Communication-Efficient and Accuracy-Guaranteed Federated Learning with Bayesian Inference-Based Adaptive Dropout**|Jingjing Xue et.al.|[2307.07172v1](http://arxiv.org/abs/2307.07172v1)|null|
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146v1](http://arxiv.org/abs/2307.07146v1)|null|
@@ -1919,7 +1919,7 @@ layout: default
 |**2023-05-31**|**Federated Learning in the Presence of Adversarial Client Unavailability**|Lili Su et.al.|[2305.19971v1](http://arxiv.org/abs/2305.19971v1)|null|
 |**2023-05-31**|**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**|Kok-Seng Wong et.al.|[2305.19831v1](http://arxiv.org/abs/2305.19831v1)|null|
 |**2023-05-31**|**Federated Learning on Heterogeneous Data via Adaptive Self-Distillation**|M. Yashwanth et.al.|[2305.19600v1](http://arxiv.org/abs/2305.19600v1)|null|
-|**2023-05-30**|**MAGNet: Motif-Agnostic Generation of Molecules from Shapes**|Leon Hetzel et.al.|[2305.19303v1](http://arxiv.org/abs/2305.19303v1)|null|
+|**2023-05-30**|**MAGNet: Motif-Agnostic Generation of Molecules from Shapes**|Leon Hetzel et.al.|[2305.19303v1](http://arxiv.org/abs/2305.19303v1)|**[link](https://github.com/tum-daml/magnet)**|
 |**2023-05-30**|**FedDisco: Federated Learning with Discrepancy-Aware Collaboration**|Rui Ye et.al.|[2305.19229v1](http://arxiv.org/abs/2305.19229v1)|**[link](https://github.com/mediabrain-sjtu/feddisco)**|
 |**2023-05-30**|**Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**|Songge Zhang et.al.|[2305.18889v1](http://arxiv.org/abs/2305.18889v1)|null|
 |**2023-05-30**|**A Federated Channel Modeling System using Generative Neural Networks**|Saira Bano et.al.|[2305.18856v1](http://arxiv.org/abs/2305.18856v1)|null|
@@ -2097,7 +2097,7 @@ layout: default
 |**2023-04-20**|**Federated Compositional Deep AUC Maximization**|Xinwen Zhang et.al.|[2304.10101v1](http://arxiv.org/abs/2304.10101v1)|null|
 |**2023-04-19**|**Learning Temporal Distribution and Spatial Correlation for Universal Moving Object Segmentation**|Guanfang Dong et.al.|[2304.09949v1](http://arxiv.org/abs/2304.09949v1)|null|
 |**2023-04-19**|**Model Pruning Enables Localized and Efficient Federated Learning for Yield Forecasting and Data Sharing**|Andy Li et.al.|[2304.09876v1](http://arxiv.org/abs/2304.09876v1)|null|
-|**2023-04-18**|**Learning to Transmit with Provable Guarantees in Wireless Federated Learning**|Boning Li et.al.|[2304.09329v1](http://arxiv.org/abs/2304.09329v1)|null|
+|**2023-04-18**|**Learning to Transmit with Provable Guarantees in Wireless Federated Learning**|Boning Li et.al.|[2304.09329v1](http://arxiv.org/abs/2304.09329v1)|**[link](https://github.com/bl166/wirelessfl-pdg)**|
 |**2023-04-18**|**Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging**|Erum Mushtaq et.al.|[2304.09327v1](http://arxiv.org/abs/2304.09327v1)|null|
 |**2023-04-19**|**Energy-Efficient Design of STAR-RIS Aided MIMO-NOMA Networks**|Fang Fang et.al.|[2304.08996v2](http://arxiv.org/abs/2304.08996v2)|null|
 |**2023-04-18**|**BadVFL: Backdoor Attacks in Vertical Federated Learning**|Mohammad Naseri et.al.|[2304.08847v1](http://arxiv.org/abs/2304.08847v1)|null|
