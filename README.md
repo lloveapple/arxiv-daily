@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485v1](http://arxiv.org/abs/2311.07485v1)|null|
+|**2023-11-13**|**Robust softmax aggregation on blockchain based federated learning with convergence guarantee**|Huiyu Wu et.al.|[2311.07027v1](http://arxiv.org/abs/2311.07027v1)|null|
+|**2023-11-13**|**AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification**|Zirui Gong et.al.|[2311.06996v1](http://arxiv.org/abs/2311.06996v1)|null|
+|**2023-11-12**|**Concept Matching: Clustering-based Federated Continual Learning**|Xiaopeng Jiang et.al.|[2311.06921v1](http://arxiv.org/abs/2311.06921v1)|null|
+|**2023-11-12**|**Resource-Aware Hierarchical Federated Learning for Video Caching in Wireless Networks**|Md Ferdous Pervej et.al.|[2311.06918v1](http://arxiv.org/abs/2311.06918v1)|null|
+|**2023-11-12**|**FLASH-RL: Federated Learning Addressing System and Static Heterogeneity using Reinforcement Learning**|Sofiane Bouaziz et.al.|[2311.06917v1](http://arxiv.org/abs/2311.06917v1)|null|
+|**2023-11-12**|**pFedES: Model Heterogeneous Personalized Federated Learning with Feature Extractor Sharing**|Liping Yi et.al.|[2311.06879v1](http://arxiv.org/abs/2311.06879v1)|null|
+|**2023-11-12**|**Tunable Soft Prompts are Messengers in Federated Learning**|Chenhe Dong et.al.|[2311.06805v1](http://arxiv.org/abs/2311.06805v1)|**[link](https://github.com/alibaba/federatedscope)**|
+|**2023-11-12**|**A Comprehensive Survey On Client Selections in Federated Learning**|Ala Gouissem et.al.|[2311.06801v1](http://arxiv.org/abs/2311.06801v1)|null|
+|**2023-11-12**|**Personalized Federated Learning via ADMM with Moreau Envelope**|Shengkun Zhu et.al.|[2311.06756v1](http://arxiv.org/abs/2311.06756v1)|null|
 |**2023-11-10**|**Federated Learning Across Decentralized and Unshared Archives for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2311.06141v1](http://arxiv.org/abs/2311.06141v1)|null|
 |**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|**[link](https://github.com/wjfu99/fl-epidemic)**|
 |**2023-11-10**|**Aggregation Weighting of Federated Learning via Generalization Bound Estimation**|Mingwei Xu et.al.|[2311.05936v1](http://arxiv.org/abs/2311.05936v1)|null|
