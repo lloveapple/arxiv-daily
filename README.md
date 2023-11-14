@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.13
+## Updated on 2023.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-10**|**Federated Learning Across Decentralized and Unshared Archives for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2311.06141v1](http://arxiv.org/abs/2311.06141v1)|null|
-|**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|null|
+|**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|**[link](https://github.com/wjfu99/fl-epidemic)**|
 |**2023-11-10**|**Aggregation Weighting of Federated Learning via Generalization Bound Estimation**|Mingwei Xu et.al.|[2311.05936v1](http://arxiv.org/abs/2311.05936v1)|null|
 |**2023-11-10**|**Federated Learning with Manifold Regularization and Normalized Update Reaggregation**|Xuming An et.al.|[2311.05924v1](http://arxiv.org/abs/2311.05924v1)|null|
 |**2023-11-10**|**Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios**|Yanli Li et.al.|[2311.05826v1](http://arxiv.org/abs/2311.05826v1)|null|
@@ -1079,7 +1079,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231114>back to top</a>)</p>
 
 ## MMS
 
@@ -1096,7 +1096,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
