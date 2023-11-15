@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Federated Skewed Label Learning with Logits Fusion**|Yuwei Wang et.al.|[2311.08202v1](http://arxiv.org/abs/2311.08202v1)|null|
+|**2023-11-14**|**The Impact of Adversarial Node Placement in Decentralized Federated Learning Networks**|Adam Piaseczny et.al.|[2311.07946v1](http://arxiv.org/abs/2311.07946v1)|null|
+|**2023-11-14**|**Discretized Distributed Optimization over Dynamic Digraphs**|Mohammadreza Doostmohammadian et.al.|[2311.07939v1](http://arxiv.org/abs/2311.07939v1)|null|
+|**2023-11-13**|**A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**|Sara Babakniya et.al.|[2311.07784v1](http://arxiv.org/abs/2311.07784v1)|null|
+|**2023-11-13**|**FedOpenHAR: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition**|Egemen İşgüder et.al.|[2311.07765v1](http://arxiv.org/abs/2311.07765v1)|null|
+|**2023-11-13**|**Ransomware Detection Using Federated Learning with Imbalanced Datasets**|Aldin Vehabovic et.al.|[2311.07760v1](http://arxiv.org/abs/2311.07760v1)|null|
 |**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485v1](http://arxiv.org/abs/2311.07485v1)|null|
 |**2023-11-13**|**Robust softmax aggregation on blockchain based federated learning with convergence guarantee**|Huiyu Wu et.al.|[2311.07027v1](http://arxiv.org/abs/2311.07027v1)|null|
 |**2023-11-13**|**AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification**|Zirui Gong et.al.|[2311.06996v1](http://arxiv.org/abs/2311.06996v1)|null|
