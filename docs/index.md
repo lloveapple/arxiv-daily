@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1229,7 +1229,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-14**|**Federated Skewed Label Learning with Logits Fusion**|Yuwei Wang et.al.|[2311.08202v1](http://arxiv.org/abs/2311.08202v1)|null|
-|**2023-11-14**|**The Impact of Adversarial Node Placement in Decentralized Federated Learning Networks**|Adam Piaseczny et.al.|[2311.07946v1](http://arxiv.org/abs/2311.07946v1)|null|
+|**2023-11-14**|**The Impact of Adversarial Node Placement in Decentralized Federated Learning Networks**|Adam Piaseczny et.al.|[2311.07946v1](http://arxiv.org/abs/2311.07946v1)|**[link](https://github.com/adampi210/maxspanfl_atck_code_data)**|
 |**2023-11-14**|**Discretized Distributed Optimization over Dynamic Digraphs**|Mohammadreza Doostmohammadian et.al.|[2311.07939v1](http://arxiv.org/abs/2311.07939v1)|null|
 |**2023-11-13**|**A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**|Sara Babakniya et.al.|[2311.07784v1](http://arxiv.org/abs/2311.07784v1)|null|
 |**2023-11-13**|**FedOpenHAR: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition**|Egemen İşgüder et.al.|[2311.07765v1](http://arxiv.org/abs/2311.07765v1)|null|
