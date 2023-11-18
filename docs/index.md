@@ -1231,7 +1231,7 @@ layout: default
 |**2023-11-16**|**A Novel Neural Network-Based Federated Learning System for Imbalanced and Non-IID Data**|Mahfuzur Rahman Chowdhury et.al.|[2311.10025v1](http://arxiv.org/abs/2311.10025v1)|null|
 |**2023-11-16**|**Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network**|Hongda Wu et.al.|[2311.10002v1](http://arxiv.org/abs/2311.10002v1)|null|
 |**2023-11-16**|**Contribution Evaluation in Federated Learning: Examining Current Approaches**|Vasilis Siomos et.al.|[2311.09856v1](http://arxiv.org/abs/2311.09856v1)|null|
-|**2023-11-16**|**UFPS: A unified framework for partially-annotated federated segmentation in heterogeneous data distribution**|Le Jiang et.al.|[2311.09757v1](http://arxiv.org/abs/2311.09757v1)|null|
+|**2023-11-16**|**UFPS: A unified framework for partially-annotated federated segmentation in heterogeneous data distribution**|Le Jiang et.al.|[2311.09757v1](http://arxiv.org/abs/2311.09757v1)|**[link](https://github.com/tekap404/unified_federated_partially-labeled_segmentation)**|
 |**2023-11-16**|**FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion**|DaiXun Li et.al.|[2311.09540v1](http://arxiv.org/abs/2311.09540v1)|**[link](https://github.com/ldxdu/fedfusion)**|
 |**2023-11-15**|**Exploring the Privacy-Energy Consumption Tradeoff for Split Federated Learning**|Joohyung Lee et.al.|[2311.09441v1](http://arxiv.org/abs/2311.09441v1)|null|
 |**2023-11-15**|**FedCode: Communication-Efficient Federated Learning via Transferring Codebooks**|Saeed Khalilian et.al.|[2311.09270v1](http://arxiv.org/abs/2311.09270v1)|null|
