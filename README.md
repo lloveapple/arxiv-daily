@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Leveraging Function Space Aggregation for Federated Learning at Scale**|Nikita Dhawan et.al.|[2311.10291v1](http://arxiv.org/abs/2311.10291v1)|null|
+|**2023-11-17**|**FedTruth: Byzantine-Robust and Backdoor-Resilient Federated Learning Framework**|Sheldon C. Ebron Jr. et.al.|[2311.10248v1](http://arxiv.org/abs/2311.10248v1)|null|
 |**2023-11-16**|**A Novel Neural Network-Based Federated Learning System for Imbalanced and Non-IID Data**|Mahfuzur Rahman Chowdhury et.al.|[2311.10025v1](http://arxiv.org/abs/2311.10025v1)|null|
 |**2023-11-16**|**Straggler-resilient Federated Learning: Tackling Computation Heterogeneity with Layer-wise Partial Model Training in Mobile Edge Network**|Hongda Wu et.al.|[2311.10002v1](http://arxiv.org/abs/2311.10002v1)|null|
 |**2023-11-16**|**Contribution Evaluation in Federated Learning: Examining Current Approaches**|Vasilis Siomos et.al.|[2311.09856v1](http://arxiv.org/abs/2311.09856v1)|null|
