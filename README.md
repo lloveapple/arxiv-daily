@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822v1](http://arxiv.org/abs/2311.11822v1)|null|
+|**2023-11-19**|**FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients**|Shangchao Su et.al.|[2311.11227v1](http://arxiv.org/abs/2311.11227v1)|**[link](https://github.com/leondada/fedra)**|
+|**2023-11-17**|**Exploring Machine Learning Models for Federated Learning: A Review of Approaches, Performance, and Limitations**|Elaheh Jafarigol et.al.|[2311.10832v1](http://arxiv.org/abs/2311.10832v1)|null|
 |**2023-11-17**|**Leveraging Function Space Aggregation for Federated Learning at Scale**|Nikita Dhawan et.al.|[2311.10291v1](http://arxiv.org/abs/2311.10291v1)|null|
 |**2023-11-17**|**FedTruth: Byzantine-Robust and Backdoor-Resilient Federated Learning Framework**|Sheldon C. Ebron Jr. et.al.|[2311.10248v1](http://arxiv.org/abs/2311.10248v1)|null|
 |**2023-11-16**|**A Novel Neural Network-Based Federated Learning System for Imbalanced and Non-IID Data**|Mahfuzur Rahman Chowdhury et.al.|[2311.10025v1](http://arxiv.org/abs/2311.10025v1)|null|
