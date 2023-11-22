@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**LiFi: Learn to Incentivize Federated Learning in Automotive Edge Computing**|Ming Zhao et.al.|[2311.12720v1](http://arxiv.org/abs/2311.12720v1)|null|
+|**2023-11-21**|**Attacks of fairness in Federated Learning**|Joseph Rance et.al.|[2311.12715v1](http://arxiv.org/abs/2311.12715v1)|**[link](https://github.com/slkdfjslkjfd/fl_fairness_attacks)**|
+|**2023-11-21**|**FedDRO: Federated Compositional Optimization for Distributionally Robust Learning**|Prashant Khanduri et.al.|[2311.12652v1](http://arxiv.org/abs/2311.12652v1)|null|
+|**2023-11-21**|**Multi-Session Budget Optimization for Forward Auction-based Federated Learning**|Xiaoli Tang et.al.|[2311.12548v1](http://arxiv.org/abs/2311.12548v1)|null|
+|**2023-11-21**|**Federated Learning via Consensus Mechanism on Heterogeneous Data: A New Perspective on Convergence**|Shu Zheng et.al.|[2311.12358v1](http://arxiv.org/abs/2311.12358v1)|**[link](https://github.com/fedcome/fedcome)**|
+|**2023-11-18**|**Energizing Federated Learning via Filter-Aware Attention**|Ziyuan Yang et.al.|[2311.12049v1](http://arxiv.org/abs/2311.12049v1)|null|
 |**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822v1](http://arxiv.org/abs/2311.11822v1)|null|
 |**2023-11-19**|**FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients**|Shangchao Su et.al.|[2311.11227v1](http://arxiv.org/abs/2311.11227v1)|**[link](https://github.com/leondada/fedra)**|
 |**2023-11-17**|**Exploring Machine Learning Models for Federated Learning: A Review of Approaches, Performance, and Limitations**|Elaheh Jafarigol et.al.|[2311.10832v1](http://arxiv.org/abs/2311.10832v1)|null|
