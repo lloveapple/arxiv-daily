@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Uncertainty Estimation in Multi-Agent Distributed Learning**|Gleb Radchenko et.al.|[2311.13356v1](http://arxiv.org/abs/2311.13356v1)|null|
+|**2023-11-22**|**MergeSFL: Split Federated Learning with Feature Merging and Batch Size Regulation**|Yunming Liao et.al.|[2311.13348v1](http://arxiv.org/abs/2311.13348v1)|null|
+|**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
+|**2023-11-22**|**FedFN: Feature Normalization for Alleviating Data Heterogeneity Problem in Federated Learning**|Seongyoon Kim et.al.|[2311.13267v1](http://arxiv.org/abs/2311.13267v1)|null|
+|**2023-11-22**|**Towards Hetero-Client Federated Multi-Task Learning**|Yuxiang Lu et.al.|[2311.13250v1](http://arxiv.org/abs/2311.13250v1)|null|
+|**2023-11-22**|**SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning**|Jian Zhang et.al.|[2311.13174v1](http://arxiv.org/abs/2311.13174v1)|null|
+|**2023-11-22**|**AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems**|Chentao Jia et.al.|[2311.13166v1](http://arxiv.org/abs/2311.13166v1)|null|
+|**2023-11-22**|**Have Your Cake and Eat It Too: Toward Efficient and Accurate Split Federated Learning**|Dengke Yan et.al.|[2311.13163v1](http://arxiv.org/abs/2311.13163v1)|null|
+|**2023-11-21**|**FedCPC: An Effective Federated Contrastive Learning Method for Privacy Preserving Early-Stage Alzheimer's Speech Detection**|Wenqing Wei et.al.|[2311.13043v1](http://arxiv.org/abs/2311.13043v1)|null|
 |**2023-11-21**|**LiFi: Learn to Incentivize Federated Learning in Automotive Edge Computing**|Ming Zhao et.al.|[2311.12720v1](http://arxiv.org/abs/2311.12720v1)|null|
 |**2023-11-21**|**Attacks of fairness in Federated Learning**|Joseph Rance et.al.|[2311.12715v1](http://arxiv.org/abs/2311.12715v1)|**[link](https://github.com/slkdfjslkjfd/fl_fairness_attacks)**|
 |**2023-11-21**|**FedDRO: Federated Compositional Optimization for Distributionally Robust Learning**|Prashant Khanduri et.al.|[2311.12652v1](http://arxiv.org/abs/2311.12652v1)|null|
