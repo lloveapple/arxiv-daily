@@ -1267,7 +1267,7 @@ layout: default
 |**2023-11-13**|**A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**|Sara Babakniya et.al.|[2311.07784v1](http://arxiv.org/abs/2311.07784v1)|null|
 |**2023-11-13**|**FedOpenHAR: Federated Multi-Task Transfer Learning for Sensor-Based Human Activity Recognition**|Egemen İşgüder et.al.|[2311.07765v1](http://arxiv.org/abs/2311.07765v1)|null|
 |**2023-11-13**|**Ransomware Detection Using Federated Learning with Imbalanced Datasets**|Aldin Vehabovic et.al.|[2311.07760v1](http://arxiv.org/abs/2311.07760v1)|null|
-|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485v1](http://arxiv.org/abs/2311.07485v1)|null|
+|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485v1](http://arxiv.org/abs/2311.07485v1)|**[link](https://github.com/mahi97/EvoFL)**|
 |**2023-11-13**|**Robust softmax aggregation on blockchain based federated learning with convergence guarantee**|Huiyu Wu et.al.|[2311.07027v1](http://arxiv.org/abs/2311.07027v1)|null|
 |**2023-11-13**|**AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification**|Zirui Gong et.al.|[2311.06996v1](http://arxiv.org/abs/2311.06996v1)|null|
 |**2023-11-12**|**Concept Matching: Clustering-based Federated Continual Learning**|Xiaopeng Jiang et.al.|[2311.06921v1](http://arxiv.org/abs/2311.06921v1)|null|
@@ -1371,7 +1371,7 @@ layout: default
 |**2023-10-23**|**Quantum Federated Learning With Quantum Networks**|Tyler Wang et.al.|[2310.15084v1](http://arxiv.org/abs/2310.15084v1)|null|
 |**2023-10-23**|**Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization**|Tianshi Che et.al.|[2310.15080v1](http://arxiv.org/abs/2310.15080v1)|**[link](https://github.com/llm-eff/fedpeptao)**|
 |**2023-10-23**|**Coordinated Replay Sample Selection for Continual Federated Learning**|Jack Good et.al.|[2310.15054v1](http://arxiv.org/abs/2310.15054v1)|null|
-|**2023-10-23**|**Dynamically Weighted Federated k-Means**|Patrick Holzer et.al.|[2310.14858v1](http://arxiv.org/abs/2310.14858v1)|null|
+|**2023-10-23**|**Dynamically Weighted Federated k-Means**|Patrick Holzer et.al.|[2310.14858v1](http://arxiv.org/abs/2310.14858v1)|**[link](https://github.com/patrickitwm/dwf-k-means)**|
 |**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848v1](http://arxiv.org/abs/2310.14848v1)|null|
 |**2023-10-23**|**An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation**|Wenhao Yan et.al.|[2310.14784v1](http://arxiv.org/abs/2310.14784v1)|null|
 |**2023-10-23**|**Federated learning compression designed for lightweight communications**|Lucas Grativol Ribeiro et.al.|[2310.14693v1](http://arxiv.org/abs/2310.14693v1)|**[link](https://github.com/lgrativol/fl_exps)**|
@@ -1907,7 +1907,7 @@ layout: default
 |**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
 |**2023-06-13**|**Temporal Gradient Inversion Attacks with Robust Optimization**|Bowen Li et.al.|[2306.07883v1](http://arxiv.org/abs/2306.07883v1)|null|
 |**2023-06-13**|**SRATTA : Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning**|Tanguy Marchand et.al.|[2306.07644v1](http://arxiv.org/abs/2306.07644v1)|**[link](https://github.com/owkin/sratta)**|
-|**2023-06-13**|**GQFedWAvg: Optimization-Based Quantized Federated Learning in General Edge Computing Systems**|Yangchen Li et.al.|[2306.07497v1](http://arxiv.org/abs/2306.07497v1)|null|
+|**2023-06-13**|**GQFedWAvg: Optimization-Based Quantized Federated Learning in General Edge Computing Systems**|Yangchen Li et.al.|[2306.07497v1](http://arxiv.org/abs/2306.07497v1)|**[link](https://github.com/cuiying123456/gqfedwavg)**|
 |**2023-06-12**|**AnoFel: Supporting Anonymity for Privacy-Preserving Federated Learning**|Ghada Almashaqbeh et.al.|[2306.06825v1](http://arxiv.org/abs/2306.06825v1)|null|
 |**2023-06-11**|**FedDec: Peer-to-peer Aided Federated Learning**|Marina Costantini et.al.|[2306.06715v1](http://arxiv.org/abs/2306.06715v1)|null|
 |**2023-06-11**|**Analysis of a contention-based approach over 5G NR for Federated Learning in an Industrial Internet of Things scenario**|Giampaolo Cuozzo et.al.|[2306.06647v1](http://arxiv.org/abs/2306.06647v1)|null|
