@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625v1](http://arxiv.org/abs/2311.14625v1)|null|
+|**2023-11-24**|**FAMAC: A Federated Assisted Modified Actor-Critic Framework for Secured Energy Saving in 5G and Beyond Networks**|Attai Ibrahim Abubakar et.al.|[2311.14509v1](http://arxiv.org/abs/2311.14509v1)|null|
+|**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|null|
+|**2023-11-24**|**Prototype of deployment of Federated Learning with IoT devices**|Pablo García Santaclara et.al.|[2311.14401v1](http://arxiv.org/abs/2311.14401v1)|null|
+|**2023-11-23**|**A Blockchain Solution for Collaborative Machine Learning over IoT**|Carlos Beis-Penedo et.al.|[2311.14136v1](http://arxiv.org/abs/2311.14136v1)|null|
+|**2023-11-23**|**Byzantine Robustness and Partial Participation Can Be Achieved Simultaneously: Just Clip Gradient Differences**|Grigory Malinovsky et.al.|[2311.14127v1](http://arxiv.org/abs/2311.14127v1)|null|
+|**2023-11-23**|**Hierarchical Coded Gradient Aggregation Based on Layered MDS Codes**|M. Nikhil Krishnan et.al.|[2311.14116v1](http://arxiv.org/abs/2311.14116v1)|null|
+|**2023-11-23**|**Brain MRI Screening Tool with Federated Learning**|Roman Stoklasa et.al.|[2311.14086v1](http://arxiv.org/abs/2311.14086v1)|null|
+|**2023-11-23**|**AdapterFL: Adaptive Heterogeneous Federated Learning for Resource-constrained Mobile Computing Systems**|Ruixuan Liu et.al.|[2311.14037v1](http://arxiv.org/abs/2311.14037v1)|null|
+|**2023-11-23**|**Enhancing Intrusion Detection In Internet Of Vehicles Through Federated Learning**|Abhishek Sebastian et.al.|[2311.13800v1](http://arxiv.org/abs/2311.13800v1)|null|
 |**2023-11-22**|**Uncertainty Estimation in Multi-Agent Distributed Learning**|Gleb Radchenko et.al.|[2311.13356v1](http://arxiv.org/abs/2311.13356v1)|null|
 |**2023-11-22**|**MergeSFL: Split Federated Learning with Feature Merging and Batch Size Regulation**|Yunming Liao et.al.|[2311.13348v1](http://arxiv.org/abs/2311.13348v1)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281v1](http://arxiv.org/abs/2311.13281v1)|null|
