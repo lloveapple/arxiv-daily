@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**A Survey on Vulnerability of Federated Learning: A Learning Algorithm Perspective**|Xianghua Xie et.al.|[2311.16065v1](http://arxiv.org/abs/2311.16065v1)|**[link](https://github.com/rand2ai/awesome-vulnerability-of-federated-learning)**|
+|**2023-11-27**|**Scheduling and Communication Schemes for Decentralized Federated Learning**|Bahaa-Eldin Ali Abdelghany et.al.|[2311.16021v1](http://arxiv.org/abs/2311.16021v1)|null|
+|**2023-11-27**|**Using Decentralized Aggregation for Federated Learning with Differential Privacy**|Hadeel Abd El-Kareem et.al.|[2311.16008v1](http://arxiv.org/abs/2311.16008v1)|null|
+|**2023-11-27**|**Distributed Attacks over Federated Reinforcement Learning-enabled Cell Sleep Control**|Han Zhang et.al.|[2311.15894v1](http://arxiv.org/abs/2311.15894v1)|null|
+|**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617v1](http://arxiv.org/abs/2311.15617v1)|**[link](https://github.com/gtmllab/veryfl)**|
+|**2023-11-27**|**QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation**|Akash Dhasade et.al.|[2311.15603v1](http://arxiv.org/abs/2311.15603v1)|null|
+|**2023-11-27**|**Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation**|Ming Li et.al.|[2311.15463v1](http://arxiv.org/abs/2311.15463v1)|null|
+|**2023-11-26**|**Evaluating Multi-Global Server Architecture for Federated Learning**|Asfia Kawnine et.al.|[2311.15382v1](http://arxiv.org/abs/2311.15382v1)|null|
+|**2023-11-26**|**Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs**|Yizheng Zhu et.al.|[2311.15310v1](http://arxiv.org/abs/2311.15310v1)|null|
+|**2023-11-25**|**OFDMA-F $^2$ L: Federated Learning With Flexible Aggregation Over an OFDMA Air Interface**|Shuyan Hu et.al.|[2311.15141v1](http://arxiv.org/abs/2311.15141v1)|null|
 |**2023-11-24**|**ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**|Vasilis Siomos et.al.|[2311.14625v1](http://arxiv.org/abs/2311.14625v1)|null|
 |**2023-11-24**|**FAMAC: A Federated Assisted Modified Actor-Critic Framework for Secured Energy Saving in 5G and Beyond Networks**|Attai Ibrahim Abubakar et.al.|[2311.14509v1](http://arxiv.org/abs/2311.14509v1)|null|
 |**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469v1](http://arxiv.org/abs/2311.14469v1)|null|
