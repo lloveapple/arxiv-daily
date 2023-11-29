@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984v1](http://arxiv.org/abs/2311.16984v1)|null|
+|**2023-11-28**|**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2311.16940v1](http://arxiv.org/abs/2311.16940v1)|null|
+|**2023-11-28**|**Asynchronous Wireless Federated Learning with Probabilistic Client Selection**|Jiarong Yang et.al.|[2311.16741v1](http://arxiv.org/abs/2311.16741v1)|null|
+|**2023-11-28**|**Scalable Label Distribution Learning for Multi-Label Classification**|Xingyu Zhao et.al.|[2311.16556v1](http://arxiv.org/abs/2311.16556v1)|**[link](https://github.com/ailearn-ml/sldl)**|
+|**2023-11-28**|**Communication Efficiency Optimization of Federated Learning for Computing and Network Convergence of 6G Networks**|Yizhuo Cai et.al.|[2311.16540v1](http://arxiv.org/abs/2311.16540v1)|null|
+|**2023-11-28**|**Federated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks**|Ye Lin Tun et.al.|[2311.16538v1](http://arxiv.org/abs/2311.16538v1)|null|
+|**2023-11-28**|**Contrastive encoder pre-training-based clustered federated learning for heterogeneous data**|Ye Lin Tun et.al.|[2311.16535v1](http://arxiv.org/abs/2311.16535v1)|null|
+|**2023-11-28**|**On the Effect of Defections in Federated Learning and How to Prevent Them**|Minbiao Han et.al.|[2311.16459v1](http://arxiv.org/abs/2311.16459v1)|null|
 |**2023-11-27**|**A Survey on Vulnerability of Federated Learning: A Learning Algorithm Perspective**|Xianghua Xie et.al.|[2311.16065v1](http://arxiv.org/abs/2311.16065v1)|**[link](https://github.com/rand2ai/awesome-vulnerability-of-federated-learning)**|
 |**2023-11-27**|**Scheduling and Communication Schemes for Decentralized Federated Learning**|Bahaa-Eldin Ali Abdelghany et.al.|[2311.16021v1](http://arxiv.org/abs/2311.16021v1)|null|
 |**2023-11-27**|**Using Decentralized Aggregation for Federated Learning with Differential Privacy**|Hadeel Abd El-Kareem et.al.|[2311.16008v1](http://arxiv.org/abs/2311.16008v1)|null|
