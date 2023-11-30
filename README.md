@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750v1](http://arxiv.org/abs/2311.17750v1)|**[link](https://github.com/negedng/ma-fl-mia)**|
+|**2023-11-29**|**The AutoSPADA Platform: User-Friendly Edge Computing for Distributed Learning and Data Analytics in Connected Vehicles**|Adrian Nilsson et.al.|[2311.17621v1](http://arxiv.org/abs/2311.17621v1)|null|
+|**2023-11-29**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431v1](http://arxiv.org/abs/2311.17431v1)|null|
+|**2023-11-29**|**Federated Fine-Tuning of Foundation Models via Probabilistic Masking**|Vasileios Tsouvalas et.al.|[2311.17299v1](http://arxiv.org/abs/2311.17299v1)|null|
 |**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984v1](http://arxiv.org/abs/2311.16984v1)|null|
 |**2023-11-28**|**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2311.16940v1](http://arxiv.org/abs/2311.16940v1)|null|
 |**2023-11-28**|**Asynchronous Wireless Federated Learning with Probabilistic Client Selection**|Jiarong Yang et.al.|[2311.16741v1](http://arxiv.org/abs/2311.16741v1)|null|
