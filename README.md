@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
+|**2023-11-30**|**Learning Triangular Distribution in Visual World**|Ping Chen et.al.|[2311.18605v1](http://arxiv.org/abs/2311.18605v1)|null|
+|**2023-11-30**|**Communication-Efficient Heterogeneous Federated Learning with Generalized Heavy-Ball Momentum**|Riccardo Zaccone et.al.|[2311.18578v1](http://arxiv.org/abs/2311.18578v1)|null|
+|**2023-11-30**|**FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning**|Lingzhi Gao et.al.|[2311.18559v1](http://arxiv.org/abs/2311.18559v1)|null|
+|**2023-11-30**|**Data-Agnostic Model Poisoning against Federated Learning: A Graph Autoencoder Approach**|Kai Li et.al.|[2311.18498v1](http://arxiv.org/abs/2311.18498v1)|null|
+|**2023-11-30**|**Unveiling Backdoor Risks Brought by Foundation Models in Heterogeneous Federated Learning**|Xi Li et.al.|[2311.18350v1](http://arxiv.org/abs/2311.18350v1)|null|
+|**2023-11-30**|**Toward the Tradeoffs between Privacy, Fairness and Utility in Federated Learning**|Kangkang Sun et.al.|[2311.18190v1](http://arxiv.org/abs/2311.18190v1)|null|
+|**2023-11-29**|**Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices**|Huancheng Chen et.al.|[2311.18129v1](http://arxiv.org/abs/2311.18129v1)|null|
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750v1](http://arxiv.org/abs/2311.17750v1)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-29**|**The AutoSPADA Platform: User-Friendly Edge Computing for Distributed Learning and Data Analytics in Connected Vehicles**|Adrian Nilsson et.al.|[2311.17621v1](http://arxiv.org/abs/2311.17621v1)|null|
 |**2023-11-29**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431v1](http://arxiv.org/abs/2311.17431v1)|null|
