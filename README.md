@@ -282,7 +282,7 @@
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|null|
 |**2023-10-06**|**The Role of Federated Learning in a Wireless World with Foundation Models**|Zihan Chen et.al.|[2310.04003v1](http://arxiv.org/abs/2310.04003v1)|null|
 |**2023-10-05**|**PrIeD-KIE: Towards Privacy Preserved Document Key Information Extraction**|Saifullah Saifullah et.al.|[2310.03777v1](http://arxiv.org/abs/2310.03777v1)|null|
-|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|null|
+|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|**[link](https://github.com/xidongwu/federated-minimax-and-conditional-stochastic-optimization)**|
 |**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461v1](http://arxiv.org/abs/2310.03461v1)|null|
 |**2023-10-05**|**Over-the-Air Federated Learning with Compressed Sensing: Is Sparsification Necessary?**|Adrian Edin et.al.|[2310.03410v1](http://arxiv.org/abs/2310.03410v1)|null|
 |**2023-10-04**|**Digital Ethics in Federated Learning**|Liangqi Yuan et.al.|[2310.03178v1](http://arxiv.org/abs/2310.03178v1)|null|
@@ -557,7 +557,7 @@
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975v1](http://arxiv.org/abs/2307.15975v1)|null|
 |**2023-07-29**|**You Can Backdoor Personalized Federated Learning**|Tiandi Ye et.al.|[2307.15971v1](http://arxiv.org/abs/2307.15971v1)|**[link](https://github.com/bapfl/code)**|
 |**2023-07-29**|**Efficient Semi-Supervised Federated Learning for Heterogeneous Participants**|Zhipeng Sun et.al.|[2307.15870v1](http://arxiv.org/abs/2307.15870v1)|**[link](https://github.com/littlefishe/capsule)**|
-|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860v1](http://arxiv.org/abs/2307.15860v1)|null|
+|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860v1](http://arxiv.org/abs/2307.15860v1)|**[link](https://github.com/abstractteen/gan_ownership_verification)**|
 |**2023-07-28**|**The Applicability of Federated Learning to Official Statistics**|Joshua Stock et.al.|[2307.15503v1](http://arxiv.org/abs/2307.15503v1)|null|
 |**2023-07-28**|**A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design**|Mahdi Morafah et.al.|[2307.15245v1](http://arxiv.org/abs/2307.15245v1)|**[link](https://github.com/mmorafah/fedzoo-bench)**|
 |**2023-07-27**|**Samplable Anonymous Aggregation for Private Federated Data Analysis**|Kunal Talwar et.al.|[2307.15017v1](http://arxiv.org/abs/2307.15017v1)|null|

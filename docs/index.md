@@ -1156,7 +1156,7 @@ layout: default
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann et.al.|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
 |**2022-10-21**|**RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**|Zhenggang Tang et.al.|[2210.11668v1](http://arxiv.org/abs/2210.11668v1)|null|
 |**2022-10-21**|**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**|Fukun Yin et.al.|[2210.11170v2](http://arxiv.org/abs/2210.11170v2)|**[link](https://github.com/fukunyin/coco-nerf)**|
-|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
+|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|**[link](https://github.com/NVlabs/ParallelInversion)**|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
 |**2022-10-20**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v2](http://arxiv.org/abs/2210.09420v2)|null|
 |**2022-10-15**|**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**|Ruofan Liang et.al.|[2210.08398v1](http://arxiv.org/abs/2210.08398v1)|null|
@@ -1492,7 +1492,7 @@ layout: default
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055v1](http://arxiv.org/abs/2310.04055v1)|null|
 |**2023-10-06**|**The Role of Federated Learning in a Wireless World with Foundation Models**|Zihan Chen et.al.|[2310.04003v1](http://arxiv.org/abs/2310.04003v1)|null|
 |**2023-10-05**|**PrIeD-KIE: Towards Privacy Preserved Document Key Information Extraction**|Saifullah Saifullah et.al.|[2310.03777v1](http://arxiv.org/abs/2310.03777v1)|null|
-|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|null|
+|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613v1](http://arxiv.org/abs/2310.03613v1)|**[link](https://github.com/xidongwu/federated-minimax-and-conditional-stochastic-optimization)**|
 |**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461v1](http://arxiv.org/abs/2310.03461v1)|null|
 |**2023-10-05**|**Over-the-Air Federated Learning with Compressed Sensing: Is Sparsification Necessary?**|Adrian Edin et.al.|[2310.03410v1](http://arxiv.org/abs/2310.03410v1)|null|
 |**2023-10-04**|**Digital Ethics in Federated Learning**|Liangqi Yuan et.al.|[2310.03178v1](http://arxiv.org/abs/2310.03178v1)|null|
@@ -1767,7 +1767,7 @@ layout: default
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975v1](http://arxiv.org/abs/2307.15975v1)|null|
 |**2023-07-29**|**You Can Backdoor Personalized Federated Learning**|Tiandi Ye et.al.|[2307.15971v1](http://arxiv.org/abs/2307.15971v1)|**[link](https://github.com/bapfl/code)**|
 |**2023-07-29**|**Efficient Semi-Supervised Federated Learning for Heterogeneous Participants**|Zhipeng Sun et.al.|[2307.15870v1](http://arxiv.org/abs/2307.15870v1)|**[link](https://github.com/littlefishe/capsule)**|
-|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860v1](http://arxiv.org/abs/2307.15860v1)|null|
+|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860v1](http://arxiv.org/abs/2307.15860v1)|**[link](https://github.com/abstractteen/gan_ownership_verification)**|
 |**2023-07-28**|**The Applicability of Federated Learning to Official Statistics**|Joshua Stock et.al.|[2307.15503v1](http://arxiv.org/abs/2307.15503v1)|null|
 |**2023-07-28**|**A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design**|Mahdi Morafah et.al.|[2307.15245v1](http://arxiv.org/abs/2307.15245v1)|**[link](https://github.com/mmorafah/fedzoo-bench)**|
 |**2023-07-27**|**Samplable Anonymous Aggregation for Private Federated Data Analysis**|Kunal Talwar et.al.|[2307.15017v1](http://arxiv.org/abs/2307.15017v1)|null|
