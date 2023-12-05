@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102v1](http://arxiv.org/abs/2312.02102v1)|null|
+|**2023-12-04**|**Federated Learning is Better with Non-Homomorphic Encryption**|Konstantin Burlachenko et.al.|[2312.02074v1](http://arxiv.org/abs/2312.02074v1)|null|
+|**2023-12-04**|**Distributed Continual Learning with CoCoA in High-dimensional Linear Regression**|Martin Hellkvist et.al.|[2312.01795v1](http://arxiv.org/abs/2312.01795v1)|null|
+|**2023-12-04**|**Heroes: Lightweight Federated Learning with Neural Composition and Adaptive Local Update in Heterogeneous Edge Networks**|Jiaming Yan et.al.|[2312.01617v1](http://arxiv.org/abs/2312.01617v1)|null|
+|**2023-12-03**|**Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents**|Yuqi Jia et.al.|[2312.01537v1](http://arxiv.org/abs/2312.01537v1)|**[link](https://github.com/feddg23/feddg-main)**|
+|**2023-12-02**|**Strategic Data Revocation in Federated Unlearning**|Ningning Ding et.al.|[2312.01235v1](http://arxiv.org/abs/2312.01235v1)|null|
+|**2023-12-02**|**Distributed Bayesian Estimation in Sensor Networks: Consensus on Marginal Densities**|Parth Paritosh et.al.|[2312.01227v1](http://arxiv.org/abs/2312.01227v1)|null|
+|**2023-12-02**|**PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks**|Yisheng Zhong et.al.|[2312.01045v1](http://arxiv.org/abs/2312.01045v1)|null|
+|**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843v1](http://arxiv.org/abs/2312.00843v1)|null|
 |**2023-11-30**|**FedEmb: A Vertical and Hybrid Federated Learning Algorithm using Network And Feature Embedding Aggregation**|Fanfei Meng et.al.|[2312.00102v1](http://arxiv.org/abs/2312.00102v1)|null|
 |**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
 |**2023-11-30**|**Learning Triangular Distribution in Visual World**|Ping Chen et.al.|[2311.18605v1](http://arxiv.org/abs/2311.18605v1)|null|
