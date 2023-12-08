@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504v1](http://arxiv.org/abs/2312.04504v1)|null|
+|**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447v1](http://arxiv.org/abs/2312.04447v1)|null|
+|**2023-12-07**|**FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning**|Hossein Fereidooni et.al.|[2312.04432v1](http://arxiv.org/abs/2312.04432v1)|null|
+|**2023-12-07**|**Developing Elementary Federated Learning Algorithms Leveraging the ChatGPT**|Miroslav Popovic et.al.|[2312.04412v1](http://arxiv.org/abs/2312.04412v1)|null|
+|**2023-12-07**|**Factor-Assisted Federated Learning for Personalized Optimization with Heterogeneous Data**|Feifei Wang et.al.|[2312.04281v1](http://arxiv.org/abs/2312.04281v1)|null|
+|**2023-12-07**|**Improving Communication Efficiency of Federated Distillation via Accumulating Local Updates**|Zhiyuan Wu et.al.|[2312.04166v1](http://arxiv.org/abs/2312.04166v1)|null|
+|**2023-12-07**|**A Novel Federated Learning-based Intrusion Detection System for Flying Ad Hoc Networks**|Ozlem Ceviz et.al.|[2312.04135v1](http://arxiv.org/abs/2312.04135v1)|null|
+|**2023-12-07**|**The sample complexity of multi-distribution learning**|Binghui Peng et.al.|[2312.04027v1](http://arxiv.org/abs/2312.04027v1)|null|
+|**2023-12-06**|**A Masked Pruning Approach for Dimensionality Reduction in Communication-Efficient Federated Learning Systems**|Tamir L. S. Gez et.al.|[2312.03889v1](http://arxiv.org/abs/2312.03889v1)|null|
 |**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636v1](http://arxiv.org/abs/2312.03636v1)|null|
 |**2023-12-06**|**Balanced Marginal and Joint Distributional Learning via Mixture Cramer-Wold Distance**|Seunghwan An et.al.|[2312.03307v1](http://arxiv.org/abs/2312.03307v1)|null|
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205v1](http://arxiv.org/abs/2312.03205v1)|null|
