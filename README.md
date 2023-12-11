@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248v1](http://arxiv.org/abs/2312.05248v1)|null|
+|**2023-12-08**|**Multi-Agent Reinforcement Learning via Distributed MPC as a Function Approximator**|Samuel Mallick et.al.|[2312.05166v1](http://arxiv.org/abs/2312.05166v1)|null|
+|**2023-12-08**|**Optimal Multi-Distribution Learning**|Zihan Zhang et.al.|[2312.05134v1](http://arxiv.org/abs/2312.05134v1)|null|
+|**2023-12-08**|**PFLlib: Personalized Federated Learning Algorithm Library**|Jianqing Zhang et.al.|[2312.04992v1](http://arxiv.org/abs/2312.04992v1)|**[link](https://github.com/TsingZ0/PFLlib)**|
+|**2023-12-08**|**AHSecAgg and TSKG: Lightweight Secure Aggregation for Federated Learning Without Compromise**|Siqing Zhang et.al.|[2312.04937v1](http://arxiv.org/abs/2312.04937v1)|null|
+|**2023-12-08**|**Towards Efficient Secure Aggregation in FL: Partial Vector Freezing for Cost Compression**|Siqing Zhang et.al.|[2312.04920v1](http://arxiv.org/abs/2312.04920v1)|null|
+|**2023-12-07**|**Taming Subnet-Drift in D2D-Enabled Fog Learning: A Hierarchical Gradient Tracking Approach**|Evan Chen et.al.|[2312.04728v1](http://arxiv.org/abs/2312.04728v1)|null|
+|**2023-12-07**|**Federated Learning for 6G: Paradigms, Taxonomy, Recent Advances and Insights**|Maryam Ben Driss et.al.|[2312.04688v1](http://arxiv.org/abs/2312.04688v1)|null|
 |**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504v1](http://arxiv.org/abs/2312.04504v1)|null|
 |**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447v1](http://arxiv.org/abs/2312.04447v1)|null|
 |**2023-12-07**|**FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning**|Hossein Fereidooni et.al.|[2312.04432v1](http://arxiv.org/abs/2312.04432v1)|null|
