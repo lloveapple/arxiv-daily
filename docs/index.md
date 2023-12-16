@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108v1](http://arxiv.org/abs/2312.09108v1)|**[link](https://github.com/pringlesinghal/greedyfed)**|
+|**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023v1](http://arxiv.org/abs/2312.09023v1)|null|
+|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006v1](http://arxiv.org/abs/2312.09006v1)|null|
+|**2023-12-14**|**Enabling End-to-End Secure Federated Learning in Biomedical Research on Heterogeneous Computing Environments with APPFLx**|Trung-Hieu Hoang et.al.|[2312.08701v1](http://arxiv.org/abs/2312.08701v1)|null|
+|**2023-12-14**|**Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey**|Yichen Wan et.al.|[2312.08667v1](http://arxiv.org/abs/2312.08667v1)|null|
+|**2023-12-14**|**CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data**|Jiangming Shi et.al.|[2312.08648v1](http://arxiv.org/abs/2312.08648v1)|**[link](https://github.com/shijiangming1/clip2fl)**|
+|**2023-12-14**|**Federated Learning for Wireless Applications: A Prototype**|Varun Laxman Muttepawar et.al.|[2312.08577v1](http://arxiv.org/abs/2312.08577v1)|null|
+|**2023-12-13**|**Contractive error feedback for gradient compression**|Bingcong Li et.al.|[2312.08538v1](http://arxiv.org/abs/2312.08538v1)|null|
 |**2023-12-13**|**Venn: Resource Management Across Federated Learning Jobs**|Jiachen Liu et.al.|[2312.08298v1](http://arxiv.org/abs/2312.08298v1)|null|
 |**2023-12-13**|**An Incentive Mechanism for Federated Learning Based on Multiple Resource Exchange**|Ruonan Dong et.al.|[2312.08096v1](http://arxiv.org/abs/2312.08096v1)|null|
 |**2023-12-13**|**Topology-Dependent Privacy Bound For Decentralized Federated Learning**|Qiongxiu Li et.al.|[2312.07956v1](http://arxiv.org/abs/2312.07956v1)|null|
