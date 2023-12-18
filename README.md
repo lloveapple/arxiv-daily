@@ -18,7 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-14**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108v1](http://arxiv.org/abs/2312.09108v1)|**[link](https://github.com/pringlesinghal/greedyfed)**|
+|**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881v1](http://arxiv.org/abs/2312.09881v1)|null|
+|**2023-12-15**|**Distributed Learning of Mixtures of Experts**|Faïcel Chamroukhi et.al.|[2312.09877v1](http://arxiv.org/abs/2312.09877v1)|null|
+|**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817v1](http://arxiv.org/abs/2312.09817v1)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
+|**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108v2](http://arxiv.org/abs/2312.09108v2)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023v1](http://arxiv.org/abs/2312.09023v1)|null|
 |**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006v1](http://arxiv.org/abs/2312.09006v1)|null|
 |**2023-12-14**|**Enabling End-to-End Secure Federated Learning in Biomedical Research on Heterogeneous Computing Environments with APPFLx**|Trung-Hieu Hoang et.al.|[2312.08701v1](http://arxiv.org/abs/2312.08701v1)|null|
