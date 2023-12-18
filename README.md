@@ -30,14 +30,14 @@
 |**2023-12-13**|**An Incentive Mechanism for Federated Learning Based on Multiple Resource Exchange**|Ruonan Dong et.al.|[2312.08096v1](http://arxiv.org/abs/2312.08096v1)|null|
 |**2023-12-13**|**Topology-Dependent Privacy Bound For Decentralized Federated Learning**|Qiongxiu Li et.al.|[2312.07956v1](http://arxiv.org/abs/2312.07956v1)|null|
 |**2023-12-12**|**Ensemble Federated Learning: an approach for collaborative pneumonia diagnosis**|Alhassan Mabrouk et.al.|[2312.07428v1](http://arxiv.org/abs/2312.07428v1)|null|
-|**2023-12-12**|**Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning**|Sen Yan et.al.|[2312.07371v1](http://arxiv.org/abs/2312.07371v1)|null|
+|**2023-12-12**|**Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning**|Sen Yan et.al.|[2312.07371v1](http://arxiv.org/abs/2312.07371v1)|**[link](https://github.com/sfiessential/fedbev)**|
 |**2023-12-12**|**Language-Guided Transformer for Federated Multi-Label Classification**|I-Jieh Liu et.al.|[2312.07165v1](http://arxiv.org/abs/2312.07165v1)|**[link](https://github.com/jack24658735/fedlgt)**|
 |**2023-12-12**|**Efficient Cross-Domain Federated Learning by MixStyle Approximation**|Manuel Röder et.al.|[2312.07064v1](http://arxiv.org/abs/2312.07064v1)|null|
 |**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060v1](http://arxiv.org/abs/2312.07060v1)|null|
 |**2023-12-12**|**Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks**|Caridad Arroyo Arevalo et.al.|[2312.06989v1](http://arxiv.org/abs/2312.06989v1)|null|
 |**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951v1](http://arxiv.org/abs/2312.06951v1)|null|
 |**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454v1](http://arxiv.org/abs/2312.06454v1)|**[link](https://github.com/boyden/pointtransformerfl)**|
-|**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353v1](http://arxiv.org/abs/2312.06353v1)|null|
+|**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353v1](http://arxiv.org/abs/2312.06353v1)|**[link](https://github.com/zhenqincn/fedkseed)**|
 |**2023-12-11**|**RankMatch: A Novel Approach to Semi-Supervised Label Distribution Learning Leveraging Inter-label Correlations**|Kouzhiqiang Yucheng Xie et.al.|[2312.06343v1](http://arxiv.org/abs/2312.06343v1)|null|
 |**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290v1](http://arxiv.org/abs/2312.06290v1)|**[link](https://github.com/sjtudyq/fedconcat)**|
 |**2023-12-11**|**Federated Multilinear Principal Component Analysis with Applications in Prognostics**|Chengyu Zhou et.al.|[2312.06050v1](http://arxiv.org/abs/2312.06050v1)|null|
@@ -1103,7 +1103,7 @@
 |**2023-04-06**|**Deep Reinforcement Learning Based Vehicle Selection for Asynchronous Federated Learning Enabled Vehicular Edge Computing**|Qiong Wu et.al.|[2304.02832v1](http://arxiv.org/abs/2304.02832v1)|null|
 |**2023-04-04**|**A Survey on Vertical Federated Learning: From a Layered Perspective**|Liu Yang et.al.|[2304.01829v1](http://arxiv.org/abs/2304.01829v1)|null|
 |**2023-04-02**|**Personalized Federated Learning with Local Attention**|Sicong Liang et.al.|[2304.01783v1](http://arxiv.org/abs/2304.01783v1)|null|
-|**2023-04-10**|**Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher**|Jiawei Shao et.al.|[2304.01731v2](http://arxiv.org/abs/2304.01731v2)|null|
+|**2023-04-10**|**Selective Knowledge Sharing for Privacy-Preserving Federated Distillation without A Good Teacher**|Jiawei Shao et.al.|[2304.01731v2](http://arxiv.org/abs/2304.01731v2)|**[link](https://github.com/shaojiawei07/selective-fd)**|
 |**2023-04-04**|**Privacy-Preserving Federated Discovery of DNA Motifs with Differential Privacy**|Yao Chen et.al.|[2304.01689v1](http://arxiv.org/abs/2304.01689v1)|null|
 |**2023-04-04**|**Privacy Amplification via Compression: Achieving the Optimal Privacy-Accuracy-Communication Trade-off in Distributed Mean Estimation**|Wei-Ning Chen et.al.|[2304.01541v1](http://arxiv.org/abs/2304.01541v1)|null|
 |**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|**[link](https://github.com/rruisong/fedbevt)**|
