@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789v1](http://arxiv.org/abs/2312.10789v1)|null|
+|**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645v1](http://arxiv.org/abs/2312.10645v1)|null|
+|**2023-12-17**|**LLM-Twin: Mini-Giant Model-driven Beyond 5G Digital Twin Networking Framework with Semantic Secure Communication and Computation**|Yang Hong et.al.|[2312.10631v1](http://arxiv.org/abs/2312.10631v1)|null|
+|**2023-12-16**|**Value of Information and Timing-aware Scheduling for Federated Learning**|Muhammad Azeem Khan et.al.|[2312.10512v1](http://arxiv.org/abs/2312.10512v1)|null|
+|**2023-12-16**|**Take History as a Mirror in Heterogeneous Federated Learning**|Xiaorui Jiang et.al.|[2312.10425v1](http://arxiv.org/abs/2312.10425v1)|null|
+|**2023-12-16**|**Towards Reliable Participation in UAV-Enabled Federated Edge Learning on Non-IID Data**|Youssra Cheriguene et.al.|[2312.10411v1](http://arxiv.org/abs/2312.10411v1)|null|
+|**2023-12-16**|**PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN in Federated Learning**|Yuting Ma et.al.|[2312.10380v1](http://arxiv.org/abs/2312.10380v1)|**[link](https://github.com/ytingma/ppidsg)**|
+|**2023-12-16**|**Federated Learning with Instance-Dependent Noisy Labels**|Lei Wang et.al.|[2312.10324v1](http://arxiv.org/abs/2312.10324v1)|null|
+|**2023-12-15**|**Vertical Federated Alzheimer's Detection on Multimodal Data**|Paul K. Mandal et.al.|[2312.10237v1](http://arxiv.org/abs/2312.10237v1)|null|
+|**2023-12-15**|**Resilient Federated Learning under Byzantine Attack in Distributed Nonconvex Optimization with 2-f Redundancy**|Amit Dutta et.al.|[2312.10189v1](http://arxiv.org/abs/2312.10189v1)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881v1](http://arxiv.org/abs/2312.09881v1)|null|
 |**2023-12-15**|**Distributed Learning of Mixtures of Experts**|Faïcel Chamroukhi et.al.|[2312.09877v1](http://arxiv.org/abs/2312.09877v1)|null|
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817v1](http://arxiv.org/abs/2312.09817v1)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
