@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v1](http://arxiv.org/abs/2312.12263v1)|**[link](https://github.com/lijichang/flnl-feddiv)**|
+|**2023-12-19**|**Decentralised and collaborative machine learning framework for IoT**|Martín González-Soto et.al.|[2312.12190v1](http://arxiv.org/abs/2312.12190v1)|null|
+|**2023-12-19**|**Model-Heterogeneous Federated Learning for Internet of Things: Enabling Technologies and Future Directions**|Boyu Fan et.al.|[2312.12091v1](http://arxiv.org/abs/2312.12091v1)|null|
+|**2023-12-19**|**Convergence Visualizer of Decentralized Federated Distillation with Reduced Communication Costs**|Akihito Taya et.al.|[2312.11905v1](http://arxiv.org/abs/2312.11905v1)|null|
+|**2023-12-18**|**A Quantum Federated Learning Framework for Classical Clients**|Yanqi Song et.al.|[2312.11672v1](http://arxiv.org/abs/2312.11672v1)|null|
+|**2023-12-18**|**FedCompetitors: Harmonious Collaboration in Federated Learning with Competing Participants**|Shanli Tan et.al.|[2312.11391v1](http://arxiv.org/abs/2312.11391v1)|null|
+|**2023-12-18**|**Online Vertical Federated Learning for Cooperative Spectrum Sensing**|Heqiang Wang et.al.|[2312.11363v1](http://arxiv.org/abs/2312.11363v1)|null|
+|**2023-12-18**|**Dirichlet-based Uncertainty Quantification for Personalized Federated Learning with Improved Posterior Networks**|Nikita Kotelevskii et.al.|[2312.11230v1](http://arxiv.org/abs/2312.11230v1)|null|
+|**2023-12-18**|**A review of federated learning in renewable energy applications: Potential, challenges, and future directions**|Albin Grataloup et.al.|[2312.11220v1](http://arxiv.org/abs/2312.11220v1)|null|
+|**2023-12-18**|**Distributed Collapsed Gibbs Sampler for Dirichlet Process Mixture Models in Federated Learning**|Reda Khoufache et.al.|[2312.11169v1](http://arxiv.org/abs/2312.11169v1)|null|
 |**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789v1](http://arxiv.org/abs/2312.10789v1)|null|
 |**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645v1](http://arxiv.org/abs/2312.10645v1)|null|
 |**2023-12-17**|**LLM-Twin: Mini-Giant Model-driven Beyond 5G Digital Twin Networking Framework with Semantic Secure Communication and Computation**|Yang Hong et.al.|[2312.10631v1](http://arxiv.org/abs/2312.10631v1)|null|
