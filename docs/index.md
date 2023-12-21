@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247v1](http://arxiv.org/abs/2312.13247v1)|null|
+|**2023-12-20**|**Distribution-Dependent Rates for Multi-Distribution Learning**|Rafael Hanashiro et.al.|[2312.13130v1](http://arxiv.org/abs/2312.13130v1)|null|
+|**2023-12-20**|**Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization**|Pengchao Han et.al.|[2312.12863v1](http://arxiv.org/abs/2312.12863v1)|null|
+|**2023-12-20**|**FedA3I: Annotation Quality-Aware Aggregation for Federated Medical Image Segmentation Against Heterogeneous Annotation Noise**|Nannan Wu et.al.|[2312.12838v1](http://arxiv.org/abs/2312.12838v1)|null|
+|**2023-12-20**|**Near-Optimal Resilient Aggregation Rules for Distributed Learning Using 1-Center and 1-Mean Clustering with Outliers**|Yuhao Yi et.al.|[2312.12835v1](http://arxiv.org/abs/2312.12835v1)|**[link](https://github.com/jerry907/aaai24-rashb)**|
+|**2023-12-20**|**FedSODA: Federated Cross-assessment and Dynamic Aggregation for Histopathology Segmentation**|Yuan Zhang et.al.|[2312.12824v1](http://arxiv.org/abs/2312.12824v1)|null|
+|**2023-12-20**|**Federated Learning with Extremely Noisy Clients via Negative Distillation**|Yang Lu et.al.|[2312.12703v1](http://arxiv.org/abs/2312.12703v1)|**[link](https://github.com/linchen99/fedned)**|
+|**2023-12-19**|**On the Role of Server Momentum in Federated Learning**|Jianhui Sun et.al.|[2312.12670v1](http://arxiv.org/abs/2312.12670v1)|null|
+|**2023-12-19**|**Incremental Semi-supervised Federated Learning for Health Inference via Mobile Sensing**|Guimin Dong et.al.|[2312.12666v1](http://arxiv.org/abs/2312.12666v1)|null|
+|**2023-12-19**|**Blood Glucose Level Prediction: A Graph-based Explainable Method with Federated Learning**|Chengzhe Piao et.al.|[2312.12541v1](http://arxiv.org/abs/2312.12541v1)|null|
 |**2023-12-19**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v1](http://arxiv.org/abs/2312.12263v1)|**[link](https://github.com/lijichang/flnl-feddiv)**|
 |**2023-12-19**|**Decentralised and collaborative machine learning framework for IoT**|Martín González-Soto et.al.|[2312.12190v1](http://arxiv.org/abs/2312.12190v1)|null|
 |**2023-12-19**|**Model-Heterogeneous Federated Learning for Internet of Things: Enabling Technologies and Future Directions**|Boyu Fan et.al.|[2312.12091v1](http://arxiv.org/abs/2312.12091v1)|null|
