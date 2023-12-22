@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923v1](http://arxiv.org/abs/2312.13923v1)|null|
+|**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795v1](http://arxiv.org/abs/2312.13795v1)|null|
+|**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632v1](http://arxiv.org/abs/2312.13632v1)|null|
+|**2023-12-21**|**Topology Learning for Heterogeneous Decentralized Federated Learning over Unreliable D2D Networks**|Zheshun Wu et.al.|[2312.13611v1](http://arxiv.org/abs/2312.13611v1)|null|
+|**2023-12-21**|**Hierarchical Optimization of Metaheuristic Algorithms and Federated Learning for Enhanced Capacity Management and Load Balancing in HetNets**|Saimin Chen Zhang et.al.|[2312.13592v1](http://arxiv.org/abs/2312.13592v1)|null|
+|**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508v1](http://arxiv.org/abs/2312.13508v1)|null|
+|**2023-12-21**|**Federated Continual Novel Class Learning**|Lixu Wang et.al.|[2312.13500v1](http://arxiv.org/abs/2312.13500v1)|null|
+|**2023-12-20**|**Efficient Communication in Federated Learning Using Floating-Point Lossy Compression**|Grant Wilkins et.al.|[2312.13461v1](http://arxiv.org/abs/2312.13461v1)|null|
+|**2023-12-20**|**Multi-Model Wireless Federated Learning with Downlink Beamforming**|Chong Zhang et.al.|[2312.13424v1](http://arxiv.org/abs/2312.13424v1)|null|
+|**2023-12-20**|**Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity**|Yiyue Chen et.al.|[2312.13380v1](http://arxiv.org/abs/2312.13380v1)|**[link](https://github.com/yiyuec/fed-qssl)**|
 |**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247v1](http://arxiv.org/abs/2312.13247v1)|null|
 |**2023-12-20**|**Distribution-Dependent Rates for Multi-Distribution Learning**|Rafael Hanashiro et.al.|[2312.13130v1](http://arxiv.org/abs/2312.13130v1)|null|
 |**2023-12-20**|**Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization**|Pengchao Han et.al.|[2312.12863v1](http://arxiv.org/abs/2312.12863v1)|null|
