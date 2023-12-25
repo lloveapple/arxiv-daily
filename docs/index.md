@@ -1257,7 +1257,7 @@ layout: default
 |**2023-12-18**|**Online Vertical Federated Learning for Cooperative Spectrum Sensing**|Heqiang Wang et.al.|[2312.11363v1](http://arxiv.org/abs/2312.11363v1)|null|
 |**2023-12-18**|**Dirichlet-based Uncertainty Quantification for Personalized Federated Learning with Improved Posterior Networks**|Nikita Kotelevskii et.al.|[2312.11230v1](http://arxiv.org/abs/2312.11230v1)|null|
 |**2023-12-18**|**A review of federated learning in renewable energy applications: Potential, challenges, and future directions**|Albin Grataloup et.al.|[2312.11220v1](http://arxiv.org/abs/2312.11220v1)|null|
-|**2023-12-18**|**Distributed Collapsed Gibbs Sampler for Dirichlet Process Mixture Models in Federated Learning**|Reda Khoufache et.al.|[2312.11169v1](http://arxiv.org/abs/2312.11169v1)|null|
+|**2023-12-18**|**Distributed Collapsed Gibbs Sampler for Dirichlet Process Mixture Models in Federated Learning**|Reda Khoufache et.al.|[2312.11169v1](http://arxiv.org/abs/2312.11169v1)|**[link](https://github.com/redakhoufache/discgs)**|
 |**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789v1](http://arxiv.org/abs/2312.10789v1)|null|
 |**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645v1](http://arxiv.org/abs/2312.10645v1)|null|
 |**2023-12-17**|**LLM-Twin: Mini-Giant Model-driven Beyond 5G Digital Twin Networking Framework with Semantic Secure Communication and Computation**|Yang Hong et.al.|[2312.10631v1](http://arxiv.org/abs/2312.10631v1)|null|
@@ -1288,7 +1288,7 @@ layout: default
 |**2023-12-12**|**Efficient Cross-Domain Federated Learning by MixStyle Approximation**|Manuel Röder et.al.|[2312.07064v1](http://arxiv.org/abs/2312.07064v1)|null|
 |**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060v1](http://arxiv.org/abs/2312.07060v1)|null|
 |**2023-12-12**|**Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks**|Caridad Arroyo Arevalo et.al.|[2312.06989v1](http://arxiv.org/abs/2312.06989v1)|null|
-|**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951v1](http://arxiv.org/abs/2312.06951v1)|null|
+|**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951v1](http://arxiv.org/abs/2312.06951v1)|**[link](https://github.com/LonelyMoonDesert/FNR-FL)**|
 |**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454v1](http://arxiv.org/abs/2312.06454v1)|**[link](https://github.com/boyden/pointtransformerfl)**|
 |**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353v1](http://arxiv.org/abs/2312.06353v1)|**[link](https://github.com/zhenqincn/fedkseed)**|
 |**2023-12-11**|**RankMatch: A Novel Approach to Semi-Supervised Label Distribution Learning Leveraging Inter-label Correlations**|Kouzhiqiang Yucheng Xie et.al.|[2312.06343v1](http://arxiv.org/abs/2312.06343v1)|null|
@@ -1347,7 +1347,7 @@ layout: default
 |**2023-11-29**|**The AutoSPADA Platform: User-Friendly Edge Computing for Distributed Learning and Data Analytics in Connected Vehicles**|Adrian Nilsson et.al.|[2311.17621v1](http://arxiv.org/abs/2311.17621v1)|null|
 |**2023-11-29**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431v1](http://arxiv.org/abs/2311.17431v1)|null|
 |**2023-11-29**|**Federated Fine-Tuning of Foundation Models via Probabilistic Masking**|Vasileios Tsouvalas et.al.|[2311.17299v1](http://arxiv.org/abs/2311.17299v1)|null|
-|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984v1](http://arxiv.org/abs/2311.16984v1)|null|
+|**2023-11-28**|**FedECA: A Federated External Control Arm Method for Causal Inference with Time-To-Event Data in Distributed Settings**|Jean Ogier du Terrail et.al.|[2311.16984v1](http://arxiv.org/abs/2311.16984v1)|**[link](https://github.com/owkin/fedeca)**|
 |**2023-11-28**|**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2311.16940v1](http://arxiv.org/abs/2311.16940v1)|null|
 |**2023-11-28**|**Asynchronous Wireless Federated Learning with Probabilistic Client Selection**|Jiarong Yang et.al.|[2311.16741v1](http://arxiv.org/abs/2311.16741v1)|null|
 |**2023-11-28**|**Scalable Label Distribution Learning for Multi-Label Classification**|Xingyu Zhao et.al.|[2311.16556v1](http://arxiv.org/abs/2311.16556v1)|**[link](https://github.com/ailearn-ml/sldl)**|
@@ -1758,7 +1758,7 @@ layout: default
 |**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158v1](http://arxiv.org/abs/2308.13158v1)|null|
 |**2023-08-25**|**Federated Learning in IoT: a Survey from a Resource-Constrained Perspective**|Ishmeet Kaur andAdwaita Janardhan Jadhav et.al.|[2308.13157v1](http://arxiv.org/abs/2308.13157v1)|null|
 |**2023-08-24**|**Federated Learning of Causal Effects from Incomplete Observational Data**|Thanh Vinh Vo et.al.|[2308.13047v1](http://arxiv.org/abs/2308.13047v1)|null|
-|**2023-08-24**|**LR-XFL: Logical Reasoning-based Explainable Federated Learning**|Yanci Zhang et.al.|[2308.12681v1](http://arxiv.org/abs/2308.12681v1)|null|
+|**2023-08-24**|**LR-XFL: Logical Reasoning-based Explainable Federated Learning**|Yanci Zhang et.al.|[2308.12681v1](http://arxiv.org/abs/2308.12681v1)|**[link](https://github.com/yanci87/lr-xfl)**|
 |**2023-08-24**|**A Huber Loss Minimization Approach to Byzantine Robust Federated Learning**|Puning Zhao et.al.|[2308.12581v1](http://arxiv.org/abs/2308.12581v1)|null|
 |**2023-08-24**|**FedSoL: Bridging Global Alignment and Local Generality in Federated Learning**|Gihun Lee et.al.|[2308.12532v1](http://arxiv.org/abs/2308.12532v1)|null|
 |**2023-08-24**|**Incentive Mechanism Design for Federated Learning and Unlearning**|Ningning Ding et.al.|[2308.12502v1](http://arxiv.org/abs/2308.12502v1)|null|
@@ -2048,7 +2048,7 @@ layout: default
 |**2023-06-14**|**Fed-ZERO: Efficient Zero-shot Personalization with Federated Mixture of Experts**|Chen Dun et.al.|[2306.08586v1](http://arxiv.org/abs/2306.08586v1)|null|
 |**2023-06-14**|**Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks**|Zhe Wang et.al.|[2306.08566v1](http://arxiv.org/abs/2306.08566v1)|**[link](https://github.com/codertylor/fl-tp)**|
 |**2023-06-14**|**Fairness and Privacy-Preserving in Federated Learning: A Survey**|Taki Hasan Rafi et.al.|[2306.08402v1](http://arxiv.org/abs/2306.08402v1)|**[link](https://github.com/takihasan/fairness-and-privacy-in-fl-survey)**|
-|**2023-06-14**|**Provably Personalized and Robust Federated Learning**|Mariel Werner et.al.|[2306.08393v1](http://arxiv.org/abs/2306.08393v1)|null|
+|**2023-06-14**|**Provably Personalized and Robust Federated Learning**|Mariel Werner et.al.|[2306.08393v1](http://arxiv.org/abs/2306.08393v1)|**[link](https://github.com/liehe/prfl)**|
 |**2023-06-14**|**Differentially Private Wireless Federated Learning Using Orthogonal Sequences**|Xizixiang Wei et.al.|[2306.08280v1](http://arxiv.org/abs/2306.08280v1)|null|
 |**2023-06-13**|**(Amplified) Banded Matrix Factorization: A unified approach to private training**|Christopher A. Choquette-Choo et.al.|[2306.08153v1](http://arxiv.org/abs/2306.08153v1)|null|
 |**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
