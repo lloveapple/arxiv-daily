@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Balancing Energy Efficiency and Distributional Robustness in Over-the-Air Federated Learning**|Mohamed Badi et.al.|[2312.14638v1](http://arxiv.org/abs/2312.14638v1)|null|
+|**2023-12-22**|**Towards more sustainable enterprise data and application management with cross silo Federated Learning and Analytics**|Hongliu Cao et.al.|[2312.14628v1](http://arxiv.org/abs/2312.14628v1)|**[link](https://github.com/azure-samples/azure-ml-federated-learning)**|
+|**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567v1](http://arxiv.org/abs/2312.14567v1)|null|
+|**2023-12-22**|**An effective and efficient green federated learning method for one-layer neural networks**|Oscar Fontenla-Romero et.al.|[2312.14528v1](http://arxiv.org/abs/2312.14528v1)|**[link](https://github.com/ofontenla/fedheonn)**|
+|**2023-12-22**|**Federated Learning via Input-Output Collaborative Distillation**|Xuan Gong et.al.|[2312.14478v1](http://arxiv.org/abs/2312.14478v1)|**[link](https://github.com/lsl001006/fediod)**|
+|**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380v1](http://arxiv.org/abs/2312.14380v1)|null|
+|**2023-12-21**|**Federated Quantum Long Short-term Memory (FedQLSTM)**|Mahdi Chehimi et.al.|[2312.14309v1](http://arxiv.org/abs/2312.14309v1)|null|
+|**2023-12-21**|**Multi-Agent Bandit Learning through Heterogeneous Action Erasure Channels**|Osama A. Hanna et.al.|[2312.14259v1](http://arxiv.org/abs/2312.14259v1)|null|
+|**2023-12-21**|**DCFL: Non-IID awareness Data Condensation aided Federated Learning**|Shaohan Sha et.al.|[2312.14219v1](http://arxiv.org/abs/2312.14219v1)|null|
 |**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923v1](http://arxiv.org/abs/2312.13923v1)|null|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795v1](http://arxiv.org/abs/2312.13795v1)|null|
 |**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632v1](http://arxiv.org/abs/2312.13632v1)|null|
@@ -1275,7 +1284,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## MMS
 
@@ -1292,7 +1301,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
