@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966v1](http://arxiv.org/abs/2312.15966v1)|null|
+|**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
+|**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799v1](http://arxiv.org/abs/2312.15799v1)|null|
+|**2023-12-25**|**Federated learning-outcome prediction with multi-layer privacy protection**|Yupei Zhang et.al.|[2312.15608v1](http://arxiv.org/abs/2312.15608v1)|null|
+|**2023-12-24**|**Deep Convolutional Neural Networks for Short-Term Multi-Energy Demand Prediction of Integrated Energy Systems**|Corneliu Arsene et.al.|[2312.15497v1](http://arxiv.org/abs/2312.15497v1)|null|
+|**2023-12-24**|**FedDMF: Privacy-Preserving User Attribute Prediction using Deep Matrix Factorization**|Ming Cheung et.al.|[2312.15420v1](http://arxiv.org/abs/2312.15420v1)|null|
+|**2023-12-24**|**An Empirical Study of Efficiency and Privacy of Federated Learning Algorithms**|Sofia Zahri et.al.|[2312.15375v1](http://arxiv.org/abs/2312.15375v1)|null|
+|**2023-12-23**|**Cooperative Federated Learning over Ground-to-Satellite Integrated Networks: Joint Local Computation and Data Offloading**|Dong-Jun Han et.al.|[2312.15361v1](http://arxiv.org/abs/2312.15361v1)|null|
+|**2023-12-23**|**Personalized Federated Learning with Contextual Modulation and Meta-Learning**|Anna Vettoruzzo et.al.|[2312.15191v1](http://arxiv.org/abs/2312.15191v1)|**[link](https://github.com/annavettoruzzo/cafeme)**|
+|**2023-12-23**|**Efficient Asynchronous Federated Learning with Sparsification and Quantization**|Juncheng Jia et.al.|[2312.15186v1](http://arxiv.org/abs/2312.15186v1)|null|
 |**2023-12-22**|**Balancing Energy Efficiency and Distributional Robustness in Over-the-Air Federated Learning**|Mohamed Badi et.al.|[2312.14638v1](http://arxiv.org/abs/2312.14638v1)|null|
 |**2023-12-22**|**Towards more sustainable enterprise data and application management with cross silo Federated Learning and Analytics**|Hongliu Cao et.al.|[2312.14628v1](http://arxiv.org/abs/2312.14628v1)|**[link](https://github.com/azure-samples/azure-ml-federated-learning)**|
 |**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567v1](http://arxiv.org/abs/2312.14567v1)|null|
