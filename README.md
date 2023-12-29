@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164v1](http://arxiv.org/abs/2312.17164v1)|null|
+|**2023-12-28**|**Replica Tree-based Federated Learning using Limited Data**|Ramona Ghilea et.al.|[2312.17159v1](http://arxiv.org/abs/2312.17159v1)|null|
+|**2023-12-28**|**FedSDD: Scalable and Diversity-enhanced Distillation for Model Aggregation in Federated Learning**|Ho Man Kwan et.al.|[2312.17029v1](http://arxiv.org/abs/2312.17029v1)|null|
+|**2023-12-27**|**Fault-Tolerant Vertical Federated Learning on Dynamic Networks**|Surojit Ganguli et.al.|[2312.16638v1](http://arxiv.org/abs/2312.16638v1)|null|
+|**2023-12-27**|**A Theoretical Analysis of Efficiency Constrained Utility-Privacy Bi-Objective Optimization in Federated Learning**|Hanlin Gu et.al.|[2312.16554v1](http://arxiv.org/abs/2312.16554v1)|null|
+|**2023-12-27**|**Federated Continual Learning via Knowledge Fusion: A Survey**|Xin Yang et.al.|[2312.16475v1](http://arxiv.org/abs/2312.16475v1)|null|
+|**2023-12-26**|**Smuche: Scalar-Multiplicative Caching in Homomorphic Encryption**|Dongfang Zhao et.al.|[2312.16352v1](http://arxiv.org/abs/2312.16352v1)|null|
+|**2023-12-26**|**Harnessing the Power of Federated Learning in Federated Contextual Bandits**|Chengshuai Shi et.al.|[2312.16341v1](http://arxiv.org/abs/2312.16341v1)|null|
 |**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966v1](http://arxiv.org/abs/2312.15966v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 |**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799v1](http://arxiv.org/abs/2312.15799v1)|null|
