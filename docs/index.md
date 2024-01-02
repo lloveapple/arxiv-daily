@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**An Experimental Study of Satisfaction Response: Evaluation of Online Collaborative Learning**|Xusen Cheng et.al.|[2312.17722v1](http://arxiv.org/abs/2312.17722v1)|null|
+|**2023-12-29**|**RS-DGC: Exploring Neighborhood Statistics for Dynamic Gradient Compression on Remote Sensing Image Interpretation**|Weiying Xie et.al.|[2312.17530v1](http://arxiv.org/abs/2312.17530v1)|null|
+|**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493v1](http://arxiv.org/abs/2312.17493v1)|null|
+|**2023-12-29**|**LEFL: Low Entropy Client Sampling in Federated Learning**|Waqwoya Abebe et.al.|[2312.17430v1](http://arxiv.org/abs/2312.17430v1)|null|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164v1](http://arxiv.org/abs/2312.17164v1)|null|
 |**2023-12-28**|**Replica Tree-based Federated Learning using Limited Data**|Ramona Ghilea et.al.|[2312.17159v1](http://arxiv.org/abs/2312.17159v1)|null|
 |**2023-12-28**|**FedSDD: Scalable and Diversity-enhanced Distillation for Model Aggregation in Federated Learning**|Ho Man Kwan et.al.|[2312.17029v1](http://arxiv.org/abs/2312.17029v1)|null|
