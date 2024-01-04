@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531v1](http://arxiv.org/abs/2401.01531v1)|null|
+|**2024-01-03**|**Free Lunch for Federated Remote Sensing Target Fine-Grained Classification: A Parameter-Efficient Framework**|Shengchao Chen et.al.|[2401.01493v1](http://arxiv.org/abs/2401.01493v1)|null|
+|**2024-01-02**|**Hierarchical Over-the-Air Federated Learning with Awareness of Interference and Data Heterogeneity**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2401.01442v1](http://arxiv.org/abs/2401.01442v1)|null|
+|**2024-01-02**|**Multiple Access Techniques for Intelligent and Multi-Functional 6G: Tutorial, Survey, and Outlook**|Bruno Clerckx et.al.|[2401.01433v1](http://arxiv.org/abs/2401.01433v1)|null|
 |**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204v1](http://arxiv.org/abs/2401.01204v1)|null|
 |**2024-01-02**|**FedQV: Leveraging Quadratic Voting in Federated Learning**|Tianyue Chu et.al.|[2401.01168v1](http://arxiv.org/abs/2401.01168v1)|null|
 |**2024-01-02**|**Wireless 6G Connectivity for Massive Number of Devices and Critical Services**|Anders E. Kalør et.al.|[2401.01127v1](http://arxiv.org/abs/2401.01127v1)|null|
