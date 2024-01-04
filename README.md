@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204v1](http://arxiv.org/abs/2401.01204v1)|null|
+|**2024-01-02**|**FedQV: Leveraging Quadratic Voting in Federated Learning**|Tianyue Chu et.al.|[2401.01168v1](http://arxiv.org/abs/2401.01168v1)|null|
+|**2024-01-02**|**Wireless 6G Connectivity for Massive Number of Devices and Critical Services**|Anders E. Kalør et.al.|[2401.01127v1](http://arxiv.org/abs/2401.01127v1)|null|
+|**2024-01-02**|**Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models**|Weixin Xie et.al.|[2401.01059v1](http://arxiv.org/abs/2401.01059v1)|null|
+|**2024-01-01**|**Facebook Report on Privacy of fNIRS data**|Md Imran Hossen et.al.|[2401.00973v1](http://arxiv.org/abs/2401.00973v1)|null|
+|**2023-12-31**|**Balanced Multi-modal Federated Learning via Cross-Modal Infiltration**|Yunfeng Fan et.al.|[2401.00894v1](http://arxiv.org/abs/2401.00894v1)|null|
+|**2024-01-01**|**A review on different techniques used to combat the non-IID and heterogeneous nature of data in FL**|Venkataraman Natarajan Iyer et.al.|[2401.00809v1](http://arxiv.org/abs/2401.00809v1)|null|
+|**2024-01-01**|**Communication-Efficient Federated Learning for LEO Constellations Integrated with HAPs Using Hybrid NOMA-OFDM**|Mohamed Elmahallawy et.al.|[2401.00685v1](http://arxiv.org/abs/2401.00685v1)|null|
+|**2024-01-01**|**Federated Class-Incremental Learning with New-Class Augmented Self-Distillation**|Zhiyuan Wu et.al.|[2401.00622v1](http://arxiv.org/abs/2401.00622v1)|null|
+|**2023-12-31**|**Client-wise Modality Selection for Balanced Multi-modal Federated Learning**|Yunfeng Fan et.al.|[2401.00403v1](http://arxiv.org/abs/2401.00403v1)|null|
 |**2023-12-29**|**An Experimental Study of Satisfaction Response: Evaluation of Online Collaborative Learning**|Xusen Cheng et.al.|[2312.17722v1](http://arxiv.org/abs/2312.17722v1)|null|
 |**2023-12-29**|**RS-DGC: Exploring Neighborhood Statistics for Dynamic Gradient Compression on Remote Sensing Image Interpretation**|Weiying Xie et.al.|[2312.17530v1](http://arxiv.org/abs/2312.17530v1)|null|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493v1](http://arxiv.org/abs/2312.17493v1)|null|
@@ -1306,7 +1316,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 ## MMS
 
@@ -1323,7 +1333,7 @@
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

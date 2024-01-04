@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204v1](http://arxiv.org/abs/2401.01204v1)|null|
+|**2024-01-02**|**FedQV: Leveraging Quadratic Voting in Federated Learning**|Tianyue Chu et.al.|[2401.01168v1](http://arxiv.org/abs/2401.01168v1)|null|
+|**2024-01-02**|**Wireless 6G Connectivity for Massive Number of Devices and Critical Services**|Anders E. Kalør et.al.|[2401.01127v1](http://arxiv.org/abs/2401.01127v1)|null|
+|**2024-01-02**|**Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models**|Weixin Xie et.al.|[2401.01059v1](http://arxiv.org/abs/2401.01059v1)|null|
+|**2024-01-01**|**Facebook Report on Privacy of fNIRS data**|Md Imran Hossen et.al.|[2401.00973v1](http://arxiv.org/abs/2401.00973v1)|null|
+|**2023-12-31**|**Balanced Multi-modal Federated Learning via Cross-Modal Infiltration**|Yunfeng Fan et.al.|[2401.00894v1](http://arxiv.org/abs/2401.00894v1)|null|
+|**2024-01-01**|**A review on different techniques used to combat the non-IID and heterogeneous nature of data in FL**|Venkataraman Natarajan Iyer et.al.|[2401.00809v1](http://arxiv.org/abs/2401.00809v1)|null|
+|**2024-01-01**|**Communication-Efficient Federated Learning for LEO Constellations Integrated with HAPs Using Hybrid NOMA-OFDM**|Mohamed Elmahallawy et.al.|[2401.00685v1](http://arxiv.org/abs/2401.00685v1)|null|
+|**2024-01-01**|**Federated Class-Incremental Learning with New-Class Augmented Self-Distillation**|Zhiyuan Wu et.al.|[2401.00622v1](http://arxiv.org/abs/2401.00622v1)|null|
+|**2023-12-31**|**Client-wise Modality Selection for Balanced Multi-modal Federated Learning**|Yunfeng Fan et.al.|[2401.00403v1](http://arxiv.org/abs/2401.00403v1)|null|
 |**2023-12-29**|**An Experimental Study of Satisfaction Response: Evaluation of Online Collaborative Learning**|Xusen Cheng et.al.|[2312.17722v1](http://arxiv.org/abs/2312.17722v1)|null|
 |**2023-12-29**|**RS-DGC: Exploring Neighborhood Statistics for Dynamic Gradient Compression on Remote Sensing Image Interpretation**|Weiying Xie et.al.|[2312.17530v1](http://arxiv.org/abs/2312.17530v1)|null|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493v1](http://arxiv.org/abs/2312.17493v1)|null|
