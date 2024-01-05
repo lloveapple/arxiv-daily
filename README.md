@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329v1](http://arxiv.org/abs/2401.02329v1)|null|
+|**2024-01-04**|**Federated Class-Incremental Learning with Prototype Guided Transformer**|Haiyang Guo et.al.|[2401.02094v1](http://arxiv.org/abs/2401.02094v1)|null|
+|**2024-01-03**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923v1](http://arxiv.org/abs/2401.01923v1)|null|
 |**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531v1](http://arxiv.org/abs/2401.01531v1)|null|
 |**2024-01-03**|**Free Lunch for Federated Remote Sensing Target Fine-Grained Classification: A Parameter-Efficient Framework**|Shengchao Chen et.al.|[2401.01493v1](http://arxiv.org/abs/2401.01493v1)|null|
 |**2024-01-02**|**Hierarchical Over-the-Air Federated Learning with Awareness of Interference and Data Heterogeneity**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2401.01442v1](http://arxiv.org/abs/2401.01442v1)|null|
