@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Federated Analytics for 6G Networks: Applications, Challenges, and Opportunities**|Juan Marcelo Parra-Ullauri et.al.|[2401.03878v1](http://arxiv.org/abs/2401.03878v1)|null|
+|**2024-01-08**|**Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2401.03685v1](http://arxiv.org/abs/2401.03685v1)|null|
+|**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609v1](http://arxiv.org/abs/2401.03609v1)|null|
+|**2024-01-07**|**GLOCALFAIR: Jointly Improving Global and Local Group Fairness in Federated Learning**|Syed Irfan Ali Meerza et.al.|[2401.03562v1](http://arxiv.org/abs/2401.03562v1)|null|
+|**2024-01-07**|**Improving Transferability of Network Intrusion Detection in a Federated Learning Setup**|Shreya Ghosh et.al.|[2401.03560v1](http://arxiv.org/abs/2401.03560v1)|**[link](https://github.com/ghosh64/transferability)**|
+|**2024-01-07**|**Privacy-Preserving in Blockchain-based Federated Learning Systems**|Sameera K. M. et.al.|[2401.03552v1](http://arxiv.org/abs/2401.03552v1)|null|
+|**2024-01-06**|**Convergence Rate Maximization for Split Learning-based Control of EMG Prosthetic Devices**|Matea Marinova et.al.|[2401.03233v1](http://arxiv.org/abs/2401.03233v1)|null|
+|**2024-01-06**|**FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**|Jianqing Zhang et.al.|[2401.03230v1](http://arxiv.org/abs/2401.03230v1)|**[link](https://github.com/tsingz0/fedtgp)**|
+|**2024-01-06**|**Distributed client selection with multi-objective in federated learning assisted Internet of Vehicles**|Narisu Cha et.al.|[2401.03159v1](http://arxiv.org/abs/2401.03159v1)|null|
+|**2024-01-05**|**Distributed Learning and Function Fusion in Reproducing Kernel Hilbert Space**|Aneesh Raghavan et.al.|[2401.03012v1](http://arxiv.org/abs/2401.03012v1)|null|
 |**2024-01-05**|**Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning**|Zhifeng Jiang et.al.|[2401.02880v1](http://arxiv.org/abs/2401.02880v1)|**[link](https://github.com/samuelgong/lotto)**|
 |**2024-01-05**|**Fairness-Aware Job Scheduling for Multi-Job Federated Learning**|Yuxin Shi et.al.|[2401.02740v1](http://arxiv.org/abs/2401.02740v1)|null|
 |**2024-01-05**|**FedNS: A Fast Sketching Newton-Type Algorithm for Federated Learning**|Jian Li et.al.|[2401.02734v1](http://arxiv.org/abs/2401.02734v1)|**[link](https://github.com/superlj666/fedns)**|
