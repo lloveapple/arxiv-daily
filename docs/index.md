@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**A Survey on Efficient Federated Learning Methods for Foundation Model Training**|Herbert Woisetschläger et.al.|[2401.04472v1](http://arxiv.org/abs/2401.04472v1)|null|
+|**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423v1](http://arxiv.org/abs/2401.04423v1)|null|
+|**2024-01-09**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336v1](http://arxiv.org/abs/2401.04336v1)|null|
 |**2024-01-08**|**Federated Analytics for 6G Networks: Applications, Challenges, and Opportunities**|Juan Marcelo Parra-Ullauri et.al.|[2401.03878v1](http://arxiv.org/abs/2401.03878v1)|null|
 |**2024-01-08**|**Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2401.03685v1](http://arxiv.org/abs/2401.03685v1)|null|
 |**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609v1](http://arxiv.org/abs/2401.03609v1)|null|
