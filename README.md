@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Intelligent Data-Driven Architectural Features Orchestration for Network Slicing**|Rodrigo Moreira et.al.|[2401.06538v1](http://arxiv.org/abs/2401.06538v1)|null|
+|**2024-01-12**|**Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models**|Yae Jee Cho et.al.|[2401.06432v1](http://arxiv.org/abs/2401.06432v1)|null|
+|**2024-01-11**|**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**|Timur Sattarov et.al.|[2401.06263v1](http://arxiv.org/abs/2401.06263v1)|**[link](https://github.com/sattarov/fedtabdiff)**|
+|**2024-01-11**|**Decentralized Gossip Mutual Learning (GML) for automatic head and neck tumor segmentation**|Jingyun Chen et.al.|[2401.06180v1](http://arxiv.org/abs/2401.06180v1)|null|
 |**2024-01-10**|**Brave: Byzantine-Resilient and Privacy-Preserving Peer-to-Peer Federated Learning**|Zhangchen Xu et.al.|[2401.05562v1](http://arxiv.org/abs/2401.05562v1)|null|
 |**2024-01-10**|**Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**|Amin Farajzadeh et.al.|[2401.05308v1](http://arxiv.org/abs/2401.05308v1)|null|
 |**2024-01-10**|**Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics**|Nicolò Romandini et.al.|[2401.05146v1](http://arxiv.org/abs/2401.05146v1)|null|
