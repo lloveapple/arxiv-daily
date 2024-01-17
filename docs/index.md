@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351v1](http://arxiv.org/abs/2401.08351v1)|null|
+|**2024-01-16**|**Learn What You Need in Personalized Federated Learning**|Kexin Lv et.al.|[2401.08327v1](http://arxiv.org/abs/2401.08327v1)|**[link](https://github.com/kelenlv/learn2pfed)**|
+|**2024-01-16**|**Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning**|Yu Jiang et.al.|[2401.08216v1](http://arxiv.org/abs/2401.08216v1)|null|
+|**2024-01-16**|**Over-the-Air Federated Learning with Phase Noise: Analysis and Countermeasures**|Martin Dahl et.al.|[2401.08183v1](http://arxiv.org/abs/2401.08183v1)|null|
+|**2024-01-15**|**Vertical Federated Image Segmentation**|Paul K. Mandal et.al.|[2401.07931v1](http://arxiv.org/abs/2401.07931v1)|null|
+|**2024-01-15**|**Joint Probability Selection and Power Allocation for Federated Learning**|Ouiame Marnissi et.al.|[2401.07756v1](http://arxiv.org/abs/2401.07756v1)|null|
+|**2024-01-15**|**FedRFQ: Prototype-Based Federated Learning with Reduced Redundancy, Minimal Failure, and Enhanced Quality**|Biwei Yan et.al.|[2401.07558v1](http://arxiv.org/abs/2401.07558v1)|null|
+|**2024-01-15**|**Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning**|Mingzhao Guo et.al.|[2401.07496v1](http://arxiv.org/abs/2401.07496v1)|null|
+|**2024-01-15**|**Quantum Privacy Aggregation of Teacher Ensembles (QPATE) for Privacy-preserving Quantum Machine Learning**|William Watkins et.al.|[2401.07464v1](http://arxiv.org/abs/2401.07464v1)|null|
+|**2024-01-15**|**Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation**|Yun-Wei Chu et.al.|[2401.07456v1](http://arxiv.org/abs/2401.07456v1)|null|
 |**2024-01-12**|**Intelligent Data-Driven Architectural Features Orchestration for Network Slicing**|Rodrigo Moreira et.al.|[2401.06538v1](http://arxiv.org/abs/2401.06538v1)|null|
 |**2024-01-12**|**Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models**|Yae Jee Cho et.al.|[2401.06432v1](http://arxiv.org/abs/2401.06432v1)|null|
 |**2024-01-11**|**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**|Timur Sattarov et.al.|[2401.06263v1](http://arxiv.org/abs/2401.06263v1)|**[link](https://github.com/sattarov/fedtabdiff)**|
