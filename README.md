@@ -18,10 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070v1](http://arxiv.org/abs/2401.10070v1)|null|
+|**2024-01-18**|**FLex&Chill: Improving Local Federated Learning Training with Logit Chilling**|Kichang Lee et.al.|[2401.09986v1](http://arxiv.org/abs/2401.09986v1)|null|
+|**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886v1](http://arxiv.org/abs/2401.09886v1)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
+|**2024-01-18**|**Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning**|Hao Chen et.al.|[2401.09772v1](http://arxiv.org/abs/2401.09772v1)|null|
+|**2024-01-18**|**Mobility Accelerates Learning: Convergence Analysis on Hierarchical Federated Learning in Vehicular Networks**|Tan Chen et.al.|[2401.09656v1](http://arxiv.org/abs/2401.09656v1)|null|
+|**2024-01-17**|**Technical Report: On the Convergence of Gossip Learning in the Presence of Node Inaccessibility**|Tian Liu et.al.|[2401.09498v1](http://arxiv.org/abs/2401.09498v1)|null|
 |**2024-01-17**|**Central Limit Theorem for Two-Timescale Stochastic Approximation with Markovian Noise: Theory and Applications**|Jie Hu et.al.|[2401.09339v1](http://arxiv.org/abs/2401.09339v1)|null|
 |**2024-01-17**|**Risk-Aware Accelerated Wireless Federated Learning with Heterogeneous Clients**|Mohamed Ads et.al.|[2401.09267v1](http://arxiv.org/abs/2401.09267v1)|null|
 |**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984v1](http://arxiv.org/abs/2401.08984v1)|null|
-|**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977v1](http://arxiv.org/abs/2401.08977v1)|null|
+|**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977v1](http://arxiv.org/abs/2401.08977v1)|**[link](https://github.com/zackzikaixiao/fedloge)**|
 |**2024-01-16**|**Foundation Models in Augmentative and Alternative Communication: Opportunities and Challenges**|Ambra Di Paola et.al.|[2401.08866v1](http://arxiv.org/abs/2401.08866v1)|null|
 |**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723v1](http://arxiv.org/abs/2401.08723v1)|null|
 |**2024-01-16**|**ADVENT: Attack/Anomaly Detection in VANETs**|Hamideh Baharlouei et.al.|[2401.08564v1](http://arxiv.org/abs/2401.08564v1)|null|
