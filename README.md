@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection**|Aydin Abadi et.al.|[2401.10765v1](http://arxiv.org/abs/2401.10765v1)|null|
+|**2024-01-19**|**Budgeted Online Model Selection and Fine-Tuning via Federated Learning**|Pouya M. Ghari et.al.|[2401.10478v1](http://arxiv.org/abs/2401.10478v1)|null|
+|**2024-01-18**|**Vulnerabilities of Foundation Model Integrated Federated Learning Under Adversarial Threats**|Chen Wu et.al.|[2401.10375v1](http://arxiv.org/abs/2401.10375v1)|null|
+|**2024-01-18**|**Hierarchical Federated Learning in Multi-hop Cluster-Based VANETs**|M. Saeid HaghighiFard et.al.|[2401.10361v1](http://arxiv.org/abs/2401.10361v1)|null|
 |**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070v1](http://arxiv.org/abs/2401.10070v1)|null|
 |**2024-01-18**|**FLex&Chill: Improving Local Federated Learning Training with Logit Chilling**|Kichang Lee et.al.|[2401.09986v1](http://arxiv.org/abs/2401.09986v1)|null|
 |**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886v1](http://arxiv.org/abs/2401.09886v1)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
