@@ -1228,12 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
+|**2024-01-23**|**Secure Federated Learning Approaches to Diagnosing COVID-19**|Rittika Adhikari et.al.|[2401.12438v1](http://arxiv.org/abs/2401.12438v1)|null|
+|**2024-01-22**|**Efficient Collaborations through Weight-Driven Coalition Dynamics in Federated Learning Systems**|Mohammed El Hanjri et.al.|[2401.12356v1](http://arxiv.org/abs/2401.12356v1)|null|
 |**2024-01-22**|**Personalized Over-the-Air Federated Learning with Personalized Reconfigurable Intelligent Surfaces**|Jiayu Mao et.al.|[2401.12149v1](http://arxiv.org/abs/2401.12149v1)|null|
 |**2024-01-22**|**TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients**|Mengdi Wang et.al.|[2401.12012v1](http://arxiv.org/abs/2401.12012v1)|**[link](https://github.com/kasneci-lab/turbosvm-fl)**|
 |**2024-01-22**|**Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning**|Jiyuan Shen et.al.|[2401.11968v1](http://arxiv.org/abs/2401.11968v1)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836v1](http://arxiv.org/abs/2401.11836v1)|null|
 |**2024-01-22**|**AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity**|Xunkai Li et.al.|[2401.11750v1](http://arxiv.org/abs/2401.11750v1)|null|
-|**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748v1](http://arxiv.org/abs/2401.11748v1)|**[link](https://github.com/D1aoBoomm/GI-PIP)**|
+|**2024-01-23**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748v2](http://arxiv.org/abs/2401.11748v2)|**[link](https://github.com/D1aoBoomm/GI-PIP)**|
 |**2024-01-22**|**Attention on Personalized Clinical Decision Support System: Federated Learning Approach**|Chu Myaet Thwal et.al.|[2401.11736v1](http://arxiv.org/abs/2401.11736v1)|null|
 |**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652v1](http://arxiv.org/abs/2401.11652v1)|null|
 |**2024-01-22**|**LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning**|Ye Lin Tun et.al.|[2401.11647v1](http://arxiv.org/abs/2401.11647v1)|null|
