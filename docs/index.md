@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Federated learning with distributed fixed design quantum chips and quantum channels**|Ammar Daskin et.al.|[2401.13421v1](http://arxiv.org/abs/2401.13421v1)|null|
+|**2024-01-24**|**Mitigating System Bias in Resource Constrained Asynchronous Federated Learning Systems**|Jikun Gao et.al.|[2401.13366v1](http://arxiv.org/abs/2401.13366v1)|null|
+|**2024-01-24**|**Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**|Peizheng Li et.al.|[2401.13346v1](http://arxiv.org/abs/2401.13346v1)|null|
+|**2024-01-24**|**How to Collaborate: Towards Maximizing the Generalization Performance in Cross-Silo Federated Learning**|Yuchang Sun et.al.|[2401.13236v1](http://arxiv.org/abs/2401.13236v1)|null|
+|**2024-01-24**|**On Principled Local Optimization Methods for Federated Learning**|Honglin Yuan et.al.|[2401.13216v1](http://arxiv.org/abs/2401.13216v1)|null|
+|**2024-01-23**|**Viewport Prediction, Bitrate Selection, and Beamforming Design for THz-Enabled 360-Degree Video Streaming**|Mehdi Setayesh et.al.|[2401.13114v1](http://arxiv.org/abs/2401.13114v1)|null|
 |**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
 |**2024-01-23**|**Secure Federated Learning Approaches to Diagnosing COVID-19**|Rittika Adhikari et.al.|[2401.12438v1](http://arxiv.org/abs/2401.12438v1)|null|
 |**2024-01-22**|**Efficient Collaborations through Weight-Driven Coalition Dynamics in Federated Learning Systems**|Mohammed El Hanjri et.al.|[2401.12356v1](http://arxiv.org/abs/2401.12356v1)|null|
