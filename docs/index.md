@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211v1](http://arxiv.org/abs/2401.14211v1)|null|
+|**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056v1](http://arxiv.org/abs/2401.14056v1)|null|
+|**2024-01-25**|**The Risk of Federated Learning to Skew Fine-Tuning Features and Underperform Out-of-Distribution Robustness**|Mengyao Du et.al.|[2401.14027v1](http://arxiv.org/abs/2401.14027v1)|null|
+|**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898v1](http://arxiv.org/abs/2401.13898v1)|null|
+|**2024-01-24**|**Inverse Molecular Design with Multi-Conditional Diffusion Guidance**|Gang Liu et.al.|[2401.13858v1](http://arxiv.org/abs/2401.13858v1)|null|
+|**2024-01-24**|**A V2X-based Privacy Preserving Federated Measuring and Learning System**|Levente Alekszejenkó et.al.|[2401.13848v1](http://arxiv.org/abs/2401.13848v1)|**[link](https://github.com/alelevente/felesh)**|
 |**2024-01-24**|**Federated learning with distributed fixed design quantum chips and quantum channels**|Ammar Daskin et.al.|[2401.13421v1](http://arxiv.org/abs/2401.13421v1)|null|
 |**2024-01-24**|**Mitigating System Bias in Resource Constrained Asynchronous Federated Learning Systems**|Jikun Gao et.al.|[2401.13366v1](http://arxiv.org/abs/2401.13366v1)|null|
 |**2024-01-24**|**Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**|Peizheng Li et.al.|[2401.13346v1](http://arxiv.org/abs/2401.13346v1)|null|
