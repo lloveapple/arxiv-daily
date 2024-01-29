@@ -1256,7 +1256,7 @@ layout: default
 |**2024-01-19**|**Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection**|Aydin Abadi et.al.|[2401.10765v1](http://arxiv.org/abs/2401.10765v1)|null|
 |**2024-01-19**|**Budgeted Online Model Selection and Fine-Tuning via Federated Learning**|Pouya M. Ghari et.al.|[2401.10478v1](http://arxiv.org/abs/2401.10478v1)|null|
 |**2024-01-18**|**Vulnerabilities of Foundation Model Integrated Federated Learning Under Adversarial Threats**|Chen Wu et.al.|[2401.10375v1](http://arxiv.org/abs/2401.10375v1)|null|
-|**2024-01-18**|**Hierarchical Federated Learning in Multi-hop Cluster-Based VANETs**|M. Saeid HaghighiFard et.al.|[2401.10361v1](http://arxiv.org/abs/2401.10361v1)|null|
+|**2024-01-18**|**Hierarchical Federated Learning in Multi-hop Cluster-Based VANETs**|M. Saeid HaghighiFard et.al.|[2401.10361v1](http://arxiv.org/abs/2401.10361v1)|**[link](https://github.com/saeedhaghighi/vanet)**|
 |**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070v1](http://arxiv.org/abs/2401.10070v1)|null|
 |**2024-01-18**|**FLex&Chill: Improving Local Federated Learning Training with Logit Chilling**|Kichang Lee et.al.|[2401.09986v1](http://arxiv.org/abs/2401.09986v1)|null|
 |**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886v1](http://arxiv.org/abs/2401.09886v1)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
@@ -1878,7 +1878,7 @@ layout: default
 |**2023-08-27**|**Revolutionizing Disease Diagnosis: A Microservices-Based Architecture for Privacy-Preserving and Efficient IoT Data Analytics Using Federated Learning**|Safa Ben Atitallah et.al.|[2308.14017v1](http://arxiv.org/abs/2308.14017v1)|null|
 |**2023-08-27**|**Generalizable Learning Reconstruction for Accelerating MR Imaging via Federated Neural Architecture Search**|Ruoyou Wu et.al.|[2308.13995v1](http://arxiv.org/abs/2308.13995v1)|null|
 |**2023-08-26**|**FAM: fast adaptive meta-learning**|Indrajeet Kumar Sinha et.al.|[2308.13970v1](http://arxiv.org/abs/2308.13970v1)|null|
-|**2023-08-26**|**Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices**|Mengwei Xu et.al.|[2308.13894v1](http://arxiv.org/abs/2308.13894v1)|null|
+|**2023-08-26**|**Federated Fine-tuning of Billion-Sized Language Models across Mobile Devices**|Mengwei Xu et.al.|[2308.13894v1](http://arxiv.org/abs/2308.13894v1)|**[link](https://github.com/ubiquitouslearning/fwdllm)**|
 |**2023-08-26**|**Effectively Heterogeneous Federated Learning: A Pairing and Split Learning Based Approach**|Jinglong Shen et.al.|[2308.13849v1](http://arxiv.org/abs/2308.13849v1)|null|
 |**2023-08-26**|**Price-Discrimination Game for Distributed Resource Management in Federated Learning**|Han Zhang et.al.|[2308.13838v1](http://arxiv.org/abs/2308.13838v1)|null|
 |**2023-08-26**|**Uncovering Promises and Challenges of Federated Learning to Detect Cardiovascular Diseases: A Scoping Literature Review**|Sricharan Donkada et.al.|[2308.13714v1](http://arxiv.org/abs/2308.13714v1)|null|
@@ -2070,7 +2070,7 @@ layout: default
 |**2023-07-14**|**FedBIAD: Communication-Efficient and Accuracy-Guaranteed Federated Learning with Bayesian Inference-Based Adaptive Dropout**|Jingjing Xue et.al.|[2307.07172v1](http://arxiv.org/abs/2307.07172v1)|null|
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146v1](http://arxiv.org/abs/2307.07146v1)|null|
 |**2023-07-13**|**CryptoQFL: Quantum Federated Learning on Encrypted Data**|Cheng Chu et.al.|[2307.07012v1](http://arxiv.org/abs/2307.07012v1)|null|
-|**2023-07-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jiang et.al.|[2307.06933v1](http://arxiv.org/abs/2307.06933v1)|null|
+|**2023-07-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jiang et.al.|[2307.06933v1](http://arxiv.org/abs/2307.06933v1)|**[link](https://github.com/scylj1/FDAPT)**|
 |**2023-07-13**|**Online Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2307.06620v1](http://arxiv.org/abs/2307.06620v1)|null|
 |**2023-07-13**|**A Case for Offloading Federated Learning Server on Smart NIC**|Naoki Shibahara et.al.|[2307.06561v1](http://arxiv.org/abs/2307.06561v1)|null|
 |**2023-07-13**|**An Image-Denoising Framework Fit for Quantum Annealing via QUBO and Restricted Boltzmann Machines**|Phillip Kerger et.al.|[2307.06542v1](http://arxiv.org/abs/2307.06542v1)|null|
@@ -2346,7 +2346,7 @@ layout: default
 |**2023-05-10**|**Securing Distributed SGD against Gradient Leakage Threats**|Wenqi Wei et.al.|[2305.06473v1](http://arxiv.org/abs/2305.06473v1)|**[link](https://github.com/git-disl/fed-alphacdp)**|
 |**2023-05-09**|**FedPDD: A Privacy-preserving Double Distillation Framework for Cross-silo Federated Recommendation**|Sheng Wan et.al.|[2305.06272v1](http://arxiv.org/abs/2305.06272v1)|null|
 |**2023-05-10**|**Enabling Technologies for Programmable and Software-Defined Networks: Bolstering the Path Towards 6G**|David Carrascal et.al.|[2305.06228v1](http://arxiv.org/abs/2305.06228v1)|null|
-|**2023-05-10**|**FedDWA: Personalized Federated Learning with Online Weight Adjustment**|Jiahao Liu et.al.|[2305.06124v1](http://arxiv.org/abs/2305.06124v1)|null|
+|**2023-05-10**|**FedDWA: Personalized Federated Learning with Online Weight Adjustment**|Jiahao Liu et.al.|[2305.06124v1](http://arxiv.org/abs/2305.06124v1)|**[link](https://github.com/Sherrylife/FedDWA)**|
 |**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090v1](http://arxiv.org/abs/2305.06090v1)|**[link](https://github.com/bingzhaozhu/xtab)**|
 |**2023-05-10**|**FedSOV: Federated Model Secure Ownership Verification with Unforgeable Signature**|Wenyuan Yang et.al.|[2305.06085v1](http://arxiv.org/abs/2305.06085v1)|null|
 |**2023-05-10**|**Self-Supervised Federated Learning for Fast MR Imaging**|Juan Zou et.al.|[2305.06066v1](http://arxiv.org/abs/2305.06066v1)|null|
