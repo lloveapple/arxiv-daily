@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350v1](http://arxiv.org/abs/2401.16350v1)|null|
+|**2024-01-29**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251v1](http://arxiv.org/abs/2401.16251v1)|null|
+|**2024-01-29**|**EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control**|Xiaochen Li et.al.|[2401.15960v1](http://arxiv.org/abs/2401.15960v1)|null|
+|**2024-01-29**|**Blockchain-enabled Trustworthy Federated Unlearning**|Yijing Lin et.al.|[2401.15917v1](http://arxiv.org/abs/2401.15917v1)|null|
+|**2024-01-29**|**Rethinking Personalized Federated Learning with Clustering-based Dynamic Graph Propagation**|Jiaqi Wang et.al.|[2401.15874v1](http://arxiv.org/abs/2401.15874v1)|null|
+|**2024-01-28**|**Stitching Satellites to the Edge: Pervasive and Efficient Federated LEO Satellite Learning**|Mohamed Elmahallawy et.al.|[2401.15541v1](http://arxiv.org/abs/2401.15541v1)|null|
+|**2024-01-27**|**Decentralized Gossip Mutual Learning (GML) for brain tumor segmentation on multi-parametric MRI**|Jingyun Chen et.al.|[2401.15434v1](http://arxiv.org/abs/2401.15434v1)|null|
+|**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203v1](http://arxiv.org/abs/2401.15203v1)|null|
 |**2024-01-26**|**P3LS: Partial Least Squares under Privacy Preservation**|Du Nguyen Duy et.al.|[2401.14884v1](http://arxiv.org/abs/2401.14884v1)|null|
 |**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678v1](http://arxiv.org/abs/2401.14678v1)|null|
 |**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675v1](http://arxiv.org/abs/2401.14675v1)|null|
