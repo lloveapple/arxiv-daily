@@ -1232,7 +1232,7 @@ layout: default
 |**2024-02-01**|**Analog-digital Scheduling for Federated Learning: A Communication-Efficient Approach**|Muhammad Faraz Ul Abrar et.al.|[2402.00318v1](http://arxiv.org/abs/2402.00318v1)|null|
 |**2024-02-01**|**Online Distribution Learning with Local Private Constraints**|Jin Sima et.al.|[2402.00315v1](http://arxiv.org/abs/2402.00315v1)|null|
 |**2024-01-31**|**CNN-FL for Biotechnology Industry Empowered by Internet-of-BioNano Things and Digital Twins**|Mohammad et.al.|[2402.00238v1](http://arxiv.org/abs/2402.00238v1)|null|
-|**2024-01-31**|**FedCore: Straggler-Free Federated Learning with Distributed Coresets**|Hongpeng Guo et.al.|[2402.00219v1](http://arxiv.org/abs/2402.00219v1)|null|
+|**2024-01-31**|**FedCore: Straggler-Free Federated Learning with Distributed Coresets**|Hongpeng Guo et.al.|[2402.00219v1](http://arxiv.org/abs/2402.00219v1)|**[link](https://github.com/hongpeng-guo/fedcore)**|
 |**2024-01-31**|**MP-SL: Multihop Parallel Split Learning**|Joana Tirana et.al.|[2402.00208v1](http://arxiv.org/abs/2402.00208v1)|null|
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746v1](http://arxiv.org/abs/2401.17746v1)|null|
 |**2024-01-31**|**Robustness in Wireless Distributed Learning: An Information-Theoretic Analysis**|Yangshuo He et.al.|[2401.17577v1](http://arxiv.org/abs/2401.17577v1)|null|
