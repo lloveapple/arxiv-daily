@@ -675,7 +675,7 @@ layout: default
 |**2022-07-14**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738v1](http://arxiv.org/abs/2207.06738v1)|null|
 |**2022-07-14**|**Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732v1](http://arxiv.org/abs/2207.06732v1)|null|
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
-|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
+|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|**[link](https://github.com/82magnolia/panoramic-localization)**|
 |**2022-07-05**|**Hierarchical Average Precision Training for Pertinent Image Retrieval**|Elias Ramzi et.al.|[2207.04873v1](http://arxiv.org/abs/2207.04873v1)|**[link](https://github.com/elias-ramzi/happier)**|
 |**2022-07-11**|**A clinically motivated self-supervised approach for content-based image retrieval of CT liver images**|Kristoffer Knutsen Wickstrøm et.al.|[2207.04812v1](http://arxiv.org/abs/2207.04812v1)|**[link](https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver)**|
 |**2022-07-09**|**BOSS: Bottom-up Cross-modal Semantic Composition with Hybrid Counterfactual Training for Robust Content-based Image Retrieval**|Wenqiao Zhang et.al.|[2207.04211v1](http://arxiv.org/abs/2207.04211v1)|null|
@@ -1237,7 +1237,7 @@ layout: default
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746v1](http://arxiv.org/abs/2401.17746v1)|null|
 |**2024-01-31**|**Robustness in Wireless Distributed Learning: An Information-Theoretic Analysis**|Yangshuo He et.al.|[2401.17577v1](http://arxiv.org/abs/2401.17577v1)|null|
 |**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460v1](http://arxiv.org/abs/2401.17460v1)|null|
-|**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124v1](http://arxiv.org/abs/2401.17124v1)|null|
+|**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124v1](http://arxiv.org/abs/2401.17124v1)|**[link](https://github.com/jimmyc96/spectral-dis-fl)**|
 |**2024-01-30**|**Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks**|Lulu Xue et.al.|[2401.16687v1](http://arxiv.org/abs/2401.16687v1)|null|
 |**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685v1](http://arxiv.org/abs/2401.16685v1)|null|
 |**2024-01-29**|**Data and Physics driven Deep Learning Models for Fast MRI Reconstruction: Fundamentals and Methodologies**|Jiahao Huang et.al.|[2401.16564v1](http://arxiv.org/abs/2401.16564v1)|null|
@@ -1250,7 +1250,7 @@ layout: default
 |**2024-01-27**|**Decentralized Gossip Mutual Learning (GML) for brain tumor segmentation on multi-parametric MRI**|Jingyun Chen et.al.|[2401.15434v1](http://arxiv.org/abs/2401.15434v1)|null|
 |**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203v1](http://arxiv.org/abs/2401.15203v1)|null|
 |**2024-01-26**|**P3LS: Partial Least Squares under Privacy Preservation**|Du Nguyen Duy et.al.|[2401.14884v1](http://arxiv.org/abs/2401.14884v1)|null|
-|**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678v1](http://arxiv.org/abs/2401.14678v1)|null|
+|**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678v1](http://arxiv.org/abs/2401.14678v1)|**[link](https://github.com/ckano/pfcr)**|
 |**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675v1](http://arxiv.org/abs/2401.14675v1)|null|
 |**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211v1](http://arxiv.org/abs/2401.14211v1)|null|
 |**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056v1](http://arxiv.org/abs/2401.14056v1)|null|
@@ -1423,7 +1423,7 @@ layout: default
 |**2023-12-15**|**Vertical Federated Alzheimer's Detection on Multimodal Data**|Paul K. Mandal et.al.|[2312.10237v1](http://arxiv.org/abs/2312.10237v1)|null|
 |**2023-12-15**|**Resilient Federated Learning under Byzantine Attack in Distributed Nonconvex Optimization with 2-f Redundancy**|Amit Dutta et.al.|[2312.10189v1](http://arxiv.org/abs/2312.10189v1)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881v1](http://arxiv.org/abs/2312.09881v1)|null|
-|**2023-12-15**|**Distributed Learning of Mixtures of Experts**|Faïcel Chamroukhi et.al.|[2312.09877v1](http://arxiv.org/abs/2312.09877v1)|null|
+|**2023-12-15**|**Distributed Learning of Mixtures of Experts**|Faïcel Chamroukhi et.al.|[2312.09877v1](http://arxiv.org/abs/2312.09877v1)|**[link](https://github.com/nhat-thien/distributed-mixture-of-experts)**|
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817v1](http://arxiv.org/abs/2312.09817v1)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108v2](http://arxiv.org/abs/2312.09108v2)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023v1](http://arxiv.org/abs/2312.09023v1)|null|
@@ -1475,7 +1475,7 @@ layout: default
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205v1](http://arxiv.org/abs/2312.03205v1)|null|
 |**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120v1](http://arxiv.org/abs/2312.03120v1)|null|
 |**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567v1](http://arxiv.org/abs/2312.02567v1)|null|
-|**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493v1](http://arxiv.org/abs/2312.02493v1)|null|
+|**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493v1](http://arxiv.org/abs/2312.02493v1)|**[link](https://github.com/sahiltyagi4/artopk)**|
 |**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416v1](http://arxiv.org/abs/2312.02416v1)|**[link](https://github.com/J1nqianChen/FedKA)**|
 |**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327v1](http://arxiv.org/abs/2312.02327v1)|null|
 |**2023-12-04**|**Federated Active Learning for Target Domain Generalisation**|Razvan Caramalau et.al.|[2312.02247v1](http://arxiv.org/abs/2312.02247v1)|**[link](https://github.com/razvancaramalau/fedalv)**|
