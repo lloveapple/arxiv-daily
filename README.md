@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Deep Continuous Networks**|Nergis Tomen et.al.|[2402.01557v1](http://arxiv.org/abs/2402.01557v1)|**[link](https://github.com/ntomen/deep-continuous-networks)**|
+|**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546v1](http://arxiv.org/abs/2402.01546v1)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
+|**2024-02-02**|**Deep Conditional Generative Learning: Model and Error Analysis**|Jinyuan Chang et.al.|[2402.01460v1](http://arxiv.org/abs/2402.01460v1)|**[link](https://github.com/burning489/conditionalfollmerflow)**|
+|**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350v1](http://arxiv.org/abs/2402.01350v1)|null|
+|**2024-02-02**|**Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**|Zexi Li et.al.|[2402.01342v1](http://arxiv.org/abs/2402.01342v1)|null|
+|**2024-02-02**|**SignSGD with Federated Defense: Harnessing Adversarial Attacks through Gradient Sign Decoding**|Chanho Park et.al.|[2402.01340v1](http://arxiv.org/abs/2402.01340v1)|null|
+|**2024-02-02**|**Truncated Non-Uniform Quantization for Distributed SGD**|Guangfeng Yan et.al.|[2402.01160v1](http://arxiv.org/abs/2402.01160v1)|null|
+|**2024-02-02**|**Towards Quantum-Safe Federated Learning via Homomorphic Encryption: Learning with Gradients**|Guangfeng Yan et.al.|[2402.01154v1](http://arxiv.org/abs/2402.01154v1)|null|
+|**2024-02-02**|**Trustworthy Distributed AI Systems: Robustness, Privacy, and Governance**|Wenqi Wei et.al.|[2402.01096v1](http://arxiv.org/abs/2402.01096v1)|null|
+|**2024-02-02**|**FedShift: Tackling Dual Heterogeneity Problem of Federated Learning via Weight Shift Aggregation**|Jungwon Seo et.al.|[2402.01070v1](http://arxiv.org/abs/2402.01070v1)|null|
 |**2024-02-01**|**Survey of Privacy Threats and Countermeasures in Federated Learning**|Masahiro Hayashitani et.al.|[2402.00342v1](http://arxiv.org/abs/2402.00342v1)|null|
 |**2024-02-01**|**Analog-digital Scheduling for Federated Learning: A Communication-Efficient Approach**|Muhammad Faraz Ul Abrar et.al.|[2402.00318v1](http://arxiv.org/abs/2402.00318v1)|null|
 |**2024-02-01**|**Online Distribution Learning with Local Private Constraints**|Jin Sima et.al.|[2402.00315v1](http://arxiv.org/abs/2402.00315v1)|null|
