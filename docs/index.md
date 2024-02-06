@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124v1](http://arxiv.org/abs/2402.03124v1)|**[link](https://github.com/ybwang119/label_recovery)**|
+|**2024-02-05**|**Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding**|Yasar Abbas Ur Rehman et.al.|[2402.02889v1](http://arxiv.org/abs/2402.02889v1)|null|
+|**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886v1](http://arxiv.org/abs/2402.02886v1)|null|
+|**2024-02-05**|**A Generative Approach to Surrogate-based Black-box Attacks**|Raha Moraffah et.al.|[2402.02732v1](http://arxiv.org/abs/2402.02732v1)|null|
+|**2024-02-04**|**Flexible Non-interactive Short-term Implicit Certificate Generation for VANETs**|Rui Liu et.al.|[2402.02607v1](http://arxiv.org/abs/2402.02607v1)|null|
+|**2024-02-04**|**Device Scheduling and Assignment in Hierarchical Federated Learning for Internet of Things**|Tinghao Zhang et.al.|[2402.02506v1](http://arxiv.org/abs/2402.02506v1)|null|
+|**2024-02-03**|**Causal Bayesian Optimization via Exogenous Distribution Learning**|Shaogang Ren et.al.|[2402.02277v1](http://arxiv.org/abs/2402.02277v1)|null|
+|**2024-02-03**|**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**|Lixu Wang et.al.|[2402.02268v1](http://arxiv.org/abs/2402.02268v1)|null|
+|**2024-02-03**|**Federated Learning with Differential Privacy**|Adrien Banse et.al.|[2402.02230v1](http://arxiv.org/abs/2402.02230v1)|null|
+|**2024-02-03**|**Rethinking the Starting Point: Enhancing Performance and Fairness of Federated Learning via Collaborative Pre-Training**|Yun-Wei Chu et.al.|[2402.02225v1](http://arxiv.org/abs/2402.02225v1)|null|
 |**2024-02-02**|**Deep Continuous Networks**|Nergis Tomen et.al.|[2402.01557v1](http://arxiv.org/abs/2402.01557v1)|**[link](https://github.com/ntomen/deep-continuous-networks)**|
 |**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546v1](http://arxiv.org/abs/2402.01546v1)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
 |**2024-02-02**|**Deep Conditional Generative Learning: Model and Error Analysis**|Jinyuan Chang et.al.|[2402.01460v1](http://arxiv.org/abs/2402.01460v1)|**[link](https://github.com/burning489/conditionalfollmerflow)**|
