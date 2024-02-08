@@ -18,8 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Federated Learning Can Find Friends That Are Beneficial**|Nazarii Tupitsa et.al.|[2402.05050v1](http://arxiv.org/abs/2402.05050v1)|null|
+|**2024-02-07**|**Group Distributionally Robust Dataset Distillation with Risk Minimization**|Saeed Vahidian et.al.|[2402.04676v1](http://arxiv.org/abs/2402.04676v1)|null|
+|**2024-02-06**|**Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit**|Mengfan Xu et.al.|[2402.04417v1](http://arxiv.org/abs/2402.04417v1)|null|
+|**2024-02-06**|**Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning**|Meiying Zhang et.al.|[2402.04409v1](http://arxiv.org/abs/2402.04409v1)|null|
 |**2024-02-06**|**Resource-Aware Hierarchical Federated Learning in Wireless Video Caching Networks**|Md Ferdous Pervej et.al.|[2402.04216v1](http://arxiv.org/abs/2402.04216v1)|null|
-|**2024-02-06**|**Gradient Coding in Decentralized Learning for Evading Stragglers**|Chengxi Li et.al.|[2402.04193v1](http://arxiv.org/abs/2402.04193v1)|null|
+|**2024-02-07**|**Gradient Coding in Decentralized Learning for Evading Stragglers**|Chengxi Li et.al.|[2402.04193v2](http://arxiv.org/abs/2402.04193v2)|null|
 |**2024-02-06**|**Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression**|Xiaoxin Su et.al.|[2402.03815v1](http://arxiv.org/abs/2402.03815v1)|null|
 |**2024-02-06**|**Fed-CVLC: Compressing Federated Learning Communications with Variable-Length Codes**|Xiaoxin Su et.al.|[2402.03770v1](http://arxiv.org/abs/2402.03770v1)|null|
 |**2024-02-06**|**A Survey of Privacy Threats and Defense in Vertical Federated Learning: From Model Life Cycle Perspective**|Lei Yu et.al.|[2402.03688v1](http://arxiv.org/abs/2402.03688v1)|null|
