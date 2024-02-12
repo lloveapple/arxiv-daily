@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**You Still See Me: How Data Protection Supports the Architecture of ML Surveillance**|Rui-Jie Yew et.al.|[2402.06609v1](http://arxiv.org/abs/2402.06609v1)|null|
+|**2024-02-09**|**Optimal estimation of Gaussian (poly)trees**|Yuhao Wang et.al.|[2402.06380v1](http://arxiv.org/abs/2402.06380v1)|**[link](https://github.com/yohannawang/polytree)**|
+|**2024-02-09**|**Evaluating Membership Inference Attacks and Defenses in Federated Learning**|Gongxi Zhu et.al.|[2402.06289v1](http://arxiv.org/abs/2402.06289v1)|**[link](https://github.com/liar-mask/fedmia)**|
+|**2024-02-09**|**Decentralized Proactive Model Offloading and Resource Allocation for Split and Federated Learning**|Binbin Huang et.al.|[2402.06123v1](http://arxiv.org/abs/2402.06123v1)|null|
 |**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926v1](http://arxiv.org/abs/2402.05926v1)|null|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876v1](http://arxiv.org/abs/2402.05876v1)|null|
 |**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558v1](http://arxiv.org/abs/2402.05558v1)|null|
