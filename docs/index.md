@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Momentum Approximation in Asynchronous Private Federated Learning**|Tao Yu et.al.|[2402.09247v1](http://arxiv.org/abs/2402.09247v1)|null|
+|**2024-02-14**|**Scheduling for On-Board Federated Learning with Satellite Clusters**|Nasrin Razmi et.al.|[2402.09105v1](http://arxiv.org/abs/2402.09105v1)|null|
+|**2024-02-14**|**FedSiKD: Clients Similarity and Knowledge Distillation: Addressing Non-i.i.d. and Constraints in Federated Learning**|Yousef Alsenani et.al.|[2402.09095v1](http://arxiv.org/abs/2402.09095v1)|**[link](https://github.com/simuenv/fedsikd)**|
+|**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999v1](http://arxiv.org/abs/2402.08999v1)|null|
+|**2024-02-13**|**FLASH: Federated Learning Across Simultaneous Heterogeneities**|Xiangyu Chang et.al.|[2402.08769v1](http://arxiv.org/abs/2402.08769v1)|null|
 |**2024-02-13**|**FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing**|Yongzhe Jia et.al.|[2402.08578v1](http://arxiv.org/abs/2402.08578v1)|**[link](https://github.com/jyzgh/fedlps)**|
 |**2024-02-13**|**Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS**|Mohammad Ghazi Vakili et.al.|[2402.08210v1](http://arxiv.org/abs/2402.08210v1)|null|
 |**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792v1](http://arxiv.org/abs/2402.07792v1)|null|
