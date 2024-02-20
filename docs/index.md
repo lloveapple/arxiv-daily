@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271v1](http://arxiv.org/abs/2402.12271v1)|null|
+|**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265v1](http://arxiv.org/abs/2402.12265v1)|**[link](https://github.com/zib-iol/feddistill)**|
+|**2024-02-19**|**Federated Bayesian Network Ensembles**|Florian van Daalen et.al.|[2402.12142v1](http://arxiv.org/abs/2402.12142v1)|null|
+|**2024-02-19**|**Communication-Efficient Distributed Learning with Local Immediate Error Compensation**|Yifei Cheng et.al.|[2402.11857v1](http://arxiv.org/abs/2402.11857v1)|null|
+|**2024-02-19**|**Towards Theoretical Understandings of Self-Consuming Generative Models**|Shi Fu et.al.|[2402.11778v1](http://arxiv.org/abs/2402.11778v1)|null|
+|**2024-02-18**|**Poisoning Federated Recommender Systems with Fake Users**|Ming Yin et.al.|[2402.11637v1](http://arxiv.org/abs/2402.11637v1)|null|
+|**2024-02-18**|**Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources**|Jiamu Bai et.al.|[2402.11505v1](http://arxiv.org/abs/2402.11505v1)|null|
+|**2024-02-17**|**Achieving Linear Speedup in Asynchronous Federated Learning with Heterogeneous Clients**|Xiaolu Wang et.al.|[2402.11198v1](http://arxiv.org/abs/2402.11198v1)|null|
+|**2024-02-16**|**Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos**|Shijia Feng et.al.|[2402.11057v1](http://arxiv.org/abs/2402.11057v1)|null|
 |**2024-02-16**|**3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**|Tsung-Wei Ke et.al.|[2402.10885v1](http://arxiv.org/abs/2402.10885v1)|null|
 |**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862v1](http://arxiv.org/abs/2402.10862v1)|null|
 |**2024-02-16**|**FedD2S: Personalized Data-Free Federated Knowledge Distillation**|Kawa Atapour et.al.|[2402.10846v1](http://arxiv.org/abs/2402.10846v1)|null|
