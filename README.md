@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Federated Learning for Iot/Edge/Fog Computing Systems**|Balqees Talal Hasan et.al.|[2402.13029v1](http://arxiv.org/abs/2402.13029v1)|null|
+|**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957v1](http://arxiv.org/abs/2402.12957v1)|null|
+|**2024-02-20**|**Stochastic Approximation Approach to Federated Machine Learning**|Srihari P V et.al.|[2402.12945v1](http://arxiv.org/abs/2402.12945v1)|null|
+|**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906v1](http://arxiv.org/abs/2402.12906v1)|null|
+|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876v1](http://arxiv.org/abs/2402.12876v1)|null|
+|**2024-02-20**|**SGD with Clipping is Secretly Estimating the Median Gradient**|Fabian Schaipp et.al.|[2402.12828v1](http://arxiv.org/abs/2402.12828v1)|null|
+|**2024-02-20**|**Tackling Byzantine Clients in Federated Learning**|Youssef Allouah et.al.|[2402.12780v1](http://arxiv.org/abs/2402.12780v1)|null|
+|**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761v1](http://arxiv.org/abs/2402.12761v1)|null|
+|**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537v1](http://arxiv.org/abs/2402.12537v1)|null|
 |**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271v1](http://arxiv.org/abs/2402.12271v1)|null|
 |**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265v1](http://arxiv.org/abs/2402.12265v1)|**[link](https://github.com/zib-iol/feddistill)**|
 |**2024-02-19**|**Federated Bayesian Network Ensembles**|Florian van Daalen et.al.|[2402.12142v1](http://arxiv.org/abs/2402.12142v1)|null|
