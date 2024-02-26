@@ -1272,7 +1272,7 @@ layout: default
 |**2024-02-13**|**FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing**|Yongzhe Jia et.al.|[2402.08578v1](http://arxiv.org/abs/2402.08578v1)|**[link](https://github.com/jyzgh/fedlps)**|
 |**2024-02-13**|**Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS**|Mohammad Ghazi Vakili et.al.|[2402.08210v1](http://arxiv.org/abs/2402.08210v1)|null|
 |**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792v1](http://arxiv.org/abs/2402.07792v1)|null|
-|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586v1](http://arxiv.org/abs/2402.07586v1)|null|
+|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586v1](http://arxiv.org/abs/2402.07586v1)|**[link](https://github.com/teresalazar13/fairfeddrift)**|
 |**2024-02-12**|**Differentially Private Decentralized Learning with Random Walks**|Edwige Cyffers et.al.|[2402.07471v1](http://arxiv.org/abs/2402.07471v1)|**[link](https://github.com/totilas/dprandomwalk)**|
 |**2024-02-12**|**Bayesian Federated Learning Via Expectation Maximization and Turbo Deep Approximate Message Passing**|Wei Xu et.al.|[2402.07366v1](http://arxiv.org/abs/2402.07366v1)|null|
 |**2024-02-11**|**Training Heterogeneous Client Models using Knowledge Distillation in Serverless Federated Learning**|Mohak Chadha et.al.|[2402.07295v1](http://arxiv.org/abs/2402.07295v1)|**[link](https://github.com/serverless-federated-learning/fedless)**|
@@ -2539,7 +2539,7 @@ layout: default
 |**2023-04-24**|**More Communication Does Not Result in Smaller Generalization Error in Federated Learning**|Romain Chor et.al.|[2304.12216v1](http://arxiv.org/abs/2304.12216v1)|null|
 |**2023-04-24**|**FedPIDAvg: A PID controller inspired aggregation method for Federated Learning**|Leon Mächler et.al.|[2304.12117v1](http://arxiv.org/abs/2304.12117v1)|null|
 |**2023-04-24**|**Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications**|Francesco Cremonesi et.al.|[2304.12012v1](http://arxiv.org/abs/2304.12012v1)|null|
-|**2023-04-23**|**Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges**|Chuan Chen et.al.|[2304.11643v1](http://arxiv.org/abs/2304.11643v1)|null|
+|**2023-04-23**|**Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges**|Chuan Chen et.al.|[2304.11643v1](http://arxiv.org/abs/2304.11643v1)|**[link](https://github.com/6lyc/awesome-privacy-computing-in-metaverse)**|
 |**2023-04-23**|**Personalized Federated Learning via Gradient Modulation for Heterogeneous Text Summarization**|Rongfeng Pan et.al.|[2304.11524v1](http://arxiv.org/abs/2304.11524v1)|null|
 |**2023-04-22**|**Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack**|Hideaki Takahashi et.al.|[2304.11436v1](http://arxiv.org/abs/2304.11436v1)|**[link](https://github.com/FLAIR-THU/PairedLogitsInversion)**|
 |**2023-04-22**|**Universal Adversarial Backdoor Attacks to Fool Vertical Federated Learning in Cloud-Edge Collaboration**|Peng Chen et.al.|[2304.11432v1](http://arxiv.org/abs/2304.11432v1)|null|
