@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**A Bargaining-based Approach for Feature Trading in Vertical Federated Learning**|Yue Cui et.al.|[2402.15247v1](http://arxiv.org/abs/2402.15247v1)|null|
+|**2024-02-23**|**Platforms for Efficient and Incentive-Aware Collaboration**|Nika Haghtalab et.al.|[2402.15169v1](http://arxiv.org/abs/2402.15169v1)|null|
+|**2024-02-23**|**Convergence Analysis of Split Federated Learning on Heterogeneous Data**|Pengchao Han et.al.|[2402.15166v1](http://arxiv.org/abs/2402.15166v1)|null|
+|**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111v1](http://arxiv.org/abs/2402.15111v1)|null|
+|**2024-02-23**|**Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting**|Rong Dai et.al.|[2402.15070v1](http://arxiv.org/abs/2402.15070v1)|**[link](https://github.com/rong-dai/co-boosting)**|
+|**2024-02-22**|**Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry**|Panyi Dong et.al.|[2402.14983v1](http://arxiv.org/abs/2402.14983v1)|null|
+|**2024-02-22**|**Federated Fairness without Access to Sensitive Groups**|Afroditi Papadaki et.al.|[2402.14929v1](http://arxiv.org/abs/2402.14929v1)|null|
+|**2024-02-22**|**Efficient Unbiased Sparsification**|Leighton Barnes et.al.|[2402.14925v1](http://arxiv.org/abs/2402.14925v1)|null|
+|**2024-02-22**|**Practical Insights into Knowledge Distillation for Pre-Trained Models**|Norah Alballa et.al.|[2402.14922v1](http://arxiv.org/abs/2402.14922v1)|null|
 |**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609v1](http://arxiv.org/abs/2402.14609v1)|null|
 |**2024-02-22**|**Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**|Anika Hannemann et.al.|[2402.14527v1](http://arxiv.org/abs/2402.14527v1)|**[link](https://github.com/leoseg/benchmarkingfederated)**|
 |**2024-02-21**|**FedADMM-InSa: An Inexact and Self-Adaptive ADMM for Federated Learning**|Yongcun Song et.al.|[2402.13989v1](http://arxiv.org/abs/2402.13989v1)|null|
