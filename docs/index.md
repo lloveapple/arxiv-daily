@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning**|Man Wu et.al.|[2402.16374v1](http://arxiv.org/abs/2402.16374v1)|null|
+|**2024-02-26**|**Decentralized Federated Unlearning on Blockchain**|Xiao Liu et.al.|[2402.16294v1](http://arxiv.org/abs/2402.16294v1)|null|
+|**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255v1](http://arxiv.org/abs/2402.16255v1)|null|
+|**2024-02-25**|**Distribution-Free Fair Federated Learning with Small Samples**|Qichuan Yin et.al.|[2402.16158v1](http://arxiv.org/abs/2402.16158v1)|null|
+|**2024-02-25**|**Bayesian Neural Network For Personalized Federated Learning Parameter Selection**|Mengen Luo et.al.|[2402.16091v1](http://arxiv.org/abs/2402.16091v1)|null|
+|**2024-02-25**|**How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study**|Natalija Mitic et.al.|[2402.16087v1](http://arxiv.org/abs/2402.16087v1)|null|
+|**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028v1](http://arxiv.org/abs/2402.16028v1)|null|
+|**2024-02-25**|**CoDream: Exchanging dreams instead of models for federated aggregation with heterogeneous models**|Abhishek Singh et.al.|[2402.15968v1](http://arxiv.org/abs/2402.15968v1)|null|
+|**2024-02-24**|**ESFL: Efficient Split Federated Learning over Resource-Constrained Heterogeneous Wireless Devices**|Guangyu Zhu et.al.|[2402.15903v1](http://arxiv.org/abs/2402.15903v1)|null|
+|**2024-02-24**|**FedMM: Federated Multi-Modal Learning with Modality Heterogeneity in Computational Pathology**|Yuanzhe Peng et.al.|[2402.15858v1](http://arxiv.org/abs/2402.15858v1)|null|
 |**2024-02-23**|**A Bargaining-based Approach for Feature Trading in Vertical Federated Learning**|Yue Cui et.al.|[2402.15247v1](http://arxiv.org/abs/2402.15247v1)|null|
 |**2024-02-23**|**Platforms for Efficient and Incentive-Aware Collaboration**|Nika Haghtalab et.al.|[2402.15169v1](http://arxiv.org/abs/2402.15169v1)|null|
 |**2024-02-23**|**Convergence Analysis of Split Federated Learning on Heterogeneous Data**|Pengchao Han et.al.|[2402.15166v1](http://arxiv.org/abs/2402.15166v1)|null|
