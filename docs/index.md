@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165v1](http://arxiv.org/abs/2403.03165v1)|null|
+|**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157v1](http://arxiv.org/abs/2403.03157v1)|null|
+|**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149v1](http://arxiv.org/abs/2403.03149v1)|null|
+|**2024-03-05**|**Federated Learning Under Attack: Exposing Vulnerabilities through Data Poisoning Attacks in Computer Networks**|Ehsan Nowroozi et.al.|[2403.02983v1](http://arxiv.org/abs/2403.02983v1)|**[link](https://github.com/ehsannowroozi/federatedlearning_poison_lf_fp)**|
+|**2024-03-05**|**Federated Learning Using Coupled Tensor Train Decomposition**|Xiangtao Zhang et.al.|[2403.02898v1](http://arxiv.org/abs/2403.02898v1)|null|
+|**2024-03-05**|**FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models**|Younghan Lee et.al.|[2403.02846v1](http://arxiv.org/abs/2403.02846v1)|**[link](https://github.com/201younghanlee/flguard)**|
+|**2024-03-05**|**Towards Robust Federated Learning via Logits Calibration on Non-IID Data**|Yu Qiao et.al.|[2403.02803v1](http://arxiv.org/abs/2403.02803v1)|null|
+|**2024-03-05**|**Privacy-Aware Semantic Cache for Large Language Models**|Waris Gill et.al.|[2403.02694v1](http://arxiv.org/abs/2403.02694v1)|null|
+|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635v1](http://arxiv.org/abs/2403.02635v1)|null|
+|**2024-03-05**|**FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling**|Hongyu Zhang et.al.|[2403.02630v1](http://arxiv.org/abs/2403.02630v1)|**[link](https://github.com/orion-orion/fedhcdr)**|
 |**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268v1](http://arxiv.org/abs/2403.01268v1)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255v1](http://arxiv.org/abs/2403.01255v1)|null|
 |**2024-03-01**|**Federated Learning via Lattice Joint Source-Channel Coding**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2403.01023v1](http://arxiv.org/abs/2403.01023v1)|null|
