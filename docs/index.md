@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945v1](http://arxiv.org/abs/2403.03945v1)|null|
+|**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871v1](http://arxiv.org/abs/2403.03871v1)|null|
+|**2024-03-06**|**Spectrum Occupancy Detection Supported by Federated Learning**|Łukasz Kułacz et.al.|[2403.03617v1](http://arxiv.org/abs/2403.03617v1)|null|
+|**2024-03-06**|**Do You Trust Your Model? Emerging Malware Threats in the Deep Learning Ecosystem**|Dorjan Hitaj et.al.|[2403.03593v1](http://arxiv.org/abs/2403.03593v1)|null|
+|**2024-03-05**|**Leveraging Federated Learning for Automatic Detection of Clopidogrel Treatment Failures**|Samuel Kim et.al.|[2403.03368v1](http://arxiv.org/abs/2403.03368v1)|null|
+|**2024-03-05**|**Solution Simplex Clustering for Heterogeneous Federated Learning**|Dennis Grinwald et.al.|[2403.03333v1](http://arxiv.org/abs/2403.03333v1)|null|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165v1](http://arxiv.org/abs/2403.03165v1)|null|
 |**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157v1](http://arxiv.org/abs/2403.03157v1)|null|
 |**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149v1](http://arxiv.org/abs/2403.03149v1)|null|
