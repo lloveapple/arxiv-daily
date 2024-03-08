@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall of Shapley Values**|Meng Qi et.al.|[2403.04753v1](http://arxiv.org/abs/2403.04753v1)|null|
+|**2024-03-07**|**Architectural Blueprint For Heterogeneity-Resilient Federated Learning**|Satwat Bashir et.al.|[2403.04546v1](http://arxiv.org/abs/2403.04546v1)|null|
+|**2024-03-07**|**Boosting Fairness and Robustness in Over-the-Air Federated Learning**|Halil Yigit Oksuz et.al.|[2403.04431v1](http://arxiv.org/abs/2403.04431v1)|null|
+|**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430v1](http://arxiv.org/abs/2403.04430v1)|null|
+|**2024-03-07**|**LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression**|Laurent Condat et.al.|[2403.04348v1](http://arxiv.org/abs/2403.04348v1)|null|
+|**2024-03-07**|**HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning**|Gyudong Kim et.al.|[2403.04207v1](http://arxiv.org/abs/2403.04207v1)|null|
+|**2024-03-07**|**FL-GUARD: A Holistic Framework for Run-Time Detection and Recovery of Negative Federated Learning**|Hong Lin et.al.|[2403.04146v1](http://arxiv.org/abs/2403.04146v1)|null|
+|**2024-03-07**|**FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering**|Md Sirajul Islam et.al.|[2403.04144v1](http://arxiv.org/abs/2403.04144v1)|null|
+|**2024-03-06**|**Many-Objective Multi-Solution Transport**|Ziyue Li et.al.|[2403.04099v1](http://arxiv.org/abs/2403.04099v1)|null|
+|**2024-03-06**|**OCD-FL: A Novel Communication-Efficient Peer Selection-based Decentralized Federated Learning**|Nizar Masmoudi et.al.|[2403.04037v1](http://arxiv.org/abs/2403.04037v1)|null|
 |**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945v1](http://arxiv.org/abs/2403.03945v1)|null|
 |**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871v1](http://arxiv.org/abs/2403.03871v1)|null|
 |**2024-03-06**|**Spectrum Occupancy Detection Supported by Federated Learning**|Łukasz Kułacz et.al.|[2403.03617v1](http://arxiv.org/abs/2403.03617v1)|null|
