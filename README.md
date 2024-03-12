@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900v1](http://arxiv.org/abs/2403.06900v1)|null|
+|**2024-03-11**|**Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains**|Nikita Tsoy et.al.|[2403.06672v1](http://arxiv.org/abs/2403.06672v1)|null|
+|**2024-03-11**|**UAV-Enabled Asynchronous Federated Learning**|Zhiyuan Zhai et.al.|[2403.06653v1](http://arxiv.org/abs/2403.06653v1)|null|
+|**2024-03-11**|**Data Poisoning Attacks in Gossip Learning**|Alexandre Pham et.al.|[2403.06583v1](http://arxiv.org/abs/2403.06583v1)|null|
+|**2024-03-11**|**Adaptive Federated Learning Over the Air**|Chenhao Wang et.al.|[2403.06528v1](http://arxiv.org/abs/2403.06528v1)|null|
+|**2024-03-10**|**Fake or Compromised? Making Sense of Malicious Clients in Federated Learning**|Hamid Mozaffari et.al.|[2403.06319v1](http://arxiv.org/abs/2403.06319v1)|null|
+|**2024-03-10**|**Analysis of Total Variation Minimization for Clustered Federated Learning**|A. Jung et.al.|[2403.06298v1](http://arxiv.org/abs/2403.06298v1)|null|
+|**2024-03-10**|**Fluent: Round-efficient Secure Aggregation for Private Federated Learning**|Xincheng Li et.al.|[2403.06143v1](http://arxiv.org/abs/2403.06143v1)|null|
+|**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131v1](http://arxiv.org/abs/2403.06131v1)|null|
+|**2024-03-10**|**Federated Learning: Attacks, Defenses, Opportunities, and Challenges**|Ghazaleh Shirvani et.al.|[2403.06067v1](http://arxiv.org/abs/2403.06067v1)|null|
 |**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408v1](http://arxiv.org/abs/2403.05408v1)|**[link](https://github.com/liu-yuxi/fedfms)**|
 |**2024-03-08**|**Federated Learning Method for Preserving Privacy in Face Recognition System**|Enoch Solomon et.al.|[2403.05344v1](http://arxiv.org/abs/2403.05344v1)|null|
 |**2024-03-08**|**RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**|Kai Xiong et.al.|[2403.05133v1](http://arxiv.org/abs/2403.05133v1)|null|
