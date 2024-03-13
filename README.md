@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838v1](http://arxiv.org/abs/2403.07838v1)|null|
+|**2024-03-12**|**Federated Learning of Socially Appropriate Agent Behaviours in Simulated Home Environments**|Saksham Checker et.al.|[2403.07586v1](http://arxiv.org/abs/2403.07586v1)|**[link](https://github.com/nchuramani/fcl-mannersdb)**|
+|**2024-03-12**|**Measuring Data Similarity for Efficient Federated Learning: A Feasibility Study**|Fernanda Famá et.al.|[2403.07450v1](http://arxiv.org/abs/2403.07450v1)|null|
+|**2024-03-12**|**A Survey on Federated Learning in Intelligent Transportation Systems**|Rongqing Zhang et.al.|[2403.07444v1](http://arxiv.org/abs/2403.07444v1)|null|
+|**2024-03-11**|**Don't Forget What I did?: Assessing Client Contributions in Federated Learning**|Bishwamittra Ghosh et.al.|[2403.07151v1](http://arxiv.org/abs/2403.07151v1)|null|
 |**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900v1](http://arxiv.org/abs/2403.06900v1)|null|
 |**2024-03-11**|**Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains**|Nikita Tsoy et.al.|[2403.06672v1](http://arxiv.org/abs/2403.06672v1)|null|
 |**2024-03-11**|**UAV-Enabled Asynchronous Federated Learning**|Zhiyuan Zhai et.al.|[2403.06653v1](http://arxiv.org/abs/2403.06653v1)|null|
