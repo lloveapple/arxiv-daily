@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554v1](http://arxiv.org/abs/2403.08554v1)|null|
+|**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383v1](http://arxiv.org/abs/2403.08383v1)|null|
+|**2024-03-13**|**Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics**|Zhuoxin Chen et.al.|[2403.08364v1](http://arxiv.org/abs/2403.08364v1)|null|
+|**2024-03-13**|**MGIC: A Multi-Label Gradient Inversion Attack based on Canny Edge Detection on Federated Learning**|Can Liu et.al.|[2403.08284v1](http://arxiv.org/abs/2403.08284v1)|null|
+|**2024-03-12**|**Efficient Language Model Architectures for Differentially Private Federated Learning**|Jae Hun Ro et.al.|[2403.08100v1](http://arxiv.org/abs/2403.08100v1)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838v1](http://arxiv.org/abs/2403.07838v1)|null|
 |**2024-03-12**|**Federated Learning of Socially Appropriate Agent Behaviours in Simulated Home Environments**|Saksham Checker et.al.|[2403.07586v1](http://arxiv.org/abs/2403.07586v1)|**[link](https://github.com/nchuramani/fcl-mannersdb)**|
 |**2024-03-12**|**Measuring Data Similarity for Efficient Federated Learning: A Feasibility Study**|Fernanda Famá et.al.|[2403.07450v1](http://arxiv.org/abs/2403.07450v1)|null|
