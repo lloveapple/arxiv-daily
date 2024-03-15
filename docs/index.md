@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Defense via Behavior Attestation against Attacks in Connected and Automated Vehicles based Federated Learning Systems**|Godwin Badu-Marfo et.al.|[2403.09531v1](http://arxiv.org/abs/2403.09531v1)|null|
+|**2024-03-14**|**DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning**|Xu Yang et.al.|[2403.09284v1](http://arxiv.org/abs/2403.09284v1)|null|
+|**2024-03-14**|**Fairness-Aware Multi-Server Federated Learning Task Delegation over Wireless Networks**|Yulan Gao et.al.|[2403.09153v1](http://arxiv.org/abs/2403.09153v1)|null|
+|**2024-03-14**|**Uncertainty Estimation in Multi-Agent Distributed Learning for AI-Enabled Edge Devices**|Gleb Radchenko et.al.|[2403.09141v1](http://arxiv.org/abs/2403.09141v1)|null|
+|**2024-03-14**|**Metadata-Driven Federated Learning of Connectional Brain Templates in Non-IID Multi-Domain Scenarios**|Geng Chen et.al.|[2403.09139v1](http://arxiv.org/abs/2403.09139v1)|null|
+|**2024-03-14**|**Learning from straggler clients in federated learning**|Andrew Hard et.al.|[2403.09086v1](http://arxiv.org/abs/2403.09086v1)|null|
+|**2024-03-14**|**Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**|Lei Wang et.al.|[2403.09048v1](http://arxiv.org/abs/2403.09048v1)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554v1](http://arxiv.org/abs/2403.08554v1)|null|
 |**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383v1](http://arxiv.org/abs/2403.08383v1)|null|
 |**2024-03-13**|**Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics**|Zhuoxin Chen et.al.|[2403.08364v1](http://arxiv.org/abs/2403.08364v1)|null|
