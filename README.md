@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Efficient and Privacy-Preserving Federated Learning based on Full Homomorphic Encryption**|Yuqi Guo et.al.|[2403.11519v1](http://arxiv.org/abs/2403.11519v1)|null|
+|**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464v1](http://arxiv.org/abs/2403.11464v1)|null|
+|**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460v1](http://arxiv.org/abs/2403.11460v1)|**[link](https://github.com/densoitlab/fed3dgs)**|
+|**2024-03-17**|**Federated Transfer Learning with Differential Privacy**|Mengchu Li et.al.|[2403.11343v1](http://arxiv.org/abs/2403.11343v1)|null|
+|**2024-03-17**|**Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption**|Xuanqi Liu et.al.|[2403.11166v1](http://arxiv.org/abs/2403.11166v1)|null|
+|**2024-03-16**|**FAGH: Accelerating Federated Learning with Approximated Global Hessian**|Mrinmay Sen et.al.|[2403.11041v1](http://arxiv.org/abs/2403.11041v1)|null|
+|**2024-03-16**|**Enhancing IoT Security Against DDoS Attacks through Federated Learning**|Ghazaleh Shirvani et.al.|[2403.10968v1](http://arxiv.org/abs/2403.10968v1)|null|
+|**2024-03-16**|**FedQNN: Federated Learning using Quantum Neural Networks**|Nouhaila Innan et.al.|[2403.10861v1](http://arxiv.org/abs/2403.10861v1)|null|
 |**2024-03-15**|**Securing Federated Learning with Control-Flow Attestation: A Novel Framework for Enhanced Integrity and Resilience against Adversarial Attacks**|Zahir Alsulaimawi et.al.|[2403.10005v1](http://arxiv.org/abs/2403.10005v1)|null|
 |**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000v1](http://arxiv.org/abs/2403.10000v1)|null|
 |**2024-03-14**|**FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models**|Kai Yi et.al.|[2403.09904v1](http://arxiv.org/abs/2403.09904v1)|null|
