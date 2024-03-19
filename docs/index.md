@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Securing Federated Learning with Control-Flow Attestation: A Novel Framework for Enhanced Integrity and Resilience against Adversarial Attacks**|Zahir Alsulaimawi et.al.|[2403.10005v1](http://arxiv.org/abs/2403.10005v1)|null|
+|**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000v1](http://arxiv.org/abs/2403.10000v1)|null|
+|**2024-03-14**|**FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models**|Kai Yi et.al.|[2403.09904v1](http://arxiv.org/abs/2403.09904v1)|null|
+|**2024-03-14**|**Empowering Healthcare through Privacy-Preserving MRI Analysis**|Al Amin et.al.|[2403.09836v1](http://arxiv.org/abs/2403.09836v1)|null|
+|**2024-03-14**|**Explainable Machine Learning-Based Security and Privacy Protection Framework for Internet of Medical Things Systems**|Ayoub Si-ahmed et.al.|[2403.09752v1](http://arxiv.org/abs/2403.09752v1)|null|
 |**2024-03-14**|**Defense via Behavior Attestation against Attacks in Connected and Automated Vehicles based Federated Learning Systems**|Godwin Badu-Marfo et.al.|[2403.09531v1](http://arxiv.org/abs/2403.09531v1)|null|
 |**2024-03-14**|**DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning**|Xu Yang et.al.|[2403.09284v1](http://arxiv.org/abs/2403.09284v1)|null|
 |**2024-03-14**|**Fairness-Aware Multi-Server Federated Learning Task Delegation over Wireless Networks**|Yulan Gao et.al.|[2403.09153v1](http://arxiv.org/abs/2403.09153v1)|null|
