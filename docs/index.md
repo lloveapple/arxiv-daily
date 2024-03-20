@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Federated Semi-supervised Learning for Medical Image Segmentation with intra-client and inter-client Consistency**|Yubin Zheng et.al.|[2403.12695v1](http://arxiv.org/abs/2403.12695v1)|null|
+|**2024-03-19**|**FedFisher: Leveraging Fisher Information for One-Shot Federated Learning**|Divyansh Jhunjhunwala et.al.|[2403.12329v1](http://arxiv.org/abs/2403.12329v1)|**[link](https://github.com/divyansh03/fedfisher)**|
+|**2024-03-18**|**Improving LoRA in Privacy-preserving Federated Learning**|Youbang Sun et.al.|[2403.12313v1](http://arxiv.org/abs/2403.12313v1)|null|
+|**2024-03-18**|**KnFu: Effective Knowledge Fusion**|S. Jamal Seyedmohammadi et.al.|[2403.11892v1](http://arxiv.org/abs/2403.11892v1)|null|
+|**2024-03-18**|**Federated Modality-specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation**|Qian Dai et.al.|[2403.11803v1](http://arxiv.org/abs/2403.11803v1)|null|
 |**2024-03-18**|**Efficient and Privacy-Preserving Federated Learning based on Full Homomorphic Encryption**|Yuqi Guo et.al.|[2403.11519v1](http://arxiv.org/abs/2403.11519v1)|null|
 |**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464v1](http://arxiv.org/abs/2403.11464v1)|null|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460v1](http://arxiv.org/abs/2403.11460v1)|**[link](https://github.com/densoitlab/fed3dgs)**|
