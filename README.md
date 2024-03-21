@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
+|**2024-03-20**|**Leveraging feature communication in federated learning for remote sensing image classification**|Anh-Kiet Duong et.al.|[2403.13575v1](http://arxiv.org/abs/2403.13575v1)|null|
+|**2024-03-20**|**Byzantine-resilient Federated Learning With Adaptivity to Data Heterogeneity**|Shiyuan Zuo et.al.|[2403.13374v1](http://arxiv.org/abs/2403.13374v1)|null|
+|**2024-03-20**|**Decentralized Federated Learning: Model Update Tracking Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2403.13247v1](http://arxiv.org/abs/2403.13247v1)|null|
+|**2024-03-19**|**Analyzing the Impact of Partial Sharing on the Resilience of Online Federated Learning Against Model Poisoning Attacks**|Ehsan Lari et.al.|[2403.13108v1](http://arxiv.org/abs/2403.13108v1)|null|
+|**2024-03-19**|**AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks**|Zheng Lin et.al.|[2403.13101v1](http://arxiv.org/abs/2403.13101v1)|null|
 |**2024-03-19**|**Federated Semi-supervised Learning for Medical Image Segmentation with intra-client and inter-client Consistency**|Yubin Zheng et.al.|[2403.12695v1](http://arxiv.org/abs/2403.12695v1)|null|
 |**2024-03-19**|**FedFisher: Leveraging Fisher Information for One-Shot Federated Learning**|Divyansh Jhunjhunwala et.al.|[2403.12329v1](http://arxiv.org/abs/2403.12329v1)|**[link](https://github.com/divyansh03/fedfisher)**|
 |**2024-03-18**|**Improving LoRA in Privacy-preserving Federated Learning**|Youbang Sun et.al.|[2403.12313v1](http://arxiv.org/abs/2403.12313v1)|null|
