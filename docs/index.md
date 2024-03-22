@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**A Mathematical Introduction to Deep Reinforcement Learning for 5G/6G Applications**|Farhad Rezazadeh et.al.|[2403.14516v1](http://arxiv.org/abs/2403.14516v1)|null|
+|**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428v1](http://arxiv.org/abs/2403.14428v1)|null|
+|**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371v1](http://arxiv.org/abs/2403.14371v1)|**[link](https://github.com/axedge1983/li)**|
+|**2024-03-21**|**Advancing IIoT with Over-the-Air Federated Learning: The Role of Iterative Magnitude Pruning**|Fazal Muhammad Ali Khan et.al.|[2403.14120v1](http://arxiv.org/abs/2403.14120v1)|null|
+|**2024-03-21**|**Text-Enhanced Data-free Approach for Federated Class-Incremental Learning**|Minh-Tuan Tran et.al.|[2403.14101v1](http://arxiv.org/abs/2403.14101v1)|**[link](https://github.com/tmtuan1307/lander)**|
 |**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
 |**2024-03-20**|**Leveraging feature communication in federated learning for remote sensing image classification**|Anh-Kiet Duong et.al.|[2403.13575v1](http://arxiv.org/abs/2403.13575v1)|null|
 |**2024-03-20**|**Byzantine-resilient Federated Learning With Adaptivity to Data Heterogeneity**|Shiyuan Zuo et.al.|[2403.13374v1](http://arxiv.org/abs/2403.13374v1)|null|
