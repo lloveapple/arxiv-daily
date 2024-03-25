@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263v1](http://arxiv.org/abs/2403.15263v1)|null|
+|**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905v1](http://arxiv.org/abs/2403.14905v1)|null|
+|**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737v1](http://arxiv.org/abs/2403.14737v1)|null|
 |**2024-03-21**|**A Mathematical Introduction to Deep Reinforcement Learning for 5G/6G Applications**|Farhad Rezazadeh et.al.|[2403.14516v1](http://arxiv.org/abs/2403.14516v1)|null|
 |**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428v1](http://arxiv.org/abs/2403.14428v1)|null|
 |**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371v1](http://arxiv.org/abs/2403.14371v1)|**[link](https://github.com/axedge1983/li)**|
