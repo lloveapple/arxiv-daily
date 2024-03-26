@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610v1](http://arxiv.org/abs/2403.16610v1)|null|
+|**2024-03-25**|**FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning**|Xinyuan Ji et.al.|[2403.16561v1](http://arxiv.org/abs/2403.16561v1)|null|
+|**2024-03-25**|**Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients**|Ping Luo et.al.|[2403.16557v1](http://arxiv.org/abs/2403.16557v1)|null|
+|**2024-03-25**|**Differentially Private Online Federated Learning with Correlated Noise**|Jiaojiao Zhang et.al.|[2403.16542v1](http://arxiv.org/abs/2403.16542v1)|null|
+|**2024-03-25**|**FedAC: A Adaptive Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2403.16460v1](http://arxiv.org/abs/2403.16460v1)|null|
+|**2024-03-25**|**Rethinking the Representation in Federated Unsupervised Learning with Non-IID Data**|Xinting Liao et.al.|[2403.16398v1](http://arxiv.org/abs/2403.16398v1)|null|
+|**2024-03-25**|**SignSGD with Federated Voting**|Chanho Park et.al.|[2403.16372v1](http://arxiv.org/abs/2403.16372v1)|null|
+|**2024-03-24**|**A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data**|Yifan Shi et.al.|[2403.16050v1](http://arxiv.org/abs/2403.16050v1)|null|
+|**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004v1](http://arxiv.org/abs/2403.16004v1)|null|
+|**2024-03-23**|**Initialisation and Topology Effects in Decentralised Federated Learning**|Arash Badie-Modiri et.al.|[2403.15855v1](http://arxiv.org/abs/2403.15855v1)|null|
 |**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263v1](http://arxiv.org/abs/2403.15263v1)|null|
 |**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905v1](http://arxiv.org/abs/2403.14905v1)|null|
 |**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737v1](http://arxiv.org/abs/2403.14737v1)|null|
