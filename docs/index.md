@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878v1](http://arxiv.org/abs/2403.17878v1)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
+|**2024-03-26**|**GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning**|Shijie Na et.al.|[2403.17833v1](http://arxiv.org/abs/2403.17833v1)|null|
+|**2024-03-26**|**Secure Aggregation is Not Private Against Membership Inference Attacks**|Khac-Hoang Ngo et.al.|[2403.17775v1](http://arxiv.org/abs/2403.17775v1)|null|
+|**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572v1](http://arxiv.org/abs/2403.17572v1)|null|
+|**2024-03-26**|**FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling**|Ashish Bastola et.al.|[2403.17331v1](http://arxiv.org/abs/2403.17331v1)|null|
+|**2024-03-26**|**Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**|Gustav A. Baumgart et.al.|[2403.17287v1](http://arxiv.org/abs/2403.17287v1)|null|
+|**2024-03-25**|**FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN**|Paul Joe Maliakel et.al.|[2403.16930v1](http://arxiv.org/abs/2403.16930v1)|null|
 |**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610v1](http://arxiv.org/abs/2403.16610v1)|null|
 |**2024-03-25**|**FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning**|Xinyuan Ji et.al.|[2403.16561v1](http://arxiv.org/abs/2403.16561v1)|null|
 |**2024-03-25**|**Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients**|Ping Luo et.al.|[2403.16557v1](http://arxiv.org/abs/2403.16557v1)|null|
@@ -2898,6 +2905,7 @@ layout: default
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470v1](http://arxiv.org/abs/2004.12470v1)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645v1](http://arxiv.org/abs/2001.00645v1)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
+|**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
