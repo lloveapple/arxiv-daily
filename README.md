@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Adaptive Decentralized Federated Learning in Energy and Latency Constrained Wireless Networks**|Zhigang Yan et.al.|[2403.20075v1](http://arxiv.org/abs/2403.20075v1)|null|
+|**2024-03-28**|**Biased Over-the-Air Federated Learning under Wireless Heterogeneity**|Muhammad Faraz Ul Abrar et.al.|[2403.19849v1](http://arxiv.org/abs/2403.19849v1)|null|
 |**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499v1](http://arxiv.org/abs/2403.19499v1)|null|
 |**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461v1](http://arxiv.org/abs/2403.19461v1)|**[link](https://github.com/cisimon7/vqoptmain)**|
 |**2024-03-28**|**Dual-Personalizing Adapter for Federated Foundation Models**|Yiyuan Yang et.al.|[2403.19211v1](http://arxiv.org/abs/2403.19211v1)|null|
