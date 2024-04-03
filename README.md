@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge**|Haoxiang Ma et.al.|[2404.01727v1](http://arxiv.org/abs/2404.01727v1)|null|
+|**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638v1](http://arxiv.org/abs/2404.01638v1)|null|
+|**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517v1](http://arxiv.org/abs/2404.01517v1)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232v2](http://arxiv.org/abs/2404.01232v2)|null|
+|**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983v1](http://arxiv.org/abs/2404.00983v1)|null|
+|**2024-03-31**|**Cooperative Communication Based Gradient Coding for Wireless Federated Learning**|Shudi Weng et.al.|[2404.00780v1](http://arxiv.org/abs/2404.00780v1)|null|
+|**2024-03-30**|**Computation and Communication Efficient Lightweighting Vertical Federated Learning**|Heqiang Wang et.al.|[2404.00466v1](http://arxiv.org/abs/2404.00466v1)|null|
+|**2024-03-30**|**From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection**|Jingwen Tong et.al.|[2404.00371v1](http://arxiv.org/abs/2404.00371v1)|null|
 |**2024-03-29**|**Adaptive Decentralized Federated Learning in Energy and Latency Constrained Wireless Networks**|Zhigang Yan et.al.|[2403.20075v1](http://arxiv.org/abs/2403.20075v1)|null|
 |**2024-03-28**|**Biased Over-the-Air Federated Learning under Wireless Heterogeneity**|Muhammad Faraz Ul Abrar et.al.|[2403.19849v1](http://arxiv.org/abs/2403.19849v1)|null|
 |**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499v1](http://arxiv.org/abs/2403.19499v1)|null|
