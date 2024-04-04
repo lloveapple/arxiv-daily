@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Federated Computing -- Survey on Building Blocks, Extensions and Systems**|René Schwermer et.al.|[2404.02779v1](http://arxiv.org/abs/2404.02779v1)|null|
+|**2024-04-03**|**QFNN-FFD: Quantum Federated Neural Network for Financial Fraud Detection**|Nouhaila Innan et.al.|[2404.02595v1](http://arxiv.org/abs/2404.02595v1)|null|
+|**2024-04-03**|**An Interpretable Client Decision Tree Aggregation process for Federated Learning**|Alberto Argente-Garrido et.al.|[2404.02510v1](http://arxiv.org/abs/2404.02510v1)|null|
+|**2024-04-03**|**FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning**|Rishub Tamirisa et.al.|[2404.02478v1](http://arxiv.org/abs/2404.02478v1)|null|
+|**2024-04-03**|**Optimal Batch Allocation for Wireless Federated Learning**|Jaeyoung Song et.al.|[2404.02395v1](http://arxiv.org/abs/2404.02395v1)|null|
+|**2024-04-02**|**Federated Multi-Agent Mapping for Planetary Exploration**|Tiberiu-Ioan Szatmari et.al.|[2404.02289v1](http://arxiv.org/abs/2404.02289v1)|null|
 |**2024-04-02**|**Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge**|Haoxiang Ma et.al.|[2404.01727v1](http://arxiv.org/abs/2404.01727v1)|null|
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638v1](http://arxiv.org/abs/2404.01638v1)|null|
 |**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517v1](http://arxiv.org/abs/2404.01517v1)|null|
