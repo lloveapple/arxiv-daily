@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data**|Okko Makkonen et.al.|[2404.03524v1](http://arxiv.org/abs/2404.03524v1)|**[link](https://github.com/okkomakkonen/label-heterogeneity)**|
+|**2024-04-04**|**Exploring Lightweight Federated Learning for Distributed Load Forecasting**|Abhishek Duttagupta et.al.|[2404.03320v1](http://arxiv.org/abs/2404.03320v1)|null|
+|**2024-04-03**|**Robust Federated Learning for Wireless Networks: A Demonstration with Channel Estimation**|Zexin Fang et.al.|[2404.03088v1](http://arxiv.org/abs/2404.03088v1)|null|
 |**2024-04-03**|**Federated Computing -- Survey on Building Blocks, Extensions and Systems**|René Schwermer et.al.|[2404.02779v1](http://arxiv.org/abs/2404.02779v1)|null|
 |**2024-04-03**|**QFNN-FFD: Quantum Federated Neural Network for Financial Fraud Detection**|Nouhaila Innan et.al.|[2404.02595v1](http://arxiv.org/abs/2404.02595v1)|null|
 |**2024-04-03**|**An Interpretable Client Decision Tree Aggregation process for Federated Learning**|Alberto Argente-Garrido et.al.|[2404.02510v1](http://arxiv.org/abs/2404.02510v1)|null|
