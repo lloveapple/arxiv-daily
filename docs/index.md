@@ -1243,7 +1243,7 @@ layout: default
 |**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232v2](http://arxiv.org/abs/2404.01232v2)|null|
 |**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983v1](http://arxiv.org/abs/2404.00983v1)|null|
 |**2024-03-31**|**Cooperative Communication Based Gradient Coding for Wireless Federated Learning**|Shudi Weng et.al.|[2404.00780v1](http://arxiv.org/abs/2404.00780v1)|null|
-|**2024-03-30**|**Computation and Communication Efficient Lightweighting Vertical Federated Learning**|Heqiang Wang et.al.|[2404.00466v1](http://arxiv.org/abs/2404.00466v1)|null|
+|**2024-03-30**|**Computation and Communication Efficient Lightweighting Vertical Federated Learning**|Heqiang Wang et.al.|[2404.00466v1](http://arxiv.org/abs/2404.00466v1)|**[link](https://github.com/ystex/lvfl)**|
 |**2024-03-30**|**From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection**|Jingwen Tong et.al.|[2404.00371v1](http://arxiv.org/abs/2404.00371v1)|null|
 |**2024-03-29**|**Adaptive Decentralized Federated Learning in Energy and Latency Constrained Wireless Networks**|Zhigang Yan et.al.|[2403.20075v1](http://arxiv.org/abs/2403.20075v1)|null|
 |**2024-03-28**|**Biased Over-the-Air Federated Learning under Wireless Heterogeneity**|Muhammad Faraz Ul Abrar et.al.|[2403.19849v1](http://arxiv.org/abs/2403.19849v1)|null|
@@ -1256,7 +1256,7 @@ layout: default
 |**2024-03-27**|**CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT**|Yi Hu et.al.|[2403.18451v1](http://arxiv.org/abs/2403.18451v1)|null|
 |**2024-03-27**|**FRESCO: Federated Reinforcement Energy System for Cooperative Optimization**|Nicolas Mauricio Cuadrado et.al.|[2403.18444v1](http://arxiv.org/abs/2403.18444v1)|null|
 |**2024-03-27**|**Generalized Policy Learning for Smart Grids: FL TRPO Approach**|Yunxiang Li et.al.|[2403.18439v1](http://arxiv.org/abs/2403.18439v1)|null|
-|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375v1](http://arxiv.org/abs/2403.18375v1)|null|
+|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375v1](http://arxiv.org/abs/2403.18375v1)|**[link](https://github.com/langnatalie/salf)**|
 |**2024-03-26**|**Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning**|Joshua C. Zhao et.al.|[2403.18144v1](http://arxiv.org/abs/2403.18144v1)|null|
 |**2024-03-27**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878v2](http://arxiv.org/abs/2403.17878v2)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
 |**2024-03-26**|**GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning**|Shijie Na et.al.|[2403.17833v1](http://arxiv.org/abs/2403.17833v1)|null|
@@ -1274,7 +1274,7 @@ layout: default
 |**2024-03-25**|**SignSGD with Federated Voting**|Chanho Park et.al.|[2403.16372v1](http://arxiv.org/abs/2403.16372v1)|null|
 |**2024-03-24**|**A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data**|Yifan Shi et.al.|[2403.16050v1](http://arxiv.org/abs/2403.16050v1)|null|
 |**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004v1](http://arxiv.org/abs/2403.16004v1)|null|
-|**2024-03-23**|**Initialisation and Topology Effects in Decentralised Federated Learning**|Arash Badie-Modiri et.al.|[2403.15855v1](http://arxiv.org/abs/2403.15855v1)|null|
+|**2024-03-23**|**Initialisation and Topology Effects in Decentralised Federated Learning**|Arash Badie-Modiri et.al.|[2403.15855v1](http://arxiv.org/abs/2403.15855v1)|**[link](https://github.com/arashbm/gossip_training)**|
 |**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263v1](http://arxiv.org/abs/2403.15263v1)|null|
 |**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905v1](http://arxiv.org/abs/2403.14905v1)|null|
 |**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737v1](http://arxiv.org/abs/2403.14737v1)|null|
