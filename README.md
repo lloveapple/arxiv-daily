@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning**|K Naveen Kumar et.al.|[2404.04139v1](http://arxiv.org/abs/2404.04139v1)|null|
+|**2024-04-05**|**Game-theoretic Distributed Learning Approach for Heterogeneous-cost Task Allocation with Budget Constraints**|Weiyi Yang et.al.|[2404.03974v1](http://arxiv.org/abs/2404.03974v1)|null|
+|**2024-04-05**|**Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training**|Zitao Shuai et.al.|[2404.03854v1](http://arxiv.org/abs/2404.03854v1)|null|
+|**2024-04-04**|**Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual Semantic Alignment-Based Contrastive Approach**|Qingxiang Liu et.al.|[2404.03702v1](http://arxiv.org/abs/2404.03702v1)|null|
 |**2024-04-04**|**Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data**|Okko Makkonen et.al.|[2404.03524v1](http://arxiv.org/abs/2404.03524v1)|**[link](https://github.com/okkomakkonen/label-heterogeneity)**|
 |**2024-04-04**|**Exploring Lightweight Federated Learning for Distributed Load Forecasting**|Abhishek Duttagupta et.al.|[2404.03320v1](http://arxiv.org/abs/2404.03320v1)|null|
 |**2024-04-03**|**Robust Federated Learning for Wireless Networks: A Demonstration with Channel Estimation**|Zexin Fang et.al.|[2404.03088v1](http://arxiv.org/abs/2404.03088v1)|null|
