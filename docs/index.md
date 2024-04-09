@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data**|Runze You et.al.|[2404.05454v1](http://arxiv.org/abs/2404.05454v1)|null|
+|**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403v1](http://arxiv.org/abs/2404.05403v1)|null|
+|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130v1](http://arxiv.org/abs/2404.05130v1)|null|
+|**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049v1](http://arxiv.org/abs/2404.05049v1)|null|
+|**2024-04-06**|**Vanishing Variance Problem in Fully Decentralized Neural-Network Systems**|Yongding Tian et.al.|[2404.04616v1](http://arxiv.org/abs/2404.04616v1)|null|
+|**2024-04-06**|**Hyperparameter Optimization for SecureBoost via Constrained Multi-Objective Federated Learning**|Yan Kang et.al.|[2404.04490v1](http://arxiv.org/abs/2404.04490v1)|null|
+|**2024-04-05**|**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**|Shanshan Wu et.al.|[2404.04360v1](http://arxiv.org/abs/2404.04360v1)|null|
 |**2024-04-05**|**Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning**|K Naveen Kumar et.al.|[2404.04139v1](http://arxiv.org/abs/2404.04139v1)|null|
 |**2024-04-05**|**Game-theoretic Distributed Learning Approach for Heterogeneous-cost Task Allocation with Budget Constraints**|Weiyi Yang et.al.|[2404.03974v1](http://arxiv.org/abs/2404.03974v1)|null|
 |**2024-04-05**|**Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training**|Zitao Shuai et.al.|[2404.03854v1](http://arxiv.org/abs/2404.03854v1)|null|
