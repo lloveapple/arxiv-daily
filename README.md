@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448v1](http://arxiv.org/abs/2404.06448v1)|null|
+|**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430v1](http://arxiv.org/abs/2404.06430v1)|**[link](https://github.com/apple/pfl-research)**|
+|**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324v1](http://arxiv.org/abs/2404.06324v1)|null|
+|**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240v1](http://arxiv.org/abs/2404.06240v1)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
+|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230v1](http://arxiv.org/abs/2404.06230v1)|null|
+|**2024-04-09**|**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning**|Zhihao Lin et.al.|[2404.06201v1](http://arxiv.org/abs/2404.06201v1)|null|
+|**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127v1](http://arxiv.org/abs/2404.06127v1)|**[link](https://github.com/SMILELab-FL/FedLab)**|
 |**2024-04-08**|**B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data**|Runze You et.al.|[2404.05454v1](http://arxiv.org/abs/2404.05454v1)|null|
 |**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403v1](http://arxiv.org/abs/2404.05403v1)|null|
 |**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130v1](http://arxiv.org/abs/2404.05130v1)|null|
