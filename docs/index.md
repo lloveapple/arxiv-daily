@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Digital Over-the-Air Computation: Achieving High Reliability via Bit-Slicing**|Jiawei Liu et.al.|[2404.07121v1](http://arxiv.org/abs/2404.07121v1)|null|
+|**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868v1](http://arxiv.org/abs/2404.06868v1)|null|
+|**2024-04-10**|**Responsible Federated Learning in Smart Transportation: Outlooks and Challenges**|Xiaowen Huang et.al.|[2404.06777v1](http://arxiv.org/abs/2404.06777v1)|null|
+|**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776v1](http://arxiv.org/abs/2404.06776v1)|null|
+|**2024-04-10**|**Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution**|Norrathep Rattanavipanon et.al.|[2404.06721v1](http://arxiv.org/abs/2404.06721v1)|null|
+|**2024-04-09**|**Federated learning model for predicting major postoperative complications**|Yonggi Park et.al.|[2404.06641v1](http://arxiv.org/abs/2404.06641v1)|null|
+|**2024-04-09**|**FMDA-OT: Federated Multi-source Domain Adaptation Through Optimal Transport**|Omar Ghannou et.al.|[2404.06599v1](http://arxiv.org/abs/2404.06599v1)|null|
 |**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448v1](http://arxiv.org/abs/2404.06448v1)|null|
 |**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430v1](http://arxiv.org/abs/2404.06430v1)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324v1](http://arxiv.org/abs/2404.06324v1)|null|
