@@ -18,11 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Bayesian Federated Model Compression for Communication and Computation Efficiency**|Chengyu Xia et.al.|[2404.07532v1](http://arxiv.org/abs/2404.07532v1)|null|
+|**2024-04-10**|**Improving Multi-Center Generalizability of GAN-Based Fat Suppression using Federated Learning**|Pranav Kulkarni et.al.|[2404.07374v1](http://arxiv.org/abs/2404.07374v1)|null|
+|**2024-04-10**|**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**|Amir Fathalizadeh et.al.|[2404.07345v1](http://arxiv.org/abs/2404.07345v1)|null|
 |**2024-04-10**|**Digital Over-the-Air Computation: Achieving High Reliability via Bit-Slicing**|Jiawei Liu et.al.|[2404.07121v1](http://arxiv.org/abs/2404.07121v1)|null|
 |**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868v1](http://arxiv.org/abs/2404.06868v1)|null|
 |**2024-04-10**|**Responsible Federated Learning in Smart Transportation: Outlooks and Challenges**|Xiaowen Huang et.al.|[2404.06777v1](http://arxiv.org/abs/2404.06777v1)|null|
 |**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776v1](http://arxiv.org/abs/2404.06776v1)|null|
-|**2024-04-10**|**Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution**|Norrathep Rattanavipanon et.al.|[2404.06721v1](http://arxiv.org/abs/2404.06721v1)|null|
+|**2024-04-11**|**Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution**|Norrathep Rattanavipanon et.al.|[2404.06721v2](http://arxiv.org/abs/2404.06721v2)|null|
 |**2024-04-09**|**Federated learning model for predicting major postoperative complications**|Yonggi Park et.al.|[2404.06641v1](http://arxiv.org/abs/2404.06641v1)|null|
 |**2024-04-09**|**FMDA-OT: Federated Multi-source Domain Adaptation Through Optimal Transport**|Omar Ghannou et.al.|[2404.06599v1](http://arxiv.org/abs/2404.06599v1)|null|
 |**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448v1](http://arxiv.org/abs/2404.06448v1)|null|
