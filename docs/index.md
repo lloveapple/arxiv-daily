@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Federated Optimization with Doubly Regularized Drift Correction**|Xiaowen Jiang et.al.|[2404.08447v1](http://arxiv.org/abs/2404.08447v1)|null|
+|**2024-04-12**|**Anti-Byzantine Attacks Enabled Vehicle Selection for Asynchronous Federated Learning in Vehicular Edge Computing**|Cui Zhang et.al.|[2404.08444v1](http://arxiv.org/abs/2404.08444v1)|null|
+|**2024-04-12**|**Communication-Efficient Model Aggregation with Layer Divergence Feedback in Federated Learning**|Liwei Wang et.al.|[2404.08324v1](http://arxiv.org/abs/2404.08324v1)|null|
+|**2024-04-12**|**QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy**|Wenhao Yuan et.al.|[2404.08261v1](http://arxiv.org/abs/2404.08261v1)|null|
+|**2024-04-11**|**FedAuxHMTL: Federated Auxiliary Hard-Parameter Sharing Multi-Task Learning for Network Edge Traffic Classification**|Faisal Ahmed et.al.|[2404.08028v1](http://arxiv.org/abs/2404.08028v1)|null|
 |**2024-04-11**|**Bayesian Federated Model Compression for Communication and Computation Efficiency**|Chengyu Xia et.al.|[2404.07532v1](http://arxiv.org/abs/2404.07532v1)|null|
 |**2024-04-10**|**Improving Multi-Center Generalizability of GAN-Based Fat Suppression using Federated Learning**|Pranav Kulkarni et.al.|[2404.07374v1](http://arxiv.org/abs/2404.07374v1)|null|
 |**2024-04-10**|**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**|Amir Fathalizadeh et.al.|[2404.07345v1](http://arxiv.org/abs/2404.07345v1)|null|

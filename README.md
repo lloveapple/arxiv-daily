@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Federated Optimization with Doubly Regularized Drift Correction**|Xiaowen Jiang et.al.|[2404.08447v1](http://arxiv.org/abs/2404.08447v1)|null|
+|**2024-04-12**|**Anti-Byzantine Attacks Enabled Vehicle Selection for Asynchronous Federated Learning in Vehicular Edge Computing**|Cui Zhang et.al.|[2404.08444v1](http://arxiv.org/abs/2404.08444v1)|null|
+|**2024-04-12**|**Communication-Efficient Model Aggregation with Layer Divergence Feedback in Federated Learning**|Liwei Wang et.al.|[2404.08324v1](http://arxiv.org/abs/2404.08324v1)|null|
+|**2024-04-12**|**QI-DPFL: Quality-Aware and Incentive-Boosted Federated Learning with Differential Privacy**|Wenhao Yuan et.al.|[2404.08261v1](http://arxiv.org/abs/2404.08261v1)|null|
+|**2024-04-11**|**FedAuxHMTL: Federated Auxiliary Hard-Parameter Sharing Multi-Task Learning for Network Edge Traffic Classification**|Faisal Ahmed et.al.|[2404.08028v1](http://arxiv.org/abs/2404.08028v1)|null|
 |**2024-04-11**|**Bayesian Federated Model Compression for Communication and Computation Efficiency**|Chengyu Xia et.al.|[2404.07532v1](http://arxiv.org/abs/2404.07532v1)|null|
 |**2024-04-10**|**Improving Multi-Center Generalizability of GAN-Based Fat Suppression using Federated Learning**|Pranav Kulkarni et.al.|[2404.07374v1](http://arxiv.org/abs/2404.07374v1)|null|
 |**2024-04-10**|**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**|Amir Fathalizadeh et.al.|[2404.07345v1](http://arxiv.org/abs/2404.07345v1)|null|
@@ -1739,7 +1744,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## MMS
 
@@ -1757,7 +1762,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
