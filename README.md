@@ -1277,7 +1277,7 @@
 |**2023-06-25**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v2](http://arxiv.org/abs/2306.12625v2)|null|
 |**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|null|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400v1](http://arxiv.org/abs/2306.12400v1)|null|
-|**2023-06-23**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v2](http://arxiv.org/abs/2306.12212v2)|null|
+|**2023-06-23**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v2](http://arxiv.org/abs/2306.12212v2)|**[link](https://github.com/hiyuchang/mimic_codes)**|
 |**2023-06-24**|**Split Learning in 6G Edge Networks**|Zheng Lin et.al.|[2306.12194v2](http://arxiv.org/abs/2306.12194v2)|null|
 |**2023-06-21**|**An Efficient Virtual Data Generation Method for Reducing Communication in Federated Learning**|Cheng Yang et.al.|[2306.12088v1](http://arxiv.org/abs/2306.12088v1)|null|
 |**2023-06-21**|**FLGo: A Fully Customizable Federated Learning Platform**|Zheng Wang et.al.|[2306.12079v1](http://arxiv.org/abs/2306.12079v1)|null|
