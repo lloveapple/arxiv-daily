@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Privacy-Preserving Federated Unlearning with Certified Client Removal**|Ziyao Liu et.al.|[2404.09724v1](http://arxiv.org/abs/2404.09724v1)|null|
+|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722v1](http://arxiv.org/abs/2404.09722v1)|null|
+|**2024-04-15**|**SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection**|Yekai Li et.al.|[2404.09481v1](http://arxiv.org/abs/2404.09481v1)|null|
+|**2024-04-15**|**Hybrid FedGraph: An efficient hybrid federated learning algorithm using graph convolutional neural network**|Jaeyeon Jang et.al.|[2404.09443v1](http://arxiv.org/abs/2404.09443v1)|null|
+|**2024-04-15**|**On the Efficiency of Privacy Attacks in Federated Learning**|Nawrin Tabassum et.al.|[2404.09430v1](http://arxiv.org/abs/2404.09430v1)|null|
+|**2024-04-15**|**An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning**|Yujia Mu et.al.|[2404.09392v1](http://arxiv.org/abs/2404.09392v1)|null|
+|**2024-04-14**|**Bridging Data Islands: Geographic Heterogeneity-Aware Federated Learning for Collaborative Remote Sensing Semantic Segmentation**|Jieyi Tan et.al.|[2404.09292v1](http://arxiv.org/abs/2404.09292v1)|null|
+|**2024-04-14**|**FedCCL: Federated Dual-Clustered Feature Contrast Under Domain Heterogeneity**|Yu Qiao et.al.|[2404.09259v1](http://arxiv.org/abs/2404.09259v1)|null|
+|**2024-04-14**|**MAP: Model Aggregation and Personalization in Federated Learning with Incomplete Classes**|Xin-Chun Li et.al.|[2404.09232v1](http://arxiv.org/abs/2404.09232v1)|null|
+|**2024-04-14**|**FedDistill: Global Model Distillation for Local Model De-Biasing in Non-IID Federated Learning**|Changlin Song et.al.|[2404.09210v1](http://arxiv.org/abs/2404.09210v1)|null|
 |**2024-04-12**|**Federated Optimization with Doubly Regularized Drift Correction**|Xiaowen Jiang et.al.|[2404.08447v1](http://arxiv.org/abs/2404.08447v1)|null|
 |**2024-04-12**|**Anti-Byzantine Attacks Enabled Vehicle Selection for Asynchronous Federated Learning in Vehicular Edge Computing**|Cui Zhang et.al.|[2404.08444v1](http://arxiv.org/abs/2404.08444v1)|null|
 |**2024-04-12**|**Communication-Efficient Model Aggregation with Layer Divergence Feedback in Federated Learning**|Liwei Wang et.al.|[2404.08324v1](http://arxiv.org/abs/2404.08324v1)|null|
@@ -1751,6 +1761,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-10**|**Compatibility and Timing Attacks for JPEG Steganalysis**|Etienne Levecque et.al.|[2306.01317v2](http://arxiv.org/abs/2306.01317v2)|null|
+|**2023-05-21**|**Generative Model Watermarking Suppressing High-Frequency Artifacts**|Li Zhang et.al.|[2305.12391v1](http://arxiv.org/abs/2305.12391v1)|null|
 |**2023-04-17**|**Employing Deep Ensemble Learning for Improving the Security of Computer Networks against Adversarial Attacks**|Ehsan Nowroozi et.al.|[2209.12195v2](http://arxiv.org/abs/2209.12195v2)|null|
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996v2](http://arxiv.org/abs/2204.07996v2)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563v3](http://arxiv.org/abs/2201.02563v3)|null|
