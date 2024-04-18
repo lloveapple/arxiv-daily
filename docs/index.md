@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**FedPFT: Federated Proxy Fine-Tuning of Foundation Models**|Zhaopeng Peng et.al.|[2404.11536v1](http://arxiv.org/abs/2404.11536v1)|**[link](https://github.com/pzp-dzd/fedpft)**|
+|**2024-04-17**|**A Federated Learning Approach to Privacy Preserving Offensive Language Identification**|Marcos Zampieri et.al.|[2404.11470v1](http://arxiv.org/abs/2404.11470v1)|null|
+|**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046v1](http://arxiv.org/abs/2404.11046v1)|null|
+|**2024-04-17**|**Approximate Wireless Communication for Lossy Gradient Updates in IoT Federated Learning**|Xiang Ma et.al.|[2404.11035v1](http://arxiv.org/abs/2404.11035v1)|null|
+|**2024-04-17**|**FedFa: A Fully Asynchronous Training Paradigm for Federated Learning**|Haotian Xu et.al.|[2404.11015v1](http://arxiv.org/abs/2404.11015v1)|null|
+|**2024-04-16**|**Personalized Federated Learning via Stacking**|Emilio Cantu-Cervini et.al.|[2404.10957v1](http://arxiv.org/abs/2404.10957v1)|**[link](https://github.com/emiliocantuc/personalized-fl-via-stacking)**|
+|**2024-04-16**|**Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning**|Amit Kumar Bhuyan et.al.|[2404.10842v1](http://arxiv.org/abs/2404.10842v1)|null|
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764v1](http://arxiv.org/abs/2404.10764v1)|null|
 |**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728v1](http://arxiv.org/abs/2404.10728v1)|null|
 |**2024-04-16**|**A Phone-based Distributed Ambient Temperature Measurement System with An Efficient Label-free Automated Training Strategy**|Dayin Chen et.al.|[2404.10401v1](http://arxiv.org/abs/2404.10401v1)|null|
