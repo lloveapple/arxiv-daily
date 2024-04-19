@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369v1](http://arxiv.org/abs/2404.12369v1)|null|
+|**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273v1](http://arxiv.org/abs/2404.12273v1)|null|
+|**2024-04-18**|**One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity**|Naibo Wang et.al.|[2404.12130v1](http://arxiv.org/abs/2404.12130v1)|null|
+|**2024-04-18**|**Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes**|Mina Aghaei Dinani et.al.|[2404.12023v1](http://arxiv.org/abs/2404.12023v1)|null|
+|**2024-04-18**|**FedMID: A Data-Free Method for Using Intermediate Outputs as a Defense Mechanism Against Poisoning Attacks in Federated Learning**|Sungwon Han et.al.|[2404.11905v1](http://arxiv.org/abs/2404.11905v1)|null|
+|**2024-04-18**|**FCNCP: A Coupled Nonnegative CANDECOMP/PARAFAC Decomposition Based on Federated Learning**|Yukai Cai et.al.|[2404.11890v1](http://arxiv.org/abs/2404.11890v1)|null|
+|**2024-04-18**|**The Dog Walking Theory: Rethinking Convergence in Federated Learning**|Kun Zhai et.al.|[2404.11888v1](http://arxiv.org/abs/2404.11888v1)|null|
+|**2024-04-17**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754v1](http://arxiv.org/abs/2404.11754v1)|null|
+|**2024-04-17**|**A Secure and Trustworthy Network Architecture for Federated Learning Healthcare Applications**|Antonio Boiano et.al.|[2404.11698v1](http://arxiv.org/abs/2404.11698v1)|null|
 |**2024-04-17**|**FedPFT: Federated Proxy Fine-Tuning of Foundation Models**|Zhaopeng Peng et.al.|[2404.11536v1](http://arxiv.org/abs/2404.11536v1)|**[link](https://github.com/pzp-dzd/fedpft)**|
 |**2024-04-17**|**A Federated Learning Approach to Privacy Preserving Offensive Language Identification**|Marcos Zampieri et.al.|[2404.11470v1](http://arxiv.org/abs/2404.11470v1)|null|
 |**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046v1](http://arxiv.org/abs/2404.11046v1)|null|
