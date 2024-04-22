@@ -34,7 +34,7 @@
 |**2024-04-17**|**FedFa: A Fully Asynchronous Training Paradigm for Federated Learning**|Haotian Xu et.al.|[2404.11015v1](http://arxiv.org/abs/2404.11015v1)|null|
 |**2024-04-16**|**Personalized Federated Learning via Stacking**|Emilio Cantu-Cervini et.al.|[2404.10957v1](http://arxiv.org/abs/2404.10957v1)|**[link](https://github.com/emiliocantuc/personalized-fl-via-stacking)**|
 |**2024-04-16**|**Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning**|Amit Kumar Bhuyan et.al.|[2404.10842v1](http://arxiv.org/abs/2404.10842v1)|null|
-|**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764v1](http://arxiv.org/abs/2404.10764v1)|null|
+|**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764v1](http://arxiv.org/abs/2404.10764v1)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
 |**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728v1](http://arxiv.org/abs/2404.10728v1)|null|
 |**2024-04-16**|**A Phone-based Distributed Ambient Temperature Measurement System with An Efficient Label-free Automated Training Strategy**|Dayin Chen et.al.|[2404.10401v1](http://arxiv.org/abs/2404.10401v1)|null|
 |**2024-04-16**|**Privacy-Preserving Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems**|Zhiyuan Wu et.al.|[2404.10255v1](http://arxiv.org/abs/2404.10255v1)|null|
@@ -78,7 +78,7 @@
 |**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127v1](http://arxiv.org/abs/2404.06127v1)|**[link](https://github.com/SMILELab-FL/FedLab)**|
 |**2024-04-08**|**B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data**|Runze You et.al.|[2404.05454v1](http://arxiv.org/abs/2404.05454v1)|null|
 |**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403v1](http://arxiv.org/abs/2404.05403v1)|null|
-|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130v1](http://arxiv.org/abs/2404.05130v1)|null|
+|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130v1](http://arxiv.org/abs/2404.05130v1)|**[link](https://github.com/chasesecurity/fostering_cyber_threat_detection_through_fl)**|
 |**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049v1](http://arxiv.org/abs/2404.05049v1)|null|
 |**2024-04-06**|**Vanishing Variance Problem in Fully Decentralized Neural-Network Systems**|Yongding Tian et.al.|[2404.04616v1](http://arxiv.org/abs/2404.04616v1)|null|
 |**2024-04-06**|**Hyperparameter Optimization for SecureBoost via Constrained Multi-Objective Federated Learning**|Yan Kang et.al.|[2404.04490v1](http://arxiv.org/abs/2404.04490v1)|null|
@@ -279,7 +279,7 @@
 |**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957v1](http://arxiv.org/abs/2402.12957v1)|null|
 |**2024-02-20**|**Stochastic Approximation Approach to Federated Machine Learning**|Srihari P V et.al.|[2402.12945v1](http://arxiv.org/abs/2402.12945v1)|null|
 |**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906v1](http://arxiv.org/abs/2402.12906v1)|null|
-|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876v1](http://arxiv.org/abs/2402.12876v1)|null|
+|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876v1](http://arxiv.org/abs/2402.12876v1)|**[link](https://github.com/youngfish42/FMTL-Benchmark)**|
 |**2024-02-20**|**SGD with Clipping is Secretly Estimating the Median Gradient**|Fabian Schaipp et.al.|[2402.12828v1](http://arxiv.org/abs/2402.12828v1)|null|
 |**2024-02-20**|**Tackling Byzantine Clients in Federated Learning**|Youssef Allouah et.al.|[2402.12780v1](http://arxiv.org/abs/2402.12780v1)|null|
 |**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761v1](http://arxiv.org/abs/2402.12761v1)|null|
@@ -568,7 +568,7 @@
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817v1](http://arxiv.org/abs/2312.09817v1)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108v2](http://arxiv.org/abs/2312.09108v2)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023v1](http://arxiv.org/abs/2312.09023v1)|null|
-|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006v1](http://arxiv.org/abs/2312.09006v1)|null|
+|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006v1](http://arxiv.org/abs/2312.09006v1)|**[link](https://github.com/lipingyi/fedssa)**|
 |**2023-12-14**|**Enabling End-to-End Secure Federated Learning in Biomedical Research on Heterogeneous Computing Environments with APPFLx**|Trung-Hieu Hoang et.al.|[2312.08701v1](http://arxiv.org/abs/2312.08701v1)|null|
 |**2023-12-14**|**Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey**|Yichen Wan et.al.|[2312.08667v1](http://arxiv.org/abs/2312.08667v1)|null|
 |**2023-12-14**|**CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data**|Jiangming Shi et.al.|[2312.08648v1](http://arxiv.org/abs/2312.08648v1)|**[link](https://github.com/shijiangming1/clip2fl)**|
