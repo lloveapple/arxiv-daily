@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance**|Zeke Xia et.al.|[2404.12850v1](http://arxiv.org/abs/2404.12850v1)|null|
+|**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846v1](http://arxiv.org/abs/2404.12846v1)|null|
+|**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778v1](http://arxiv.org/abs/2404.12778v1)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
+|**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623v1](http://arxiv.org/abs/2404.12623v1)|null|
+|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467v1](http://arxiv.org/abs/2404.12467v1)|null|
 |**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369v1](http://arxiv.org/abs/2404.12369v1)|null|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273v1](http://arxiv.org/abs/2404.12273v1)|null|
 |**2024-04-18**|**One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity**|Naibo Wang et.al.|[2404.12130v1](http://arxiv.org/abs/2404.12130v1)|null|
