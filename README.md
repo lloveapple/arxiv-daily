@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389v1](http://arxiv.org/abs/2404.14389v1)|null|
+|**2024-04-22**|**Machine Learning Techniques for MRI Data Processing at Expanding Scale**|Taro Langner et.al.|[2404.14326v1](http://arxiv.org/abs/2404.14326v1)|null|
+|**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061v1](http://arxiv.org/abs/2404.14061v1)|null|
+|**2024-04-22**|**Apodotiko: Enabling Efficient Serverless Federated Learning in Heterogeneous Environments**|Mohak Chadha et.al.|[2404.14033v1](http://arxiv.org/abs/2404.14033v1)|null|
+|**2024-04-22**|**Dual Model Replacement:invisible Multi-target Backdoor Attack based on Federal Learning**|Rong Wang et.al.|[2404.13946v1](http://arxiv.org/abs/2404.13946v1)|null|
+|**2024-04-22**|**Fair Concurrent Training of Multiple Models in Federated Learning**|Marie Siew et.al.|[2404.13841v1](http://arxiv.org/abs/2404.13841v1)|null|
+|**2024-04-22**|**Adaptive Heterogeneous Client Sampling for Federated Learning over Wireless Networks**|Bing Luo et.al.|[2404.13804v1](http://arxiv.org/abs/2404.13804v1)|**[link](https://github.com/wenlixiao-cs/wirelessfl)**|
+|**2024-04-21**|**Mean Aggregator Is More Robust Than Robust Aggregators Under Label Poisoning Attacks**|Jie Peng et.al.|[2404.13647v1](http://arxiv.org/abs/2404.13647v1)|**[link](https://github.com/pengj97/lpa)**|
+|**2024-04-21**|**FedMPQ: Secure and Communication-Efficient Federated Learning with Multi-codebook Product Quantization**|Xu Yang et.al.|[2404.13575v1](http://arxiv.org/abs/2404.13575v1)|null|
+|**2024-04-21**|**FedTrans: Efficient Federated Learning Over Heterogeneous Clients via Model Transformation**|Yuxuan Zhu et.al.|[2404.13515v1](http://arxiv.org/abs/2404.13515v1)|null|
 |**2024-04-19**|**CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance**|Zeke Xia et.al.|[2404.12850v1](http://arxiv.org/abs/2404.12850v1)|null|
 |**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846v1](http://arxiv.org/abs/2404.12846v1)|null|
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778v1](http://arxiv.org/abs/2404.12778v1)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
