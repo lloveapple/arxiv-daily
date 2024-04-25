@@ -18,7 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-23**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042v1](http://arxiv.org/abs/2404.15042v1)|null|
+|**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611v1](http://arxiv.org/abs/2404.15611v1)|null|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598v1](http://arxiv.org/abs/2404.15598v1)|null|
+|**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585v1](http://arxiv.org/abs/2404.15585v1)|null|
+|**2024-04-23**|**FedGreen: Carbon-aware Federated Learning with Model Size Adaptation**|Ali Abbasi et.al.|[2404.15503v1](http://arxiv.org/abs/2404.15503v1)|null|
+|**2024-04-23**|**FL-TAC: Enhanced Fine-Tuning in Federated Learning via Low-Rank, Task-Specific Adapter Clustering**|Siqi Ping et.al.|[2404.15384v1](http://arxiv.org/abs/2404.15384v1)|null|
+|**2024-04-23**|**Advances and Open Challenges in Federated Learning with Foundation Models**|Chao Ren et.al.|[2404.15381v1](http://arxiv.org/abs/2404.15381v1)|null|
+|**2024-04-24**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042v2](http://arxiv.org/abs/2404.15042v2)|**[link](https://github.com/jjzgeeks/vgae-based_model_poisoning_attack_fl)**|
 |**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933v1](http://arxiv.org/abs/2404.14933v1)|null|
 |**2024-04-23**|**FLARE: A New Federated Learning Framework with Adjustable Learning Rates over Resource-Constrained Wireless Networks**|Bingnan Xiao et.al.|[2404.14811v1](http://arxiv.org/abs/2404.14811v1)|null|
 |**2024-04-23**|**Employing Layerwised Unsupervised Learning to Lessen Data and Loss Requirements in Forward-Forward Algorithms**|Taewook Hwang et.al.|[2404.14664v1](http://arxiv.org/abs/2404.14664v1)|null|
