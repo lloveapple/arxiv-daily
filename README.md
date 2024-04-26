@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336v1](http://arxiv.org/abs/2404.16336v1)|null|
+|**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287v1](http://arxiv.org/abs/2404.16287v1)|null|
+|**2024-04-24**|**Blind Federated Learning without initial model**|Jose L. Salmeron et.al.|[2404.16180v1](http://arxiv.org/abs/2404.16180v1)|null|
+|**2024-04-25**|**Decentralized Personalized Federated Learning based on a Conditional Sparse-to-Sparser Scheme**|Qianyu Long et.al.|[2404.15943v2](http://arxiv.org/abs/2404.15943v2)|**[link](https://github.com/ericloong/da-dpfl)**|
+|**2024-04-24**|**An Element-Wise Weights Aggregation Method for Federated Learning**|Yi Hu et.al.|[2404.15919v1](http://arxiv.org/abs/2404.15919v1)|**[link](https://github.com/rand2ai/ewwa-fl)**|
+|**2024-04-24**|**Collaborative Heterogeneous Causal Inference Beyond Meta-analysis**|Tianyu Guo et.al.|[2404.15746v1](http://arxiv.org/abs/2404.15746v1)|null|
+|**2024-04-24**|**Ada-DF: An Adaptive Label Distribution Fusion Network For Facial Expression Recognition**|Shu Liu et.al.|[2404.15714v1](http://arxiv.org/abs/2404.15714v1)|null|
+|**2024-04-24**|**FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification**|Hui Chen et.al.|[2404.15657v1](http://arxiv.org/abs/2404.15657v1)|null|
 |**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611v1](http://arxiv.org/abs/2404.15611v1)|null|
 |**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598v1](http://arxiv.org/abs/2404.15598v1)|null|
 |**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585v1](http://arxiv.org/abs/2404.15585v1)|null|
