@@ -1260,7 +1260,7 @@ layout: default
 |**2024-04-19**|**CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance**|Zeke Xia et.al.|[2404.12850v1](http://arxiv.org/abs/2404.12850v1)|null|
 |**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846v1](http://arxiv.org/abs/2404.12846v1)|null|
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778v1](http://arxiv.org/abs/2404.12778v1)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
-|**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623v1](http://arxiv.org/abs/2404.12623v1)|null|
+|**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623v1](http://arxiv.org/abs/2404.12623v1)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467v1](http://arxiv.org/abs/2404.12467v1)|null|
 |**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369v1](http://arxiv.org/abs/2404.12369v1)|null|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273v1](http://arxiv.org/abs/2404.12273v1)|null|
@@ -1343,7 +1343,7 @@ layout: default
 |**2024-04-02**|**Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge**|Haoxiang Ma et.al.|[2404.01727v1](http://arxiv.org/abs/2404.01727v1)|**[link](https://github.com/mahaoxiang822/generalizing-grasp)**|
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638v1](http://arxiv.org/abs/2404.01638v1)|null|
 |**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517v1](http://arxiv.org/abs/2404.01517v1)|null|
-|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232v2](http://arxiv.org/abs/2404.01232v2)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232v2](http://arxiv.org/abs/2404.01232v2)|**[link](https://github.com/huiminzeng/fed-mp)**|
 |**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983v1](http://arxiv.org/abs/2404.00983v1)|null|
 |**2024-03-31**|**Cooperative Communication Based Gradient Coding for Wireless Federated Learning**|Shudi Weng et.al.|[2404.00780v1](http://arxiv.org/abs/2404.00780v1)|null|
 |**2024-03-30**|**Computation and Communication Efficient Lightweighting Vertical Federated Learning**|Heqiang Wang et.al.|[2404.00466v1](http://arxiv.org/abs/2404.00466v1)|**[link](https://github.com/ystex/lvfl)**|
@@ -1859,7 +1859,7 @@ layout: default
 |**2023-12-06**|**Balanced Marginal and Joint Distributional Learning via Mixture Cramer-Wold Distance**|Seunghwan An et.al.|[2312.03307v1](http://arxiv.org/abs/2312.03307v1)|null|
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205v1](http://arxiv.org/abs/2312.03205v1)|null|
 |**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120v1](http://arxiv.org/abs/2312.03120v1)|null|
-|**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567v1](http://arxiv.org/abs/2312.02567v1)|null|
+|**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567v1](http://arxiv.org/abs/2312.02567v1)|**[link](https://github.com/jiayichen815/feal)**|
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493v1](http://arxiv.org/abs/2312.02493v1)|**[link](https://github.com/sahiltyagi4/artopk)**|
 |**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416v1](http://arxiv.org/abs/2312.02416v1)|**[link](https://github.com/J1nqianChen/FedKA)**|
 |**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327v1](http://arxiv.org/abs/2312.02327v1)|null|
@@ -2305,7 +2305,7 @@ layout: default
 |**2023-08-23**|**ULDP-FL: Federated Learning with Across Silo User-Level Differential Privacy**|Fumiyuki Kato et.al.|[2308.12210v1](http://arxiv.org/abs/2308.12210v1)|**[link](https://github.com/fumiyukikato/uldp-fl)**|
 |**2023-08-23**|**Unsupervised anomalies detection in IIoT edge devices networks using federated learning**|Niyomukiza Thamar et.al.|[2308.12175v1](http://arxiv.org/abs/2308.12175v1)|null|
 |**2023-08-23**|**When MiniBatch SGD Meets SplitFed Learning:Convergence Analysis and Performance Evaluation**|Chao Huang et.al.|[2308.11953v1](http://arxiv.org/abs/2308.11953v1)|null|
-|**2023-08-23**|**A Survey for Federated Learning Evaluations: Goals and Measures**|Di Chai et.al.|[2308.11841v1](http://arxiv.org/abs/2308.11841v1)|null|
+|**2023-08-23**|**A Survey for Federated Learning Evaluations: Goals and Measures**|Di Chai et.al.|[2308.11841v1](http://arxiv.org/abs/2308.11841v1)|**[link](https://github.com/Di-Chai/FedEval)**|
 |**2023-08-22**|**Understanding Hessian Alignment for Domain Generalization**|Sobhan Hemati et.al.|[2308.11778v1](http://arxiv.org/abs/2308.11778v1)|**[link](https://github.com/huawei-noah/federated-learning)**|
 |**2023-08-22**|**Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach**|Han Wang et.al.|[2308.11743v1](http://arxiv.org/abs/2308.11743v1)|**[link](https://github.com/jd-anderson/fedlqr)**|
 |**2023-08-22**|**EM for Mixture of Linear Regression with Clustered Data**|Amirhossein Reisizadeh et.al.|[2308.11518v1](http://arxiv.org/abs/2308.11518v1)|null|
@@ -2554,7 +2554,7 @@ layout: default
 |**2023-06-23**|**Synthetic data shuffling accelerates the convergence of federated learning under data heterogeneity**|Bo Li et.al.|[2306.13263v1](http://arxiv.org/abs/2306.13263v1)|**[link](https://github.com/lyn1874/fedssyn)**|
 |**2023-06-22**|**Decentralized Online Federated G-Network Learning for Lightweight Intrusion Detection**|Mert Nakıp et.al.|[2306.13029v1](http://arxiv.org/abs/2306.13029v1)|null|
 |**2023-06-23**|**Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering**|Tianyu Zhao et.al.|[2306.12859v2](http://arxiv.org/abs/2306.12859v2)|null|
-|**2023-06-25**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v2](http://arxiv.org/abs/2306.12625v2)|null|
+|**2023-06-25**|**Communication-Efficient Federated Learning through Importance Sampling**|Berivan Isik et.al.|[2306.12625v2](http://arxiv.org/abs/2306.12625v2)|**[link](https://github.com/francescopase/federated-klms)**|
 |**2023-06-22**|**DP-BREM: Differentially-Private and Byzantine-Robust Federated Learning with Client Momentum**|Xiaolan Gu et.al.|[2306.12608v1](http://arxiv.org/abs/2306.12608v1)|null|
 |**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400v1](http://arxiv.org/abs/2306.12400v1)|null|
 |**2023-06-23**|**MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates**|Yuchang Sun et.al.|[2306.12212v2](http://arxiv.org/abs/2306.12212v2)|**[link](https://github.com/hiyuchang/mimic_codes)**|
@@ -2769,7 +2769,7 @@ layout: default
 |**2023-05-09**|**FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity**|Nannan Wu et.al.|[2305.05230v1](http://arxiv.org/abs/2305.05230v1)|**[link](https://github.com/wnn2000/fednoro)**|
 |**2023-05-09**|**BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation in Cross-Silo Federated Learning**|Yunchao Yang et.al.|[2305.05221v1](http://arxiv.org/abs/2305.05221v1)|null|
 |**2023-05-09**|**Federated Learning Operations Made Simple with Flame**|Harshit Daga et.al.|[2305.05118v1](http://arxiv.org/abs/2305.05118v1)|**[link](https://github.com/cisco-open/flame)**|
-|**2023-05-09**|**Semi-Supervised Federated Learning for Keyword Spotting**|Enmao Diao et.al.|[2305.05110v1](http://arxiv.org/abs/2305.05110v1)|null|
+|**2023-05-09**|**Semi-Supervised Federated Learning for Keyword Spotting**|Enmao Diao et.al.|[2305.05110v1](http://arxiv.org/abs/2305.05110v1)|**[link](https://github.com/diaoenmao/Semi-Supervised-Federated-Learing-for-Keyword-Spotting)**|
 |**2023-05-08**|**Federated Learning in Wireless Networks via Over-the-Air Computations**|Halil Yigit Oksuz et.al.|[2305.04630v1](http://arxiv.org/abs/2305.04630v1)|null|
 |**2023-05-08**|**Blockchained Federated Learning for Internet of Things: A Comprehensive Survey**|Yanna Jiang et.al.|[2305.04513v1](http://arxiv.org/abs/2305.04513v1)|null|
 |**2023-05-08**|**FedZKP: Federated Model Ownership Verification with Zero-knowledge Proof**|Wenyuan Yang et.al.|[2305.04507v1](http://arxiv.org/abs/2305.04507v1)|null|
