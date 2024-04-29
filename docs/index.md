@@ -1228,6 +1228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147v1](http://arxiv.org/abs/2404.17147v1)|null|
 |**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336v1](http://arxiv.org/abs/2404.16336v1)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287v1](http://arxiv.org/abs/2404.16287v1)|null|
 |**2024-04-24**|**Blind Federated Learning without initial model**|Jose L. Salmeron et.al.|[2404.16180v1](http://arxiv.org/abs/2404.16180v1)|null|
