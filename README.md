@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893v1](http://arxiv.org/abs/2404.18893v1)|null|
+|**2024-04-29**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848v1](http://arxiv.org/abs/2404.18848v1)|null|
+|**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814v1](http://arxiv.org/abs/2404.18814v1)|null|
+|**2024-04-29**|**A Universal Metric of Dataset Similarity for Cross-silo Federated Learning**|Ahmed Elhussein et.al.|[2404.18773v1](http://arxiv.org/abs/2404.18773v1)|null|
+|**2024-04-29**|**Bridging Data Barriers among Participants: Assessing the Potential of Geoenergy through Federated Learning**|Weike Peng et.al.|[2404.18527v1](http://arxiv.org/abs/2404.18527v1)|null|
+|**2024-04-29**|**On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks**|Usevalad Milasheuski. Luca Barbieri et.al.|[2404.18519v1](http://arxiv.org/abs/2404.18519v1)|null|
+|**2024-04-28**|**Joint Energy and Latency Optimization in Federated Learning over Cell-Free Massive MIMO Networks**|Afsaneh Mahmoudi et.al.|[2404.18287v1](http://arxiv.org/abs/2404.18287v1)|null|
+|**2024-04-27**|**Energy-Efficient Federated Learning in Cooperative Communication within Factory Subnetworks**|Hamid Reza Hashempour et.al.|[2404.18010v1](http://arxiv.org/abs/2404.18010v1)|null|
+|**2024-04-27**|**TabVFL: Improving Latent Representation in Vertical Federated Learning**|Mohamed Rashad et.al.|[2404.17990v1](http://arxiv.org/abs/2404.17990v1)|null|
+|**2024-04-27**|**Privacy-Preserving Aggregation for Decentralized Learning with Byzantine-Robustness**|Ali Reza Ghavamipour et.al.|[2404.17970v1](http://arxiv.org/abs/2404.17970v1)|null|
 |**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147v1](http://arxiv.org/abs/2404.17147v1)|null|
 |**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336v1](http://arxiv.org/abs/2404.16336v1)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287v1](http://arxiv.org/abs/2404.16287v1)|null|
