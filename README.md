@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494v1](http://arxiv.org/abs/2405.01494v1)|null|
+|**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189v1](http://arxiv.org/abs/2405.01189v1)|null|
+|**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144v1](http://arxiv.org/abs/2405.01144v1)|null|
+|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142v1](http://arxiv.org/abs/2405.01142v1)|null|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108v1](http://arxiv.org/abs/2405.01108v1)|null|
+|**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[2405.01073v1](http://arxiv.org/abs/2405.01073v1)|null|
+|**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965v1](http://arxiv.org/abs/2405.00965v1)|null|
+|**2024-05-02**|**Recovering Labels from Local Updates in Federated Learning**|Huancheng Chen et.al.|[2405.00955v1](http://arxiv.org/abs/2405.00955v1)|null|
+|**2024-05-01**|**Quantum Federated Learning Experiments in the Cloud with Data Encoding**|Shiva Raj Pokhrel et.al.|[2405.00909v1](http://arxiv.org/abs/2405.00909v1)|null|
+|**2024-05-01**|**WHALE-FL: Wireless and Heterogeneity Aware Latency Efficient Federated Learning over Mobile Devices via Adaptive Subnetwork Scheduling**|Huai-an Su et.al.|[2405.00885v1](http://arxiv.org/abs/2405.00885v1)|null|
 |**2024-05-01**|**LEAP: Optimization Hierarchical Federated Learning on Non-IID Data with Coalition Formation Game**|Jianfeng Lu et.al.|[2405.00579v1](http://arxiv.org/abs/2405.00579v1)|null|
 |**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556v1](http://arxiv.org/abs/2405.00556v1)|null|
 |**2024-05-01**|**FMLFS: A federated multi-label feature selection based on information theory in IoT environment**|Afsaneh Mahanipour et.al.|[2405.00524v1](http://arxiv.org/abs/2405.00524v1)|null|
