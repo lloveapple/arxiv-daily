@@ -141,7 +141,7 @@
 |**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430v1](http://arxiv.org/abs/2404.06430v1)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324v1](http://arxiv.org/abs/2404.06324v1)|null|
 |**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240v1](http://arxiv.org/abs/2404.06240v1)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
-|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230v1](http://arxiv.org/abs/2404.06230v1)|null|
+|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230v1](http://arxiv.org/abs/2404.06230v1)|**[link](https://github.com/CRYPTO-KU/FL-Byzantine-Library)**|
 |**2024-04-09**|**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning**|Zhihao Lin et.al.|[2404.06201v1](http://arxiv.org/abs/2404.06201v1)|null|
 |**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127v1](http://arxiv.org/abs/2404.06127v1)|**[link](https://github.com/SMILELab-FL/FedLab)**|
 |**2024-04-08**|**B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data**|Runze You et.al.|[2404.05454v1](http://arxiv.org/abs/2404.05454v1)|null|
@@ -589,7 +589,7 @@
 |**2023-12-22**|**Federated Learning via Input-Output Collaborative Distillation**|Xuan Gong et.al.|[2312.14478v1](http://arxiv.org/abs/2312.14478v1)|**[link](https://github.com/lsl001006/fediod)**|
 |**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380v1](http://arxiv.org/abs/2312.14380v1)|null|
 |**2023-12-21**|**Federated Quantum Long Short-term Memory (FedQLSTM)**|Mahdi Chehimi et.al.|[2312.14309v1](http://arxiv.org/abs/2312.14309v1)|null|
-|**2023-12-21**|**Multi-Agent Bandit Learning through Heterogeneous Action Erasure Channels**|Osama A. Hanna et.al.|[2312.14259v1](http://arxiv.org/abs/2312.14259v1)|null|
+|**2023-12-21**|**Multi-Agent Bandit Learning through Heterogeneous Action Erasure Channels**|Osama A. Hanna et.al.|[2312.14259v1](http://arxiv.org/abs/2312.14259v1)|**[link](https://github.com/mervekarakas/mamab_erasures)**|
 |**2023-12-21**|**DCFL: Non-IID awareness Data Condensation aided Federated Learning**|Shaohan Sha et.al.|[2312.14219v1](http://arxiv.org/abs/2312.14219v1)|null|
 |**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923v1](http://arxiv.org/abs/2312.13923v1)|**[link](https://github.com/zhyczy/fed-co2)**|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795v1](http://arxiv.org/abs/2312.13795v1)|null|
@@ -1389,7 +1389,7 @@
 |**2023-06-20**|**Personalized Federated Learning with Feature Alignment and Classifier Collaboration**|Jian Xu et.al.|[2306.11867v1](http://arxiv.org/abs/2306.11867v1)|**[link](https://github.com/jianxu95/fedpac)**|
 |**2023-06-20**|**FedNoisy: Federated Noisy Label Learning Benchmark**|Siqi Liang et.al.|[2306.11650v1](http://arxiv.org/abs/2306.11650v1)|**[link](https://github.com/smilelab-fl/fednoisy)**|
 |**2023-06-20**|**Decentralized Quantum Federated Learning for Metaverse: Analysis, Design and Implementation**|Dev Gurung et.al.|[2306.11297v1](http://arxiv.org/abs/2306.11297v1)|**[link](https://github.com/s222416822/bqfl)**|
-|**2023-06-19**|**Adaptive Federated Learning with Auto-Tuned Clients**|Junhyung Lyle Kim et.al.|[2306.11201v1](http://arxiv.org/abs/2306.11201v1)|null|
+|**2023-06-19**|**Adaptive Federated Learning with Auto-Tuned Clients**|Junhyung Lyle Kim et.al.|[2306.11201v1](http://arxiv.org/abs/2306.11201v1)|**[link](https://github.com/jlylekim/auto-tuned-fl)**|
 |**2023-06-19**|**FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**|Jingwen Guo et.al.|[2306.11046v1](http://arxiv.org/abs/2306.11046v1)|null|
 |**2023-06-19**|**Differentially Private Over-the-Air Federated Learning Over MIMO Fading Channels**|Hang Liu et.al.|[2306.10982v1](http://arxiv.org/abs/2306.10982v1)|null|
 |**2023-06-19**|**Blockchain-Enabled Federated Learning: A Reference Architecture Incorporating a DID Access System**|Eunsu Goh et.al.|[2306.10841v1](http://arxiv.org/abs/2306.10841v1)|null|

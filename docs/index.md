@@ -525,7 +525,7 @@ layout: default
 |**2022-12-27**|**Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning**|Wooyoung Kang et.al.|[2212.13563v1](http://arxiv.org/abs/2212.13563v1)|**[link](https://github.com/kakaobrain/noc)**|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-24**|**GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration**|Parker C. Lusk et.al.|[2212.12745v1](http://arxiv.org/abs/2212.12745v1)|null|
-|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|null|
+|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|**[link](https://github.com/zekunqian/bevsee)**|
 |**2022-12-14**|**The Infinite Index: Information Retrieval on Generative Text-To-Image Models**|Niklas Deckers et.al.|[2212.07476v1](http://arxiv.org/abs/2212.07476v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-08**|**Group Generalized Mean Pooling for Vision Transformer**|Byungsoo Ko et.al.|[2212.04114v1](http://arxiv.org/abs/2212.04114v1)|null|
@@ -989,7 +989,7 @@ layout: default
 |**2022-04-22**|**Efficient Linear Attention for Fast and Accurate Keypoint Matching**|Suwichaya Suwanwimolkul et.al.|[2204.07731v3](http://arxiv.org/abs/2204.07731v3)|null|
 |**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
-|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
+|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|**[link](https://github.com/meteoswiss/photocast)**|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
 |**2022-03-28**|**S2-Net: Self-supervision Guided Feature Representation Learning for Cross-Modality Images**|Shasha Mei et.al.|[2203.14581v1](http://arxiv.org/abs/2203.14581v1)|null|
@@ -1351,7 +1351,7 @@ layout: default
 |**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430v1](http://arxiv.org/abs/2404.06430v1)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324v1](http://arxiv.org/abs/2404.06324v1)|null|
 |**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240v1](http://arxiv.org/abs/2404.06240v1)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
-|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230v1](http://arxiv.org/abs/2404.06230v1)|null|
+|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230v1](http://arxiv.org/abs/2404.06230v1)|**[link](https://github.com/CRYPTO-KU/FL-Byzantine-Library)**|
 |**2024-04-09**|**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning**|Zhihao Lin et.al.|[2404.06201v1](http://arxiv.org/abs/2404.06201v1)|null|
 |**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127v1](http://arxiv.org/abs/2404.06127v1)|**[link](https://github.com/SMILELab-FL/FedLab)**|
 |**2024-04-08**|**B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data**|Runze You et.al.|[2404.05454v1](http://arxiv.org/abs/2404.05454v1)|null|
@@ -1799,7 +1799,7 @@ layout: default
 |**2023-12-22**|**Federated Learning via Input-Output Collaborative Distillation**|Xuan Gong et.al.|[2312.14478v1](http://arxiv.org/abs/2312.14478v1)|**[link](https://github.com/lsl001006/fediod)**|
 |**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380v1](http://arxiv.org/abs/2312.14380v1)|null|
 |**2023-12-21**|**Federated Quantum Long Short-term Memory (FedQLSTM)**|Mahdi Chehimi et.al.|[2312.14309v1](http://arxiv.org/abs/2312.14309v1)|null|
-|**2023-12-21**|**Multi-Agent Bandit Learning through Heterogeneous Action Erasure Channels**|Osama A. Hanna et.al.|[2312.14259v1](http://arxiv.org/abs/2312.14259v1)|null|
+|**2023-12-21**|**Multi-Agent Bandit Learning through Heterogeneous Action Erasure Channels**|Osama A. Hanna et.al.|[2312.14259v1](http://arxiv.org/abs/2312.14259v1)|**[link](https://github.com/mervekarakas/mamab_erasures)**|
 |**2023-12-21**|**DCFL: Non-IID awareness Data Condensation aided Federated Learning**|Shaohan Sha et.al.|[2312.14219v1](http://arxiv.org/abs/2312.14219v1)|null|
 |**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923v1](http://arxiv.org/abs/2312.13923v1)|**[link](https://github.com/zhyczy/fed-co2)**|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795v1](http://arxiv.org/abs/2312.13795v1)|null|
@@ -2599,7 +2599,7 @@ layout: default
 |**2023-06-20**|**Personalized Federated Learning with Feature Alignment and Classifier Collaboration**|Jian Xu et.al.|[2306.11867v1](http://arxiv.org/abs/2306.11867v1)|**[link](https://github.com/jianxu95/fedpac)**|
 |**2023-06-20**|**FedNoisy: Federated Noisy Label Learning Benchmark**|Siqi Liang et.al.|[2306.11650v1](http://arxiv.org/abs/2306.11650v1)|**[link](https://github.com/smilelab-fl/fednoisy)**|
 |**2023-06-20**|**Decentralized Quantum Federated Learning for Metaverse: Analysis, Design and Implementation**|Dev Gurung et.al.|[2306.11297v1](http://arxiv.org/abs/2306.11297v1)|**[link](https://github.com/s222416822/bqfl)**|
-|**2023-06-19**|**Adaptive Federated Learning with Auto-Tuned Clients**|Junhyung Lyle Kim et.al.|[2306.11201v1](http://arxiv.org/abs/2306.11201v1)|null|
+|**2023-06-19**|**Adaptive Federated Learning with Auto-Tuned Clients**|Junhyung Lyle Kim et.al.|[2306.11201v1](http://arxiv.org/abs/2306.11201v1)|**[link](https://github.com/jlylekim/auto-tuned-fl)**|
 |**2023-06-19**|**FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**|Jingwen Guo et.al.|[2306.11046v1](http://arxiv.org/abs/2306.11046v1)|null|
 |**2023-06-19**|**Differentially Private Over-the-Air Federated Learning Over MIMO Fading Channels**|Hang Liu et.al.|[2306.10982v1](http://arxiv.org/abs/2306.10982v1)|null|
 |**2023-06-19**|**Blockchain-Enabled Federated Learning: A Reference Architecture Incorporating a DID Access System**|Eunsu Goh et.al.|[2306.10841v1](http://arxiv.org/abs/2306.10841v1)|null|
