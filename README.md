@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**An Information Theoretic Perspective on Conformal Prediction**|Alvaro H. C. Correia et.al.|[2405.02140v1](http://arxiv.org/abs/2405.02140v1)|null|
+|**2024-05-03**|**A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**|William Lindskog et.al.|[2405.02074v1](http://arxiv.org/abs/2405.02074v1)|null|
+|**2024-05-03**|**Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**|William Lindskog et.al.|[2405.02067v1](http://arxiv.org/abs/2405.02067v1)|null|
+|**2024-05-03**|**Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case**|William Lindskog et.al.|[2405.02060v1](http://arxiv.org/abs/2405.02060v1)|null|
+|**2024-05-02**|**Privacy-aware Berrut Approximated Coded Computing for Federated Learning**|Xavier Martínez Luaña et.al.|[2405.01704v1](http://arxiv.org/abs/2405.01704v1)|null|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494v1](http://arxiv.org/abs/2405.01494v1)|null|
 |**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189v1](http://arxiv.org/abs/2405.01189v1)|null|
 |**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144v1](http://arxiv.org/abs/2405.01144v1)|null|
