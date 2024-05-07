@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636v1](http://arxiv.org/abs/2405.03636v1)|null|
+|**2024-05-06**|**Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation**|Jesher Joshua M et.al.|[2405.03537v1](http://arxiv.org/abs/2405.03537v1)|null|
+|**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516v1](http://arxiv.org/abs/2405.03516v1)|null|
+|**2024-05-06**|**Snake Learning: A Communication- and Computation-Efficient Distributed Learning Framework for 6G**|Xiaoxue Yu et.al.|[2405.03372v1](http://arxiv.org/abs/2405.03372v1)|null|
+|**2024-05-06**|**Federated Learning for Drowsiness Detection in Connected Vehicles**|William Lindskog et.al.|[2405.03311v1](http://arxiv.org/abs/2405.03311v1)|null|
+|**2024-05-06**|**DarkFed: A Data-Free Backdoor Attack in Federated Learning**|Minghui Li et.al.|[2405.03299v1](http://arxiv.org/abs/2405.03299v1)|null|
+|**2024-05-06**|**Communication-Efficient Federated Learning with Adaptive Compression under Dynamic Bandwidth**|Ying Zhuansun et.al.|[2405.03248v1](http://arxiv.org/abs/2405.03248v1)|null|
+|**2024-05-05**|**Powering the Future of IoT: Federated Learning for Optimized Power Consumption and Enhanced Privacy**|Ghazaleh Shirvani et.al.|[2405.03065v1](http://arxiv.org/abs/2405.03065v1)|null|
+|**2024-05-05**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
+|**2024-05-04**|**Understanding Server-Assisted Federated Learning in the Presence of Incomplete Client Participation**|Haibo Yang et.al.|[2405.02745v1](http://arxiv.org/abs/2405.02745v1)|null|
 |**2024-05-03**|**An Information Theoretic Perspective on Conformal Prediction**|Alvaro H. C. Correia et.al.|[2405.02140v1](http://arxiv.org/abs/2405.02140v1)|null|
 |**2024-05-03**|**A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**|William Lindskog et.al.|[2405.02074v1](http://arxiv.org/abs/2405.02074v1)|null|
 |**2024-05-03**|**Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**|William Lindskog et.al.|[2405.02067v1](http://arxiv.org/abs/2405.02067v1)|null|
