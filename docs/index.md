@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249v1](http://arxiv.org/abs/2405.04249v1)|null|
+|**2024-05-07**|**FedStale: leveraging stale client updates in federated learning**|Angelo Rodio et.al.|[2405.04171v1](http://arxiv.org/abs/2405.04171v1)|null|
+|**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146v1](http://arxiv.org/abs/2405.04146v1)|null|
+|**2024-05-07**|**Ranking-based Client Selection with Imitation Learning for Efficient Federated Learning**|Chunlin Tian et.al.|[2405.04122v1](http://arxiv.org/abs/2405.04122v1)|null|
+|**2024-05-07**|**A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning**|Xiaoyang Xu et.al.|[2405.04115v1](http://arxiv.org/abs/2405.04115v1)|null|
+|**2024-05-07**|**Scalable Vertical Federated Learning via Data Augmentation and Amortized Inference**|Conor Hassan et.al.|[2405.04043v1](http://arxiv.org/abs/2405.04043v1)|null|
+|**2024-05-07**|**Enabling Privacy-Preserving and Publicly Auditable Federated Learning**|Huang Zeng et.al.|[2405.04029v1](http://arxiv.org/abs/2405.04029v1)|null|
+|**2024-05-07**|**Research on financial fraud algorithm based on federal learning and big data technology**|Xinye Sha et.al.|[2405.03992v1](http://arxiv.org/abs/2405.03992v1)|null|
+|**2024-05-07**|**IPFed: Identity protected federated learning for user authentication**|Yosuke Kaga et.al.|[2405.03955v1](http://arxiv.org/abs/2405.03955v1)|null|
+|**2024-05-07**|**FedSC: Provable Federated Self-supervised Learning with Spectral Contrastive Objective over Non-i.i.d. Data**|Shusen Jing et.al.|[2405.03949v1](http://arxiv.org/abs/2405.03949v1)|null|
 |**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636v1](http://arxiv.org/abs/2405.03636v1)|null|
 |**2024-05-06**|**Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation**|Jesher Joshua M et.al.|[2405.03537v1](http://arxiv.org/abs/2405.03537v1)|null|
 |**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516v1](http://arxiv.org/abs/2405.03516v1)|null|
