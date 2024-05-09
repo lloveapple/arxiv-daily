@@ -1228,6 +1228,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**SCALA: Split Federated Learning with Concatenated Activations and Logit Adjustments**|Jiarong Yang et.al.|[2405.04875v1](http://arxiv.org/abs/2405.04875v1)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|null|
+|**2024-05-08**|**When Foresight Pruning Meets Zeroth-Order Optimization: Efficient Federated Learning for Low-Memory Devices**|Pengyu Zhang et.al.|[2405.04765v1](http://arxiv.org/abs/2405.04765v1)|null|
+|**2024-05-07**|**Fast Decentralized Gradient Tracking for Federated Minimax Optimization with Local Updates**|Chris Junchi Li et.al.|[2405.04566v1](http://arxiv.org/abs/2405.04566v1)|null|
 |**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249v1](http://arxiv.org/abs/2405.04249v1)|null|
 |**2024-05-07**|**FedStale: leveraging stale client updates in federated learning**|Angelo Rodio et.al.|[2405.04171v1](http://arxiv.org/abs/2405.04171v1)|null|
 |**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146v1](http://arxiv.org/abs/2405.04146v1)|null|
