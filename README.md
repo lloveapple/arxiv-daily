@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-08**|**SCALA: Split Federated Learning with Concatenated Activations and Logit Adjustments**|Jiarong Yang et.al.|[2405.04875v1](http://arxiv.org/abs/2405.04875v1)|null|
-|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
 |**2024-05-08**|**When Foresight Pruning Meets Zeroth-Order Optimization: Efficient Federated Learning for Low-Memory Devices**|Pengyu Zhang et.al.|[2405.04765v1](http://arxiv.org/abs/2405.04765v1)|null|
 |**2024-05-07**|**Fast Decentralized Gradient Tracking for Federated Minimax Optimization with Local Updates**|Chris Junchi Li et.al.|[2405.04566v1](http://arxiv.org/abs/2405.04566v1)|null|
 |**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249v1](http://arxiv.org/abs/2405.04249v1)|null|
@@ -1877,7 +1877,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 ## MMS
 
@@ -1896,7 +1896,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
