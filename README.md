@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
+|**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413v1](http://arxiv.org/abs/2405.06413v1)|null|
+|**2024-05-10**|**DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation**|Jie Xu et.al.|[2405.06368v1](http://arxiv.org/abs/2405.06368v1)|null|
+|**2024-05-10**|**FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization**|Zhiyuan Ning et.al.|[2405.06312v1](http://arxiv.org/abs/2405.06312v1)|null|
+|**2024-05-10**|**Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized Data Poisoning**|Yujie Zhang et.al.|[2405.06206v1](http://arxiv.org/abs/2405.06206v1)|null|
+|**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178v1](http://arxiv.org/abs/2405.06178v1)|null|
 |**2024-05-09**|**Age Aware Scheduling for Differentially-Private Federated Learning**|Kuan-Yu Lin et.al.|[2405.05962v1](http://arxiv.org/abs/2405.05962v1)|null|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
 |**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855v1](http://arxiv.org/abs/2405.05855v1)|null|
