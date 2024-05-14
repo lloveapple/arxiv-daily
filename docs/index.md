@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925v1](http://arxiv.org/abs/2405.07925v1)|null|
+|**2024-05-13**|**Distribution Learning Meets Graph Structure Sampling**|Arnab Bhattacharyya et.al.|[2405.07914v1](http://arxiv.org/abs/2405.07914v1)|null|
+|**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735v1](http://arxiv.org/abs/2405.07735v1)|null|
+|**2024-05-13**|**Structured Reinforcement Learning for Incentivized Stochastic Covert Optimization**|Adit Jain et.al.|[2405.07415v1](http://arxiv.org/abs/2405.07415v1)|null|
+|**2024-05-12**|**On-Demand Model and Client Deployment in Federated Learning with Deep Reinforcement Learning**|Mario Chahoud et.al.|[2405.07175v1](http://arxiv.org/abs/2405.07175v1)|null|
+|**2024-05-12**|**CRSFL: Cluster-based Resource-aware Split Federated Learning for Continuous Authentication**|Mohamad Wazzeh et.al.|[2405.07174v1](http://arxiv.org/abs/2405.07174v1)|null|
+|**2024-05-11**|**Robust Model Aggregation for Heterogeneous Federated Learning: Analysis and Optimizations**|Yumeng Shao et.al.|[2405.06993v1](http://arxiv.org/abs/2405.06993v1)|null|
+|**2024-05-10**|**MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection and Distillation for Medical Data Analysis**|Luyuan Xie et.al.|[2405.06822v1](http://arxiv.org/abs/2405.06822v1)|null|
+|**2024-05-10**|**Open Challenges and Opportunities in Federated Foundation Models Towards Biomedical Healthcare**|Xingyu Li et.al.|[2405.06784v1](http://arxiv.org/abs/2405.06784v1)|null|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
 |**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413v1](http://arxiv.org/abs/2405.06413v1)|null|
 |**2024-05-10**|**DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation**|Jie Xu et.al.|[2405.06368v1](http://arxiv.org/abs/2405.06368v1)|null|
