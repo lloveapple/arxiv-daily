@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423v1](http://arxiv.org/abs/2405.09423v1)|null|
+|**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409v1](http://arxiv.org/abs/2405.09409v1)|null|
+|**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394v1](http://arxiv.org/abs/2405.09394v1)|null|
+|**2024-05-15**|**Dual-Segment Clustering Strategy for Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2405.09276v1](http://arxiv.org/abs/2405.09276v1)|null|
+|**2024-05-15**|**Unmasking Efficiency: Learning Salient Sparse Models in Non-IID Federated Learning**|Riyasat Ohib et.al.|[2405.09037v1](http://arxiv.org/abs/2405.09037v1)|null|
+|**2024-05-15**|**Feature-based Federated Transfer Learning: Communication Efficiency, Robustness and Privacy**|Feng Wang et.al.|[2405.09014v1](http://arxiv.org/abs/2405.09014v1)|null|
 |**2024-05-14**|**Byzantine-Resilient Secure Aggregation for Federated Learning Without Privacy Compromises**|Yue Xia et.al.|[2405.08698v1](http://arxiv.org/abs/2405.08698v1)|null|
 |**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299v1](http://arxiv.org/abs/2405.08299v1)|null|
 |**2024-05-13**|**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**|Jun Xia et.al.|[2405.08183v1](http://arxiv.org/abs/2405.08183v1)|null|
