@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271v1](http://arxiv.org/abs/2405.10271v1)|null|
+|**2024-05-16**|**DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data**|Chengxiang Fan et.al.|[2405.10185v1](http://arxiv.org/abs/2405.10185v1)|**[link](https://github.com/aim-uofa/DiverGen)**|
+|**2024-05-16**|**Asynchronous Federated Stochastic Optimization with Exact Averaging for Heterogeneous Local Objectives**|Charikleia Iakovidou et.al.|[2405.10123v1](http://arxiv.org/abs/2405.10123v1)|null|
+|**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096v1](http://arxiv.org/abs/2405.10096v1)|null|
+|**2024-05-16**|**Federated Learning for Misbehaviour Detection with Variational Autoencoders and Gaussian Mixture Models**|Enrique Mármol Campos et.al.|[2405.09903v1](http://arxiv.org/abs/2405.09903v1)|null|
+|**2024-05-16**|**Balancing Similarity and Complementarity for Federated Learning**|Kunda Yan et.al.|[2405.09892v1](http://arxiv.org/abs/2405.09892v1)|null|
+|**2024-05-16**|**Advances in Robust Federated Learning: Heterogeneity Considerations**|Chuan Chen et.al.|[2405.09839v1](http://arxiv.org/abs/2405.09839v1)|null|
+|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771v1](http://arxiv.org/abs/2405.09771v1)|null|
 |**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423v1](http://arxiv.org/abs/2405.09423v1)|null|
 |**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409v1](http://arxiv.org/abs/2405.09409v1)|null|
 |**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394v1](http://arxiv.org/abs/2405.09394v1)|null|
