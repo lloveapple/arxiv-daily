@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853v1](http://arxiv.org/abs/2405.10853v1)|null|
+|**2024-05-17**|**Cyclical Weight Consolidation: Towards Solving Catastrophic Forgetting in Serial Federated Learning**|Haoyue Song et.al.|[2405.10647v1](http://arxiv.org/abs/2405.10647v1)|null|
+|**2024-05-17**|**Distributed Event-Based Learning via ADMM**|Guner Dilsad Er et.al.|[2405.10618v1](http://arxiv.org/abs/2405.10618v1)|null|
+|**2024-05-17**|**Federated Learning With Energy Harvesting Devices: An MDP Framework**|Kai Zhang et.al.|[2405.10513v1](http://arxiv.org/abs/2405.10513v1)|null|
+|**2024-05-16**|**Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy**|Yichuan Shi et.al.|[2405.10376v1](http://arxiv.org/abs/2405.10376v1)|null|
 |**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271v1](http://arxiv.org/abs/2405.10271v1)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data**|Chengxiang Fan et.al.|[2405.10185v1](http://arxiv.org/abs/2405.10185v1)|**[link](https://github.com/aim-uofa/DiverGen)**|
 |**2024-05-16**|**Asynchronous Federated Stochastic Optimization with Exact Averaging for Heterogeneous Local Objectives**|Charikleia Iakovidou et.al.|[2405.10123v1](http://arxiv.org/abs/2405.10123v1)|null|
