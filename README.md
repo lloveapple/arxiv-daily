@@ -31,7 +31,7 @@
 |**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394v1](http://arxiv.org/abs/2405.09394v1)|null|
 |**2024-05-15**|**Dual-Segment Clustering Strategy for Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2405.09276v1](http://arxiv.org/abs/2405.09276v1)|null|
 |**2024-05-15**|**Unmasking Efficiency: Learning Salient Sparse Models in Non-IID Federated Learning**|Riyasat Ohib et.al.|[2405.09037v1](http://arxiv.org/abs/2405.09037v1)|null|
-|**2024-05-15**|**Feature-based Federated Transfer Learning: Communication Efficiency, Robustness and Privacy**|Feng Wang et.al.|[2405.09014v1](http://arxiv.org/abs/2405.09014v1)|null|
+|**2024-05-15**|**Feature-based Federated Transfer Learning: Communication Efficiency, Robustness and Privacy**|Feng Wang et.al.|[2405.09014v1](http://arxiv.org/abs/2405.09014v1)|**[link](https://github.com/wfwf10/feature-based-federated-transfer-learning)**|
 |**2024-05-14**|**Byzantine-Resilient Secure Aggregation for Federated Learning Without Privacy Compromises**|Yue Xia et.al.|[2405.08698v1](http://arxiv.org/abs/2405.08698v1)|null|
 |**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299v1](http://arxiv.org/abs/2405.08299v1)|null|
 |**2024-05-13**|**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**|Jun Xia et.al.|[2405.08183v1](http://arxiv.org/abs/2405.08183v1)|null|
@@ -49,9 +49,9 @@
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
 |**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413v1](http://arxiv.org/abs/2405.06413v1)|null|
 |**2024-05-10**|**DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation**|Jie Xu et.al.|[2405.06368v1](http://arxiv.org/abs/2405.06368v1)|null|
-|**2024-05-10**|**FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization**|Zhiyuan Ning et.al.|[2405.06312v1](http://arxiv.org/abs/2405.06312v1)|null|
+|**2024-05-10**|**FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization**|Zhiyuan Ning et.al.|[2405.06312v1](http://arxiv.org/abs/2405.06312v1)|**[link](https://github.com/zhiyuan-ning/GenerativeFL)**|
 |**2024-05-10**|**Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized Data Poisoning**|Yujie Zhang et.al.|[2405.06206v1](http://arxiv.org/abs/2405.06206v1)|null|
-|**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178v1](http://arxiv.org/abs/2405.06178v1)|null|
+|**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178v1](http://arxiv.org/abs/2405.06178v1)|**[link](https://github.com/mxliu/ACTION-Software-for-Functional-MRI-Analysis)**|
 |**2024-05-09**|**Age Aware Scheduling for Differentially-Private Federated Learning**|Kuan-Yu Lin et.al.|[2405.05962v1](http://arxiv.org/abs/2405.05962v1)|null|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
 |**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855v1](http://arxiv.org/abs/2405.05855v1)|null|
@@ -1498,7 +1498,7 @@
 |**2023-06-09**|**Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning**|Xu Du et.al.|[2306.05662v1](http://arxiv.org/abs/2306.05662v1)|null|
 |**2023-06-09**|**Communication-Efficient Zeroth-Order Distributed Online Optimization: Algorithm, Theory, and Applications**|Ege C. Kaya et.al.|[2306.05655v1](http://arxiv.org/abs/2306.05655v1)|**[link](https://github.com/sunses-hub/fed-ef-zo-sgd)**|
 |**2023-06-08**|**Evaluating and Incentivizing Diverse Data Contributions in Collaborative Learning**|Baihe Huang et.al.|[2306.05592v1](http://arxiv.org/abs/2306.05592v1)|null|
-|**2023-06-08**|**PeFLL: A Lifelong Learning Approach to Personalized Federated Learning**|Jonathan Scott et.al.|[2306.05515v1](http://arxiv.org/abs/2306.05515v1)|null|
+|**2023-06-08**|**PeFLL: A Lifelong Learning Approach to Personalized Federated Learning**|Jonathan Scott et.al.|[2306.05515v1](http://arxiv.org/abs/2306.05515v1)|**[link](https://github.com/jonnyascott/pefll)**|
 |**2023-06-08**|**Federated Learning under Covariate Shifts with Generalization Guarantees**|Ali Ramezani-Kebrya et.al.|[2306.05325v1](http://arxiv.org/abs/2306.05325v1)|null|
 |**2023-06-08**|**Conformal Prediction for Federated Uncertainty Quantification Under Label Shift**|Vincent Plassier et.al.|[2306.05131v1](http://arxiv.org/abs/2306.05131v1)|null|
 |**2023-06-08**|**FheFL: Fully Homomorphic Encryption Friendly Privacy-Preserving Federated Learning with Byzantine Users**|Yogachandran Rahulamathavan et.al.|[2306.05112v1](http://arxiv.org/abs/2306.05112v1)|null|
@@ -1871,7 +1871,7 @@
 |**2023-03-13**|**Distributed Non-Bayesian Learning for Games with Incomplete Information**|Shijie Huang et.al.|[2303.07212v1](http://arxiv.org/abs/2303.07212v1)|null|
 |**2023-03-13**|**Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection**|Tong Xia et.al.|[2303.07067v1](http://arxiv.org/abs/2303.07067v1)|null|
 |**2023-03-13**|**Addressing Catastrophic Forgetting in Federated Class-Continual Learning**|Jie Zhang et.al.|[2303.06937v1](http://arxiv.org/abs/2303.06937v1)|**[link](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning)**|
-|**2023-03-13**|**Label Distribution Learning from Logical Label**|Yuheng Jia et.al.|[2303.06847v1](http://arxiv.org/abs/2303.06847v1)|null|
+|**2023-03-13**|**Label Distribution Learning from Logical Label**|Yuheng Jia et.al.|[2303.06847v1](http://arxiv.org/abs/2303.06847v1)|**[link](https://github.com/seutjw/dldl)**|
 |**2023-03-14**|**Label Information Bottleneck for Label Enhancement**|Qinghai Zheng et.al.|[2303.06836v2](http://arxiv.org/abs/2303.06836v2)|**[link](https://github.com/qinghai-zheng/lible)**|
 |**2023-03-12**|**Asynchronous Decentralized Federated Lifelong Learning for Landmark Localization in Medical Imaging**|Guangyao Zheng et.al.|[2303.06783v1](http://arxiv.org/abs/2303.06783v1)|null|
 |**2023-03-12**|**Multi-metrics adaptively identifies backdoors in Federated learning**|Siquan Huang et.al.|[2303.06601v1](http://arxiv.org/abs/2303.06601v1)|**[link](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL)**|
