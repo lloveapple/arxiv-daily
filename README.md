@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
+|**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046v1](http://arxiv.org/abs/2405.12046v1)|null|
+|**2024-05-20**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916v1](http://arxiv.org/abs/2405.11916v1)|null|
+|**2024-05-20**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884v1](http://arxiv.org/abs/2405.11884v1)|null|
+|**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828v1](http://arxiv.org/abs/2405.11828v1)|null|
+|**2024-05-20**|**FedCAda: Adaptive Client-Side Optimization for Accelerated and Stable Federated Learning**|Liuzhi Zhou et.al.|[2405.11811v1](http://arxiv.org/abs/2405.11811v1)|null|
+|**2024-05-20**|**Fed-Credit: Robust Federated Learning with Credibility Management**|Jiayan Chen et.al.|[2405.11758v1](http://arxiv.org/abs/2405.11758v1)|null|
+|**2024-05-19**|**The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**|Kumar Kshitij Patel et.al.|[2405.11667v1](http://arxiv.org/abs/2405.11667v1)|null|
+|**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580v1](http://arxiv.org/abs/2405.11580v1)|null|
 |**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853v1](http://arxiv.org/abs/2405.10853v1)|null|
 |**2024-05-17**|**Cyclical Weight Consolidation: Towards Solving Catastrophic Forgetting in Serial Federated Learning**|Haoyue Song et.al.|[2405.10647v1](http://arxiv.org/abs/2405.10647v1)|null|
 |**2024-05-17**|**Distributed Event-Based Learning via ADMM**|Guner Dilsad Er et.al.|[2405.10618v1](http://arxiv.org/abs/2405.10618v1)|null|
