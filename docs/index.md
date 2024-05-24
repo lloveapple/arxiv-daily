@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Federated Online Adaptation for Deep Stereo**|Matteo Poggi et.al.|[2405.14873v1](http://arxiv.org/abs/2405.14873v1)|null|
+|**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791v1](http://arxiv.org/abs/2405.14791v1)|null|
+|**2024-05-23**|**Overcoming the Challenges of Batch Normalization in Federated Learning**|Rachid Guerraoui et.al.|[2405.14670v1](http://arxiv.org/abs/2405.14670v1)|null|
+|**2024-05-23**|**Towards Privacy-Aware and Personalised Assistive Robots: A User-Centred Approach**|Fernando E. Casado et.al.|[2405.14528v1](http://arxiv.org/abs/2405.14528v1)|null|
+|**2024-05-23**|**Worldwide Federated Training of Language Models**|Alex Iacob et.al.|[2405.14446v1](http://arxiv.org/abs/2405.14446v1)|null|
+|**2024-05-23**|**Boosting Robustness by Clipping Gradients in Distributed Learning**|Youssef Allouah et.al.|[2405.14432v1](http://arxiv.org/abs/2405.14432v1)|null|
+|**2024-05-23**|**Variational Bayes for Federated Continual Learning**|Dezhong Yao et.al.|[2405.14291v1](http://arxiv.org/abs/2405.14291v1)|null|
+|**2024-05-23**|**Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data**|Haoran Li et.al.|[2405.14212v1](http://arxiv.org/abs/2405.14212v1)|null|
+|**2024-05-22**|**Rehearsal-free Federated Domain-incremental Learning**|Rui Sun et.al.|[2405.13900v1](http://arxiv.org/abs/2405.13900v1)|null|
+|**2024-05-22**|**FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?**|Marco Bornstein et.al.|[2405.13879v1](http://arxiv.org/abs/2405.13879v1)|null|
 |**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894v1](http://arxiv.org/abs/2405.12894v1)|null|
 |**2024-05-21**|**Maverick-Aware Shapley Valuation for Client Selection in Federated Learning**|Mengwei Yang et.al.|[2405.12590v1](http://arxiv.org/abs/2405.12590v1)|null|
 |**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567v1](http://arxiv.org/abs/2405.12567v1)|null|
