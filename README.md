@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
 |**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046v1](http://arxiv.org/abs/2405.12046v1)|null|
-|**2024-05-21**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916v2](http://arxiv.org/abs/2405.11916v2)|null|
+|**2024-05-22**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wan et.al.|[2405.11916v3](http://arxiv.org/abs/2405.11916v3)|null|
 |**2024-05-21**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884v2](http://arxiv.org/abs/2405.11884v2)|null|
 |**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828v1](http://arxiv.org/abs/2405.11828v1)|null|
 |**2024-05-20**|**FedCAda: Adaptive Client-Side Optimization for Accelerated and Stable Federated Learning**|Liuzhi Zhou et.al.|[2405.11811v1](http://arxiv.org/abs/2405.11811v1)|null|
@@ -1936,7 +1936,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## MMS
 
@@ -1955,7 +1955,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

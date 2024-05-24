@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1236,7 +1236,7 @@ layout: default
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
 |**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046v1](http://arxiv.org/abs/2405.12046v1)|null|
-|**2024-05-21**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916v2](http://arxiv.org/abs/2405.11916v2)|null|
+|**2024-05-22**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wan et.al.|[2405.11916v3](http://arxiv.org/abs/2405.11916v3)|null|
 |**2024-05-21**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884v2](http://arxiv.org/abs/2405.11884v2)|null|
 |**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828v1](http://arxiv.org/abs/2405.11828v1)|null|
 |**2024-05-20**|**FedCAda: Adaptive Client-Side Optimization for Accelerated and Stable Federated Learning**|Liuzhi Zhou et.al.|[2405.11811v1](http://arxiv.org/abs/2405.11811v1)|null|
