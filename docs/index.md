@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744v1](http://arxiv.org/abs/2405.15744v1)|null|
+|**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644v1](http://arxiv.org/abs/2405.15644v1)|null|
+|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|null|
+|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|null|
+|**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551v1](http://arxiv.org/abs/2405.15551v1)|**[link](https://github.com/astuary/spry)**|
+|**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474v1](http://arxiv.org/abs/2405.15474v1)|null|
+|**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458v1](http://arxiv.org/abs/2405.15458v1)|null|
+|**2024-05-24**|**Towards Client Driven Federated Learning**|Songze Li et.al.|[2405.15407v1](http://arxiv.org/abs/2405.15407v1)|null|
+|**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405v1](http://arxiv.org/abs/2405.15405v1)|null|
+|**2024-05-24**|**Decaf: Data Distribution Decompose Attack against Federated Learning**|Zhiyang Dai et.al.|[2405.15316v1](http://arxiv.org/abs/2405.15316v1)|null|
 |**2024-05-23**|**Federated Online Adaptation for Deep Stereo**|Matteo Poggi et.al.|[2405.14873v1](http://arxiv.org/abs/2405.14873v1)|null|
 |**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791v1](http://arxiv.org/abs/2405.14791v1)|null|
 |**2024-05-23**|**Overcoming the Challenges of Batch Normalization in Federated Learning**|Rachid Guerraoui et.al.|[2405.14670v1](http://arxiv.org/abs/2405.14670v1)|null|
