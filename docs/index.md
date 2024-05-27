@@ -1240,7 +1240,7 @@ layout: default
 |**2024-05-22**|**FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?**|Marco Bornstein et.al.|[2405.13879v1](http://arxiv.org/abs/2405.13879v1)|null|
 |**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894v1](http://arxiv.org/abs/2405.12894v1)|null|
 |**2024-05-21**|**Maverick-Aware Shapley Valuation for Client Selection in Federated Learning**|Mengwei Yang et.al.|[2405.12590v1](http://arxiv.org/abs/2405.12590v1)|null|
-|**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567v1](http://arxiv.org/abs/2405.12567v1)|null|
+|**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567v1](http://arxiv.org/abs/2405.12567v1)|**[link](https://github.com/pierreHmbt/One-shot-FCP)**|
 |**2024-05-21**|**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**|Xin-Chun Li et.al.|[2405.12489v1](http://arxiv.org/abs/2405.12489v1)|null|
 |**2024-05-20**|**Continual Deep Reinforcement Learning for Decentralized Satellite Routing**|Federico Lozano-Cuadra et.al.|[2405.12308v1](http://arxiv.org/abs/2405.12308v1)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
@@ -1421,7 +1421,7 @@ layout: default
 |**2024-04-15**|**Unsupervised Federated Optimization at the Edge: D2D-Enabled Learning without Labels**|Satyavrat Wagle et.al.|[2404.09861v1](http://arxiv.org/abs/2404.09861v1)|null|
 |**2024-04-15**|**FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity**|Kai Yi et.al.|[2404.09816v1](http://arxiv.org/abs/2404.09816v1)|null|
 |**2024-04-15**|**Privacy-Preserving Federated Unlearning with Certified Client Removal**|Ziyao Liu et.al.|[2404.09724v1](http://arxiv.org/abs/2404.09724v1)|null|
-|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722v1](http://arxiv.org/abs/2404.09722v1)|null|
+|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722v1](http://arxiv.org/abs/2404.09722v1)|**[link](https://github.com/yuanxun2024/vflgan)**|
 |**2024-04-15**|**SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection**|Yekai Li et.al.|[2404.09481v1](http://arxiv.org/abs/2404.09481v1)|**[link](https://github.com/chasesecurity/spamdam)**|
 |**2024-04-15**|**Hybrid FedGraph: An efficient hybrid federated learning algorithm using graph convolutional neural network**|Jaeyeon Jang et.al.|[2404.09443v1](http://arxiv.org/abs/2404.09443v1)|null|
 |**2024-04-15**|**On the Efficiency of Privacy Attacks in Federated Learning**|Nawrin Tabassum et.al.|[2404.09430v1](http://arxiv.org/abs/2404.09430v1)|null|
@@ -2280,7 +2280,7 @@ layout: default
 |**2023-10-04**|**Dual Prompt Tuning for Domain-Aware Federated Learning**|Guoyizhe Wei et.al.|[2310.03103v1](http://arxiv.org/abs/2310.03103v1)|null|
 |**2023-10-04**|**Recent Methodological Advances in Federated Learning for Healthcare**|Fan Zhang et.al.|[2310.02874v1](http://arxiv.org/abs/2310.02874v1)|null|
 |**2023-10-04**|**Learning Probability Distributions of Intraday Electricity Prices**|Jozef Barunik et.al.|[2310.02867v1](http://arxiv.org/abs/2310.02867v1)|**[link](https://github.com/luboshanus/distrnnenergy.jl)**|
-|**2023-10-04**|**Tackling Hybrid Heterogeneity on Federated Optimization via Gradient Diversity Maximization**|Dun Zeng et.al.|[2310.02702v1](http://arxiv.org/abs/2310.02702v1)|null|
+|**2023-10-04**|**Tackling Hybrid Heterogeneity on Federated Optimization via Gradient Diversity Maximization**|Dun Zeng et.al.|[2310.02702v1](http://arxiv.org/abs/2310.02702v1)|**[link](https://github.com/dunzeng/fedaware)**|
 |**2023-10-04**|**Exploring Federated Optimization by Reducing Variance of Adaptive Unbiased Client Sampling**|Dun Zeng et.al.|[2310.02698v1](http://arxiv.org/abs/2310.02698v1)|null|
 |**2023-10-04**|**Hire When You Need to: Gradual Participant Recruitment for Auction-based Federated Learning**|Xavier Tan et.al.|[2310.02651v1](http://arxiv.org/abs/2310.02651v1)|null|
 |**2023-10-04**|**Semi-Federated Learning: Convergence Analysis and Optimization of A Hybrid Learning Framework**|Jingheng Zheng et.al.|[2310.02559v1](http://arxiv.org/abs/2310.02559v1)|null|
@@ -2441,7 +2441,7 @@ layout: default
 |**2023-08-22**|**Understanding Hessian Alignment for Domain Generalization**|Sobhan Hemati et.al.|[2308.11778v1](http://arxiv.org/abs/2308.11778v1)|**[link](https://github.com/huawei-noah/federated-learning)**|
 |**2023-08-22**|**Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach**|Han Wang et.al.|[2308.11743v1](http://arxiv.org/abs/2308.11743v1)|**[link](https://github.com/jd-anderson/fedlqr)**|
 |**2023-08-22**|**EM for Mixture of Linear Regression with Clustered Data**|Amirhossein Reisizadeh et.al.|[2308.11518v1](http://arxiv.org/abs/2308.11518v1)|null|
-|**2023-08-22**|**Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning**|Yun-Hin Chan et.al.|[2308.11464v1](http://arxiv.org/abs/2308.11464v1)|null|
+|**2023-08-22**|**Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning**|Yun-Hin Chan et.al.|[2308.11464v1](http://arxiv.org/abs/2308.11464v1)|**[link](https://github.com/chanyunhin/inco-aggregation)**|
 |**2023-08-22**|**Protect Federated Learning Against Backdoor Attacks via Data-Free Trigger Generation**|Yanxin Yang et.al.|[2308.11333v1](http://arxiv.org/abs/2308.11333v1)|null|
 |**2023-08-22**|**Federated Learning on Patient Data for Privacy-Protecting Polycystic Ovary Syndrome Treatment**|Lucia Morris et.al.|[2308.11220v1](http://arxiv.org/abs/2308.11220v1)|**[link](https://github.com/toriqiu/fl-pcos)**|
 |**2023-08-23**|**Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**|Zengxiang Li et.al.|[2308.11217v2](http://arxiv.org/abs/2308.11217v2)|null|
