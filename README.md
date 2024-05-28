@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376v1](http://arxiv.org/abs/2405.17376v1)|null|
+|**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267v1](http://arxiv.org/abs/2405.17267v1)|null|
+|**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042v1](http://arxiv.org/abs/2405.17042v1)|null|
+|**2024-05-27**|**Waveforms for Computing Over the Air**|Ana Pérez-Neira et.al.|[2405.17007v1](http://arxiv.org/abs/2405.17007v1)|null|
+|**2024-05-27**|**Dual-Delayed Asynchronous SGD for Arbitrarily Heterogeneous Data**|Xiaolu Wang et.al.|[2405.16966v1](http://arxiv.org/abs/2405.16966v1)|null|
+|**2024-05-26**|**Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning**|Xueqing Zhang et.al.|[2405.16707v1](http://arxiv.org/abs/2405.16707v1)|null|
+|**2024-05-26**|**A Systematic Review of Federated Generative Models**|Ashkan Vedadi Gargary et.al.|[2405.16682v1](http://arxiv.org/abs/2405.16682v1)|null|
+|**2024-05-26**|**Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity**|Yuhang Chen et.al.|[2405.16585v1](http://arxiv.org/abs/2405.16585v1)|null|
+|**2024-05-26**|**Inaccurate Label Distribution Learning with Dependency Noise**|Zhiqiang Kou et.al.|[2405.16474v1](http://arxiv.org/abs/2405.16474v1)|null|
+|**2024-05-26**|**Multi-Level Additive Modeling for Structured Non-IID Federated Learning**|Shutong Chen et.al.|[2405.16472v1](http://arxiv.org/abs/2405.16472v1)|**[link](https://github.com/shutong043/femam)**|
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744v1](http://arxiv.org/abs/2405.15744v1)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644v1](http://arxiv.org/abs/2405.15644v1)|null|
 |**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|null|
