@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272v1](http://arxiv.org/abs/2405.19272v1)|null|
+|**2024-05-29**|**LoByITFL: Low Communication Secure and Private Federated Learning**|Yue Xia et.al.|[2405.19217v1](http://arxiv.org/abs/2405.19217v1)|null|
+|**2024-05-29**|**FedMAP: Unlocking Potential in Personalized Federated Learning through Bi-Level MAP Optimization**|Fan Zhang et.al.|[2405.19000v1](http://arxiv.org/abs/2405.19000v1)|null|
+|**2024-05-29**|**Federated Learning under Partially Class-Disjoint Data via Manifold Reshaping**|Ziqing Fan et.al.|[2405.18983v1](http://arxiv.org/abs/2405.18983v1)|**[link](https://github.com/mediabrain-sjtu/fedmr)**|
+|**2024-05-29**|**Federated Learning with Bilateral Curation for Partially Class-Disjoint Data**|Ziqing Fan et.al.|[2405.18972v1](http://arxiv.org/abs/2405.18972v1)|**[link](https://github.com/mediabrain-sjtu/fedgela)**|
+|**2024-05-29**|**Locally Estimated Global Perturbations are Better than Local Perturbations for Federated Sharpness-aware Minimization**|Ziqing Fan et.al.|[2405.18890v1](http://arxiv.org/abs/2405.18890v1)|null|
+|**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881v1](http://arxiv.org/abs/2405.18881v1)|null|
+|**2024-05-29**|**Enhancing Security and Privacy in Federated Learning using Update Digests and Voting-Based Defense**|Wenjie Li et.al.|[2405.18802v1](http://arxiv.org/abs/2405.18802v1)|null|
+|**2024-05-29**|**FlocOff: Data Heterogeneity Resilient Federated Learning with Communication-Efficient Edge Offloading**|Mulei Ma et.al.|[2405.18739v1](http://arxiv.org/abs/2405.18739v1)|null|
+|**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707v1](http://arxiv.org/abs/2405.18707v1)|null|
 |**2024-05-28**|**FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**|Zihui Wang et.al.|[2405.18291v1](http://arxiv.org/abs/2405.18291v1)|null|
 |**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v1](http://arxiv.org/abs/2405.18206v1)|null|
 |**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040v1](http://arxiv.org/abs/2405.18040v1)|**[link](https://github.com/thanhtrunghuynh93/fastfedul)**|
