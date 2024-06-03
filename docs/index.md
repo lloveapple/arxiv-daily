@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning**|Zhangchen Xu et.al.|[2405.20975v1](http://arxiv.org/abs/2405.20975v1)|null|
+|**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882v1](http://arxiv.org/abs/2405.20882v1)|null|
+|**2024-05-31**|**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**|Songze Li et.al.|[2405.20862v1](http://arxiv.org/abs/2405.20862v1)|null|
+|**2024-05-31**|**Pursuing Overall Welfare in Federated Learning through Sequential Decision Making**|Seok-Ju Hahn et.al.|[2405.20821v1](http://arxiv.org/abs/2405.20821v1)|null|
+|**2024-05-31**|**Share Your Secrets for Privacy! Confidential Forecasting with Vertical Federated Learning**|Aditya Shankar et.al.|[2405.20761v1](http://arxiv.org/abs/2405.20761v1)|**[link](https://github.com/adis98/stv)**|
+|**2024-05-31**|**GANcrop: A Contrastive Defense Against Backdoor Attacks in Federated Learning**|Xiaoyun Gan et.al.|[2405.20727v1](http://arxiv.org/abs/2405.20727v1)|null|
+|**2024-05-31**|**GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725v1](http://arxiv.org/abs/2405.20725v1)|null|
+|**2024-05-31**|**Prune at the Clients, Not the Server: Accelerated Sparse Training in Federated Learning**|Georg Meinhardt et.al.|[2405.20623v1](http://arxiv.org/abs/2405.20623v1)|null|
+|**2024-05-31**|**Masked Language Modeling Becomes Conditional Density Estimation for Tabular Data Synthesis**|Seunghwan An et.al.|[2405.20602v1](http://arxiv.org/abs/2405.20602v1)|null|
+|**2024-05-31**|**Selective Knowledge Sharing for Personalized Federated Learning Under Capacity Heterogeneity**|Zheng Wang et.al.|[2405.20589v1](http://arxiv.org/abs/2405.20589v1)|null|
 |**2024-05-30**|**SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning**|Avetik Karagulyan et.al.|[2405.20127v1](http://arxiv.org/abs/2405.20127v1)|null|
 |**2024-05-30**|**Federated and Transfer Learning for Cancer Detection Based on Image Analysis**|Amine Bechar et.al.|[2405.20126v1](http://arxiv.org/abs/2405.20126v1)|null|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046v1](http://arxiv.org/abs/2405.20046v1)|null|
