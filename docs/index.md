@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1231,7 +1231,7 @@ layout: default
 |**2024-05-30**|**SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning**|Avetik Karagulyan et.al.|[2405.20127v1](http://arxiv.org/abs/2405.20127v1)|null|
 |**2024-05-30**|**Federated and Transfer Learning for Cancer Detection Based on Image Analysis**|Amine Bechar et.al.|[2405.20126v1](http://arxiv.org/abs/2405.20126v1)|null|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046v1](http://arxiv.org/abs/2405.20046v1)|null|
-|**2024-05-30**|**subMFL: Compatiple subModel Generation for Federated Learning in Device Heterogenous Environment**|Zeyneddin Oz et.al.|[2405.20014v1](http://arxiv.org/abs/2405.20014v1)|null|
+|**2024-05-30**|**subMFL: Compatiple subModel Generation for Federated Learning in Device Heterogenous Environment**|Zeyneddin Oz et.al.|[2405.20014v1](http://arxiv.org/abs/2405.20014v1)|**[link](https://github.com/zeyneddinoz/subMFL)**|
 |**2024-05-30**|**Federated Learning with Multi-resolution Model Broadcast**|Henrik Rydén et.al.|[2405.19886v1](http://arxiv.org/abs/2405.19886v1)|null|
 |**2024-05-30**|**On Vessel Location Forecasting and the Effect of Federated Learning**|Andreas Tritsarolis et.al.|[2405.19870v1](http://arxiv.org/abs/2405.19870v1)|null|
 |**2024-05-29**|**Leveraging partial stragglers within gradient coding**|Aditya Ramamoorthy et.al.|[2405.19509v1](http://arxiv.org/abs/2405.19509v1)|null|
