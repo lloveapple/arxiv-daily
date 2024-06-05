@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Representations as Language: An Information-Theoretic Framework for Interpretability**|Henry Conklin et.al.|[2406.02449v1](http://arxiv.org/abs/2406.02449v1)|null|
+|**2024-06-04**|**Reducing Bias in Federated Class-Incremental Learning with Hierarchical Generative Prototypes**|Riccardo Salami et.al.|[2406.02447v1](http://arxiv.org/abs/2406.02447v1)|null|
+|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416v1](http://arxiv.org/abs/2406.02416v1)|null|
+|**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355v1](http://arxiv.org/abs/2406.02355v1)|null|
+|**2024-06-04**|**Generative Conditional Distributions by Neural (Entropic) Optimal Transport**|Bao Nguyen et.al.|[2406.02317v1](http://arxiv.org/abs/2406.02317v1)|**[link](https://github.com/nguyenngocbaocmt02/gentle)**|
+|**2024-06-04**|**One-Shot Federated Learning with Bayesian Pseudocoresets**|Tim d'Hondt et.al.|[2406.02177v1](http://arxiv.org/abs/2406.02177v1)|null|
+|**2024-06-04**|**Parameterizing Federated Continual Learning for Reproducible Research**|Bart Cox et.al.|[2406.02015v1](http://arxiv.org/abs/2406.02015v1)|null|
+|**2024-06-04**|**A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**|Arash Ahmadi et.al.|[2406.01950v1](http://arxiv.org/abs/2406.01950v1)|null|
+|**2024-06-03**|**Efficient Data Distribution Estimation for Accelerated Federated Learning**|Yuanli Wang et.al.|[2406.01774v1](http://arxiv.org/abs/2406.01774v1)|null|
+|**2024-06-03**|**Federated Learning-based Collaborative Wideband Spectrum Sensing and Scheduling for UAVs in UTM Systems**|Sravan Reddy Chintareddy et.al.|[2406.01727v1](http://arxiv.org/abs/2406.01727v1)|null|
 |**2024-05-31**|**ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning**|Zhangchen Xu et.al.|[2405.20975v1](http://arxiv.org/abs/2405.20975v1)|null|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882v1](http://arxiv.org/abs/2405.20882v1)|null|
 |**2024-05-31**|**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**|Songze Li et.al.|[2405.20862v1](http://arxiv.org/abs/2405.20862v1)|null|
