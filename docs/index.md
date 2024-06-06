@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,7 +1230,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**Representations as Language: An Information-Theoretic Framework for Interpretability**|Henry Conklin et.al.|[2406.02449v1](http://arxiv.org/abs/2406.02449v1)|null|
 |**2024-06-04**|**Reducing Bias in Federated Class-Incremental Learning with Hierarchical Generative Prototypes**|Riccardo Salami et.al.|[2406.02447v1](http://arxiv.org/abs/2406.02447v1)|null|
-|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416v1](http://arxiv.org/abs/2406.02416v1)|null|
+|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416v1](http://arxiv.org/abs/2406.02416v1)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355v1](http://arxiv.org/abs/2406.02355v1)|null|
 |**2024-06-04**|**Generative Conditional Distributions by Neural (Entropic) Optimal Transport**|Bao Nguyen et.al.|[2406.02317v1](http://arxiv.org/abs/2406.02317v1)|**[link](https://github.com/nguyenngocbaocmt02/gentle)**|
 |**2024-06-04**|**One-Shot Federated Learning with Bayesian Pseudocoresets**|Tim d'Hondt et.al.|[2406.02177v1](http://arxiv.org/abs/2406.02177v1)|null|
