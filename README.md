@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Auto-Multilift: Distributed Learning and Control for Cooperative Load Transportation With Quadrotors**|Bingheng Wang et.al.|[2406.04858v1](http://arxiv.org/abs/2406.04858v1)|null|
+|**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845v1](http://arxiv.org/abs/2406.04845v1)|null|
+|**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747v1](http://arxiv.org/abs/2406.04747v1)|null|
+|**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743v1](http://arxiv.org/abs/2406.04743v1)|null|
+|**2024-06-07**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596v1](http://arxiv.org/abs/2406.04596v1)|null|
 |**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227v1](http://arxiv.org/abs/2406.04227v1)|null|
 |**2024-06-06**|**Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**|Xuhan Zuo et.al.|[2406.04076v1](http://arxiv.org/abs/2406.04076v1)|null|
 |**2024-06-05**|**Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**|Omar Alhussein et.al.|[2406.03630v1](http://arxiv.org/abs/2406.03630v1)|**[link](https://github.com/OmarSababha/active_ML_6G)**|
