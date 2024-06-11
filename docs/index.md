@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520v1](http://arxiv.org/abs/2406.06520v1)|null|
+|**2024-06-10**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509v1](http://arxiv.org/abs/2406.06509v1)|null|
+|**2024-06-10**|**Optimisation of federated learning settings under statistical heterogeneity variations**|Basem Suleiman et.al.|[2406.06340v1](http://arxiv.org/abs/2406.06340v1)|null|
+|**2024-06-10**|**Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning**|Xiaoting Lyu et.al.|[2406.06207v1](http://arxiv.org/abs/2406.06207v1)|null|
+|**2024-06-10**|**Federated learning in food research**|Zuzanna Fendor et.al.|[2406.06202v1](http://arxiv.org/abs/2406.06202v1)|null|
+|**2024-06-09**|**Comments on "Federated Learning with Differential Privacy: Algorithms and Performance Analysis"**|Mahtab Talaei et.al.|[2406.05858v1](http://arxiv.org/abs/2406.05858v1)|null|
+|**2024-06-09**|**General Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666v1](http://arxiv.org/abs/2406.05666v1)|null|
+|**2024-06-08**|**Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey**|Shinu M. Rajagopal et.al.|[2406.05517v1](http://arxiv.org/abs/2406.05517v1)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|null|
+|**2024-06-07**|**Federated LoRA with Sparse Communication**|Kevin Kuo et.al.|[2406.05233v1](http://arxiv.org/abs/2406.05233v1)|null|
 |**2024-06-07**|**Auto-Multilift: Distributed Learning and Control for Cooperative Load Transportation With Quadrotors**|Bingheng Wang et.al.|[2406.04858v1](http://arxiv.org/abs/2406.04858v1)|null|
 |**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845v1](http://arxiv.org/abs/2406.04845v1)|null|
 |**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747v1](http://arxiv.org/abs/2406.04747v1)|null|
