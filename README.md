@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Federated Contrastive Learning for Personalized Semantic Communication**|Yining Wang et.al.|[2406.09182v1](http://arxiv.org/abs/2406.09182v1)|null|
+|**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152v1](http://arxiv.org/abs/2406.09152v1)|null|
+|**2024-06-12**|**IMFL-AIGC: Incentive Mechanism Design for Federated Learning Empowered by Artificial Intelligence Generated Content**|Guangjing Huang et.al.|[2406.08526v1](http://arxiv.org/abs/2406.08526v1)|null|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465v1](http://arxiv.org/abs/2406.08465v1)|null|
 |**2024-06-12**|**A deep cut into Split Federated Self-supervised Learning**|Marcin Przewięźlikowski et.al.|[2406.08267v1](http://arxiv.org/abs/2406.08267v1)|**[link](https://github.com/gmum/monacosfl)**|
 |**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164v1](http://arxiv.org/abs/2406.08164v1)|**[link](https://github.com/jmiemirza/conme)**|
