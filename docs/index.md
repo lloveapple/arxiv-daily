@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,11 +1230,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465v1](http://arxiv.org/abs/2406.08465v1)|null|
 |**2024-06-12**|**A deep cut into Split Federated Self-supervised Learning**|Marcin Przewięźlikowski et.al.|[2406.08267v1](http://arxiv.org/abs/2406.08267v1)|**[link](https://github.com/gmum/monacosfl)**|
-|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164v1](http://arxiv.org/abs/2406.08164v1)|null|
+|**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164v1](http://arxiv.org/abs/2406.08164v1)|**[link](https://github.com/jmiemirza/conme)**|
 |**2024-06-12**|**A Federated Online Restless Bandit Framework for Cooperative Resource Allocation**|Jingwen Tong et.al.|[2406.07992v1](http://arxiv.org/abs/2406.07992v1)|null|
 |**2024-06-12**|**FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning**|Jiaxing QI et.al.|[2406.07925v1](http://arxiv.org/abs/2406.07925v1)|null|
 |**2024-06-12**|**Aggregation Design for Personalized Federated Multi-Modal Learning over Wireless Networks**|Benshun Yin et.al.|[2406.07915v1](http://arxiv.org/abs/2406.07915v1)|null|
-|**2024-06-12**|**Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning**|Gyuejeong Lee et.al.|[2406.07800v1](http://arxiv.org/abs/2406.07800v1)|null|
+|**2024-06-12**|**Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning**|Gyuejeong Lee et.al.|[2406.07800v1](http://arxiv.org/abs/2406.07800v1)|**[link](https://github.com/regulation-sakak/cwFedAvg)**|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332v1](http://arxiv.org/abs/2406.07332v1)|null|
 |**2024-06-10**|**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints**|T. Tony Cai et.al.|[2406.06755v1](http://arxiv.org/abs/2406.06755v1)|null|
 |**2024-06-10**|**Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests**|T. Tony Cai et.al.|[2406.06749v1](http://arxiv.org/abs/2406.06749v1)|null|
