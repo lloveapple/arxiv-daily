@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Federated Learning with Flexible Architectures**|Jong-Ik Park et.al.|[2406.09877v1](http://arxiv.org/abs/2406.09877v1)|null|
+|**2024-06-14**|**Federated Learning driven Large Language Models for Swarm Intelligence: A Survey**|Youyang Qu et.al.|[2406.09831v1](http://arxiv.org/abs/2406.09831v1)|null|
+|**2024-06-14**|**Privacy-preserving Quantification of Non-IID Degree in Federated Learning**|Yuping Yan et.al.|[2406.09682v1](http://arxiv.org/abs/2406.09682v1)|null|
+|**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680v1](http://arxiv.org/abs/2406.09680v1)|null|
+|**2024-06-13**|**FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation**|Tong Xia et.al.|[2406.09547v1](http://arxiv.org/abs/2406.09547v1)|**[link](https://github.com/xtxiatong/flea)**|
 |**2024-06-13**|**Federated Contrastive Learning for Personalized Semantic Communication**|Yining Wang et.al.|[2406.09182v1](http://arxiv.org/abs/2406.09182v1)|null|
 |**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152v1](http://arxiv.org/abs/2406.09152v1)|null|
 |**2024-06-12**|**IMFL-AIGC: Incentive Mechanism Design for Federated Learning Empowered by Artificial Intelligence Generated Content**|Guangjing Huang et.al.|[2406.08526v1](http://arxiv.org/abs/2406.08526v1)|null|
