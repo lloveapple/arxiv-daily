@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities**|Felix Wagner et.al.|[2406.11636v1](http://arxiv.org/abs/2406.11636v1)|**[link](https://github.com/felixwag/fl-multidisease-mri)**|
+|**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569v1](http://arxiv.org/abs/2406.11569v1)|null|
+|**2024-06-17**|**Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification**|Zhipeng Deng et.al.|[2406.11310v1](http://arxiv.org/abs/2406.11310v1)|null|
+|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187v1](http://arxiv.org/abs/2406.11187v1)|null|
+|**2024-06-17**|**Federated Face Forgery Detection Learning with Personalized Representation**|Decheng Liu et.al.|[2406.11145v1](http://arxiv.org/abs/2406.11145v1)|null|
+|**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048v1](http://arxiv.org/abs/2406.11048v1)|null|
+|**2024-06-16**|**Promoting Data and Model Privacy in Federated Learning through Quantized LoRA**|JianHao Zhu et.al.|[2406.10976v1](http://arxiv.org/abs/2406.10976v1)|null|
+|**2024-06-16**|**When NOMA Meets AIGC: Enhanced Wireless Federated Learning**|Ding Xu et.al.|[2406.10897v1](http://arxiv.org/abs/2406.10897v1)|null|
+|**2024-06-16**|**Linkage on Security, Privacy and Fairness in Federated Learning: New Balances and New Perspectives**|Linlin Wang et.al.|[2406.10884v1](http://arxiv.org/abs/2406.10884v1)|null|
+|**2024-06-16**|**Knowledge Distillation in Federated Learning: a Survey on Long Lasting Challenges and New Solutions**|Laiqiao Qin et.al.|[2406.10861v1](http://arxiv.org/abs/2406.10861v1)|null|
 |**2024-06-14**|**Federated Learning with Flexible Architectures**|Jong-Ik Park et.al.|[2406.09877v1](http://arxiv.org/abs/2406.09877v1)|null|
 |**2024-06-14**|**Federated Learning driven Large Language Models for Swarm Intelligence: A Survey**|Youyang Qu et.al.|[2406.09831v1](http://arxiv.org/abs/2406.09831v1)|null|
 |**2024-06-14**|**Privacy-preserving Quantification of Non-IID Degree in Federated Learning**|Yuping Yan et.al.|[2406.09682v1](http://arxiv.org/abs/2406.09682v1)|null|
