@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1231,7 +1231,7 @@ layout: default
 |**2024-06-17**|**Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities**|Felix Wagner et.al.|[2406.11636v1](http://arxiv.org/abs/2406.11636v1)|**[link](https://github.com/felixwag/fl-multidisease-mri)**|
 |**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569v1](http://arxiv.org/abs/2406.11569v1)|null|
 |**2024-06-17**|**Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification**|Zhipeng Deng et.al.|[2406.11310v1](http://arxiv.org/abs/2406.11310v1)|null|
-|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187v1](http://arxiv.org/abs/2406.11187v1)|null|
+|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187v1](http://arxiv.org/abs/2406.11187v1)|**[link](https://github.com/L3030/FedCyBGD)**|
 |**2024-06-17**|**Federated Face Forgery Detection Learning with Personalized Representation**|Decheng Liu et.al.|[2406.11145v1](http://arxiv.org/abs/2406.11145v1)|null|
 |**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048v1](http://arxiv.org/abs/2406.11048v1)|null|
 |**2024-06-16**|**Promoting Data and Model Privacy in Federated Learning through Quantized LoRA**|JianHao Zhu et.al.|[2406.10976v1](http://arxiv.org/abs/2406.10976v1)|null|
