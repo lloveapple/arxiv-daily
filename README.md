@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429v1](http://arxiv.org/abs/2406.14429v1)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420v1](http://arxiv.org/abs/2406.14420v1)|null|
+|**2024-06-20**|**Communication-Efficient Byzantine-Resilient Federated Zero-Order Optimization**|Afonso de Sá Delgado Neto et.al.|[2406.14362v1](http://arxiv.org/abs/2406.14362v1)|null|
+|**2024-06-20**|**NAC-QFL: Noise Aware Clustered Quantum Federated Learning**|Himanshu Sahu et.al.|[2406.14236v1](http://arxiv.org/abs/2406.14236v1)|null|
+|**2024-06-20**|**Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning**|Yujing Wang et.al.|[2406.14217v1](http://arxiv.org/abs/2406.14217v1)|null|
+|**2024-06-20**|**FLoCoRA: Federated learning compression with low-rank adaptation**|Lucas Grativol Ribeiro et.al.|[2406.14082v1](http://arxiv.org/abs/2406.14082v1)|null|
+|**2024-06-19**|**Bayes' capacity as a measure for reconstruction attacks in federated learning**|Sayan Biswas et.al.|[2406.13569v1](http://arxiv.org/abs/2406.13569v1)|null|
+|**2024-06-19**|**Image Distillation for Safe Data Sharing in Histopathology**|Zhe Li et.al.|[2406.13536v1](http://arxiv.org/abs/2406.13536v1)|null|
+|**2024-06-19**|**DRACO: Decentralized Asynchronous Federated Learning over Continuous Row-Stochastic Network Matrices**|Eunjeong Jeong et.al.|[2406.13533v1](http://arxiv.org/abs/2406.13533v1)|null|
+|**2024-06-19**|**A Resource-Adaptive Approach for Federated Learning under Resource-Constrained Environments**|Ruirui Zhang et.al.|[2406.13351v1](http://arxiv.org/abs/2406.13351v1)|null|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844v1](http://arxiv.org/abs/2406.12844v1)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Federated Learning with a Single Shared Image**|Sunny Soni et.al.|[2406.12658v1](http://arxiv.org/abs/2406.12658v1)|**[link](https://github.com/sunnysoni97/single_image_fl)**|
