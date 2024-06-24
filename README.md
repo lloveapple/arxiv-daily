@@ -77,7 +77,7 @@
 |**2024-06-08**|**Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey**|Shinu M. Rajagopal et.al.|[2406.05517v1](http://arxiv.org/abs/2406.05517v1)|null|
 |**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|null|
 |**2024-06-07**|**Federated LoRA with Sparse Communication**|Kevin Kuo et.al.|[2406.05233v1](http://arxiv.org/abs/2406.05233v1)|null|
-|**2024-06-07**|**Auto-Multilift: Distributed Learning and Control for Cooperative Load Transportation With Quadrotors**|Bingheng Wang et.al.|[2406.04858v1](http://arxiv.org/abs/2406.04858v1)|null|
+|**2024-06-07**|**Auto-Multilift: Distributed Learning and Control for Cooperative Load Transportation With Quadrotors**|Bingheng Wang et.al.|[2406.04858v1](http://arxiv.org/abs/2406.04858v1)|**[link](https://github.com/RCL-NUS/Auto-Multilift)**|
 |**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845v1](http://arxiv.org/abs/2406.04845v1)|**[link](https://github.com/rui-ye/fedllm-bench)**|
 |**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747v1](http://arxiv.org/abs/2406.04747v1)|null|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743v1](http://arxiv.org/abs/2406.04743v1)|null|
@@ -552,7 +552,7 @@
 |**2024-02-28**|**HyperFedNet: Communication-Efficient Personalized Federated Learning Via Hypernetwork**|Xingyun Chen et.al.|[2402.18445v1](http://arxiv.org/abs/2402.18445v1)|null|
 |**2024-02-27**|**FedUV: Uniformity and Variance for Heterogeneous Federated Learning**|Ha Min Son et.al.|[2402.18372v1](http://arxiv.org/abs/2402.18372v1)|null|
 |**2024-02-28**|**Decentralised Traffic Incident Detection via Network Lasso**|Qiyuan Zhu et.al.|[2402.18167v1](http://arxiv.org/abs/2402.18167v1)|null|
-|**2024-02-28**|**On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms**|Haoyu Lei et.al.|[2402.18129v1](http://arxiv.org/abs/2402.18129v1)|null|
+|**2024-02-28**|**On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms**|Haoyu Lei et.al.|[2402.18129v1](http://arxiv.org/abs/2402.18129v1)|**[link](https://github.com/lh218/fairness-ib)**|
 |**2024-02-28**|**Communication Efficient ConFederated Learning: An Event-Triggered SAGA Approach**|Bin Wang et.al.|[2402.18018v1](http://arxiv.org/abs/2402.18018v1)|null|
 |**2024-02-28**|**Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints**|Lingkai Kong et.al.|[2402.18012v1](http://arxiv.org/abs/2402.18012v1)|null|
 |**2024-02-27**|**$ζ$ -QVAE: A Quantum Variational Autoencoder utilizing Regularized Mixed-state Latent Representations**|Gaoyuan Wang et.al.|[2402.17749v1](http://arxiv.org/abs/2402.17749v1)|null|
@@ -636,7 +636,7 @@
 |**2024-02-09**|**Optimal estimation of Gaussian (poly)trees**|Yuhao Wang et.al.|[2402.06380v1](http://arxiv.org/abs/2402.06380v1)|**[link](https://github.com/yohannawang/polytree)**|
 |**2024-02-09**|**Evaluating Membership Inference Attacks and Defenses in Federated Learning**|Gongxi Zhu et.al.|[2402.06289v1](http://arxiv.org/abs/2402.06289v1)|**[link](https://github.com/liar-mask/fedmia)**|
 |**2024-02-09**|**Decentralized Proactive Model Offloading and Resource Allocation for Split and Federated Learning**|Binbin Huang et.al.|[2402.06123v1](http://arxiv.org/abs/2402.06123v1)|null|
-|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926v1](http://arxiv.org/abs/2402.05926v1)|null|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926v1](http://arxiv.org/abs/2402.05926v1)|**[link](https://github.com/alibaba/federatedscope)**|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876v1](http://arxiv.org/abs/2402.05876v1)|null|
 |**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558v1](http://arxiv.org/abs/2402.05558v1)|null|
 |**2024-02-08**|**Reinforcement Learning as a Catalyst for Robust and Fair Federated Learning: Deciphering the Dynamics of Client Contributions**|Jialuo He et.al.|[2402.05541v1](http://arxiv.org/abs/2402.05541v1)|null|
