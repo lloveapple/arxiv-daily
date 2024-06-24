@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346v1](http://arxiv.org/abs/2406.15346v1)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
+|**2024-06-21**|**Rate-Splitting Multiple Access for Overloaded Multi-group Multicast: A First Experimental Study**|Xinze Lyu et.al.|[2406.15217v1](http://arxiv.org/abs/2406.15217v1)|null|
+|**2024-06-21**|**Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training**|Sunwoo Lee et.al.|[2406.15125v1](http://arxiv.org/abs/2406.15125v1)|null|
+|**2024-06-21**|**Tempora-Fusion: Time-Lock Puzzle with Efficient Verifiable Homomorphic Linear Combination**|Aydin Abadi et.al.|[2406.15070v1](http://arxiv.org/abs/2406.15070v1)|null|
+|**2024-06-21**|**Towards Dynamic Resource Allocation and Client Scheduling in Hierarchical Federated Learning: A Two-Phase Deep Reinforcement Learning Approach**|Xiaojing Chen et.al.|[2406.14910v1](http://arxiv.org/abs/2406.14910v1)|null|
+|**2024-06-21**|**Safely Learning with Private Data: A Federated Learning Framework for Large Language Model**|JiaYing Zheng et.al.|[2406.14898v1](http://arxiv.org/abs/2406.14898v1)|null|
 |**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429v1](http://arxiv.org/abs/2406.14429v1)|**[link](https://github.com/simeonallmendinger/collafuse)**|
 |**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420v1](http://arxiv.org/abs/2406.14420v1)|null|
 |**2024-06-20**|**Communication-Efficient Byzantine-Resilient Federated Zero-Order Optimization**|Afonso de Sá Delgado Neto et.al.|[2406.14362v1](http://arxiv.org/abs/2406.14362v1)|null|
