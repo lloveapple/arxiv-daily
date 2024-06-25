@@ -1228,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Personalized federated learning based on feature fusion**|Wolong Xing et.al.|[2406.16583v1](http://arxiv.org/abs/2406.16583v1)|null|
+|**2024-06-23**|**Semi-Variance Reduction for Fair Federated Learning**|Saber Malekmohammadi et.al.|[2406.16193v1](http://arxiv.org/abs/2406.16193v1)|null|
+|**2024-06-23**|**Federated Transfer Learning Aided Interference Classification in GNSS Signals**|Min Jiang et.al.|[2406.16102v1](http://arxiv.org/abs/2406.16102v1)|null|
+|**2024-06-23**|**Meta-FL: A Novel Meta-Learning Framework for Optimizing Heterogeneous Model Aggregation in Federated Learning**|Zahir Alsulaimawi et.al.|[2406.16035v1](http://arxiv.org/abs/2406.16035v1)|null|
+|**2024-06-23**|**Privacy Preserving Machine Learning for Electronic Health Records using Federated Learning and Differential Privacy**|Naif A. Ganadily et.al.|[2406.15962v1](http://arxiv.org/abs/2406.15962v1)|null|
+|**2024-06-22**|**Federated Adversarial Learning for Robust Autonomous Landing Runway Detection**|Yi Li et.al.|[2406.15925v1](http://arxiv.org/abs/2406.15925v1)|null|
+|**2024-06-22**|**Split Federated Learning Empowered Vehicular Edge Intelligence: Adaptive Parellel Design and Future Directions**|Xianke Qiang et.al.|[2406.15804v1](http://arxiv.org/abs/2406.15804v1)|null|
+|**2024-06-22**|**Breaking Secure Aggregation: Label Leakage from Aggregated Gradients in Federated Learning**|Zhibo Wang et.al.|[2406.15731v1](http://arxiv.org/abs/2406.15731v1)|null|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346v1](http://arxiv.org/abs/2406.15346v1)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**Rate-Splitting Multiple Access for Overloaded Multi-group Multicast: A First Experimental Study**|Xinze Lyu et.al.|[2406.15217v1](http://arxiv.org/abs/2406.15217v1)|null|
 |**2024-06-21**|**Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training**|Sunwoo Lee et.al.|[2406.15125v1](http://arxiv.org/abs/2406.15125v1)|null|
