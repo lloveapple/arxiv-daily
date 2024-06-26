@@ -1228,6 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706v1](http://arxiv.org/abs/2406.17706v1)|null|
+|**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470v1](http://arxiv.org/abs/2406.17470v1)|null|
+|**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235v1](http://arxiv.org/abs/2406.17235v1)|null|
+|**2024-06-24**|**Robust Zero Trust Architecture: Joint Blockchain based Federated learning and Anomaly Detection based Framework**|Shiva Raj Pokhrel et.al.|[2406.17172v1](http://arxiv.org/abs/2406.17172v1)|null|
+|**2024-06-24**|**Achieving Fairness Across Local and Global Models in Federated Learning**|Disha Makhija et.al.|[2406.17102v1](http://arxiv.org/abs/2406.17102v1)|null|
 |**2024-06-24**|**Personalized federated learning based on feature fusion**|Wolong Xing et.al.|[2406.16583v1](http://arxiv.org/abs/2406.16583v1)|null|
 |**2024-06-23**|**Semi-Variance Reduction for Fair Federated Learning**|Saber Malekmohammadi et.al.|[2406.16193v1](http://arxiv.org/abs/2406.16193v1)|null|
 |**2024-06-23**|**Federated Transfer Learning Aided Interference Classification in GNSS Signals**|Min Jiang et.al.|[2406.16102v1](http://arxiv.org/abs/2406.16102v1)|null|
