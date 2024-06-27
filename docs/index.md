@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491v1](http://arxiv.org/abs/2406.18491v1)|null|
+|**2024-06-26**|**FedAQ: Communication-Efficient Federated Edge Learning via Joint Uplink and Downlink Adaptive Quantization**|Linping Qu et.al.|[2406.18156v1](http://arxiv.org/abs/2406.18156v1)|null|
+|**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145v1](http://arxiv.org/abs/2406.18145v1)|null|
+|**2024-06-25**|**Navigating High-Degree Heterogeneity: Federated Learning in Aerial and Space Networks**|Fan Dong et.al.|[2406.17951v1](http://arxiv.org/abs/2406.17951v1)|null|
+|**2024-06-25**|**Entity Augmentation for Efficient Classification of Vertically Partitioned Data with Limited Overlap**|Avi Amalanshu et.al.|[2406.17899v1](http://arxiv.org/abs/2406.17899v1)|null|
+|**2024-06-25**|**Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees**|Steffen Schotthöfer et.al.|[2406.17887v1](http://arxiv.org/abs/2406.17887v1)|null|
+|**2024-06-25**|**Distribution Learnability and Robustness**|Shai Ben-David et.al.|[2406.17814v1](http://arxiv.org/abs/2406.17814v1)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706v1](http://arxiv.org/abs/2406.17706v1)|null|
 |**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470v1](http://arxiv.org/abs/2406.17470v1)|null|
 |**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235v1](http://arxiv.org/abs/2406.17235v1)|null|
