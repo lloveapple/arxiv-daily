@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1235,7 +1235,7 @@ layout: default
 |**2024-06-25**|**Entity Augmentation for Efficient Classification of Vertically Partitioned Data with Limited Overlap**|Avi Amalanshu et.al.|[2406.17899v1](http://arxiv.org/abs/2406.17899v1)|null|
 |**2024-06-25**|**Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees**|Steffen Schotthöfer et.al.|[2406.17887v1](http://arxiv.org/abs/2406.17887v1)|null|
 |**2024-06-25**|**Distribution Learnability and Robustness**|Shai Ben-David et.al.|[2406.17814v1](http://arxiv.org/abs/2406.17814v1)|null|
-|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706v1](http://arxiv.org/abs/2406.17706v1)|null|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706v1](http://arxiv.org/abs/2406.17706v1)|**[link](https://github.com/HarliWu/FedBiOT)**|
 |**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470v1](http://arxiv.org/abs/2406.17470v1)|null|
 |**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235v1](http://arxiv.org/abs/2406.17235v1)|null|
 |**2024-06-24**|**Robust Zero Trust Architecture: Joint Blockchain based Federated learning and Anomaly Detection based Framework**|Shiva Raj Pokhrel et.al.|[2406.17172v1](http://arxiv.org/abs/2406.17172v1)|null|
