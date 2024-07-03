@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461v1](http://arxiv.org/abs/2407.02461v1)|null|
+|**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356v1](http://arxiv.org/abs/2407.02356v1)|**[link](https://github.com/dzp2095/fcu)**|
+|**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342v1](http://arxiv.org/abs/2407.02342v1)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v1](http://arxiv.org/abs/2407.02280v1)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261v1](http://arxiv.org/abs/2407.02261v1)|null|
+|**2024-07-02**|**Exploring Federated Learning Dynamics for Black-and-White-Box DNN Traitor Tracing**|Elena Rodriguez-Lois et.al.|[2407.02111v1](http://arxiv.org/abs/2407.02111v1)|null|
+|**2024-07-02**|**Contribution Evaluation of Heterogeneous Participants in Federated Learning via Prototypical Representations**|Qi Guo et.al.|[2407.02073v1](http://arxiv.org/abs/2407.02073v1)|null|
+|**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776v1](http://arxiv.org/abs/2407.01776v1)|null|
+|**2024-07-01**|**FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding**|Wei-Bin Kou et.al.|[2407.01103v1](http://arxiv.org/abs/2407.01103v1)|null|
+|**2024-07-01**|**DistML.js: Installation-free Distributed Deep Learning Framework for Web Browsers**|Masatoshi Hidaka et.al.|[2407.01023v1](http://arxiv.org/abs/2407.01023v1)|**[link](https://github.com/mil-tokyo/distmljs)**|
 |**2024-06-28**|**On the Trade-off between Flatness and Optimization in Distributed Learning**|Ying Cao et.al.|[2406.20006v1](http://arxiv.org/abs/2406.20006v1)|null|
 |**2024-06-28**|**Decoupling General and Personalized Knowledge in Federated Learning via Additive and Low-Rank Decomposition**|Xinghao Wu et.al.|[2406.19931v1](http://arxiv.org/abs/2406.19931v1)|null|
 |**2024-06-28**|**Personalized Interpretation on Federated Learning: A Virtual Concepts approach**|Peng Yan et.al.|[2406.19631v1](http://arxiv.org/abs/2406.19631v1)|null|
