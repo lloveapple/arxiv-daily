@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning**|Lin Wang et.al.|[2407.04460v1](http://arxiv.org/abs/2407.04460v1)|null|
+|**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920v1](http://arxiv.org/abs/2407.03920v1)|null|
+|**2024-07-04**|**FedSat: A Statistical Aggregation Approach for Class Imbalaced Clients in Federated Learning**|Sujit Chowdhury et.al.|[2407.03862v1](http://arxiv.org/abs/2407.03862v1)|null|
+|**2024-07-04**|**Google Topics as a way out of the cookie dilemma?**|Marius Köppel et.al.|[2407.03846v1](http://arxiv.org/abs/2407.03846v1)|null|
+|**2024-07-04**|**MSfusion: A Dynamic Model Splitting Approach for Resource-Constrained Machines to Collaboratively Train Larger Models**|Jin Xie et.al.|[2407.03622v1](http://arxiv.org/abs/2407.03622v1)|null|
+|**2024-07-03**|**Enhancement of Over-the-Air Federated Learning by Using AI-based Fluid Antenna System**|Mohsen Ahmadzadeh et.al.|[2407.03481v1](http://arxiv.org/abs/2407.03481v1)|null|
 |**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289v1](http://arxiv.org/abs/2407.03289v1)|null|
 |**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247v1](http://arxiv.org/abs/2407.03247v1)|null|
 |**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144v1](http://arxiv.org/abs/2407.03144v1)|null|
