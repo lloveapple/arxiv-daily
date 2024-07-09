@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850v1](http://arxiv.org/abs/2407.05850v1)|null|
+|**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800v1](http://arxiv.org/abs/2407.05800v1)|**[link](https://github.com/pranabiitp/fedmrl)**|
+|**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285v1](http://arxiv.org/abs/2407.05285v1)|null|
+|**2024-07-07**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276v1](http://arxiv.org/abs/2407.05276v1)|null|
+|**2024-07-07**|**Federated Knowledge Transfer Fine-tuning Large Server Model with Resource-Constrained IoT Clients**|Shaoyuan Chen et.al.|[2407.05268v1](http://arxiv.org/abs/2407.05268v1)|null|
+|**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174v1](http://arxiv.org/abs/2407.05174v1)|null|
+|**2024-07-06**|**Impact of Network Topology on Byzantine Resilience in Decentralized Federated Learning**|Siddhartha Bhattacharya et.al.|[2407.05141v1](http://arxiv.org/abs/2407.05141v1)|**[link](https://github.com/sidb70/DFL-Secure-Aggregation)**|
+|**2024-07-06**|**A Joint Approach to Local Updating and Gradient Compression for Efficient Asynchronous Federated Learning**|Jiajun Song et.al.|[2407.05125v1](http://arxiv.org/abs/2407.05125v1)|null|
+|**2024-07-06**|**FedTSA: A Cluster-based Two-Stage Aggregation Method for Model-heterogeneous Federated Learning**|Boyu Fan et.al.|[2407.05098v1](http://arxiv.org/abs/2407.05098v1)|null|
+|**2024-07-06**|**Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients**|Mengmeng Ma et.al.|[2407.04949v1](http://arxiv.org/abs/2407.04949v1)|null|
 |**2024-07-05**|**Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning**|Lin Wang et.al.|[2407.04460v1](http://arxiv.org/abs/2407.04460v1)|null|
 |**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920v1](http://arxiv.org/abs/2407.03920v1)|null|
 |**2024-07-04**|**FedSat: A Statistical Aggregation Approach for Class Imbalaced Clients in Federated Learning**|Sujit Chowdhury et.al.|[2407.03862v1](http://arxiv.org/abs/2407.03862v1)|null|
