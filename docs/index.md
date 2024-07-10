@@ -1228,10 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084v1](http://arxiv.org/abs/2407.07084v1)|null|
+|**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|null|
+|**2024-07-09**|**Bayesian Federated Learning with Hamiltonian Monte Carlo: Algorithm and Theory**|Jiajun Liang et.al.|[2407.06935v1](http://arxiv.org/abs/2407.06935v1)|null|
+|**2024-07-09**|**Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems**|Lorenzo Cassano et.al.|[2407.06862v1](http://arxiv.org/abs/2407.06862v1)|null|
+|**2024-07-09**|**Threats and Defenses in Federated Learning Life Cycle: A Comprehensive Survey and Challenges**|Yanli Li et.al.|[2407.06754v1](http://arxiv.org/abs/2407.06754v1)|null|
+|**2024-07-09**|**Ensembled Cold-Diffusion Restorations for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2407.06635v1](http://arxiv.org/abs/2407.06635v1)|null|
 |**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850v1](http://arxiv.org/abs/2407.05850v1)|null|
 |**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800v1](http://arxiv.org/abs/2407.05800v1)|**[link](https://github.com/pranabiitp/fedmrl)**|
 |**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285v1](http://arxiv.org/abs/2407.05285v1)|null|
-|**2024-07-07**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276v1](http://arxiv.org/abs/2407.05276v1)|null|
+|**2024-07-09**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276v2](http://arxiv.org/abs/2407.05276v2)|null|
 |**2024-07-07**|**Federated Knowledge Transfer Fine-tuning Large Server Model with Resource-Constrained IoT Clients**|Shaoyuan Chen et.al.|[2407.05268v1](http://arxiv.org/abs/2407.05268v1)|null|
 |**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174v1](http://arxiv.org/abs/2407.05174v1)|null|
 |**2024-07-06**|**Impact of Network Topology on Byzantine Resilience in Decentralized Federated Learning**|Siddhartha Bhattacharya et.al.|[2407.05141v1](http://arxiv.org/abs/2407.05141v1)|**[link](https://github.com/sidb70/DFL-Secure-Aggregation)**|
