@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557v1](http://arxiv.org/abs/2407.07557v1)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
+|**2024-07-10**|**FUNAvg: Federated Uncertainty Weighted Averaging for Datasets with Diverse Labels**|Malte Tölle et.al.|[2407.07488v1](http://arxiv.org/abs/2407.07488v1)|**[link](https://github.com/cardio-ai/funavg)**|
+|**2024-07-10**|**TDML -- A Trustworthy Distributed Machine Learning Framework**|Zhen Wang et.al.|[2407.07339v1](http://arxiv.org/abs/2407.07339v1)|null|
+|**2024-07-09**|**Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning**|Yuqi Jia et.al.|[2407.07221v1](http://arxiv.org/abs/2407.07221v1)|null|
 |**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084v1](http://arxiv.org/abs/2407.07084v1)|null|
 |**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|null|
 |**2024-07-09**|**Bayesian Federated Learning with Hamiltonian Monte Carlo: Algorithm and Theory**|Jiajun Liang et.al.|[2407.06935v1](http://arxiv.org/abs/2407.06935v1)|null|
