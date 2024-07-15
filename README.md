@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360v1](http://arxiv.org/abs/2407.09360v1)|null|
+|**2024-07-12**|**Provable Privacy Advantages of Decentralized Federated Learning via Distributed Optimization**|Wenrui Yu et.al.|[2407.09324v1](http://arxiv.org/abs/2407.09324v1)|null|
+|**2024-07-12**|**FedVAE: Trajectory privacy preserving based on Federated Variational AutoEncoder**|Yuchen Jiang et.al.|[2407.09239v1](http://arxiv.org/abs/2407.09239v1)|null|
+|**2024-07-12**|**Multi-Modal Dataset Creation for Federated~Learning with DICOM Structured Reports**|Malte Tölle et.al.|[2407.09064v1](http://arxiv.org/abs/2407.09064v1)|null|
+|**2024-07-12**|**PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning**|Sizai Hou et.al.|[2407.08954v1](http://arxiv.org/abs/2407.08954v1)|null|
+|**2024-07-12**|**Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses**|Yuxin Yang et.al.|[2407.08935v1](http://arxiv.org/abs/2407.08935v1)|null|
+|**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822v1](http://arxiv.org/abs/2407.08822v1)|**[link](https://github.com/m1k2zoo/fedmedicl)**|
 |**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652v1](http://arxiv.org/abs/2407.08652v1)|null|
 |**2024-07-11**|**CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities**|Pranav Poudel et.al.|[2407.08648v1](http://arxiv.org/abs/2407.08648v1)|**[link](https://github.com/bhattarailab/car-mfl)**|
 |**2024-07-11**|**Distributed Edge Analytics in Edge-Fog-Cloud Continuum**|Satish Narayana Srirama et.al.|[2407.08543v1](http://arxiv.org/abs/2407.08543v1)|null|
