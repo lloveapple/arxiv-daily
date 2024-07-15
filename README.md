@@ -33,11 +33,11 @@
 |**2024-07-10**|**TDML -- A Trustworthy Distributed Machine Learning Framework**|Zhen Wang et.al.|[2407.07339v1](http://arxiv.org/abs/2407.07339v1)|null|
 |**2024-07-09**|**Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning**|Yuqi Jia et.al.|[2407.07221v1](http://arxiv.org/abs/2407.07221v1)|null|
 |**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084v1](http://arxiv.org/abs/2407.07084v1)|null|
-|**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|null|
+|**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|**[link](https://github.com/AI-and-Blockchain/F23_HealthFederated)**|
 |**2024-07-09**|**Bayesian Federated Learning with Hamiltonian Monte Carlo: Algorithm and Theory**|Jiajun Liang et.al.|[2407.06935v1](http://arxiv.org/abs/2407.06935v1)|null|
 |**2024-07-09**|**Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems**|Lorenzo Cassano et.al.|[2407.06862v1](http://arxiv.org/abs/2407.06862v1)|null|
 |**2024-07-09**|**Threats and Defenses in Federated Learning Life Cycle: A Comprehensive Survey and Challenges**|Yanli Li et.al.|[2407.06754v1](http://arxiv.org/abs/2407.06754v1)|null|
-|**2024-07-09**|**Ensembled Cold-Diffusion Restorations for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2407.06635v1](http://arxiv.org/abs/2407.06635v1)|null|
+|**2024-07-09**|**Ensembled Cold-Diffusion Restorations for Unsupervised Anomaly Detection**|Sergio Naval Marimont et.al.|[2407.06635v1](http://arxiv.org/abs/2407.06635v1)|**[link](https://github.com/snavalm/disyre)**|
 |**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850v1](http://arxiv.org/abs/2407.05850v1)|null|
 |**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800v1](http://arxiv.org/abs/2407.05800v1)|**[link](https://github.com/pranabiitp/fedmrl)**|
 |**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285v1](http://arxiv.org/abs/2407.05285v1)|null|
@@ -45,7 +45,7 @@
 |**2024-07-07**|**Federated Knowledge Transfer Fine-tuning Large Server Model with Resource-Constrained IoT Clients**|Shaoyuan Chen et.al.|[2407.05268v1](http://arxiv.org/abs/2407.05268v1)|null|
 |**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174v1](http://arxiv.org/abs/2407.05174v1)|null|
 |**2024-07-06**|**Impact of Network Topology on Byzantine Resilience in Decentralized Federated Learning**|Siddhartha Bhattacharya et.al.|[2407.05141v1](http://arxiv.org/abs/2407.05141v1)|**[link](https://github.com/sidb70/DFL-Secure-Aggregation)**|
-|**2024-07-06**|**A Joint Approach to Local Updating and Gradient Compression for Efficient Asynchronous Federated Learning**|Jiajun Song et.al.|[2407.05125v1](http://arxiv.org/abs/2407.05125v1)|null|
+|**2024-07-06**|**A Joint Approach to Local Updating and Gradient Compression for Efficient Asynchronous Federated Learning**|Jiajun Song et.al.|[2407.05125v1](http://arxiv.org/abs/2407.05125v1)|**[link](https://github.com/Aegsteh-T/FedLuck_Euro_Par)**|
 |**2024-07-06**|**FedTSA: A Cluster-based Two-Stage Aggregation Method for Model-heterogeneous Federated Learning**|Boyu Fan et.al.|[2407.05098v1](http://arxiv.org/abs/2407.05098v1)|null|
 |**2024-07-06**|**Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients**|Mengmeng Ma et.al.|[2407.04949v1](http://arxiv.org/abs/2407.04949v1)|null|
 |**2024-07-05**|**Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning**|Lin Wang et.al.|[2407.04460v1](http://arxiv.org/abs/2407.04460v1)|null|
@@ -55,8 +55,8 @@
 |**2024-07-04**|**MSfusion: A Dynamic Model Splitting Approach for Resource-Constrained Machines to Collaboratively Train Larger Models**|Jin Xie et.al.|[2407.03622v1](http://arxiv.org/abs/2407.03622v1)|null|
 |**2024-07-03**|**Enhancement of Over-the-Air Federated Learning by Using AI-based Fluid Antenna System**|Mohsen Ahmadzadeh et.al.|[2407.03481v1](http://arxiv.org/abs/2407.03481v1)|null|
 |**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289v1](http://arxiv.org/abs/2407.03289v1)|null|
-|**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247v1](http://arxiv.org/abs/2407.03247v1)|null|
-|**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144v1](http://arxiv.org/abs/2407.03144v1)|null|
+|**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247v1](http://arxiv.org/abs/2407.03247v1)|**[link](https://github.com/JackqqWang/FedType)**|
+|**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144v1](http://arxiv.org/abs/2407.03144v1)|**[link](https://github.com/nguyenhongson1902/venomancer)**|
 |**2024-07-03**|**Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**|Yujin Shin et.al.|[2407.03086v1](http://arxiv.org/abs/2407.03086v1)|null|
 |**2024-07-03**|**Federated Learning for Zero-Day Attack Detection in 5G and Beyond V2X Networks**|Abdelaziz Amara korba et.al.|[2407.03070v1](http://arxiv.org/abs/2407.03070v1)|null|
 |**2024-07-03**|**On the Client Preference of LLM Fine-tuning in Federated Learning**|Feijie Wu et.al.|[2407.03038v1](http://arxiv.org/abs/2407.03038v1)|null|
@@ -338,7 +338,7 @@
 |**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516v1](http://arxiv.org/abs/2405.03516v1)|null|
 |**2024-05-06**|**Snake Learning: A Communication- and Computation-Efficient Distributed Learning Framework for 6G**|Xiaoxue Yu et.al.|[2405.03372v1](http://arxiv.org/abs/2405.03372v1)|null|
 |**2024-05-06**|**Federated Learning for Drowsiness Detection in Connected Vehicles**|William Lindskog et.al.|[2405.03311v1](http://arxiv.org/abs/2405.03311v1)|null|
-|**2024-05-06**|**DarkFed: A Data-Free Backdoor Attack in Federated Learning**|Minghui Li et.al.|[2405.03299v1](http://arxiv.org/abs/2405.03299v1)|null|
+|**2024-05-06**|**DarkFed: A Data-Free Backdoor Attack in Federated Learning**|Minghui Li et.al.|[2405.03299v1](http://arxiv.org/abs/2405.03299v1)|**[link](https://github.com/hustweiwan/darkfed)**|
 |**2024-05-06**|**Communication-Efficient Federated Learning with Adaptive Compression under Dynamic Bandwidth**|Ying Zhuansun et.al.|[2405.03248v1](http://arxiv.org/abs/2405.03248v1)|null|
 |**2024-05-05**|**Powering the Future of IoT: Federated Learning for Optimized Power Consumption and Enhanced Privacy**|Ghazaleh Shirvani et.al.|[2405.03065v1](http://arxiv.org/abs/2405.03065v1)|null|
 |**2024-05-05**|**Distributed Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2405.03031v1](http://arxiv.org/abs/2405.03031v1)|null|
@@ -648,7 +648,7 @@
 |**2024-02-28**|**Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints**|Lingkai Kong et.al.|[2402.18012v1](http://arxiv.org/abs/2402.18012v1)|null|
 |**2024-02-27**|**$ζ$ -QVAE: A Quantum Variational Autoencoder utilizing Regularized Mixed-state Latent Representations**|Gaoyuan Wang et.al.|[2402.17749v1](http://arxiv.org/abs/2402.17749v1)|null|
 |**2024-02-27**|**Federated Learning for Estimating Heterogeneous Treatment Effects**|Disha Makhija et.al.|[2402.17705v1](http://arxiv.org/abs/2402.17705v1)|null|
-|**2024-02-27**|**FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation**|Li Lin et.al.|[2402.17502v1](http://arxiv.org/abs/2402.17502v1)|null|
+|**2024-02-27**|**FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation**|Li Lin et.al.|[2402.17502v1](http://arxiv.org/abs/2402.17502v1)|**[link](https://github.com/llmir/fedlppa)**|
 |**2024-02-27**|**FedBRB: An Effective Solution to the Small-to-Large Scenario in Device-Heterogeneity Federated Learning**|Ziyue Xu et.al.|[2402.17202v1](http://arxiv.org/abs/2402.17202v1)|null|
 |**2024-02-26**|**FedReview: A Review Mechanism for Rejecting Poisoned Updates in Federated Learning**|Tianhang Zheng et.al.|[2402.16934v1](http://arxiv.org/abs/2402.16934v1)|null|
 |**2024-02-26**|**Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning**|Man Wu et.al.|[2402.16374v1](http://arxiv.org/abs/2402.16374v1)|null|
@@ -702,7 +702,7 @@
 |**2024-02-15**|**A privacy-preserving, distributed and cooperative FCM-based learning approach for Cancer Research**|Jose L. Salmeron et.al.|[2402.10102v1](http://arxiv.org/abs/2402.10102v1)|null|
 |**2024-02-15**|**Adaptive Federated Learning in Heterogeneous Wireless Networks with Independent Sampling**|Jiaxiang Geng et.al.|[2402.10097v1](http://arxiv.org/abs/2402.10097v1)|null|
 |**2024-02-15**|**FedRDF: A Robust and Dynamic Aggregation Function against Poisoning Attacks in Federated Learning**|Enrique Mármol Campos et.al.|[2402.10082v1](http://arxiv.org/abs/2402.10082v1)|null|
-|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|null|
+|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|**[link](https://github.com/bhattarailab/OCT-Federated-Learning)**|
 |**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959v1](http://arxiv.org/abs/2402.09959v1)|null|
 |**2024-02-15**|**FedLion: Faster Adaptive Federated Optimization with Fewer Communication**|Zhiwei Tang et.al.|[2402.09941v1](http://arxiv.org/abs/2402.09941v1)|**[link](https://github.com/tzw1998/fedlion)**|
 |**2024-02-15**|**Towards Federated Learning on the Quantum Internet**|Leo Sünkel et.al.|[2402.09902v1](http://arxiv.org/abs/2402.09902v1)|null|
@@ -1453,7 +1453,7 @@
 |**2023-08-24**|**Federated Learning of Causal Effects from Incomplete Observational Data**|Thanh Vinh Vo et.al.|[2308.13047v1](http://arxiv.org/abs/2308.13047v1)|**[link](https://github.com/vothanhvinh/causalfi)**|
 |**2023-08-24**|**LR-XFL: Logical Reasoning-based Explainable Federated Learning**|Yanci Zhang et.al.|[2308.12681v1](http://arxiv.org/abs/2308.12681v1)|**[link](https://github.com/yanci87/lr-xfl)**|
 |**2023-08-24**|**A Huber Loss Minimization Approach to Byzantine Robust Federated Learning**|Puning Zhao et.al.|[2308.12581v1](http://arxiv.org/abs/2308.12581v1)|null|
-|**2023-08-24**|**FedSoL: Bridging Global Alignment and Local Generality in Federated Learning**|Gihun Lee et.al.|[2308.12532v1](http://arxiv.org/abs/2308.12532v1)|null|
+|**2023-08-24**|**FedSoL: Bridging Global Alignment and Local Generality in Federated Learning**|Gihun Lee et.al.|[2308.12532v1](http://arxiv.org/abs/2308.12532v1)|**[link](https://github.com/Lee-Gihun/FedSOL)**|
 |**2023-08-24**|**Incentive Mechanism Design for Federated Learning and Unlearning**|Ningning Ding et.al.|[2308.12502v1](http://arxiv.org/abs/2308.12502v1)|null|
 |**2023-08-23**|**PFL-GAN: When Client Heterogeneity Meets Generative Models in Personalized Federated Learning**|Achintha Wijesinghe et.al.|[2308.12454v1](http://arxiv.org/abs/2308.12454v1)|null|
 |**2023-08-23**|**ULDP-FL: Federated Learning with Across Silo User-Level Differential Privacy**|Fumiyuki Kato et.al.|[2308.12210v1](http://arxiv.org/abs/2308.12210v1)|**[link](https://github.com/fumiyukikato/uldp-fl)**|
