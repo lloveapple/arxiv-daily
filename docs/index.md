@@ -1228,7 +1228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360v1](http://arxiv.org/abs/2407.09360v1)|null|
+|**2024-07-13**|**Harvesting Private Medical Images in Federated Learning Systems with Crafted Models**|Shanghao Shi et.al.|[2407.09972v1](http://arxiv.org/abs/2407.09972v1)|null|
+|**2024-07-13**|**Partner in Crime: Boosting Targeted Poisoning Attacks against Federated Learning**|Shihua Sun et.al.|[2407.09958v1](http://arxiv.org/abs/2407.09958v1)|null|
+|**2024-07-12**|**Private Heterogeneous Federated Learning Without a Trusted Server Revisited: Error-Optimal and Communication-Efficient Algorithms for Convex Losses**|Changyu Gao et.al.|[2407.09690v1](http://arxiv.org/abs/2407.09690v1)|null|
+|**2024-07-12**|**BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning**|Ning Wang et.al.|[2407.09658v1](http://arxiv.org/abs/2407.09658v1)|null|
+|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360v1](http://arxiv.org/abs/2407.09360v1)|**[link](https://github.com/wenh06/LCFL)**|
 |**2024-07-12**|**Provable Privacy Advantages of Decentralized Federated Learning via Distributed Optimization**|Wenrui Yu et.al.|[2407.09324v1](http://arxiv.org/abs/2407.09324v1)|null|
 |**2024-07-12**|**FedVAE: Trajectory privacy preserving based on Federated Variational AutoEncoder**|Yuchen Jiang et.al.|[2407.09239v1](http://arxiv.org/abs/2407.09239v1)|null|
 |**2024-07-12**|**Multi-Modal Dataset Creation for Federated~Learning with DICOM Structured Reports**|Malte Tölle et.al.|[2407.09064v1](http://arxiv.org/abs/2407.09064v1)|null|
