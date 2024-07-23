@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Parallel Split Learning with Global Sampling**|Mohammad Kohankhaki et.al.|[2407.15738v1](http://arxiv.org/abs/2407.15738v1)|null|
+|**2024-07-22**|**A Life-long Learning Intrusion Detection System for 6G-Enabled IoV**|Abdelaziz Amara korba et.al.|[2407.15700v1](http://arxiv.org/abs/2407.15700v1)|null|
+|**2024-07-22**|**A New Theoretical Perspective on Data Heterogeneity in Federated Optimization**|Jiayi Wang et.al.|[2407.15567v1](http://arxiv.org/abs/2407.15567v1)|null|
+|**2024-07-22**|**The Diversity Bonus: Learning from Dissimilar Distributed Clients in Personalized Federated Learning**|Xinghao Wu et.al.|[2407.15464v1](http://arxiv.org/abs/2407.15464v1)|null|
+|**2024-07-22**|**Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training**|Ye Lin Tun et.al.|[2407.15426v1](http://arxiv.org/abs/2407.15426v1)|null|
+|**2024-07-22**|**Tackling Selfish Clients in Federated Learning**|Andrea Augello et.al.|[2407.15402v1](http://arxiv.org/abs/2407.15402v1)|**[link](https://github.com/ndslab-group/RFL-Self)**|
+|**2024-07-22**|**Poisoning with A Pill: Circumventing Detection in Federated Learning**|Hanxi Guo et.al.|[2407.15389v1](http://arxiv.org/abs/2407.15389v1)|null|
+|**2024-07-21**|**A Learning-Based Attack Framework to Break SOTA Poisoning Defenses in Federated Learning**|Yuxin Yang et.al.|[2407.15267v1](http://arxiv.org/abs/2407.15267v1)|null|
+|**2024-07-21**|**PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning**|Luca Corbucci et.al.|[2407.15224v1](http://arxiv.org/abs/2407.15224v1)|null|
+|**2024-07-21**|**Privacy-Preserving Multi-Center Differential Protein Abundance Analysis with FedProt**|Yuliya Burankova et.al.|[2407.15220v1](http://arxiv.org/abs/2407.15220v1)|null|
 |**2024-07-19**|**Personalized Multi-tier Federated Learning**|Sourasekhar Banerjee et.al.|[2407.14251v1](http://arxiv.org/abs/2407.14251v1)|null|
 |**2024-07-19**|**Where is the Testbed for my Federated Learning Research?**|Janez Božič et.al.|[2407.14154v1](http://arxiv.org/abs/2407.14154v1)|null|
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111v1](http://arxiv.org/abs/2407.14111v1)|null|
