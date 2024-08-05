@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Improving Energy Efficiency in Federated Learning Through the Optimization of Communication Resources Scheduling of Wireless IoT Networks**|Renan R. de Oliveira et.al.|[2408.01286v1](http://arxiv.org/abs/2408.01286v1)|null|
+|**2024-08-01**|**Aggregation Models with Optimal Weights for Distributed Gaussian Processes**|Haoyuan Chen et.al.|[2408.00955v1](http://arxiv.org/abs/2408.00955v1)|null|
 |**2024-08-01**|**Mobility-Aware Federated Self-supervised Learning in Vehicular Network**|Xueying Gu et.al.|[2408.00256v1](http://arxiv.org/abs/2408.00256v1)|null|
 |**2024-08-01**|**Load Balancing in Federated Learning**|Alireza Javani et.al.|[2408.00217v1](http://arxiv.org/abs/2408.00217v1)|null|
 |**2024-07-31**|**Algorithms for Collaborative Machine Learning under Statistical Heterogeneity**|Seok-Ju Hahn et.al.|[2408.00050v1](http://arxiv.org/abs/2408.00050v1)|null|
@@ -2269,7 +2271,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
 
 ## MMS
 
@@ -2288,7 +2290,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

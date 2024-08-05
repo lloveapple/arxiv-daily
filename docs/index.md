@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Improving Energy Efficiency in Federated Learning Through the Optimization of Communication Resources Scheduling of Wireless IoT Networks**|Renan R. de Oliveira et.al.|[2408.01286v1](http://arxiv.org/abs/2408.01286v1)|null|
+|**2024-08-01**|**Aggregation Models with Optimal Weights for Distributed Gaussian Processes**|Haoyuan Chen et.al.|[2408.00955v1](http://arxiv.org/abs/2408.00955v1)|null|
 |**2024-08-01**|**Mobility-Aware Federated Self-supervised Learning in Vehicular Network**|Xueying Gu et.al.|[2408.00256v1](http://arxiv.org/abs/2408.00256v1)|null|
 |**2024-08-01**|**Load Balancing in Federated Learning**|Alireza Javani et.al.|[2408.00217v1](http://arxiv.org/abs/2408.00217v1)|null|
 |**2024-07-31**|**Algorithms for Collaborative Machine Learning under Statistical Heterogeneity**|Seok-Ju Hahn et.al.|[2408.00050v1](http://arxiv.org/abs/2408.00050v1)|null|
