@@ -2192,7 +2192,7 @@ layout: default
 |**2024-01-01**|**A review on different techniques used to combat the non-IID and heterogeneous nature of data in FL**|Venkataraman Natarajan Iyer et.al.|[2401.00809v1](http://arxiv.org/abs/2401.00809v1)|null|
 |**2024-01-01**|**Communication-Efficient Federated Learning for LEO Constellations Integrated with HAPs Using Hybrid NOMA-OFDM**|Mohamed Elmahallawy et.al.|[2401.00685v1](http://arxiv.org/abs/2401.00685v1)|null|
 |**2024-01-01**|**Federated Class-Incremental Learning with New-Class Augmented Self-Distillation**|Zhiyuan Wu et.al.|[2401.00622v1](http://arxiv.org/abs/2401.00622v1)|**[link](https://github.com/skylorh/FedCLASS)**|
-|**2023-12-31**|**Client-wise Modality Selection for Balanced Multi-modal Federated Learning**|Yunfeng Fan et.al.|[2401.00403v1](http://arxiv.org/abs/2401.00403v1)|null|
+|**2023-12-31**|**Client-wise Modality Selection for Balanced Multi-modal Federated Learning**|Yunfeng Fan et.al.|[2401.00403v1](http://arxiv.org/abs/2401.00403v1)|**[link](https://github.com/fanyunfeng-bit/balanced-modality-selection-in-mfl)**|
 |**2023-12-29**|**An Experimental Study of Satisfaction Response: Evaluation of Online Collaborative Learning**|Xusen Cheng et.al.|[2312.17722v1](http://arxiv.org/abs/2312.17722v1)|null|
 |**2023-12-29**|**RS-DGC: Exploring Neighborhood Statistics for Dynamic Gradient Compression on Remote Sensing Image Interpretation**|Weiying Xie et.al.|[2312.17530v1](http://arxiv.org/abs/2312.17530v1)|null|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493v1](http://arxiv.org/abs/2312.17493v1)|null|
