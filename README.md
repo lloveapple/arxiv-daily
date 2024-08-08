@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Optimizing NOMA Transmissions to Advance Federated Learning in Vehicular Networks**|Ziru Chen et.al.|[2408.03446v1](http://arxiv.org/abs/2408.03446v1)|null|
+|**2024-08-06**|**Deep Clustering via Distribution Learning**|Guanfang Dong et.al.|[2408.03407v1](http://arxiv.org/abs/2408.03407v1)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220v1](http://arxiv.org/abs/2408.03220v1)|null|
 |**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215v1](http://arxiv.org/abs/2408.03215v1)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
