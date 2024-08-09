@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442v1](http://arxiv.org/abs/2408.04442v1)|null|
+|**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315v1](http://arxiv.org/abs/2408.04315v1)|null|
+|**2024-08-08**|**Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit**|Duanyi Yao et.al.|[2408.04310v1](http://arxiv.org/abs/2408.04310v1)|null|
+|**2024-08-08**|**Tackling Noisy Clients in Federated Learning with End-to-end Label Correction**|Xuefeng Jiang et.al.|[2408.04301v1](http://arxiv.org/abs/2408.04301v1)|**[link](https://github.com/sprinter1999/fedelc)**|
 |**2024-08-06**|**Optimizing NOMA Transmissions to Advance Federated Learning in Vehicular Networks**|Ziru Chen et.al.|[2408.03446v1](http://arxiv.org/abs/2408.03446v1)|null|
 |**2024-08-06**|**Deep Clustering via Distribution Learning**|Guanfang Dong et.al.|[2408.03407v1](http://arxiv.org/abs/2408.03407v1)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220v1](http://arxiv.org/abs/2408.03220v1)|null|
