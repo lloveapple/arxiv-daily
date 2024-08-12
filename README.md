@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160v1](http://arxiv.org/abs/2408.05160v1)|null|
+|**2024-08-09**|**LiD-FL: Towards List-Decodable Federated Learning**|Hong Liu et.al.|[2408.04963v1](http://arxiv.org/abs/2408.04963v1)|null|
+|**2024-08-09**|**Privacy-Preserved Taxi Demand Prediction System Utilizing Distributed Data**|Ren Ozeki et.al.|[2408.04931v1](http://arxiv.org/abs/2408.04931v1)|null|
+|**2024-08-09**|**Locally Private Histograms in All Privacy Regimes**|Clément L. Canonne et.al.|[2408.04888v1](http://arxiv.org/abs/2408.04888v1)|null|
+|**2024-08-08**|**Counter Denial of Service for Next-Generation Networks within the Artificial Intelligence and Post-Quantum Era**|Saleh Darzi et.al.|[2408.04725v1](http://arxiv.org/abs/2408.04725v1)|null|
+|**2024-08-08**|**Overlay-based Decentralized Federated Learning in Bandwidth-limited Networks**|Yudi Huang et.al.|[2408.04705v1](http://arxiv.org/abs/2408.04705v1)|null|
 |**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442v1](http://arxiv.org/abs/2408.04442v1)|null|
 |**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315v1](http://arxiv.org/abs/2408.04315v1)|null|
 |**2024-08-08**|**Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit**|Duanyi Yao et.al.|[2408.04310v1](http://arxiv.org/abs/2408.04310v1)|null|
