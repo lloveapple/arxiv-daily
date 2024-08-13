@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Optimal Integrative Estimation for Distributed Precision Matrices with Heterogeneity Adjustment**|Yinrui Sun et.al.|[2408.06263v1](http://arxiv.org/abs/2408.06263v1)|null|
+|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v1](http://arxiv.org/abs/2408.06240v1)|null|
+|**2024-08-12**|**Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption**|Siyang Jiang et.al.|[2408.06197v1](http://arxiv.org/abs/2408.06197v1)|null|
+|**2024-08-12**|**Centralized and Federated Heart Disease Classification Models Using UCI Dataset and their Shapley-value Based Interpretability**|Mario Padilla Rodriguez et.al.|[2408.06183v1](http://arxiv.org/abs/2408.06183v1)|null|
+|**2024-08-12**|**Understanding Byzantine Robustness in Federated Learning with A Black-box Server**|Fangyuan Zhao et.al.|[2408.06042v1](http://arxiv.org/abs/2408.06042v1)|**[link](https://github.com/alibaba/federatedscope)**|
+|**2024-08-12**|**Online-Score-Aided Federated Learning: Taming the Resource Constraints in Wireless Networks**|Md Ferdous Pervej et.al.|[2408.05886v1](http://arxiv.org/abs/2408.05886v1)|null|
+|**2024-08-11**|**On the Convergence of a Federated Expectation-Maximization Algorithm**|Zhixu Tao et.al.|[2408.05819v1](http://arxiv.org/abs/2408.05819v1)|null|
+|**2024-08-11**|**Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas**|Judith Sáinz-Pardo Díaz et.al.|[2408.05761v1](http://arxiv.org/abs/2408.05761v1)|null|
+|**2024-08-11**|**Disposable-key-based image encryption for collaborative learning of Vision Transformer**|Rei Aso et.al.|[2408.05737v1](http://arxiv.org/abs/2408.05737v1)|null|
+|**2024-08-11**|**Efficient Federated Learning Using Dynamic Update and Adaptive Pruning with Momentum on Shared Server Data**|Ji Liu et.al.|[2408.05678v1](http://arxiv.org/abs/2408.05678v1)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160v1](http://arxiv.org/abs/2408.05160v1)|null|
 |**2024-08-09**|**LiD-FL: Towards List-Decodable Federated Learning**|Hong Liu et.al.|[2408.04963v1](http://arxiv.org/abs/2408.04963v1)|null|
 |**2024-08-09**|**Privacy-Preserved Taxi Demand Prediction System Utilizing Distributed Data**|Ren Ozeki et.al.|[2408.04931v1](http://arxiv.org/abs/2408.04931v1)|null|
