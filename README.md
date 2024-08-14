@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Heterogeneity: An Open Challenge for Federated On-board Machine Learning**|Maria Hartmann et.al.|[2408.06903v1](http://arxiv.org/abs/2408.06903v1)|null|
+|**2024-08-13**|**Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**|Hao Wang et.al.|[2408.06885v1](http://arxiv.org/abs/2408.06885v1)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701v1](http://arxiv.org/abs/2408.06701v1)|null|
+|**2024-08-13**|**Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**|Jieming Bian et.al.|[2408.06549v1](http://arxiv.org/abs/2408.06549v1)|null|
 |**2024-08-12**|**Optimal Integrative Estimation for Distributed Precision Matrices with Heterogeneity Adjustment**|Yinrui Sun et.al.|[2408.06263v1](http://arxiv.org/abs/2408.06263v1)|null|
 |**2024-08-13**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240v2](http://arxiv.org/abs/2408.06240v2)|null|
 |**2024-08-12**|**Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption**|Siyang Jiang et.al.|[2408.06197v1](http://arxiv.org/abs/2408.06197v1)|null|
