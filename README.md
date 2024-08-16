@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214v1](http://arxiv.org/abs/2408.08214v1)|**[link](https://github.com/oscardilley/federated-fairness)**|
+|**2024-08-15**|**Communication-robust and Privacy-safe Distributed Estimation for Heterogeneous Community-level Behind-the-meter Solar Power Generation**|Jinglei Feng et.al.|[2408.08107v1](http://arxiv.org/abs/2408.08107v1)|null|
+|**2024-08-15**|**Addressing Skewed Heterogeneity via Federated Prototype Rectification with Personalization**|Shunxin Guo et.al.|[2408.07966v1](http://arxiv.org/abs/2408.07966v1)|null|
+|**2024-08-14**|**Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning**|Musa Taib et.al.|[2408.07845v1](http://arxiv.org/abs/2408.07845v1)|null|
+|**2024-08-14**|**Out-of-Distribution Learning with Human Feedback**|Haoyue Bai et.al.|[2408.07772v1](http://arxiv.org/abs/2408.07772v1)|null|
 |**2024-08-14**|**FedQUIT: On-Device Federated Unlearning via a Quasi-Competent Virtual Teacher**|Alessio Mora et.al.|[2408.07587v1](http://arxiv.org/abs/2408.07587v1)|null|
 |**2024-08-14**|**Predicting the distributions of stock returns around the globe in the era of big data and learning**|Jozef Barunik et.al.|[2408.07497v1](http://arxiv.org/abs/2408.07497v1)|null|
 |**2024-08-13**|**FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method**|Shihua Sun et.al.|[2408.07152v1](http://arxiv.org/abs/2408.07152v1)|null|
