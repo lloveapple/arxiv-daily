@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Multi-agent Multi-armed Bandits with Stochastic Sharable Arm Capacities**|Hong Xie et.al.|[2408.10865v1](http://arxiv.org/abs/2408.10865v1)|null|
+|**2024-08-20**|**NeuLite: Memory-Efficient Federated Learning via Elastic Progressive Training**|Yebo Wu et.al.|[2408.10826v1](http://arxiv.org/abs/2408.10826v1)|null|
+|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752v1](http://arxiv.org/abs/2408.10752v1)|null|
+|**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664v1](http://arxiv.org/abs/2408.10664v1)|null|
+|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456v1](http://arxiv.org/abs/2408.10456v1)|null|
+|**2024-08-19**|**Federated Learning of Large ASR Models in the Real World**|Yonghui Xiao et.al.|[2408.10443v1](http://arxiv.org/abs/2408.10443v1)|null|
 |**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090v1](http://arxiv.org/abs/2408.10090v1)|null|
 |**2024-08-19**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v1](http://arxiv.org/abs/2408.10024v1)|null|
 |**2024-08-19**|**Sequential Federated Learning in Hierarchical Architecture on Non-IID Datasets**|Xingrun Yan et.al.|[2408.09762v1](http://arxiv.org/abs/2408.09762v1)|null|
