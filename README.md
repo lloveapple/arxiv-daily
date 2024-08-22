@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456v1](http://arxiv.org/abs/2408.10456v1)|null|
 |**2024-08-19**|**Federated Learning of Large ASR Models in the Real World**|Yonghui Xiao et.al.|[2408.10443v1](http://arxiv.org/abs/2408.10443v1)|null|
 |**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090v1](http://arxiv.org/abs/2408.10090v1)|null|
-|**2024-08-19**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v1](http://arxiv.org/abs/2408.10024v1)|null|
+|**2024-08-21**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v2](http://arxiv.org/abs/2408.10024v2)|null|
 |**2024-08-19**|**Sequential Federated Learning in Hierarchical Architecture on Non-IID Datasets**|Xingrun Yan et.al.|[2408.09762v1](http://arxiv.org/abs/2408.09762v1)|null|
 |**2024-08-18**|**Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment**|Tatjana Legler et.al.|[2408.09556v1](http://arxiv.org/abs/2408.09556v1)|null|
 |**2024-08-18**|**Seamless Integration: Sampling Strategies in Federated Learning Systems**|Tatjana Legler et.al.|[2408.09545v1](http://arxiv.org/abs/2408.09545v1)|null|
@@ -2344,7 +2344,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## MMS
 
@@ -2363,7 +2363,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

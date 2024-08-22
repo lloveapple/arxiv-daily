@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1235,7 +1235,7 @@ layout: default
 |**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456v1](http://arxiv.org/abs/2408.10456v1)|null|
 |**2024-08-19**|**Federated Learning of Large ASR Models in the Real World**|Yonghui Xiao et.al.|[2408.10443v1](http://arxiv.org/abs/2408.10443v1)|null|
 |**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090v1](http://arxiv.org/abs/2408.10090v1)|null|
-|**2024-08-19**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v1](http://arxiv.org/abs/2408.10024v1)|null|
+|**2024-08-21**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v2](http://arxiv.org/abs/2408.10024v2)|null|
 |**2024-08-19**|**Sequential Federated Learning in Hierarchical Architecture on Non-IID Datasets**|Xingrun Yan et.al.|[2408.09762v1](http://arxiv.org/abs/2408.09762v1)|null|
 |**2024-08-18**|**Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment**|Tatjana Legler et.al.|[2408.09556v1](http://arxiv.org/abs/2408.09556v1)|null|
 |**2024-08-18**|**Seamless Integration: Sampling Strategies in Federated Learning Systems**|Tatjana Legler et.al.|[2408.09545v1](http://arxiv.org/abs/2408.09545v1)|null|
