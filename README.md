@@ -33,9 +33,9 @@
 |**2024-08-20**|**NeuLite: Memory-Efficient Federated Learning via Elastic Progressive Training**|Yebo Wu et.al.|[2408.10826v1](http://arxiv.org/abs/2408.10826v1)|null|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752v1](http://arxiv.org/abs/2408.10752v1)|null|
 |**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664v1](http://arxiv.org/abs/2408.10664v1)|null|
-|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456v1](http://arxiv.org/abs/2408.10456v1)|null|
+|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456v1](http://arxiv.org/abs/2408.10456v1)|**[link](https://github.com/star-ailab/FSRDP)**|
 |**2024-08-19**|**Federated Learning of Large ASR Models in the Real World**|Yonghui Xiao et.al.|[2408.10443v1](http://arxiv.org/abs/2408.10443v1)|null|
-|**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090v1](http://arxiv.org/abs/2408.10090v1)|null|
+|**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090v1](http://arxiv.org/abs/2408.10090v1)|**[link](https://github.com/sourasb05/Federated-Frank-Wolfe)**|
 |**2024-08-21**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024v2](http://arxiv.org/abs/2408.10024v2)|null|
 |**2024-08-19**|**Sequential Federated Learning in Hierarchical Architecture on Non-IID Datasets**|Xingrun Yan et.al.|[2408.09762v1](http://arxiv.org/abs/2408.09762v1)|null|
 |**2024-08-18**|**Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment**|Tatjana Legler et.al.|[2408.09556v1](http://arxiv.org/abs/2408.09556v1)|null|
@@ -44,7 +44,7 @@
 |**2024-08-18**|**Orchestrating Federated Learning in Space-Air-Ground Integrated Networks: Adaptive Data Offloading and Seamless Handover**|Dong-Jun Han et.al.|[2408.09522v1](http://arxiv.org/abs/2408.09522v1)|null|
 |**2024-08-18**|**Mitigating Noise Detriment in Differentially Private Federated Learning with Model Pre-training**|Huitong Jin et.al.|[2408.09478v1](http://arxiv.org/abs/2408.09478v1)|null|
 |**2024-08-18**|**Federated Graph Learning with Structure Proxy Alignment**|Xingbo Fu et.al.|[2408.09393v1](http://arxiv.org/abs/2408.09393v1)|**[link](https://github.com/xbfu/fedspray)**|
-|**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227v1](http://arxiv.org/abs/2408.09227v1)|null|
+|**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227v1](http://arxiv.org/abs/2408.09227v1)|**[link](https://github.com/psudslab/FEDMEKI)**|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868v1](http://arxiv.org/abs/2408.08868v1)|null|
 |**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722v1](http://arxiv.org/abs/2408.08722v1)|null|
 |**2024-08-16**|**RBLA: Rank-Based-LoRA-Aggregation for Fine-tuning Heterogeneous Models in FLaaS**|Shuaijun Chen et.al.|[2408.08699v1](http://arxiv.org/abs/2408.08699v1)|null|
@@ -343,7 +343,7 @@
 |**2024-06-09**|**Comments on "Federated Learning with Differential Privacy: Algorithms and Performance Analysis"**|Mahtab Talaei et.al.|[2406.05858v1](http://arxiv.org/abs/2406.05858v1)|null|
 |**2024-06-09**|**General Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666v1](http://arxiv.org/abs/2406.05666v1)|null|
 |**2024-06-08**|**Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey**|Shinu M. Rajagopal et.al.|[2406.05517v1](http://arxiv.org/abs/2406.05517v1)|null|
-|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387v1](http://arxiv.org/abs/2406.05387v1)|**[link](https://github.com/hi-weiyuan/PTF-FSR)**|
 |**2024-06-07**|**Federated LoRA with Sparse Communication**|Kevin Kuo et.al.|[2406.05233v1](http://arxiv.org/abs/2406.05233v1)|null|
 |**2024-06-07**|**Auto-Multilift: Distributed Learning and Control for Cooperative Load Transportation With Quadrotors**|Bingheng Wang et.al.|[2406.04858v1](http://arxiv.org/abs/2406.04858v1)|**[link](https://github.com/RCL-NUS/Auto-Multilift)**|
 |**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845v1](http://arxiv.org/abs/2406.04845v1)|**[link](https://github.com/rui-ye/fedllm-bench)**|
@@ -810,7 +810,7 @@
 |**2024-02-29**|**SeD: Semantic-Aware Discriminator for Image Super-Resolution**|Bingchen Li et.al.|[2402.19387v1](http://arxiv.org/abs/2402.19387v1)|**[link](https://github.com/lbc12345/sed)**|
 |**2024-02-29**|**Structure Preserving Diffusion Models**|Haoye Lu et.al.|[2402.19369v1](http://arxiv.org/abs/2402.19369v1)|null|
 |**2024-02-29**|**FedStruct: Federated Decoupled Learning over Interconnected Graphs**|Javad Aliakbari et.al.|[2402.19163v1](http://arxiv.org/abs/2402.19163v1)|null|
-|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105v1](http://arxiv.org/abs/2402.19105v1)|null|
+|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105v1](http://arxiv.org/abs/2402.19105v1)|**[link](https://github.com/simeonallmendinger/collafuse_imagen)**|
 |**2024-02-29**|**RobWE: Robust Watermark Embedding for Personalized Federated Learning Model Ownership Protection**|Yang Xu et.al.|[2402.19054v1](http://arxiv.org/abs/2402.19054v1)|null|
 |**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016v1](http://arxiv.org/abs/2402.19016v1)|null|
 |**2024-02-29**|**PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation**|Mayar Elfares et.al.|[2402.18970v1](http://arxiv.org/abs/2402.18970v1)|null|
