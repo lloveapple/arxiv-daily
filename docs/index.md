@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1231,7 +1231,7 @@ layout: default
 |**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803v1](http://arxiv.org/abs/2408.15803v1)|null|
 |**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621v1](http://arxiv.org/abs/2408.15621v1)|null|
 |**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600v1](http://arxiv.org/abs/2408.15600v1)|null|
-|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v1](http://arxiv.org/abs/2408.15591v1)|**[link](https://github.com/blingcho/vflip-esorics24)**|
+|**2024-08-29**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v2](http://arxiv.org/abs/2408.15591v2)|**[link](https://github.com/blingcho/vflip-esorics24)**|
 |**2024-08-27**|**Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning**|Zichen Tang et.al.|[2408.14736v1](http://arxiv.org/abs/2408.14736v1)|null|
 |**2024-08-27**|**PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework with Correlated Differential Privacy**|Xianzhi Zhang et.al.|[2408.14735v1](http://arxiv.org/abs/2408.14735v1)|null|
 |**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689v1](http://arxiv.org/abs/2408.14689v1)|**[link](https://github.com/lili1013/fupm)**|
