@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763v1](http://arxiv.org/abs/2409.02763v1)|null|
+|**2024-09-04**|**A Joint Time and Energy-Efficient Federated Learning-based Computation Offloading Method for Mobile Edge Computing**|Anwesha Mukherjee et.al.|[2409.02548v1](http://arxiv.org/abs/2409.02548v1)|null|
+|**2024-09-04**|**CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation**|Hao Wu et.al.|[2409.02495v1](http://arxiv.org/abs/2409.02495v1)|null|
+|**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346v1](http://arxiv.org/abs/2409.02346v1)|null|
+|**2024-09-03**|**Collaboratively Learning Federated Models from Noisy Decentralized Data**|Haoyuan Li et.al.|[2409.02189v1](http://arxiv.org/abs/2409.02189v1)|null|
+|**2024-09-03**|**Personalized Federated Learning via Active Sampling**|Alexander Jung et.al.|[2409.02064v1](http://arxiv.org/abs/2409.02064v1)|null|
+|**2024-09-03**|**FedMinds: Privacy-Preserving Personalized Brain Visual Decoding**|Guangyin Bao et.al.|[2409.02044v1](http://arxiv.org/abs/2409.02044v1)|null|
+|**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900v1](http://arxiv.org/abs/2409.01900v1)|null|
+|**2024-09-03**|**Federated Prediction-Powered Inference from Decentralized Data**|Ping Luo et.al.|[2409.01730v1](http://arxiv.org/abs/2409.01730v1)|null|
+|**2024-09-03**|**ACCESS-FL: Agile Communication and Computation for Efficient Secure Aggregation in Stable Federated Learning Networks**|Niousha Nazemi et.al.|[2409.01722v1](http://arxiv.org/abs/2409.01722v1)|**[link](https://github.com/SeeAccessFL/ACCESS-FL)**|
 |**2024-08-30**|**Democratizing AI in Africa: FL for Low-Resource Edge Devices**|Jorge Fabila et.al.|[2408.17216v1](http://arxiv.org/abs/2408.17216v1)|null|
 |**2024-08-30**|**Asynchronous Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2408.17156v1](http://arxiv.org/abs/2408.17156v1)|null|
 |**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145v1](http://arxiv.org/abs/2408.17145v1)|**[link](https://github.com/zk23du/fedli)**|
