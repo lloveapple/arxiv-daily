@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1237,7 +1237,7 @@ layout: default
 |**2024-09-03**|**FedMinds: Privacy-Preserving Personalized Brain Visual Decoding**|Guangyin Bao et.al.|[2409.02044v1](http://arxiv.org/abs/2409.02044v1)|null|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900v1](http://arxiv.org/abs/2409.01900v1)|null|
 |**2024-09-03**|**Federated Prediction-Powered Inference from Decentralized Data**|Ping Luo et.al.|[2409.01730v1](http://arxiv.org/abs/2409.01730v1)|null|
-|**2024-09-03**|**ACCESS-FL: Agile Communication and Computation for Efficient Secure Aggregation in Stable Federated Learning Networks**|Niousha Nazemi et.al.|[2409.01722v1](http://arxiv.org/abs/2409.01722v1)|**[link](https://github.com/SeeAccessFL/ACCESS-FL)**|
+|**2024-09-05**|**ACCESS-FL: Agile Communication and Computation for Efficient Secure Aggregation in Stable Federated Learning Networks**|Niousha Nazemi et.al.|[2409.01722v2](http://arxiv.org/abs/2409.01722v2)|**[link](https://github.com/SeeAccessFL/ACCESS-FL)**|
 |**2024-08-30**|**Democratizing AI in Africa: FL for Low-Resource Edge Devices**|Jorge Fabila et.al.|[2408.17216v1](http://arxiv.org/abs/2408.17216v1)|null|
 |**2024-08-30**|**Asynchronous Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2408.17156v1](http://arxiv.org/abs/2408.17156v1)|null|
 |**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145v1](http://arxiv.org/abs/2408.17145v1)|**[link](https://github.com/zk23du/fedli)**|
