@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Provable Hyperparameter Tuning for Structured Pfaffian Settings**|Maria-Florina Balcan et.al.|[2409.04367v1](http://arxiv.org/abs/2409.04367v1)|null|
+|**2024-09-06**|**Active-Passive Federated Learning for Vertically Partitioned Multi-view Data**|Jiyuan Liu et.al.|[2409.04111v1](http://arxiv.org/abs/2409.04111v1)|null|
+|**2024-09-06**|**Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression**|Zhenxiao Zhang et.al.|[2409.04022v1](http://arxiv.org/abs/2409.04022v1)|null|
+|**2024-09-05**|**Image Recognition for Garbage Classification Based on Pixel Distribution Learning**|Jenil Kanani et.al.|[2409.03913v1](http://arxiv.org/abs/2409.03913v1)|null|
+|**2024-09-05**|**Can We Theoretically Quantify the Impacts of Local Updates on the Generalization Performance of Federated Learning?**|Peizhong Ju et.al.|[2409.03863v1](http://arxiv.org/abs/2409.03863v1)|null|
 |**2024-09-05**|**Wind turbine condition monitoring based on intra- and inter-farm federated learning**|Albin Grataloup et.al.|[2409.03672v1](http://arxiv.org/abs/2409.03672v1)|**[link](https://github.com/EnergyWeatherAI/FL-Wind-NBM)**|
 |**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612v1](http://arxiv.org/abs/2409.03612v1)|null|
 |**2024-09-05**|**Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation**|Li Wang et.al.|[2409.03294v1](http://arxiv.org/abs/2409.03294v1)|null|
