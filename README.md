@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858v1](http://arxiv.org/abs/2409.08858v1)|null|
+|**2024-09-13**|**Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering**|Changxin Liu et.al.|[2409.08640v1](http://arxiv.org/abs/2409.08640v1)|null|
+|**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538v1](http://arxiv.org/abs/2409.08538v1)|null|
+|**2024-09-13**|**Enhancing Privacy in ControlNet and Stable Diffusion via Split Learning**|Dixi Yao et.al.|[2409.08503v1](http://arxiv.org/abs/2409.08503v1)|null|
+|**2024-09-13**|**Research on Data Right Confirmation Mechanism of Federated Learning based on Blockchain**|Xiaogang Cheng et.al.|[2409.08476v1](http://arxiv.org/abs/2409.08476v1)|null|
+|**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372v1](http://arxiv.org/abs/2409.08372v1)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237v1](http://arxiv.org/abs/2409.08237v1)|null|
 |**2024-09-12**|**Privacy-preserving federated prediction of pain intensity change based on multi-center survey data**|Supratim Das et.al.|[2409.07997v1](http://arxiv.org/abs/2409.07997v1)|null|
 |**2024-09-12**|**Over-the-Air Federated Learning via Weighted Aggregation**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.07822v1](http://arxiv.org/abs/2409.07822v1)|null|
