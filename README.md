@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392v1](http://arxiv.org/abs/2409.10392v1)|null|
+|**2024-09-15**|**Federated Learning in Adversarial Environments: Testbed Design and Poisoning Resilience in Cybersecurity**|Hao Jian Huang et.al.|[2409.09794v1](http://arxiv.org/abs/2409.09794v1)|null|
+|**2024-09-15**|**From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare**|Ming Li et.al.|[2409.09727v1](http://arxiv.org/abs/2409.09727v1)|null|
+|**2024-09-14**|**Using Synthetic Data to Mitigate Unfairness and Preserve Privacy through Single-Shot Federated Learning**|Chia-Yuan Wu et.al.|[2409.09532v1](http://arxiv.org/abs/2409.09532v1)|null|
+|**2024-09-14**|**Leveraging Foundation Models for Efficient Federated Learning in Resource-restricted Edge Networks**|S. Kawa Atapour et.al.|[2409.09273v1](http://arxiv.org/abs/2409.09273v1)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858v1](http://arxiv.org/abs/2409.08858v1)|null|
 |**2024-09-13**|**Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering**|Changxin Liu et.al.|[2409.08640v1](http://arxiv.org/abs/2409.08640v1)|null|
 |**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538v1](http://arxiv.org/abs/2409.08538v1)|null|
