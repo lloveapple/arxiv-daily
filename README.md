@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**FedLF: Adaptive Logit Adjustment and Feature Optimization in Federated Long-Tailed Learning**|Xiuhua Lu et.al.|[2409.12105v1](http://arxiv.org/abs/2409.12105v1)|**[link](https://github.com/18sym/fedlf)**|
+|**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020v1](http://arxiv.org/abs/2409.12020v1)|null|
+|**2024-09-17**|**Self-Contrastive Forward-Forward Algorithm**|Xing Chen et.al.|[2409.11593v1](http://arxiv.org/abs/2409.11593v1)|null|
+|**2024-09-17**|**Advances in APPFL: A Comprehensive and Extensible Federated Learning Framework**|Zilinghan Li et.al.|[2409.11585v1](http://arxiv.org/abs/2409.11585v1)|**[link](https://github.com/appfl/appfl)**|
+|**2024-09-17**|**FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**|Ziwei Li et.al.|[2409.11509v1](http://arxiv.org/abs/2409.11509v1)|null|
+|**2024-09-16**|**A Green Multi-Attribute Client Selection for Over-The-Air Federated Learning: A Grey-Wolf-Optimizer Approach**|Maryam Ben Driss et.al.|[2409.11442v1](http://arxiv.org/abs/2409.11442v1)|null|
 |**2024-09-17**|**A Scalable Game Theoretic Approach for Coordination of Multiple Dynamic Systems**|Mostafa M. Shibl et.al.|[2409.11358v1](http://arxiv.org/abs/2409.11358v1)|null|
 |**2024-09-17**|**Federated Learning with Integrated Sensing, Communication, and Computation: Frameworks and Performance Analysis**|Yipeng Liang et.al.|[2409.11240v1](http://arxiv.org/abs/2409.11240v1)|null|
 |**2024-09-16**|**Federated Learning for Smart Grid: A Survey on Applications and Potential Vulnerabilities**|Zikai Zhang et.al.|[2409.10764v1](http://arxiv.org/abs/2409.10764v1)|null|
