@@ -813,7 +813,7 @@
 |**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371v1](http://arxiv.org/abs/2403.14371v1)|**[link](https://github.com/axedge1983/li)**|
 |**2024-03-21**|**Advancing IIoT with Over-the-Air Federated Learning: The Role of Iterative Magnitude Pruning**|Fazal Muhammad Ali Khan et.al.|[2403.14120v1](http://arxiv.org/abs/2403.14120v1)|null|
 |**2024-03-21**|**Text-Enhanced Data-free Approach for Federated Class-Incremental Learning**|Minh-Tuan Tran et.al.|[2403.14101v1](http://arxiv.org/abs/2403.14101v1)|**[link](https://github.com/tmtuan1307/lander)**|
-|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|**[link](https://github.com/LTTM/HyperFLAW)**|
 |**2024-03-20**|**Leveraging feature communication in federated learning for remote sensing image classification**|Anh-Kiet Duong et.al.|[2403.13575v1](http://arxiv.org/abs/2403.13575v1)|null|
 |**2024-03-20**|**Byzantine-resilient Federated Learning With Adaptivity to Data Heterogeneity**|Shiyuan Zuo et.al.|[2403.13374v1](http://arxiv.org/abs/2403.13374v1)|null|
 |**2024-03-20**|**Decentralized Federated Learning: Model Update Tracking Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2403.13247v1](http://arxiv.org/abs/2403.13247v1)|null|
@@ -1174,7 +1174,7 @@
 |**2023-12-27**|**A Theoretical Analysis of Efficiency Constrained Utility-Privacy Bi-Objective Optimization in Federated Learning**|Hanlin Gu et.al.|[2312.16554v1](http://arxiv.org/abs/2312.16554v1)|null|
 |**2023-12-27**|**Federated Continual Learning via Knowledge Fusion: A Survey**|Xin Yang et.al.|[2312.16475v1](http://arxiv.org/abs/2312.16475v1)|null|
 |**2023-12-26**|**Smuche: Scalar-Multiplicative Caching in Homomorphic Encryption**|Dongfang Zhao et.al.|[2312.16352v1](http://arxiv.org/abs/2312.16352v1)|null|
-|**2023-12-26**|**Harnessing the Power of Federated Learning in Federated Contextual Bandits**|Chengshuai Shi et.al.|[2312.16341v1](http://arxiv.org/abs/2312.16341v1)|null|
+|**2023-12-26**|**Harnessing the Power of Federated Learning in Federated Contextual Bandits**|Chengshuai Shi et.al.|[2312.16341v1](http://arxiv.org/abs/2312.16341v1)|**[link](https://github.com/shengroup/fedigw)**|
 |**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966v1](http://arxiv.org/abs/2312.15966v1)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926v1](http://arxiv.org/abs/2312.15926v1)|null|
 |**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799v1](http://arxiv.org/abs/2312.15799v1)|null|
@@ -2154,7 +2154,7 @@
 |**2023-05-18**|**FedMR: Federated Learning via Model Recombination**|Ming Hu et.al.|[2305.10730v1](http://arxiv.org/abs/2305.10730v1)|null|
 |**2023-05-17**|**DualFL: A Duality-based Federated Learning Algorithm with Communication Acceleration in the General Convex Regime**|Jongho Park et.al.|[2305.10294v1](http://arxiv.org/abs/2305.10294v1)|null|
 |**2023-05-17**|**Over-the-Air Federated Learning in MIMO Cloud-RAN Systems**|Haoming Ma et.al.|[2305.10000v1](http://arxiv.org/abs/2305.10000v1)|null|
-|**2023-05-17**|**Mitigating Group Bias in Federated Learning: Beyond Local Fairness**|Ganghua Wang et.al.|[2305.09931v1](http://arxiv.org/abs/2305.09931v1)|null|
+|**2023-05-17**|**Mitigating Group Bias in Federated Learning: Beyond Local Fairness**|Ganghua Wang et.al.|[2305.09931v1](http://arxiv.org/abs/2305.09931v1)|**[link](https://github.com/KeyWgh/FedGFT)**|
 |**2023-05-16**|**Keep It Simple: Fault Tolerance Evaluation of Federated Learning with Unreliable Clients**|Victoria Huang et.al.|[2305.09856v1](http://arxiv.org/abs/2305.09856v1)|null|
 |**2023-05-16**|**Faster Federated Learning with Decaying Number of Local SGD Steps**|Jed Mills et.al.|[2305.09628v1](http://arxiv.org/abs/2305.09628v1)|null|
 |**2023-05-16**|**Contrastive Label Enhancement**|Yifei Wang et.al.|[2305.09500v1](http://arxiv.org/abs/2305.09500v1)|null|
