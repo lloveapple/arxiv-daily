@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1237,7 +1237,7 @@ layout: default
 |**2024-09-17**|**A Scalable Game Theoretic Approach for Coordination of Multiple Dynamic Systems**|Mostafa M. Shibl et.al.|[2409.11358v1](http://arxiv.org/abs/2409.11358v1)|null|
 |**2024-09-17**|**Federated Learning with Integrated Sensing, Communication, and Computation: Frameworks and Performance Analysis**|Yipeng Liang et.al.|[2409.11240v1](http://arxiv.org/abs/2409.11240v1)|null|
 |**2024-09-16**|**Federated Learning for Smart Grid: A Survey on Applications and Potential Vulnerabilities**|Zikai Zhang et.al.|[2409.10764v1](http://arxiv.org/abs/2409.10764v1)|null|
-|**2024-09-20**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392v2](http://arxiv.org/abs/2409.10392v2)|**[link](https://github.com/russelljeffrey/TPFL_Tsetlin-Personalized-Federated-Learning-with-Confidence-Based-Clustering)**|
+|**2024-09-20**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392v2](http://arxiv.org/abs/2409.10392v2)|**[link](https://github.com/russelljeffrey/TPFL)**|
 |**2024-09-15**|**Federated Learning in Adversarial Environments: Testbed Design and Poisoning Resilience in Cybersecurity**|Hao Jian Huang et.al.|[2409.09794v1](http://arxiv.org/abs/2409.09794v1)|null|
 |**2024-09-15**|**From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare**|Ming Li et.al.|[2409.09727v1](http://arxiv.org/abs/2409.09727v1)|null|
 |**2024-09-14**|**Using Synthetic Data to Mitigate Unfairness and Preserve Privacy through Single-Shot Federated Learning**|Chia-Yuan Wu et.al.|[2409.09532v1](http://arxiv.org/abs/2409.09532v1)|null|
