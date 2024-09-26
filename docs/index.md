@@ -1228,6 +1228,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning**|Nathaniel Hudson et.al.|[2409.16495v1](http://arxiv.org/abs/2409.16495v1)|null|
+|**2024-09-24**|**Communication and Energy Efficient Federated Learning using Zero-Order Optimization Technique**|Elissa Mhanna et.al.|[2409.16456v1](http://arxiv.org/abs/2409.16456v1)|null|
+|**2024-09-24**|**Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review**|Nikolas Koutsoubis et.al.|[2409.16340v1](http://arxiv.org/abs/2409.16340v1)|null|
 |**2024-09-25**|**Historical Trajectory Assisted Zeroth-Order Federated Optimization**|Xiaoyu He et.al.|[2409.15955v2](http://arxiv.org/abs/2409.15955v2)|null|
 |**2024-09-24**|**Self-supervised Shape Completion via Involution and Implicit Correspondences**|Mengya Liu et.al.|[2409.15939v1](http://arxiv.org/abs/2409.15939v1)|**[link](https://github.com/lmy1001/self-supervised-shape-completion)**|
 |**2024-09-25**|**FedRepOpt: Gradient Re-parameterized Optimizers in Federated Learning**|Kin Wai Lau et.al.|[2409.15898v2](http://arxiv.org/abs/2409.15898v2)|null|
