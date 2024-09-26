@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Historical Trajectory Assisted Zeroth-Order Federated Optimization**|Xiaoyu He et.al.|[2409.15955v2](http://arxiv.org/abs/2409.15955v2)|null|
+|**2024-09-24**|**Self-supervised Shape Completion via Involution and Implicit Correspondences**|Mengya Liu et.al.|[2409.15939v1](http://arxiv.org/abs/2409.15939v1)|**[link](https://github.com/lmy1001/self-supervised-shape-completion)**|
+|**2024-09-25**|**FedRepOpt: Gradient Re-parameterized Optimizers in Federated Learning**|Kin Wai Lau et.al.|[2409.15898v2](http://arxiv.org/abs/2409.15898v2)|null|
+|**2024-09-24**|**A Multi-Level Approach for Class Imbalance Problem in Federated Learning for Remote Industry 4.0 Applications**|Razin Farhan Hussain et.al.|[2409.15802v1](http://arxiv.org/abs/2409.15802v1)|null|
+|**2024-09-24**|**Evolving Topics in Federated Learning: Trends, and Emerging Directions for IS**|Md Raihan Uddin et.al.|[2409.15773v1](http://arxiv.org/abs/2409.15773v1)|null|
+|**2024-09-24**|**Federated Large Language Models: Current Progress and Future Directions**|Yuhang Yao et.al.|[2409.15723v1](http://arxiv.org/abs/2409.15723v1)|null|
+|**2024-09-24**|**Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT**|Jixuan Cui et.al.|[2409.15711v1](http://arxiv.org/abs/2409.15711v1)|null|
+|**2024-09-24**|**Personalized Federated Learning via Backbone Self-Distillation**|Pengju Wang et.al.|[2409.15636v1](http://arxiv.org/abs/2409.15636v1)|null|
+|**2024-09-23**|**Stalactite: Toolbox for Fast Prototyping of Vertical Federated Learning Systems**|Anastasiia Zakharova et.al.|[2409.15558v1](http://arxiv.org/abs/2409.15558v1)|null|
+|**2024-09-23**|**Peer-to-Peer Learning Dynamics of Wide Neural Networks**|Shreyas Chaudhari et.al.|[2409.15267v1](http://arxiv.org/abs/2409.15267v1)|null|
 |**2024-09-18**|**FedLF: Adaptive Logit Adjustment and Feature Optimization in Federated Long-Tailed Learning**|Xiuhua Lu et.al.|[2409.12105v1](http://arxiv.org/abs/2409.12105v1)|**[link](https://github.com/18sym/fedlf)**|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020v1](http://arxiv.org/abs/2409.12020v1)|null|
 |**2024-09-17**|**Self-Contrastive Forward-Forward Algorithm**|Xing Chen et.al.|[2409.11593v1](http://arxiv.org/abs/2409.11593v1)|null|
@@ -2451,7 +2461,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## MMS
 
@@ -2470,7 +2480,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
