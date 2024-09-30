@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs**|Yan Sun et.al.|[2409.18915v1](http://arxiv.org/abs/2409.18915v1)|null|
+|**2024-09-27**|**In-depth Analysis of Privacy Threats in Federated Learning for Medical Data**|Badhan Chandra Das et.al.|[2409.18907v1](http://arxiv.org/abs/2409.18907v1)|null|
+|**2024-09-27**|**Hierarchical Federated ADMM**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.18796v1](http://arxiv.org/abs/2409.18796v1)|null|
+|**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718v1](http://arxiv.org/abs/2409.18718v1)|null|
+|**2024-09-27**|**An Enhanced Federated Prototype Learning Method under Domain Shift**|Liang Kuang et.al.|[2409.18578v1](http://arxiv.org/abs/2409.18578v1)|null|
+|**2024-09-27**|**HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting**|Shuowei Cai et.al.|[2409.18482v1](http://arxiv.org/abs/2409.18482v1)|null|
+|**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461v1](http://arxiv.org/abs/2409.18461v1)|**[link](https://github.com/mmorafah/takfl)**|
+|**2024-09-27**|**Hierarchical Federated Learning with Multi-Timescale Gradient Correction**|Wenzhi Fang et.al.|[2409.18448v1](http://arxiv.org/abs/2409.18448v1)|**[link](https://github.com/wenzhifang/mtgc)**|
+|**2024-09-27**|**FedDCL: a federated data collaboration learning as a hybrid-type privacy-preserving framework based on federated learning and data collaboration**|Akira Imakura et.al.|[2409.18356v1](http://arxiv.org/abs/2409.18356v1)|null|
+|**2024-09-26**|**Leader Selection and Follower Association for UE-centric Distributed Learning in Future Wireless Networks**|Saeedeh Parsaeefard et.al.|[2409.18268v1](http://arxiv.org/abs/2409.18268v1)|null|
 |**2024-09-26**|**Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models**|Hui-Po Wang et.al.|[2409.17836v1](http://arxiv.org/abs/2409.17836v1)|null|
 |**2024-09-26**|**Federated Learning under Attack: Improving Gradient Inversion for Batch of Images**|Luiz Leite et.al.|[2409.17767v1](http://arxiv.org/abs/2409.17767v1)|null|
 |**2024-09-26**|**Byzantine-Robust Aggregation for Securing Decentralized Federated Learning**|Diego Cajaraville-Aboy et.al.|[2409.17754v1](http://arxiv.org/abs/2409.17754v1)|null|
