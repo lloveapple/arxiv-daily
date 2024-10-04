@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Data Similarity-Based One-Shot Clustering for Multi-Task Hierarchical Federated Learning**|Abdulmoneam Ali et.al.|[2410.02733v1](http://arxiv.org/abs/2410.02733v1)|null|
+|**2024-10-03**|**Personalized Quantum Federated Learning for Privacy Image Classification**|Jinjing Shi et.al.|[2410.02547v1](http://arxiv.org/abs/2410.02547v1)|null|
+|**2024-10-03**|**Temporal Predictive Coding for Gradient Compression in Distributed Learning**|Adrian Edin et.al.|[2410.02478v1](http://arxiv.org/abs/2410.02478v1)|null|
+|**2024-10-03**|**Personalized Federated Learning for Generative AI-Assisted Semantic Communications**|Yubo Peng et.al.|[2410.02450v1](http://arxiv.org/abs/2410.02450v1)|null|
+|**2024-10-03**|**Clinnova Federated Learning Proof of Concept: Key Takeaways from a Cross-border Collaboration**|Julia Alekseenko et.al.|[2410.02443v1](http://arxiv.org/abs/2410.02443v1)|null|
+|**2024-10-03**|**Distributed Learning with Discretely Observed Functional Data**|Jiading Liu et.al.|[2410.02376v1](http://arxiv.org/abs/2410.02376v1)|null|
+|**2024-10-03**|**Federated Reinforcement Learning to Optimize Teleoperated Driving Networks**|Filippo Bragato et.al.|[2410.02312v1](http://arxiv.org/abs/2410.02312v1)|null|
+|**2024-10-03**|**FedScalar: A Communication efficient Federated Learning**|M. Rostami et.al.|[2410.02260v1](http://arxiv.org/abs/2410.02260v1)|null|
+|**2024-10-03**|**A Survey on Point-of-Interest Recommendation: Models, Architectures, and Security**|Qianru Zhang et.al.|[2410.02191v1](http://arxiv.org/abs/2410.02191v1)|null|
+|**2024-10-02**|**Frequency-Based Federated Domain Generalization for Polyp Segmentation**|Hongyi Pan et.al.|[2410.02044v1](http://arxiv.org/abs/2410.02044v1)|null|
 |**2024-10-02**|**A Novel Framework of Horizontal-Vertical Hybrid Federated Learning for EdgeIoT**|Kai Li et.al.|[2410.01644v1](http://arxiv.org/abs/2410.01644v1)|null|
 |**2024-10-02**|**Personalized Federated Learning on Flowing Data Heterogeneity under Restricted Storage**|Sixing Tan et.al.|[2410.01502v1](http://arxiv.org/abs/2410.01502v1)|null|
 |**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463v1](http://arxiv.org/abs/2410.01463v1)|null|
