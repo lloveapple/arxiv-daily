@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499v1](http://arxiv.org/abs/2410.03499v1)|**[link](https://github.com/sunnyinAI/FedStein)**|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497v1](http://arxiv.org/abs/2410.03497v1)|null|
+|**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407v1](http://arxiv.org/abs/2410.03407v1)|null|
+|**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315v1](http://arxiv.org/abs/2410.03315v1)|null|
+|**2024-10-04**|**BN-SCAFFOLD: controlling the drift of Batch Normalization statistics in Federated Learning**|Gonzalo Iñaki Quintana et.al.|[2410.03281v1](http://arxiv.org/abs/2410.03281v1)|null|
+|**2024-10-04**|**FedMAC: Tackling Partial-Modality Missing in Federated Learning with Cross-Modal Aggregation and Contrastive Regularization**|Manh Duong Nguyen et.al.|[2410.03070v1](http://arxiv.org/abs/2410.03070v1)|null|
+|**2024-10-04**|**FedCert: Federated Accuracy Certification**|Minh Hieu Nguyen et.al.|[2410.03067v1](http://arxiv.org/abs/2410.03067v1)|**[link](https://github.com/thanhhff/FedCert)**|
+|**2024-10-03**|**FedPeWS: Personalized Warmup via Subnetworks for Enhanced Heterogeneous Federated Learning**|Nurbek Tastan et.al.|[2410.03042v1](http://arxiv.org/abs/2410.03042v1)|null|
 |**2024-10-03**|**Data Similarity-Based One-Shot Clustering for Multi-Task Hierarchical Federated Learning**|Abdulmoneam Ali et.al.|[2410.02733v1](http://arxiv.org/abs/2410.02733v1)|null|
 |**2024-10-03**|**Personalized Quantum Federated Learning for Privacy Image Classification**|Jinjing Shi et.al.|[2410.02547v1](http://arxiv.org/abs/2410.02547v1)|null|
 |**2024-10-03**|**Temporal Predictive Coding for Gradient Compression in Distributed Learning**|Adrian Edin et.al.|[2410.02478v1](http://arxiv.org/abs/2410.02478v1)|null|
