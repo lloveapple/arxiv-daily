@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,13 +21,13 @@
 |**2024-10-09**|**Distributionally Robust Clustered Federated Learning: A Case Study in Healthcare**|Xenia Konti et.al.|[2410.07039v1](http://arxiv.org/abs/2410.07039v1)|null|
 |**2024-10-09**|**Forgetting Through Transforming: Enabling Federated Unlearning via Class-Aware Representation Transformation**|Qi Guo et.al.|[2410.06848v1](http://arxiv.org/abs/2410.06848v1)|null|
 |**2024-10-09**|**PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning**|Jiashi Gao et.al.|[2410.06509v1](http://arxiv.org/abs/2410.06509v1)|null|
-|**2024-10-09**|**FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**|Jianqing Zhang et.al.|[2410.06490v1](http://arxiv.org/abs/2410.06490v1)|null|
+|**2024-10-09**|**FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**|Jianqing Zhang et.al.|[2410.06490v1](http://arxiv.org/abs/2410.06490v1)|**[link](https://github.com/TsingZ0/FedL2G)**|
 |**2024-10-09**|**OledFL: Unleashing the Potential of Decentralized Federated Learning via Opposite Lookahead Enhancement**|Qinglun Li et.al.|[2410.06482v1](http://arxiv.org/abs/2410.06482v1)|null|
 |**2024-10-08**|**Communication-Efficient Federated Group Distributionally Robust Optimization**|Zhishuai Guo et.al.|[2410.06369v1](http://arxiv.org/abs/2410.06369v1)|null|
 |**2024-10-08**|**De-VertiFL: A Solution for Decentralized Vertical Federated Learning**|Alberto Huertas Celdrán et.al.|[2410.06127v1](http://arxiv.org/abs/2410.06127v1)|null|
 |**2024-10-08**|**Privacy-Enhanced Over-the-Air Federated Learning via Client-Driven Power Balancing**|Bumjun Kim et.al.|[2410.05907v1](http://arxiv.org/abs/2410.05907v1)|null|
-|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v1](http://arxiv.org/abs/2410.05733v1)|null|
-|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v1](http://arxiv.org/abs/2410.05725v1)|null|
+|**2024-10-10**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733v2](http://arxiv.org/abs/2410.05733v2)|null|
+|**2024-10-10**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725v2](http://arxiv.org/abs/2410.05725v2)|null|
 |**2024-10-07**|**A Seesaw Model Attack Algorithm for Distributed Learning**|Kun Yang et.al.|[2410.05161v1](http://arxiv.org/abs/2410.05161v1)|null|
 |**2024-10-07**|**FRIDA: Free-Rider Detection using Privacy Attacks**|Pol G. Recasens et.al.|[2410.05020v1](http://arxiv.org/abs/2410.05020v1)|null|
 |**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810v1](http://arxiv.org/abs/2410.04810v1)|null|
@@ -2541,7 +2541,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 ## MMS
 
@@ -2560,7 +2560,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
