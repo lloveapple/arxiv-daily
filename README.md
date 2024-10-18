@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**DPFedBank: Crafting a Privacy-Preserving Federated Learning Framework for Financial Institutions with Policy Pillars**|Peilin He et.al.|[2410.13753v1](http://arxiv.org/abs/2410.13753v1)|null|
+|**2024-10-17**|**Single-Timescale Multi-Sequence Stochastic Approximation Without Fixed Point Smoothness: Theories and Applications**|Yue Huang et.al.|[2410.13743v1](http://arxiv.org/abs/2410.13743v1)|null|
+|**2024-10-17**|**On-device Federated Learning in Smartphones for Detecting Depression from Reddit Posts**|Mustofa Ahmed et.al.|[2410.13709v1](http://arxiv.org/abs/2410.13709v1)|null|
+|**2024-10-17**|**Towards Satellite Non-IID Imagery: A Spectral Clustering-Assisted Federated Learning Approach**|Luyao Zou et.al.|[2410.13602v1](http://arxiv.org/abs/2410.13602v1)|null|
+|**2024-10-17**|**Towards Better Performance in Incomplete LDL: Addressing Data Imbalance**|Zhiqiang Kou et.al.|[2410.13579v1](http://arxiv.org/abs/2410.13579v1)|null|
+|**2024-10-17**|**Towards Formal Verification of Federated Learning Orchestration Protocols on Satellites**|Miroslav Popovic et.al.|[2410.13429v1](http://arxiv.org/abs/2410.13429v1)|null|
+|**2024-10-17**|**Cyber Attacks Prevention Towards Prosumer-based EV Charging Stations: An Edge-assisted Federated Prototype Knowledge Distillation Approach**|Luyao Zou et.al.|[2410.13260v1](http://arxiv.org/abs/2410.13260v1)|null|
+|**2024-10-17**|**Investigating Effective Speaker Property Privacy Protection in Federated Learning for Speech Emotion Recognition**|Chao Tan et.al.|[2410.13221v1](http://arxiv.org/abs/2410.13221v1)|null|
+|**2024-10-17**|**Federated scientific machine learning for approximating functions and solving differential equations with data heterogeneity**|Handi Zhang et.al.|[2410.13141v1](http://arxiv.org/abs/2410.13141v1)|null|
+|**2024-10-16**|**Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2410.13097v1](http://arxiv.org/abs/2410.13097v1)|null|
 |**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772v1](http://arxiv.org/abs/2410.12772v1)|null|
 |**2024-10-16**|**Federated Learning and Free-riding in a Competitive Market**|Jiajun Meng et.al.|[2410.12723v1](http://arxiv.org/abs/2410.12723v1)|null|
 |**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530v1](http://arxiv.org/abs/2410.12530v1)|null|
