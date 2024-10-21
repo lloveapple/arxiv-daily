@@ -1250,7 +1250,7 @@ layout: default
 |**2024-10-15**|**WPFed: Web-based Personalized Federation for Decentralized Systems**|Guanhua Ye et.al.|[2410.11378v1](http://arxiv.org/abs/2410.11378v1)|null|
 |**2024-10-15**|**Secure Stateful Aggregation: A Practical Protocol with Applications in Differentially-Private Federated Learning**|Marshall Ball et.al.|[2410.11368v1](http://arxiv.org/abs/2410.11368v1)|null|
 |**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290v1](http://arxiv.org/abs/2410.11290v1)|null|
-|**2024-10-15**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267v1](http://arxiv.org/abs/2410.11267v1)|null|
+|**2024-10-15**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267v1](http://arxiv.org/abs/2410.11267v1)|**[link](https://github.com/sanphouwang/fedccrl)**|
 |**2024-10-15**|**Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated Deep Learning**|Hassan Ali et.al.|[2410.11205v1](http://arxiv.org/abs/2410.11205v1)|**[link](https://github.com/hassanalikhatim/agsd)**|
 |**2024-10-14**|**A Two-Stage Federated Learning Approach for Industrial Prognostics Using Large-Scale High-Dimensional Signals**|Yuqi Su et.al.|[2410.11101v1](http://arxiv.org/abs/2410.11101v1)|null|
 |**2024-10-15**|**Mobility-Aware Federated Learning: Multi-Armed Bandit Based Selection in Vehicular Network**|Haoyu Tu et.al.|[2410.10451v2](http://arxiv.org/abs/2410.10451v2)|null|
@@ -1261,11 +1261,11 @@ layout: default
 |**2024-10-13**|**Uncovering Attacks and Defenses in Secure Aggregation for Federated Deep Learning**|Yiwei Zhang et.al.|[2410.09676v1](http://arxiv.org/abs/2410.09676v1)|null|
 |**2024-10-12**|**Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models**|Raghav Singhal et.al.|[2410.09432v1](http://arxiv.org/abs/2410.09432v1)|null|
 |**2024-10-11**|**Enhanced Federated Anomaly Detection Through Autoencoders Using Summary Statistics-Based Thresholding**|Sofiane Laridi et.al.|[2410.09284v1](http://arxiv.org/abs/2410.09284v1)|null|
-|**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961v1](http://arxiv.org/abs/2410.08961v1)|null|
+|**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961v1](http://arxiv.org/abs/2410.08961v1)|**[link](https://github.com/artsasse/fedkan)**|
 |**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934v1](http://arxiv.org/abs/2410.08934v1)|null|
 |**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892v1](http://arxiv.org/abs/2410.08892v1)|null|
 |**2024-10-11**|**Unlocking FedNL: Self-Contained Compute-Optimized Implementation**|Konstantin Burlachenko et.al.|[2410.08760v1](http://arxiv.org/abs/2410.08760v1)|null|
-|**2024-10-11**|**Gradients Stand-in for Defending Deep Leakage in Federated Learning**|H. Yi et.al.|[2410.08734v1](http://arxiv.org/abs/2410.08734v1)|null|
+|**2024-10-11**|**Gradients Stand-in for Defending Deep Leakage in Federated Learning**|H. Yi et.al.|[2410.08734v1](http://arxiv.org/abs/2410.08734v1)|**[link](https://github.com/Rand2AI/AdaDefense)**|
 |**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665v1](http://arxiv.org/abs/2410.08665v1)|null|
 |**2024-10-11**|**Edge AI Collaborative Learning: Bayesian Approaches to Uncertainty Estimation**|Gleb Radchenko et.al.|[2410.08651v1](http://arxiv.org/abs/2410.08651v1)|null|
 |**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634v1](http://arxiv.org/abs/2410.08634v1)|null|
@@ -1601,7 +1601,7 @@ layout: default
 |**2024-07-22**|**Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training**|Ye Lin Tun et.al.|[2407.15426v1](http://arxiv.org/abs/2407.15426v1)|null|
 |**2024-07-22**|**Tackling Selfish Clients in Federated Learning**|Andrea Augello et.al.|[2407.15402v1](http://arxiv.org/abs/2407.15402v1)|**[link](https://github.com/ndslab-group/RFL-Self)**|
 |**2024-07-22**|**Poisoning with A Pill: Circumventing Detection in Federated Learning**|Hanxi Guo et.al.|[2407.15389v1](http://arxiv.org/abs/2407.15389v1)|null|
-|**2024-07-21**|**A Learning-Based Attack Framework to Break SOTA Poisoning Defenses in Federated Learning**|Yuxin Yang et.al.|[2407.15267v1](http://arxiv.org/abs/2407.15267v1)|null|
+|**2024-07-21**|**A Learning-Based Attack Framework to Break SOTA Poisoning Defenses in Federated Learning**|Yuxin Yang et.al.|[2407.15267v1](http://arxiv.org/abs/2407.15267v1)|**[link](https://github.com/yuxin104/breakstoapoisoningdefenses)**|
 |**2024-07-21**|**PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning**|Luca Corbucci et.al.|[2407.15224v1](http://arxiv.org/abs/2407.15224v1)|null|
 |**2024-07-21**|**Privacy-Preserving Multi-Center Differential Protein Abundance Analysis with FedProt**|Yuliya Burankova et.al.|[2407.15220v1](http://arxiv.org/abs/2407.15220v1)|null|
 |**2024-07-19**|**Personalized Multi-tier Federated Learning**|Sourasekhar Banerjee et.al.|[2407.14251v1](http://arxiv.org/abs/2407.14251v1)|**[link](https://github.com/sourasb05/PerMFL_1)**|
@@ -1864,7 +1864,7 @@ layout: default
 |**2024-05-26**|**Multi-Level Additive Modeling for Structured Non-IID Federated Learning**|Shutong Chen et.al.|[2405.16472v1](http://arxiv.org/abs/2405.16472v1)|**[link](https://github.com/shutong043/femam)**|
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744v1](http://arxiv.org/abs/2405.15744v1)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644v1](http://arxiv.org/abs/2405.15644v1)|null|
-|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|null|
+|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|**[link](https://github.com/dariofenoglio98/cf_fl)**|
 |**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|null|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551v1](http://arxiv.org/abs/2405.15551v1)|**[link](https://github.com/astuary/spry)**|
 |**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474v1](http://arxiv.org/abs/2405.15474v1)|**[link](https://github.com/Liar-Mask/FedAU)**|
@@ -2275,7 +2275,7 @@ layout: default
 |**2024-02-26**|**FedReview: A Review Mechanism for Rejecting Poisoned Updates in Federated Learning**|Tianhang Zheng et.al.|[2402.16934v1](http://arxiv.org/abs/2402.16934v1)|null|
 |**2024-02-26**|**Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning**|Man Wu et.al.|[2402.16374v1](http://arxiv.org/abs/2402.16374v1)|null|
 |**2024-02-26**|**Decentralized Federated Unlearning on Blockchain**|Xiao Liu et.al.|[2402.16294v1](http://arxiv.org/abs/2402.16294v1)|null|
-|**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255v1](http://arxiv.org/abs/2402.16255v1)|null|
+|**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255v1](http://arxiv.org/abs/2402.16255v1)|**[link](https://github.com/J1nqianChen/APH)**|
 |**2024-02-25**|**Distribution-Free Fair Federated Learning with Small Samples**|Qichuan Yin et.al.|[2402.16158v1](http://arxiv.org/abs/2402.16158v1)|null|
 |**2024-02-25**|**Bayesian Neural Network For Personalized Federated Learning Parameter Selection**|Mengen Luo et.al.|[2402.16091v1](http://arxiv.org/abs/2402.16091v1)|null|
 |**2024-02-25**|**How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study**|Natalija Mitic et.al.|[2402.16087v1](http://arxiv.org/abs/2402.16087v1)|**[link](https://github.com/sinemsav/hyperparams)**|
