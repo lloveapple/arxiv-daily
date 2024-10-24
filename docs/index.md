@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1236,7 +1236,7 @@ layout: default
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161v1](http://arxiv.org/abs/2410.16161v1)|null|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121v1](http://arxiv.org/abs/2410.16121v1)|null|
 |**2024-10-21**|**Distributed Learning for UAV Swarms**|Chen Hu et.al.|[2410.15882v1](http://arxiv.org/abs/2410.15882v1)|null|
-|**2024-10-21**|**Traffic Matrix Estimation based on Denoising Diffusion Probabilistic Model**|Xinyu Yuan et.al.|[2410.15716v1](http://arxiv.org/abs/2410.15716v1)|null|
+|**2024-10-21**|**Traffic Matrix Estimation based on Denoising Diffusion Probabilistic Model**|Xinyu Yuan et.al.|[2410.15716v1](http://arxiv.org/abs/2410.15716v1)|**[link](https://github.com/Y-debug-sys/DDPM-TME)**|
 |**2024-10-21**|**Geographical Node Clustering and Grouping to Guarantee Data IIDness in Federated Learning**|Minkwon Lee et.al.|[2410.15693v1](http://arxiv.org/abs/2410.15693v1)|null|
 |**2024-10-21**|**Federated Learning with MMD-based Early Stopping for Adaptive GNSS Interference Classification**|Nishant S. Gaikwad et.al.|[2410.15681v1](http://arxiv.org/abs/2410.15681v1)|null|
 |**2024-10-20**|**Bayesian data fusion for distributed learning**|Peng Wu et.al.|[2410.15473v1](http://arxiv.org/abs/2410.15473v1)|null|
