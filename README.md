@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665v1](http://arxiv.org/abs/2410.19665v1)|null|
+|**2024-10-25**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548v1](http://arxiv.org/abs/2410.19548v1)|null|
+|**2024-10-25**|**COMSPLIT: A Communication-Aware Split Learning Design for Heterogeneous IoT Platforms**|Vukan Ninkovic et.al.|[2410.19375v1](http://arxiv.org/abs/2410.19375v1)|null|
+|**2024-10-25**|**Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated Learning**|Mengmeng Chen et.al.|[2410.19321v1](http://arxiv.org/abs/2410.19321v1)|null|
+|**2024-10-25**|**Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting**|Xingyu Zhu et.al.|[2410.19294v1](http://arxiv.org/abs/2410.19294v1)|null|
+|**2024-10-24**|**Equitable Federated Learning with Activation Clustering**|Antesh Upadhyay et.al.|[2410.19207v1](http://arxiv.org/abs/2410.19207v1)|null|
+|**2024-10-24**|**LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples**|Huiyu Wu et.al.|[2410.19114v1](http://arxiv.org/abs/2410.19114v1)|null|
 |**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862v1](http://arxiv.org/abs/2410.18862v1)|null|
 |**2024-10-24**|**Adapting MLOps for Diverse In-Network Intelligence in 6G Era: Challenges and Solutions**|Peizheng Li et.al.|[2410.18793v1](http://arxiv.org/abs/2410.18793v1)|null|
 |**2024-10-24**|**Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift**|Junbao Chen et.al.|[2410.18478v1](http://arxiv.org/abs/2410.18478v1)|**[link](https://github.com/chen-junbao/fedccfa)**|
