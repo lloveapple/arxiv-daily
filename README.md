@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192v1](http://arxiv.org/abs/2410.21192v1)|null|
+|**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179v1](http://arxiv.org/abs/2410.21179v1)|null|
+|**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|null|
+|**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072v1](http://arxiv.org/abs/2410.21072v1)|null|
+|**2024-10-28**|**Enhanced channel estimation for near-field IRS-aided multi-user MIMO system via deep residual network**|Yan Wang et.al.|[2410.20992v1](http://arxiv.org/abs/2410.20992v1)|null|
+|**2024-10-28**|**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2410.20659v1](http://arxiv.org/abs/2410.20659v1)|null|
+|**2024-10-27**|**FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion**|Zhenheng Tang et.al.|[2410.20380v1](http://arxiv.org/abs/2410.20380v1)|**[link](https://github.com/wizard1203/fusefl)**|
+|**2024-10-27**|**Q-Distribution guided Q-learning for offline reinforcement learning: Uncertainty penalized Q-value via consistency model**|Jing Zhang et.al.|[2410.20312v1](http://arxiv.org/abs/2410.20312v1)|null|
+|**2024-10-26**|**FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT Scenarios**|Sathwik Narkedimilli et.al.|[2410.20259v1](http://arxiv.org/abs/2410.20259v1)|null|
+|**2024-10-26**|**FedMABA: Towards Fair Federated Learning through Multi-Armed Bandits Allocation**|Zhichao Wang et.al.|[2410.20141v1](http://arxiv.org/abs/2410.20141v1)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665v1](http://arxiv.org/abs/2410.19665v1)|null|
 |**2024-10-25**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548v1](http://arxiv.org/abs/2410.19548v1)|null|
 |**2024-10-25**|**COMSPLIT: A Communication-Aware Split Learning Design for Heterogeneous IoT Platforms**|Vukan Ninkovic et.al.|[2410.19375v1](http://arxiv.org/abs/2410.19375v1)|null|
