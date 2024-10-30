@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**$\mathsf{OPA}$ : One-shot Private Aggregation with Single Client Interaction and its Applications to Federated Learning**|Harish Karthikeyan et.al.|[2410.22303v1](http://arxiv.org/abs/2410.22303v1)|null|
+|**2024-10-29**|**$r$Age-$k$ : Communication-Efficient Federated Learning Using Age Factor**|Matin Mortaheb et.al.|[2410.22192v1](http://arxiv.org/abs/2410.22192v1)|null|
+|**2024-10-29**|**Cognitive Semantic Augmentation LEO Satellite Networks for Earth Observation**|Hong-fu Chou et.al.|[2410.21916v1](http://arxiv.org/abs/2410.21916v1)|null|
+|**2024-10-29**|**Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization**|Meitong Liu et.al.|[2410.21764v1](http://arxiv.org/abs/2410.21764v1)|null|
+|**2024-10-29**|**BF-Meta: Secure Blockchain-enhanced Privacy-preserving Federated Learning for Metaverse**|Wenbo Liu et.al.|[2410.21675v1](http://arxiv.org/abs/2410.21675v1)|null|
+|**2024-10-28**|**Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning**|Pouya M. Ghari et.al.|[2410.21547v1](http://arxiv.org/abs/2410.21547v1)|null|
+|**2024-10-28**|**Trustworthiness of Stochastic Gradient Descent in Distributed Learning**|Hongyang Li et.al.|[2410.21491v1](http://arxiv.org/abs/2410.21491v1)|null|
 |**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192v1](http://arxiv.org/abs/2410.21192v1)|null|
 |**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179v1](http://arxiv.org/abs/2410.21179v1)|null|
 |**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|null|
