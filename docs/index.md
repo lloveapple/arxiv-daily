@@ -1228,6 +1228,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients**|Satish Kumar Keshri et.al.|[2411.07959v1](http://arxiv.org/abs/2411.07959v1)|null|
+|**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889v1](http://arxiv.org/abs/2411.07889v1)|**[link](https://github.com/justaguyalways/stochastic-federated-differentially-private-and-fair-learning)**|
+|**2024-11-12**|**Federated Learning for Discrete Optimal Transport with Large Population under Incomplete Information**|Navpreet Kaur et.al.|[2411.07841v1](http://arxiv.org/abs/2411.07841v1)|null|
+|**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826v1](http://arxiv.org/abs/2411.07826v1)|null|
+|**2024-11-12**|**Dual-Criterion Model Aggregation in Federated Learning: Balancing Data Quantity and Quality**|Haizhou Zhang et.al.|[2411.07816v1](http://arxiv.org/abs/2411.07816v1)|null|
+|**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806v1](http://arxiv.org/abs/2411.07806v1)|null|
+|**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
+|**2024-11-12**|**Collaborative and Federated Black-box Optimization: A Bayesian Optimization Perspective**|Raed Al Kontar et.al.|[2411.07523v1](http://arxiv.org/abs/2411.07523v1)|null|
+|**2024-11-11**|**Federated Learning Client Pruning for Noisy Labels**|Mahdi Morafah et.al.|[2411.07391v1](http://arxiv.org/abs/2411.07391v1)|**[link](https://github.com/mmorafah/clipfl)**|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239v1](http://arxiv.org/abs/2411.07239v1)|null|
 |**2024-11-11**|**TempCharBERT: Keystroke Dynamics for Continuous Access Control Based on Pre-trained Language Models**|Matheus Simão et.al.|[2411.07224v1](http://arxiv.org/abs/2411.07224v1)|null|
 |**2024-11-11**|**Revisiting Ensembling in One-Shot Federated Learning**|Youssef Allouah et.al.|[2411.07182v1](http://arxiv.org/abs/2411.07182v1)|**[link](https://github.com/sacs-epfl/fens)**|
