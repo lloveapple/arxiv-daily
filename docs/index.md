@@ -614,7 +614,7 @@ layout: default
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-27**|**Exploring the Algorithm-Dependent Generalization of AUPRC Optimization with List Stability**|Peisong Wen et.al.|[2209.13262v1](http://arxiv.org/abs/2209.13262v1)|**[link](https://github.com/kid-7391/soprc)**|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
-|**2022-09-25**|**Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis**|Jiawen Kang et.al.|[2209.12274v1](http://arxiv.org/abs/2209.12274v1)|null|
+|**2022-09-25**|**Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis**|Jiawen Kang et.al.|[2209.12274v1](http://arxiv.org/abs/2209.12274v1)|**[link](https://github.com/Lizonghang/PerSF-SemCom)**|
 |**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
 |**2022-09-23**|**Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**|Youya Xia et.al.|[2209.11673v1](http://arxiv.org/abs/2209.11673v1)|null|
 |**2022-09-23**|**Query-based Hard-Image Retrieval for Object Detection at Test Time**|Edward Ayers et.al.|[2209.11559v1](http://arxiv.org/abs/2209.11559v1)|**[link](https://github.com/fiveai/hardest)**|
@@ -935,7 +935,7 @@ layout: default
 |**2023-01-08**|**DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching**|Tao Xie et.al.|[2301.02993v1](http://arxiv.org/abs/2301.02993v1)|**[link](https://github.com/XT-1997/DeepMatcher)**|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
 |**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver et.al.|[2301.02671v1](http://arxiv.org/abs/2301.02671v1)|**[link](https://github.com/astrowhit/aperpy)**|
-|**2023-02-13**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v2](http://arxiv.org/abs/2301.00135v2)|null|
+|**2023-02-13**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v2](http://arxiv.org/abs/2301.00135v2)|**[link](https://github.com/guxu313/TeViS)**|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
@@ -1292,7 +1292,7 @@ layout: default
 |**2024-10-31**|**Conformalized Prediction of Post-Fault Voltage Trajectories Using Pre-trained and Finetuned Attention-Driven Neural Operators**|Amirhossein Mollaali et.al.|[2410.24162v1](http://arxiv.org/abs/2410.24162v1)|null|
 |**2024-10-31**|**On Sampling Strategies for Spectral Model Sharding**|Denis Korzhenkov et.al.|[2410.24106v1](http://arxiv.org/abs/2410.24106v1)|null|
 |**2024-10-31**|**Generative AI-Powered Plugin for Robust Federated Learning in Heterogeneous IoT Networks**|Youngjoon Lee et.al.|[2410.23824v1](http://arxiv.org/abs/2410.23824v1)|**[link](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)**|
-|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660v1](http://arxiv.org/abs/2410.23660v1)|null|
+|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660v1](http://arxiv.org/abs/2410.23660v1)|**[link](https://github.com/ubc-tea/local-superior-soups)**|
 |**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639v1](http://arxiv.org/abs/2410.23639v1)|null|
 |**2024-10-30**|**Communication-Efficient Federated Learning over Wireless Channels via Gradient Sketching**|Vineet Sunil Gattani et.al.|[2410.23424v1](http://arxiv.org/abs/2410.23424v1)|null|
 |**2024-10-31**|**(FL) $^2$ : Overcoming Few Labels in Federated Semi-Supervised Learning**|Seungjoo Lee et.al.|[2410.23227v2](http://arxiv.org/abs/2410.23227v2)|**[link](https://github.com/seungjoo-ai/FLFL-NeurIPS24)**|
@@ -1979,7 +1979,7 @@ layout: default
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881v1](http://arxiv.org/abs/2405.18881v1)|**[link](https://github.com/tzw1998/direct-noise-optimization)**|
 |**2024-05-29**|**Enhancing Security and Privacy in Federated Learning using Update Digests and Voting-Based Defense**|Wenjie Li et.al.|[2405.18802v1](http://arxiv.org/abs/2405.18802v1)|null|
 |**2024-05-29**|**FlocOff: Data Heterogeneity Resilient Federated Learning with Communication-Efficient Edge Offloading**|Mulei Ma et.al.|[2405.18739v1](http://arxiv.org/abs/2405.18739v1)|null|
-|**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707v1](http://arxiv.org/abs/2405.18707v1)|null|
+|**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707v1](http://arxiv.org/abs/2405.18707v1)|**[link](https://github.com/XiankeQiang/AdaptiveSplitFederatedLearning)**|
 |**2024-05-28**|**FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**|Zihui Wang et.al.|[2405.18291v1](http://arxiv.org/abs/2405.18291v1)|null|
 |**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v1](http://arxiv.org/abs/2405.18206v1)|null|
 |**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040v1](http://arxiv.org/abs/2405.18040v1)|**[link](https://github.com/thanhtrunghuynh93/fastfedul)**|
@@ -2002,7 +2002,7 @@ layout: default
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744v1](http://arxiv.org/abs/2405.15744v1)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644v1](http://arxiv.org/abs/2405.15644v1)|null|
 |**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|**[link](https://github.com/dariofenoglio98/cf_fl)**|
-|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|null|
+|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|**[link](https://github.com/insait-institute/dager-gradient-inversion)**|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551v1](http://arxiv.org/abs/2405.15551v1)|**[link](https://github.com/astuary/spry)**|
 |**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474v1](http://arxiv.org/abs/2405.15474v1)|**[link](https://github.com/Liar-Mask/FedAU)**|
 |**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458v1](http://arxiv.org/abs/2405.15458v1)|**[link](https://github.com/PengHongyiNTU/FedCal)**|
@@ -3798,7 +3798,7 @@ layout: default
 |**2023-04-09**|**Design of Two-Level Incentive Mechanisms for Hierarchical Federated Learning**|Shunfeng Chu et.al.|[2304.04162v1](http://arxiv.org/abs/2304.04162v1)|null|
 |**2023-04-09**|**FedPNN: One-shot Federated Classification via Evolving Clustering Method and Probabilistic Neural Network hybrid**|Polaki Durga Prasad et.al.|[2304.04147v1](http://arxiv.org/abs/2304.04147v1)|null|
 |**2023-04-09**|**Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning**|Wenxiang Xu et.al.|[2304.04135v1](http://arxiv.org/abs/2304.04135v1)|**[link](https://github.com/tcmyxc/propheter)**|
-|**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|null|
+|**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|**[link](https://github.com/vt-asaplab/e-seafl)**|
 |**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|
 |**2023-04-07**|**Asynchronous Federated Continual Learning**|Donald Shenaj et.al.|[2304.03626v1](http://arxiv.org/abs/2304.03626v1)|**[link](https://github.com/lttm/fedspace)**|
 |**2023-04-06**|**Approximate Wireless Communication for Federated Learning**|Xiang Ma et.al.|[2304.03359v1](http://arxiv.org/abs/2304.03359v1)|null|

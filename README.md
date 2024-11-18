@@ -82,7 +82,7 @@
 |**2024-10-31**|**Conformalized Prediction of Post-Fault Voltage Trajectories Using Pre-trained and Finetuned Attention-Driven Neural Operators**|Amirhossein Mollaali et.al.|[2410.24162v1](http://arxiv.org/abs/2410.24162v1)|null|
 |**2024-10-31**|**On Sampling Strategies for Spectral Model Sharding**|Denis Korzhenkov et.al.|[2410.24106v1](http://arxiv.org/abs/2410.24106v1)|null|
 |**2024-10-31**|**Generative AI-Powered Plugin for Robust Federated Learning in Heterogeneous IoT Networks**|Youngjoon Lee et.al.|[2410.23824v1](http://arxiv.org/abs/2410.23824v1)|**[link](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)**|
-|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660v1](http://arxiv.org/abs/2410.23660v1)|null|
+|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660v1](http://arxiv.org/abs/2410.23660v1)|**[link](https://github.com/ubc-tea/local-superior-soups)**|
 |**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639v1](http://arxiv.org/abs/2410.23639v1)|null|
 |**2024-10-30**|**Communication-Efficient Federated Learning over Wireless Channels via Gradient Sketching**|Vineet Sunil Gattani et.al.|[2410.23424v1](http://arxiv.org/abs/2410.23424v1)|null|
 |**2024-10-31**|**(FL) $^2$ : Overcoming Few Labels in Federated Semi-Supervised Learning**|Seungjoo Lee et.al.|[2410.23227v2](http://arxiv.org/abs/2410.23227v2)|**[link](https://github.com/seungjoo-ai/FLFL-NeurIPS24)**|
@@ -769,7 +769,7 @@
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881v1](http://arxiv.org/abs/2405.18881v1)|**[link](https://github.com/tzw1998/direct-noise-optimization)**|
 |**2024-05-29**|**Enhancing Security and Privacy in Federated Learning using Update Digests and Voting-Based Defense**|Wenjie Li et.al.|[2405.18802v1](http://arxiv.org/abs/2405.18802v1)|null|
 |**2024-05-29**|**FlocOff: Data Heterogeneity Resilient Federated Learning with Communication-Efficient Edge Offloading**|Mulei Ma et.al.|[2405.18739v1](http://arxiv.org/abs/2405.18739v1)|null|
-|**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707v1](http://arxiv.org/abs/2405.18707v1)|null|
+|**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707v1](http://arxiv.org/abs/2405.18707v1)|**[link](https://github.com/XiankeQiang/AdaptiveSplitFederatedLearning)**|
 |**2024-05-28**|**FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**|Zihui Wang et.al.|[2405.18291v1](http://arxiv.org/abs/2405.18291v1)|null|
 |**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v1](http://arxiv.org/abs/2405.18206v1)|null|
 |**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040v1](http://arxiv.org/abs/2405.18040v1)|**[link](https://github.com/thanhtrunghuynh93/fastfedul)**|
@@ -792,7 +792,7 @@
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744v1](http://arxiv.org/abs/2405.15744v1)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644v1](http://arxiv.org/abs/2405.15644v1)|null|
 |**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632v1](http://arxiv.org/abs/2405.15632v1)|**[link](https://github.com/dariofenoglio98/cf_fl)**|
-|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|null|
+|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586v1](http://arxiv.org/abs/2405.15586v1)|**[link](https://github.com/insait-institute/dager-gradient-inversion)**|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551v1](http://arxiv.org/abs/2405.15551v1)|**[link](https://github.com/astuary/spry)**|
 |**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474v1](http://arxiv.org/abs/2405.15474v1)|**[link](https://github.com/Liar-Mask/FedAU)**|
 |**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458v1](http://arxiv.org/abs/2405.15458v1)|**[link](https://github.com/PengHongyiNTU/FedCal)**|
@@ -2588,7 +2588,7 @@
 |**2023-04-09**|**Design of Two-Level Incentive Mechanisms for Hierarchical Federated Learning**|Shunfeng Chu et.al.|[2304.04162v1](http://arxiv.org/abs/2304.04162v1)|null|
 |**2023-04-09**|**FedPNN: One-shot Federated Classification via Evolving Clustering Method and Probabilistic Neural Network hybrid**|Polaki Durga Prasad et.al.|[2304.04147v1](http://arxiv.org/abs/2304.04147v1)|null|
 |**2023-04-09**|**Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning**|Wenxiang Xu et.al.|[2304.04135v1](http://arxiv.org/abs/2304.04135v1)|**[link](https://github.com/tcmyxc/propheter)**|
-|**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|null|
+|**2023-04-07**|**Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning**|Rouzbeh Behnia et.al.|[2304.03841v1](http://arxiv.org/abs/2304.03841v1)|**[link](https://github.com/vt-asaplab/e-seafl)**|
 |**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|
 |**2023-04-07**|**Asynchronous Federated Continual Learning**|Donald Shenaj et.al.|[2304.03626v1](http://arxiv.org/abs/2304.03626v1)|**[link](https://github.com/lttm/fedspace)**|
 |**2023-04-06**|**Approximate Wireless Communication for Federated Learning**|Xiang Ma et.al.|[2304.03359v1](http://arxiv.org/abs/2304.03359v1)|null|
