@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1234,7 +1234,7 @@ layout: default
 |**2024-11-19**|**Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism**|Yasaman Saadati et.al.|[2411.12244v1](http://arxiv.org/abs/2411.12244v1)|null|
 |**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220v1](http://arxiv.org/abs/2411.12220v1)|null|
 |**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|null|
-|**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793v1](http://arxiv.org/abs/2411.11793v1)|null|
+|**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793v1](http://arxiv.org/abs/2411.11793v1)|**[link](https://github.com/DCN-FAU-AvH/FL-Potential-Game)**|
 |**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764v2](http://arxiv.org/abs/2411.11764v2)|null|
 |**2024-11-18**|**FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning**|Zhenyu Wen et.al.|[2411.11713v1](http://arxiv.org/abs/2411.11713v1)|null|
 |**2024-11-18**|**Distributed Learning with Partial Information Sharing**|P Raghavendra Rao et.al.|[2411.11411v1](http://arxiv.org/abs/2411.11411v1)|null|
