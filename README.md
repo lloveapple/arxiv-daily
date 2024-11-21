@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394v1](http://arxiv.org/abs/2411.13394v1)|null|
+|**2024-11-20**|**Incremental Label Distribution Learning with Scalable Graph Convolutional Networks**|Ziqi Jia et.al.|[2411.13097v1](http://arxiv.org/abs/2411.13097v1)|null|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|null|
+|**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000v1](http://arxiv.org/abs/2411.13000v1)|null|
 |**2024-11-19**|**Learning multivariate Gaussians with imperfect advice**|Arnab Bhattacharyya et.al.|[2411.12700v1](http://arxiv.org/abs/2411.12700v1)|null|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|null|
 |**2024-11-19**|**Non-IID data in Federated Learning: A Systematic Review with Taxonomy, Metrics, Methods, Frameworks and Future Directions**|Daniel M. Jimenez G. et.al.|[2411.12377v1](http://arxiv.org/abs/2411.12377v1)|null|
