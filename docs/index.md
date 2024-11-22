@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Revised Regularization for Efficient Continual Learning through Correlation-Based Parameter Update in Bayesian Neural Networks**|Sanchar Palit et.al.|[2411.14202v1](http://arxiv.org/abs/2411.14202v1)|null|
+|**2024-11-21**|**Towards Adaptive Asynchronous Federated Learning for Human Activity Recognition**|Rastko Gajanin et.al.|[2411.14070v1](http://arxiv.org/abs/2411.14070v1)|null|
+|**2024-11-21**|**REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting**|Qingxiang Liu et.al.|[2411.14046v1](http://arxiv.org/abs/2411.14046v1)|**[link](https://github.com/yuppielqx/refol)**|
+|**2024-11-21**|**FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles**|Yijun Zhai et.al.|[2411.13979v1](http://arxiv.org/abs/2411.13979v1)|**[link](https://github.com/yjzhai-cs/fedrav)**|
+|**2024-11-21**|**Split Federated Learning Over Heterogeneous Edge Devices: Algorithm and Optimization**|Yunrui Sun et.al.|[2411.13907v1](http://arxiv.org/abs/2411.13907v1)|null|
+|**2024-11-21**|**Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel**|Jaeyoung Song et.al.|[2411.13861v1](http://arxiv.org/abs/2411.13861v1)|null|
 |**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394v1](http://arxiv.org/abs/2411.13394v1)|null|
 |**2024-11-20**|**Incremental Label Distribution Learning with Scalable Graph Convolutional Networks**|Ziqi Jia et.al.|[2411.13097v1](http://arxiv.org/abs/2411.13097v1)|null|
 |**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052v1](http://arxiv.org/abs/2411.13052v1)|null|
