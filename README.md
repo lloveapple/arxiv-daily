@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**|Jieming Bian et.al.|[2411.14961v1](http://arxiv.org/abs/2411.14961v1)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937v1](http://arxiv.org/abs/2411.14937v1)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data**|Binqian Xu et.al.|[2411.14717v1](http://arxiv.org/abs/2411.14717v1)|**[link](https://github.com/1xbq1/fedmllm)**|
+|**2024-11-21**|**Memory Backdoor Attacks on Neural Networks**|Eden Luzon et.al.|[2411.14516v1](http://arxiv.org/abs/2411.14516v1)|null|
 |**2024-11-21**|**Revised Regularization for Efficient Continual Learning through Correlation-Based Parameter Update in Bayesian Neural Networks**|Sanchar Palit et.al.|[2411.14202v1](http://arxiv.org/abs/2411.14202v1)|null|
 |**2024-11-21**|**Towards Adaptive Asynchronous Federated Learning for Human Activity Recognition**|Rastko Gajanin et.al.|[2411.14070v1](http://arxiv.org/abs/2411.14070v1)|null|
 |**2024-11-21**|**REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting**|Qingxiang Liu et.al.|[2411.14046v1](http://arxiv.org/abs/2411.14046v1)|**[link](https://github.com/yuppielqx/refol)**|
