@@ -640,7 +640,7 @@ layout: default
 |**2022-08-25**|**A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**|Zhixun Lu et.al.|[2208.11876v1](http://arxiv.org/abs/2208.11876v1)|null|
 |**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy et.al.|[2208.10830v1](http://arxiv.org/abs/2208.10830v1)|null|
 |**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698v1](http://arxiv.org/abs/2208.09698v1)|null|
-|**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315v1](http://arxiv.org/abs/2208.09315v1)|null|
+|**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315v1](http://arxiv.org/abs/2208.09315v1)|**[link](https://github.com/ai4ce/TF-VPR)**|
 |**2022-08-19**|**TTT-UCDR: Test-time Training for Universal Cross-Domain Retrieval**|Soumava Paul et.al.|[2208.09198v1](http://arxiv.org/abs/2208.09198v1)|**[link](https://github.com/mvp18/ttt-ucdr)**|
 |**2022-08-17**|**Visual Cross-View Metric Localization with Dense Uncertainty Estimates**|Zimin Xia et.al.|[2208.08519v1](http://arxiv.org/abs/2208.08519v1)|**[link](https://github.com/tudelft-iv/crossviewmetriclocalization)**|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|**[link](https://github.com/adlnlp/attention_vl)**|
@@ -1448,7 +1448,7 @@ layout: default
 |**2024-10-13**|**Improving accuracy and convergence of federated learning edge computing methods for generalized DER forecasting applications in power grid**|Vineet Jagadeesan Nair et.al.|[2410.10018v1](http://arxiv.org/abs/2410.10018v1)|null|
 |**2024-10-13**|**FedECADO: A Dynamical System Model of Federated Learning**|Aayushya Agarwal et.al.|[2410.09933v1](http://arxiv.org/abs/2410.09933v1)|null|
 |**2024-10-13**|**Uncovering Attacks and Defenses in Secure Aggregation for Federated Deep Learning**|Yiwei Zhang et.al.|[2410.09676v1](http://arxiv.org/abs/2410.09676v1)|null|
-|**2024-10-12**|**Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models**|Raghav Singhal et.al.|[2410.09432v1](http://arxiv.org/abs/2410.09432v1)|null|
+|**2024-10-12**|**Exact Aggregation for Federated and Efficient Fine-Tuning of Foundation Models**|Raghav Singhal et.al.|[2410.09432v1](http://arxiv.org/abs/2410.09432v1)|**[link](https://github.com/RaghavSinghal10/fedex-lora)**|
 |**2024-10-11**|**Enhanced Federated Anomaly Detection Through Autoencoders Using Summary Statistics-Based Thresholding**|Sofiane Laridi et.al.|[2410.09284v1](http://arxiv.org/abs/2410.09284v1)|null|
 |**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961v1](http://arxiv.org/abs/2410.08961v1)|**[link](https://github.com/artsasse/fedkan)**|
 |**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934v1](http://arxiv.org/abs/2410.08934v1)|null|
@@ -1605,7 +1605,7 @@ layout: default
 |**2024-09-08**|**FedFT: Improving Communication Performance for Federated Learning with Frequency Space Transformation**|Chamath Palihawadana et.al.|[2409.05242v1](http://arxiv.org/abs/2409.05242v1)|**[link](https://github.com/chamathpali/fedft)**|
 |**2024-09-08**|**Lepskii Principle for Distributed Kernel Ridge Regression**|Shao-Bo Lin et.al.|[2409.05070v1](http://arxiv.org/abs/2409.05070v1)|null|
 |**2024-09-08**|**Some Results on Neural Network Stability, Consistency, and Convergence: Insights into Non-IID Data, High-Dimensional Settings, and Physics-Informed Neural Networks**|Ronald Katende et.al.|[2409.05030v1](http://arxiv.org/abs/2409.05030v1)|null|
-|**2024-09-08**|**DynamicFL: Federated Learning with Dynamic Communication Resource Allocation**|Qi Le et.al.|[2409.04986v1](http://arxiv.org/abs/2409.04986v1)|null|
+|**2024-09-08**|**DynamicFL: Federated Learning with Dynamic Communication Resource Allocation**|Qi Le et.al.|[2409.04986v1](http://arxiv.org/abs/2409.04986v1)|**[link](https://github.com/qi-le1/dynamicfl-federated-learning-with-dynamic-communication-resource-allocation)**|
 |**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972v1](http://arxiv.org/abs/2409.04972v1)|null|
 |**2024-09-06**|**Provable Hyperparameter Tuning for Structured Pfaffian Settings**|Maria-Florina Balcan et.al.|[2409.04367v1](http://arxiv.org/abs/2409.04367v1)|null|
 |**2024-09-06**|**Active-Passive Federated Learning for Vertically Partitioned Multi-view Data**|Jiyuan Liu et.al.|[2409.04111v1](http://arxiv.org/abs/2409.04111v1)|null|
@@ -1633,7 +1633,7 @@ layout: default
 |**2024-08-29**|**Analyzing Inference Privacy Risks Through Gradients in Machine Learning**|Zhuohang Li et.al.|[2408.16913v1](http://arxiv.org/abs/2408.16913v1)|null|
 |**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803v1](http://arxiv.org/abs/2408.15803v1)|null|
 |**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621v1](http://arxiv.org/abs/2408.15621v1)|null|
-|**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600v1](http://arxiv.org/abs/2408.15600v1)|null|
+|**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600v1](http://arxiv.org/abs/2408.15600v1)|**[link](https://github.com/hiyuchang/fed_sel_tune)**|
 |**2024-08-29**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591v2](http://arxiv.org/abs/2408.15591v2)|**[link](https://github.com/blingcho/vflip-esorics24)**|
 |**2024-08-27**|**Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning**|Zichen Tang et.al.|[2408.14736v1](http://arxiv.org/abs/2408.14736v1)|null|
 |**2024-08-27**|**PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework with Correlated Differential Privacy**|Xianzhi Zhang et.al.|[2408.14735v1](http://arxiv.org/abs/2408.14735v1)|null|
@@ -1800,7 +1800,7 @@ layout: default
 |**2024-07-18**|**PowerTrain: Fast, Generalizable Time and Power Prediction Models to Optimize DNN Training on Accelerated Edges**|Prashanthi S. K. et.al.|[2407.13944v1](http://arxiv.org/abs/2407.13944v1)|null|
 |**2024-07-18**|**Privacy-preserving gradient-based fair federated learning**|Janis Adamek et.al.|[2407.13881v1](http://arxiv.org/abs/2407.13881v1)|null|
 |**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043v1](http://arxiv.org/abs/2407.13043v1)|null|
-|**2024-07-17**|**Proof-of-Collaborative-Learning: A Multi-winner Federated Learning Consensus Algorithm**|Amirreza Sokhankhosh et.al.|[2407.13018v1](http://arxiv.org/abs/2407.13018v1)|null|
+|**2024-07-17**|**Proof-of-Collaborative-Learning: A Multi-winner Federated Learning Consensus Algorithm**|Amirreza Sokhankhosh et.al.|[2407.13018v1](http://arxiv.org/abs/2407.13018v1)|**[link](https://github.com/tcdt-lab/FL-Validated-Learning)**|
 |**2024-07-17**|**A Framework for testing Federated Learning algorithms using an edge-like environment**|Felipe Machado Schwanck et.al.|[2407.12980v1](http://arxiv.org/abs/2407.12980v1)|**[link](https://github.com/open-digital-twin/framework-fl-testing)**|
 |**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764v1](http://arxiv.org/abs/2407.12764v1)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741v1](http://arxiv.org/abs/2407.12741v1)|null|
@@ -2081,7 +2081,7 @@ layout: default
 |**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046v1](http://arxiv.org/abs/2405.12046v1)|null|
 |**2024-05-22**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wan et.al.|[2405.11916v3](http://arxiv.org/abs/2405.11916v3)|null|
 |**2024-05-21**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884v2](http://arxiv.org/abs/2405.11884v2)|null|
-|**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828v1](http://arxiv.org/abs/2405.11828v1)|null|
+|**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828v1](http://arxiv.org/abs/2405.11828v1)|**[link](https://github.com/adibaorz/flism)**|
 |**2024-05-20**|**FedCAda: Adaptive Client-Side Optimization for Accelerated and Stable Federated Learning**|Liuzhi Zhou et.al.|[2405.11811v1](http://arxiv.org/abs/2405.11811v1)|null|
 |**2024-05-20**|**Fed-Credit: Robust Federated Learning with Credibility Management**|Jiayan Chen et.al.|[2405.11758v1](http://arxiv.org/abs/2405.11758v1)|null|
 |**2024-05-19**|**The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**|Kumar Kshitij Patel et.al.|[2405.11667v1](http://arxiv.org/abs/2405.11667v1)|null|
@@ -2652,7 +2652,7 @@ layout: default
 |**2024-01-15**|**Vertical Federated Image Segmentation**|Paul K. Mandal et.al.|[2401.07931v1](http://arxiv.org/abs/2401.07931v1)|null|
 |**2024-01-15**|**Joint Probability Selection and Power Allocation for Federated Learning**|Ouiame Marnissi et.al.|[2401.07756v1](http://arxiv.org/abs/2401.07756v1)|null|
 |**2024-01-15**|**FedRFQ: Prototype-Based Federated Learning with Reduced Redundancy, Minimal Failure, and Enhanced Quality**|Biwei Yan et.al.|[2401.07558v1](http://arxiv.org/abs/2401.07558v1)|null|
-|**2024-01-15**|**Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning**|Mingzhao Guo et.al.|[2401.07496v1](http://arxiv.org/abs/2401.07496v1)|null|
+|**2024-01-15**|**Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning**|Mingzhao Guo et.al.|[2401.07496v1](http://arxiv.org/abs/2401.07496v1)|**[link](https://github.com/mingzhaoguo/ota-lc)**|
 |**2024-01-15**|**Quantum Privacy Aggregation of Teacher Ensembles (QPATE) for Privacy-preserving Quantum Machine Learning**|William Watkins et.al.|[2401.07464v1](http://arxiv.org/abs/2401.07464v1)|null|
 |**2024-01-15**|**Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation**|Yun-Wei Chu et.al.|[2401.07456v1](http://arxiv.org/abs/2401.07456v1)|null|
 |**2024-01-12**|**Intelligent Data-Driven Architectural Features Orchestration for Network Slicing**|Rodrigo Moreira et.al.|[2401.06538v1](http://arxiv.org/abs/2401.06538v1)|null|
@@ -2933,7 +2933,7 @@ layout: default
 |**2023-11-10**|**Aggregation Weighting of Federated Learning via Generalization Bound Estimation**|Mingwei Xu et.al.|[2311.05936v1](http://arxiv.org/abs/2311.05936v1)|null|
 |**2023-11-10**|**Federated Learning with Manifold Regularization and Normalized Update Reaggregation**|Xuming An et.al.|[2311.05924v1](http://arxiv.org/abs/2311.05924v1)|null|
 |**2023-11-10**|**Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios**|Yanli Li et.al.|[2311.05826v1](http://arxiv.org/abs/2311.05826v1)|null|
-|**2023-11-10**|**Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction**|Shanghao Shi et.al.|[2311.05808v1](http://arxiv.org/abs/2311.05808v1)|null|
+|**2023-11-10**|**Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction**|Shanghao Shi et.al.|[2311.05808v1](http://arxiv.org/abs/2311.05808v1)|**[link](https://github.com/unknown123489/scale-mia)**|
 |**2023-11-09**|**The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning**|Elaheh Jafarigol et.al.|[2311.05790v1](http://arxiv.org/abs/2311.05790v1)|null|
 |**2023-11-09**|**Deep Learning Architecture for Network-Efficiency at the Edge**|Akrit Mudvari et.al.|[2311.05739v1](http://arxiv.org/abs/2311.05739v1)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
