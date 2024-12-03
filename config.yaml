@@ -23,9 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "FL":
-        filters: ["Federated Learning", "Distributed Learning"]
-    "MMS":
-        filters: ["Multimedia Security", "Media Content Security"]
+        filters: ["Federated Learning"]
+    "det3d":
+        filters: ["3D object detection", "3D Object Detection"]
 #     "SLAM": 
 #         filters: ["SLAM", "Visual Odometry"]
 #     "SFM":
