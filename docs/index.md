@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Fractional Order Distributed Optimization**|Andrei Lixandru et.al.|[2412.02546v1](http://arxiv.org/abs/2412.02546v1)|null|
+|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535v1](http://arxiv.org/abs/2412.02535v1)|null|
+|**2024-12-03**|**Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality**|Harish Srinivas et.al.|[2412.02340v1](http://arxiv.org/abs/2412.02340v1)|null|
+|**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|null|
+|**2024-12-03**|**Learn More by Using Less: Distributed Learning with Energy-Constrained Devices**|Roberto Pereira et.al.|[2412.02289v1](http://arxiv.org/abs/2412.02289v1)|null|
+|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161v1](http://arxiv.org/abs/2412.02161v1)|null|
+|**2024-12-03**|**Privacy-Preserving Federated Learning via Homomorphic Adversarial Networks**|Wenhan Dong et.al.|[2412.01650v2](http://arxiv.org/abs/2412.01650v2)|null|
+|**2024-12-02**|**Review of Mathematical Optimization in Federated Learning**|Shusen Yang et.al.|[2412.01630v1](http://arxiv.org/abs/2412.01630v1)|null|
+|**2024-12-02**|**FedAH: Aggregated Head for Personalized Federated Learning**|Pengzhan Zhou et.al.|[2412.01295v1](http://arxiv.org/abs/2412.01295v1)|**[link](https://github.com/heyuepeng/fedah)**|
+|**2024-12-02**|**FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**|Yuepeng He et.al.|[2412.01281v1](http://arxiv.org/abs/2412.01281v1)|**[link](https://github.com/heyuepeng/pfllibvsp)**|
 |**2024-11-29**|**Rethinking the initialization of Momentum in Federated Learning with Heterogeneous Data**|Chenguang Xiao et.al.|[2411.19798v1](http://arxiv.org/abs/2411.19798v1)|null|
 |**2024-11-29**|**Gradient Inversion Attack on Graph Neural Networks**|Divya Anand Sinha et.al.|[2411.19440v1](http://arxiv.org/abs/2411.19440v1)|null|
 |**2024-11-28**|**PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning**|Shenghui Li et.al.|[2411.19335v1](http://arxiv.org/abs/2411.19335v1)|null|
@@ -4017,6 +4027,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054v1](http://arxiv.org/abs/2412.02054v1)|null|
+|**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692v1](http://arxiv.org/abs/2412.00692v1)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860v1](http://arxiv.org/abs/2411.19860v1)|null|
 |**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|null|
 |**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761v1](http://arxiv.org/abs/2411.17761v1)|**[link](https://github.com/VDIGPKU/OpenAD)**|
