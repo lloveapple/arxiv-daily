@@ -83,19 +83,18 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
-    # output 
     content = dict() 
     content_to_web = dict()
     search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
+        query=query,
+        max_results=max_results,
+        sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
     for result in search_engine.results():
@@ -103,10 +102,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
+        code_url            = base_url + paper_id # TODO
+        paper_abstract      = result.summary.replace("\n", " ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
+        paper_first_author  = get_authors(result.authors, first_author=True)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
@@ -114,7 +113,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
         if ver_pos == -1:
             paper_key = paper_id
@@ -122,47 +120,40 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
 
         try:
-            # source code link    
+            # Try fetching the code link
             r = requests.get(code_url).json()
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
+                    update_time, paper_title, paper_first_author, paper_id, paper_url, repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
+                    update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                # If no code link, skip this paper (do not add to content)
+                logging.info(f"No code found for paper {paper_id}. Skipping.")
+                continue
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
+            if comments:
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
 
         except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            logging.error(f"Exception: {e} with id: {paper_key}")
 
-    data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web 
+    data = {topic: content}
+    data_web = {topic: content_to_web}
+    return data, data_web
+
 
 def update_paper_links(filename):
     '''
     weekly update paper links in json file 
     '''
-    with open(filename,"r") as f:
+    with open(filename, "r") as f:
         content = f.read()
         if not content:
             m = {}
@@ -171,9 +162,9 @@ def update_paper_links(filename):
             
         json_data = m.copy() 
 
-        for keywords,v in json_data.items():
+        for keywords, v in json_data.items():
             logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
+            for paper_id, contents in v.items():
                 contents = str(contents)
 
                 valid_link = False if '|null|' in contents else True
@@ -186,14 +177,20 @@ def update_paper_links(filename):
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
                         if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                            new_cont = contents.replace('|null|', f'|**[link]({repo_url})**|')
                             logging.info(f'ID = {paper_id}, contents = {new_cont}')
                             json_data[keywords][paper_id] = str(new_cont)
+                        else:
+                            # If no code link found, remove the entry
+                            logging.info(f"No code found for paper {paper_id}. Removing entry.")
+                            json_data[keywords].pop(paper_id, None)
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
+        
         # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+        with open(filename, "w") as f:
+            json.dump(json_data, f)
+
 
 def update_json_file(filename,data_dict):
     '''
