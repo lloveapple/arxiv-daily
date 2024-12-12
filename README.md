@@ -21,7 +21,7 @@
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687v1](http://arxiv.org/abs/2412.07687v1)|null|
 |**2024-12-10**|**Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**|Kichang Lee et.al.|[2412.07454v1](http://arxiv.org/abs/2412.07454v1)|null|
 |**2024-12-10**|**When UAV Meets Federated Learning: Latency Minimization via Joint Trajectory Design and Resource Allocation**|Xuhui Zhang et.al.|[2412.07428v1](http://arxiv.org/abs/2412.07428v1)|null|
-|**2024-12-10**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216v1](http://arxiv.org/abs/2412.07216v1)|null|
+|**2024-12-11**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216v2](http://arxiv.org/abs/2412.07216v2)|null|
 |**2024-12-10**|**Hierarchical Split Federated Learning: Convergence Analysis and System Optimization**|Zheng Lin et.al.|[2412.07197v1](http://arxiv.org/abs/2412.07197v1)|null|
 |**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187v1](http://arxiv.org/abs/2412.07187v1)|**[link](https://github.com/pengxin-guo/hyperfl)**|
 |**2024-12-10**|**Optimizing Personalized Federated Learning through Adaptive Layer-Wise Learning**|Weihang Chen et.al.|[2412.07062v1](http://arxiv.org/abs/2412.07062v1)|null|
