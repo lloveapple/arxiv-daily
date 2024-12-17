@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737v1](http://arxiv.org/abs/2412.11737v1)|null|
+|**2024-12-16**|**Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning**|Andrei Semenov et.al.|[2412.11689v1](http://arxiv.org/abs/2412.11689v1)|**[link](https://github.com/andron00e/jast)**|
+|**2024-12-16**|**UA-PDFL: A Personalized Approach for Decentralized Federated Learning**|Hangyu Zhu et.al.|[2412.11674v1](http://arxiv.org/abs/2412.11674v1)|null|
+|**2024-12-16**|**Non-Convex Optimization in Federated Learning via Variance Reduction and Adaptive Learning**|Dipanwita Thakur et.al.|[2412.11660v1](http://arxiv.org/abs/2412.11660v1)|null|
+|**2024-12-16**|**BA-BFL: Barycentric Aggregation for Bayesian Federated Learning**|Nour Jamoussi et.al.|[2412.11646v1](http://arxiv.org/abs/2412.11646v1)|null|
+|**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496v1](http://arxiv.org/abs/2412.11496v1)|null|
+|**2024-12-16**|**Vertical Federated Unlearning via Backdoor Certification**|Mengde Han et.al.|[2412.11476v1](http://arxiv.org/abs/2412.11476v1)|**[link](https://github.com/mengde-han/vfl-unlearn)**|
+|**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463v1](http://arxiv.org/abs/2412.11463v1)|**[link](https://github.com/danny0628/fedcar)**|
+|**2024-12-16**|**TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning**|Gangqiang Hu et.al.|[2412.11448v1](http://arxiv.org/abs/2412.11448v1)|null|
+|**2024-12-16**|**Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training**|Milad Soltany et.al.|[2412.11408v1](http://arxiv.org/abs/2412.11408v1)|null|
 |**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814v1](http://arxiv.org/abs/2412.09814v1)|**[link](https://github.com/pechen123/2dbn_learning)**|
 |**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259v1](http://arxiv.org/abs/2412.09259v1)|null|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|null|
@@ -61,7 +71,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421v1](http://arxiv.org/abs/2412.08421v1)|null|
+|**2024-12-16**|**HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**|Zijian Gu et.al.|[2412.11489v1](http://arxiv.org/abs/2412.11489v1)|**[link](https://github.com/garfield-cpp/hgsfusion)**|
+|**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
+|**2024-12-14**|**DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions**|Jingyu Zhang et.al.|[2412.10739v1](http://arxiv.org/abs/2412.10739v1)|**[link](https://github.com/terry9a/dsrc)**|
+|**2024-12-14**|**PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**|Yi Zhong et.al.|[2412.08421v2](http://arxiv.org/abs/2412.08421v2)|**[link](https://github.com/zyyyyy0926/pointcformer_plus_pytorch)**|
 |**2024-12-13**|**Physical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410v2](http://arxiv.org/abs/2412.08410v2)|null|
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096v1](http://arxiv.org/abs/2412.08096v1)|null|
 |**2024-12-10**|**Enhancing 3D Object Detection in Autonomous Vehicles Based on Synthetic Virtual Environment Analysis**|Vladislav Li et.al.|[2412.07509v1](http://arxiv.org/abs/2412.07509v1)|null|
