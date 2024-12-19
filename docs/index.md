@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080v1](http://arxiv.org/abs/2412.14080v1)|null|
+|**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818v1](http://arxiv.org/abs/2412.13818v1)|null|
+|**2024-12-18**|**Rehearsal-Free Continual Federated Learning with Synergistic Regularization**|Yichen Li et.al.|[2412.13779v1](http://arxiv.org/abs/2412.13779v1)|null|
+|**2024-12-18**|**Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabeled Data**|Junki Mori et.al.|[2412.13757v1](http://arxiv.org/abs/2412.13757v1)|null|
+|**2024-12-18**|**Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models**|Jincheol Jung et.al.|[2412.13720v1](http://arxiv.org/abs/2412.13720v1)|null|
+|**2024-12-18**|**SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning**|Xinyang Liu et.al.|[2412.13589v1](http://arxiv.org/abs/2412.13589v1)|**[link](https://github.com/ez4lionky/SemiDFL)**|
+|**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551v1](http://arxiv.org/abs/2412.13551v1)|null|
+|**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495v1](http://arxiv.org/abs/2412.13495v1)|null|
+|**2024-12-18**|**Federated Unlearning Model Recovery in Data with Skewed Label Distributions**|Xinrui Yu et.al.|[2412.13466v1](http://arxiv.org/abs/2412.13466v1)|null|
 |**2024-12-17**|**Concurrent vertical and horizontal federated learning with fuzzy cognitive maps**|Jose L Salmeron et.al.|[2412.12844v1](http://arxiv.org/abs/2412.12844v1)|null|
 |**2024-12-17**|**Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning**|Rui Zhang et.al.|[2412.12640v1](http://arxiv.org/abs/2412.12640v1)|null|
 |**2024-12-16**|**F-RBA: A Federated Learning-based Framework for Risk-based Authentication**|Hamidreza Fereidouni et.al.|[2412.12324v1](http://arxiv.org/abs/2412.12324v1)|null|
