@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -172,7 +172,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 ## det3d
 
@@ -182,8 +182,8 @@
 |**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373v1](http://arxiv.org/abs/2501.04373v1)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
 |**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700v1](http://arxiv.org/abs/2501.03700v1)|null|
-|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363v1](http://arxiv.org/abs/2501.02363v1)|null|
-|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314v1](http://arxiv.org/abs/2501.02314v1)|null|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363v1](http://arxiv.org/abs/2501.02363v1)|**[link](https://github.com/wangsch10/v2x-dgpe)**|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314v1](http://arxiv.org/abs/2501.02314v1)|**[link](https://github.com/pay246-git468/radarnext)**|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037v1](http://arxiv.org/abs/2501.01037v1)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911v1](http://arxiv.org/abs/2412.20911v1)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165v1](http://arxiv.org/abs/2412.19165v1)|null|
@@ -219,7 +219,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

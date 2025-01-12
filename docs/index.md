@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## FL
@@ -176,8 +176,8 @@ layout: default
 |**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373v1](http://arxiv.org/abs/2501.04373v1)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
 |**2025-01-07**|**AuxDepthNet: Real-Time Monocular 3D Object Detection with Depth-Sensitive Features**|Ruochen Zhang et.al.|[2501.03700v1](http://arxiv.org/abs/2501.03700v1)|null|
-|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363v1](http://arxiv.org/abs/2501.02363v1)|null|
-|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314v1](http://arxiv.org/abs/2501.02314v1)|null|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363v1](http://arxiv.org/abs/2501.02363v1)|**[link](https://github.com/wangsch10/v2x-dgpe)**|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314v1](http://arxiv.org/abs/2501.02314v1)|**[link](https://github.com/pay246-git468/radarnext)**|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037v1](http://arxiv.org/abs/2501.01037v1)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911v1](http://arxiv.org/abs/2412.20911v1)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165v1](http://arxiv.org/abs/2412.19165v1)|null|
