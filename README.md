@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126v1](http://arxiv.org/abs/2501.07126v1)|null|
+|**2025-01-12**|**ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs**|Yongming Fan et.al.|[2501.06953v1](http://arxiv.org/abs/2501.06953v1)|null|
+|**2025-01-12**|**KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks**|Ankit Gangwal et.al.|[2501.06729v1](http://arxiv.org/abs/2501.06729v1)|null|
+|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650v1](http://arxiv.org/abs/2501.06650v1)|null|
+|**2025-01-11**|**Reliable Imputed-Sample Assisted Vertical Federated Learning**|Yaopei Zeng et.al.|[2501.06429v1](http://arxiv.org/abs/2501.06429v1)|null|
+|**2025-01-10**|**Aggregating Low Rank Adapters in Federated Fine-tuning**|Evelyn Trautmann et.al.|[2501.06332v1](http://arxiv.org/abs/2501.06332v1)|null|
 |**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077v1](http://arxiv.org/abs/2501.06077v1)|**[link](https://github.com/xx987/xfbci)**|
 |**2025-01-10**|**Encoded Spatial Attribute in Multi-Tier Federated Learning**|Asfia Kawnine et.al.|[2501.05934v1](http://arxiv.org/abs/2501.05934v1)|null|
 |**2025-01-10**|**Collaborative Content Moderation in the Fediverse**|Haris Bin Zia et.al.|[2501.05871v1](http://arxiv.org/abs/2501.05871v1)|null|
@@ -184,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-11**|**CoreNet: Conflict Resolution Network for Point-Pixel Misalignment and Sub-Task Suppression of 3D LiDAR-Camera Object Detection**|Yiheng Li et.al.|[2501.06550v1](http://arxiv.org/abs/2501.06550v1)|**[link](https://github.com/liyih/corenet)**|
 |**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969v1](http://arxiv.org/abs/2501.04969v1)|**[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**|
 |**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373v1](http://arxiv.org/abs/2501.04373v1)|null|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213v1](http://arxiv.org/abs/2501.04213v1)|null|
