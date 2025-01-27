@@ -62,7 +62,7 @@
 |**2025-01-10**|**Encoded Spatial Attribute in Multi-Tier Federated Learning**|Asfia Kawnine et.al.|[2501.05934v1](http://arxiv.org/abs/2501.05934v1)|null|
 |**2025-01-10**|**Collaborative Content Moderation in the Fediverse**|Haris Bin Zia et.al.|[2501.05871v1](http://arxiv.org/abs/2501.05871v1)|null|
 |**2025-01-10**|**STHFL: Spatio-Temporal Heterogeneous Federated Learning**|Shunxin Guo et.al.|[2501.05775v1](http://arxiv.org/abs/2501.05775v1)|null|
-|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637v1](http://arxiv.org/abs/2501.05637v1)|null|
+|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637v1](http://arxiv.org/abs/2501.05637v1)|**[link](https://github.com/yituo-liu/INFOCOM2025-COMUDO)**|
 |**2025-01-09**|**FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning**|Yanbing Zhou et.al.|[2501.05496v1](http://arxiv.org/abs/2501.05496v1)|null|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053v1](http://arxiv.org/abs/2501.05053v1)|null|
 |**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940v1](http://arxiv.org/abs/2501.04940v1)|**[link](https://github.com/aignlai/grbfl)**|
@@ -112,7 +112,7 @@
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674v1](http://arxiv.org/abs/2412.20674v1)|null|
 |**2024-12-28**|**Election of Collaborators via Reinforcement Learning for Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20253v1](http://arxiv.org/abs/2412.20253v1)|null|
 |**2024-12-28**|**Recommender Engine Driven Client Selection in Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20250v1](http://arxiv.org/abs/2412.20250v1)|null|
-|**2024-12-28**|**Federated Unlearning with Gradient Descent and Conflict Mitigation**|Zibin Pan et.al.|[2412.20200v1](http://arxiv.org/abs/2412.20200v1)|null|
+|**2024-12-28**|**Federated Unlearning with Gradient Descent and Conflict Mitigation**|Zibin Pan et.al.|[2412.20200v1](http://arxiv.org/abs/2412.20200v1)|**[link](https://github.com/zibinpan/FedOSD)**|
 |**2024-12-28**|**Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning**|Sijia Chen et.al.|[2412.20020v1](http://arxiv.org/abs/2412.20020v1)|**[link](https://github.com/tl-system/plato)**|
 |**2024-12-28**|**A Robust Federated Learning Framework for Undependable Devices at Scale**|Shilong Wang et.al.|[2412.19991v1](http://arxiv.org/abs/2412.19991v1)|null|
 |**2024-12-28**|**Caesar: A Low-deviation Compression Approach for Efficient Federated Learning**|Jiaming Yan et.al.|[2412.19989v1](http://arxiv.org/abs/2412.19989v1)|null|
