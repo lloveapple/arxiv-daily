@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Measuring Heterogeneity in Machine Learning with Distributed Energy Distance**|Mengchen Fan et.al.|[2501.16174v1](http://arxiv.org/abs/2501.16174v1)|null|
+|**2025-01-27**|**A Unified Analysis of Stochastic Gradient Descent with Arbitrary Data Permutations and Beyond**|Yipeng Li et.al.|[2501.16117v1](http://arxiv.org/abs/2501.16117v1)|null|
+|**2025-01-27**|**Combating Interference for Over-the-Air Federated Learning: A Statistical Approach via RIS**|Wei Shi et.al.|[2501.16081v1](http://arxiv.org/abs/2501.16081v1)|null|
+|**2025-01-27**|**Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data**|Judith Sáinz-Pardo Díaz et.al.|[2501.15949v1](http://arxiv.org/abs/2501.15949v1)|null|
+|**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728v1](http://arxiv.org/abs/2501.15728v1)|null|
+|**2025-01-27**|**CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling**|Kaiyuan Zhang et.al.|[2501.15718v1](http://arxiv.org/abs/2501.15718v1)|**[link](https://github.com/KaiyuanZh/censor)**|
+|**2025-01-26**|**FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment**|Sunny Gupta et.al.|[2501.15486v1](http://arxiv.org/abs/2501.15486v1)|null|
+|**2025-01-26**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361v1](http://arxiv.org/abs/2501.15361v1)|null|
+|**2025-01-25**|**A Post-Processing-Based Fair Federated Learning Framework**|Yi Zhou et.al.|[2501.15318v1](http://arxiv.org/abs/2501.15318v1)|null|
+|**2025-01-25**|**A Two-Stage CAE-Based Federated Learning Framework for Efficient Jamming Detection in 5G Networks**|Samhita Kuili et.al.|[2501.15288v1](http://arxiv.org/abs/2501.15288v1)|null|
 |**2025-01-24**|**Federated Domain Generalization with Data-free On-server Gradient Matching**|Trong-Binh Nguyen et.al.|[2501.14653v1](http://arxiv.org/abs/2501.14653v1)|null|
 |**2025-01-24**|**Data Assetization via Resources-decoupled Federated Learning**|Jianzhe Zhao et.al.|[2501.14588v1](http://arxiv.org/abs/2501.14588v1)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512v1](http://arxiv.org/abs/2501.14512v1)|null|
@@ -229,6 +239,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Breaking the SSL-AL Barrier: A Synergistic Semi-Supervised Active Learning Framework for 3D Object Detection**|Zengran Wang et.al.|[2501.15449v1](http://arxiv.org/abs/2501.15449v1)|null|
+|**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394v1](http://arxiv.org/abs/2501.15394v1)|null|
 |**2025-01-19**|**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data**|Konrad Lis et.al.|[2501.11159v1](http://arxiv.org/abs/2501.11159v1)|**[link](https://github.com/vision-agh/lift)**|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266v1](http://arxiv.org/abs/2501.10266v1)|null|
 |**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
