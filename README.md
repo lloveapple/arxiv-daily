@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416v1](http://arxiv.org/abs/2501.18416v1)|null|
+|**2025-01-30**|**Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**|Furkan Bagci et.al.|[2501.18298v1](http://arxiv.org/abs/2501.18298v1)|null|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174v1](http://arxiv.org/abs/2501.18174v1)|null|
+|**2025-01-29**|**Power-Efficient Over-the-Air Aggregation with Receive Beamforming for Federated Learning**|Faeze Moradi Kalarde et.al.|[2501.18058v1](http://arxiv.org/abs/2501.18058v1)|null|
 |**2025-01-29**|**Federated Learning With Individualized Privacy Through Client Sampling**|Lucas Lange et.al.|[2501.17634v1](http://arxiv.org/abs/2501.17634v1)|**[link](https://github.com/luckyos-code/flidp)**|
 |**2025-01-29**|**A Survey on Cluster-based Federated Learning**|Omar El-Rifai et.al.|[2501.17512v1](http://arxiv.org/abs/2501.17512v1)|null|
 |**2025-01-29**|**Poisoning Attacks and Defenses to Federated Unlearning**|Wenbin Wang et.al.|[2501.17396v1](http://arxiv.org/abs/2501.17396v1)|null|
@@ -250,6 +254,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162v1](http://arxiv.org/abs/2501.18162v1)|null|
 |**2025-01-26**|**Breaking the SSL-AL Barrier: A Synergistic Semi-Supervised Active Learning Framework for 3D Object Detection**|Zengran Wang et.al.|[2501.15449v1](http://arxiv.org/abs/2501.15449v1)|null|
 |**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394v1](http://arxiv.org/abs/2501.15394v1)|null|
 |**2025-01-19**|**LiFT: Lightweight, FPGA-tailored 3D object detection based on LiDAR data**|Konrad Lis et.al.|[2501.11159v1](http://arxiv.org/abs/2501.11159v1)|**[link](https://github.com/vision-agh/lift)**|
