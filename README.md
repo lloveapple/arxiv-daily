@@ -66,8 +66,8 @@
 |**2025-01-21**|**Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction**|Jia-Hao Syu et.al.|[2501.12125v1](http://arxiv.org/abs/2501.12125v1)|null|
 |**2025-01-21**|**FedCLEAN: byzantine defense by CLustering Errors of Activation maps in Non-IID federated learning environments**|Mehdi Ben Ghali et.al.|[2501.12123v1](http://arxiv.org/abs/2501.12123v1)|null|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112v1](http://arxiv.org/abs/2501.12112v1)|null|
-|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046v1](http://arxiv.org/abs/2501.12046v1)|null|
-|**2025-01-21**|**FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks**|Jian Chen et.al.|[2501.11848v1](http://arxiv.org/abs/2501.11848v1)|null|
+|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046v1](http://arxiv.org/abs/2501.12046v1)|**[link](https://github.com/yokiwuuu/cepam)**|
+|**2025-01-21**|**FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks**|Jian Chen et.al.|[2501.11848v1](http://arxiv.org/abs/2501.11848v1)|**[link](https://github.com/ity207/FedMUA)**|
 |**2025-01-20**|**Personalized Federated Learning for Cellular VR: Online Learning and Dynamic Caching**|Krishnendu S. Tharakan et.al.|[2501.11745v1](http://arxiv.org/abs/2501.11745v1)|null|
 |**2025-01-20**|**The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions**|Maryam Ebrahimi et.al.|[2501.11714v1](http://arxiv.org/abs/2501.11714v1)|null|
 |**2025-01-20**|**Trustformer: A Trusted Federated Transformer**|Ali Abbasi Tadi et.al.|[2501.11706v1](http://arxiv.org/abs/2501.11706v1)|null|
@@ -183,7 +183,7 @@
 |**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424v1](http://arxiv.org/abs/2412.14424v1)|null|
 |**2024-12-18**|**Covariances for Free: Exploiting Mean Distributions for Federated Learning with Pre-Trained Models**|Dipam Goswami et.al.|[2412.14326v1](http://arxiv.org/abs/2412.14326v1)|null|
 |**2024-12-18**|**FedSTaS: Client Stratification and Client Level Sampling for Efficient Federated Learning**|Jordan Slessor et.al.|[2412.14226v1](http://arxiv.org/abs/2412.14226v1)|null|
-|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080v1](http://arxiv.org/abs/2412.14080v1)|null|
+|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080v1](http://arxiv.org/abs/2412.14080v1)|**[link](https://github.com/RUB-InfSec/distributed_learning_robustness)**|
 |**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818v1](http://arxiv.org/abs/2412.13818v1)|null|
 |**2024-12-18**|**Rehearsal-Free Continual Federated Learning with Synergistic Regularization**|Yichen Li et.al.|[2412.13779v1](http://arxiv.org/abs/2412.13779v1)|null|
 |**2024-12-18**|**Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabeled Data**|Junki Mori et.al.|[2412.13757v1](http://arxiv.org/abs/2412.13757v1)|null|
