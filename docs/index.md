@@ -278,8 +278,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322v1](http://arxiv.org/abs/2502.02322v1)|null|
-|**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894v1](http://arxiv.org/abs/2502.01894v1)|null|
+|**2025-02-04**|**Improving Generalization Ability for 3D Object Detection by Learning Sparsity-invariant Features**|Hsin-Cheng Lu et.al.|[2502.02322v1](http://arxiv.org/abs/2502.02322v1)|**[link](https://github.com/tiffamy/3dod-lsf)**|
+|**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894v1](http://arxiv.org/abs/2502.01894v1)|**[link](https://github.com/goodarzmehr/simbev)**|
 |**2025-02-03**|**Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**|Reza Sadeghian et.al.|[2502.01856v1](http://arxiv.org/abs/2502.01856v1)|null|
 |**2025-02-01**|**MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model**|Jihyeok Kim et.al.|[2502.00315v1](http://arxiv.org/abs/2502.00315v1)|null|
 |**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074v1](http://arxiv.org/abs/2502.00074v1)|null|
