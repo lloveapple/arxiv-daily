@@ -35,7 +35,7 @@ layout: default
 |**2025-02-10**|**Federated Continual Learning: Concepts, Challenges, and Solutions**|Parisa Hamedi et.al.|[2502.07059v1](http://arxiv.org/abs/2502.07059v1)|null|
 |**2025-02-10**|**Federated Sinkhorn**|Jeremy Kulcsar et.al.|[2502.07021v1](http://arxiv.org/abs/2502.07021v1)|null|
 |**2025-02-10**|**DROP: Poison Dilution via Knowledge Distillation for Federated Learning**|Georgios Syros et.al.|[2502.07011v1](http://arxiv.org/abs/2502.07011v1)|null|
-|**2025-02-10**|**Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning**|Mario García-Márquez et.al.|[2502.06917v1](http://arxiv.org/abs/2502.06917v1)|null|
+|**2025-02-10**|**Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning**|Mario García-Márquez et.al.|[2502.06917v1](http://arxiv.org/abs/2502.06917v1)|**[link](https://github.com/ari-dasci/S-kfc)**|
 |**2025-02-10**|**Analytic Personalized Federated Meta-Learning**|Shunxian Gu et.al.|[2502.06915v1](http://arxiv.org/abs/2502.06915v1)|null|
 |**2025-02-10**|**A Fair Federated Learning Framework for Collaborative Network Traffic Prediction and Resource Allocation**|Saroj Kumar Panda et.al.|[2502.06743v1](http://arxiv.org/abs/2502.06743v1)|null|
 |**2025-02-10**|**Many-Task Federated Fine-Tuning via Unified Task Vectors**|Vasileios Tsouvalas et.al.|[2502.06376v1](http://arxiv.org/abs/2502.06376v1)|null|
@@ -43,11 +43,11 @@ layout: default
 |**2025-02-10**|**Delay Optimization of a Federated Learning-based UAV-aided IoT network**|Hossein Mohammadi Firouzjaei et.al.|[2502.06284v1](http://arxiv.org/abs/2502.06284v1)|null|
 |**2025-02-10**|**Fine-Tuning Federated Learning-Based Intrusion Detection Systems for Transportation IoT**|Robert Akinie et.al.|[2502.06099v1](http://arxiv.org/abs/2502.06099v1)|null|
 |**2025-02-08**|**Federated Learning with Reservoir State Analysis for Time Series Anomaly Detection**|Keigo Nogami et.al.|[2502.05679v1](http://arxiv.org/abs/2502.05679v1)|null|
-|**2025-02-08**|**Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning**|Runhua Xu et.al.|[2502.05547v1](http://arxiv.org/abs/2502.05547v1)|null|
+|**2025-02-08**|**Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning**|Runhua Xu et.al.|[2502.05547v1](http://arxiv.org/abs/2502.05547v1)|**[link](https://github.com/irxyzzz/DualDefense)**|
 |**2025-02-08**|**Coalition Formation for Heterogeneous Federated Learning Enabled Channel Estimation in RIS-assisted Cell-free MIMO**|Nan Qi et.al.|[2502.05538v1](http://arxiv.org/abs/2502.05538v1)|null|
 |**2025-02-07**|**Using Federated Machine Learning in Predictive Maintenance of Jet Engines**|Asaph Matheus Barbosa et.al.|[2502.05321v1](http://arxiv.org/abs/2502.05321v1)|null|
 |**2025-02-07**|**Principles and Components of Federated Learning Architectures**|Sarwar Saif et.al.|[2502.05273v1](http://arxiv.org/abs/2502.05273v1)|null|
-|**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087v1](http://arxiv.org/abs/2502.05087v1)|null|
+|**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087v1](http://arxiv.org/abs/2502.05087v1)|**[link](https://github.com/tuneinsight/federated-llms)**|
 |**2025-02-07**|**Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing the Vulnerability to Adversarial Attacks**|Yohannis Kifle Telila et.al.|[2502.05041v1](http://arxiv.org/abs/2502.05041v1)|null|
 |**2025-02-07**|**Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated Learning**|Yuchen Liu et.al.|[2502.04890v1](http://arxiv.org/abs/2502.04890v1)|null|
 |**2025-02-07**|**DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model Differences**|Chao Feng et.al.|[2502.04771v1](http://arxiv.org/abs/2502.04771v1)|null|
@@ -60,11 +60,11 @@ layout: default
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045v1](http://arxiv.org/abs/2502.04045v1)|null|
 |**2025-02-06**|**Non-convex composite federated learning with heterogeneous data**|Jiaojiao Zhang et.al.|[2502.03958v1](http://arxiv.org/abs/2502.03958v1)|null|
 |**2025-02-06**|**Privacy Risks in Health Big Data: A Systematic Literature Review**|Zhang Si Yuan et.al.|[2502.03811v1](http://arxiv.org/abs/2502.03811v1)|null|
-|**2025-02-06**|**SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning**|Heyi Zhang et.al.|[2502.03801v1](http://arxiv.org/abs/2502.03801v1)|null|
+|**2025-02-06**|**SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning**|Heyi Zhang et.al.|[2502.03801v1](http://arxiv.org/abs/2502.03801v1)|**[link](https://github.com/vio1etus/flpoison)**|
 |**2025-02-05**|**Interaction-Aware Gaussian Weighting for Clustered Federated Learning**|Alessandro Licciardi et.al.|[2502.03340v1](http://arxiv.org/abs/2502.03340v1)|null|
 |**2025-02-05**|**The Other Side of the Coin: Unveiling the Downsides of Model Aggregation in Federated Learning from a Layer-peeled Perspective**|Guogang Zhu et.al.|[2502.03231v1](http://arxiv.org/abs/2502.03231v1)|null|
 |**2025-02-05**|**Multi-objective methods in Federated Learning: A survey and taxonomy**|Maria Hartmann et.al.|[2502.03108v1](http://arxiv.org/abs/2502.03108v1)|null|
-|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092v1](http://arxiv.org/abs/2502.03092v1)|null|
+|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092v1](http://arxiv.org/abs/2502.03092v1)|**[link](https://github.com/Soptq/e-3sfc)**|
 |**2025-02-05**|**Differentially-Private Multi-Tier Federated Learning: A Formal Analysis and Evaluation**|Evan Chen et.al.|[2502.02877v1](http://arxiv.org/abs/2502.02877v1)|null|
 |**2025-02-05**|**Vertical Federated Learning for Failure-Cause Identification in Disaggregated Microwave Networks**|Fatih Temiz et.al.|[2502.02874v1](http://arxiv.org/abs/2502.02874v1)|null|
 |**2025-02-04**|**Federated Low-Rank Tensor Estimation for Multimodal Image Reconstruction**|Anh Van Nguyen et.al.|[2502.02761v1](http://arxiv.org/abs/2502.02761v1)|null|
