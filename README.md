@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**FedHC: A Hierarchical Clustered Federated Learning Framework for Satellite Networks**|Zhuocheng Liu et.al.|[2502.12783v1](http://arxiv.org/abs/2502.12783v1)|null|
+|**2025-02-18**|**Federated Variational Inference for Bayesian Mixture Models**|Jackie Rao et.al.|[2502.12684v1](http://arxiv.org/abs/2502.12684v1)|null|
+|**2025-02-14**|**ClusMFL: A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis**|Xinpeng Wang et.al.|[2502.12180v1](http://arxiv.org/abs/2502.12180v1)|null|
+|**2025-02-14**|**Ten Challenging Problems in Federated Foundation Models**|Tao Fan et.al.|[2502.12176v1](http://arxiv.org/abs/2502.12176v1)|null|
 |**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863v1](http://arxiv.org/abs/2502.11863v1)|null|
 |**2025-02-17**|**Double Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy**|Rustem Islamov et.al.|[2502.11682v1](http://arxiv.org/abs/2502.11682v1)|null|
 |**2025-02-14**|**Federated Learning-Driven Cybersecurity Framework for IoT Networks with Privacy-Preserving and Real-Time Threat Detection Capabilities**|Milad Rahmati et.al.|[2502.10599v1](http://arxiv.org/abs/2502.10599v1)|null|
@@ -331,6 +335,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735v1](http://arxiv.org/abs/2502.12735v1)|null|
 |**2025-02-12**|**Deep Reinforcement Learning-Based User Scheduling for Collaborative Perception**|Yandi Liu et.al.|[2502.10456v1](http://arxiv.org/abs/2502.10456v1)|null|
 |**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392v1](http://arxiv.org/abs/2502.10392v1)|null|
 |**2025-02-12**|**A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar**|Seung-Hyun Song et.al.|[2502.06114v2](http://arxiv.org/abs/2502.06114v2)|null|
