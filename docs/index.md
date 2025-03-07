@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564v1](http://arxiv.org/abs/2503.04564v1)|null|
+|**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528v1](http://arxiv.org/abs/2503.04528v1)|null|
+|**2025-03-06**|**Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis**|Xiyue Zhang et.al.|[2503.04473v1](http://arxiv.org/abs/2503.04473v1)|null|
+|**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451v1](http://arxiv.org/abs/2503.04451v1)|null|
+|**2025-03-06**|**InFL-UX: A Toolkit for Web-Based Interactive Federated Learning**|Tim Maurer et.al.|[2503.04318v1](http://arxiv.org/abs/2503.04318v1)|null|
+|**2025-03-06**|**One-Shot Clustering for Federated Learning**|Maciej Krzysztof Zuziak et.al.|[2503.04231v1](http://arxiv.org/abs/2503.04231v1)|null|
+|**2025-03-06**|**LiteChain: A Lightweight Blockchain for Verifiable and Scalable Federated Learning in Massive Edge Networks**|Handi Chen et.al.|[2503.04140v1](http://arxiv.org/abs/2503.04140v1)|null|
+|**2025-03-06**|**FLAME: A Federated Learning Approach for Multi-Modal RF Fingerprinting**|Kiarash Kianfar et.al.|[2503.04136v1](http://arxiv.org/abs/2503.04136v1)|null|
+|**2025-03-06**|**Generalization in Federated Learning: A Conditional Mutual Information Framework**|Ziqiao Wang et.al.|[2503.04091v1](http://arxiv.org/abs/2503.04091v1)|null|
+|**2025-03-06**|**Brain Tumor Detection in MRI Based on Federated Learning with YOLOv11**|Sheikh Moonwara Anjum Monisha et.al.|[2503.04087v1](http://arxiv.org/abs/2503.04087v1)|null|
 |**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684v1](http://arxiv.org/abs/2503.03684v1)|null|
 |**2025-03-05**|**Federated Learning for Predicting Mild Cognitive Impairment to Dementia Conversion**|Gaurang Sharma et.al.|[2503.03489v1](http://arxiv.org/abs/2503.03489v1)|null|
 |**2025-03-05**|**Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs**|Karthik Barma et.al.|[2503.03428v1](http://arxiv.org/abs/2503.03428v1)|null|
@@ -391,6 +401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154v1](http://arxiv.org/abs/2503.04154v1)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
 |**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548v1](http://arxiv.org/abs/2503.03548v1)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-04**|**Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?**|Miao Zhang et.al.|[2503.02687v1](http://arxiv.org/abs/2503.02687v1)|null|
