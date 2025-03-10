@@ -18,7 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-06**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564v1](http://arxiv.org/abs/2503.04564v1)|null|
+|**2025-03-07**|**NoT: Federated Unlearning via Weight Negation**|Yasser H. Khalil et.al.|[2503.05657v1](http://arxiv.org/abs/2503.05657v1)|null|
+|**2025-03-07**|**Practical Federated Learning without a Server**|Akash Dhasade et.al.|[2503.05509v1](http://arxiv.org/abs/2503.05509v1)|null|
+|**2025-03-07**|**Personalized Federated Learning via Learning Dynamic Graphs**|Ziran Zhou et.al.|[2503.05474v1](http://arxiv.org/abs/2503.05474v1)|null|
+|**2025-03-07**|**Uncertainty-Aware Explainable Federated Learning**|Yanci Zhang et.al.|[2503.05194v1](http://arxiv.org/abs/2503.05194v1)|null|
+|**2025-03-07**|**FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data**|Wenhao Wang et.al.|[2503.05143v1](http://arxiv.org/abs/2503.05143v1)|null|
+|**2025-03-06**|**Incentivizing Multi-Tenant Split Federated Learning for Foundation Models at the Network Edge**|Songyuan Li et.al.|[2503.04971v1](http://arxiv.org/abs/2503.04971v1)|null|
+|**2025-03-07**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564v2](http://arxiv.org/abs/2503.04564v2)|null|
 |**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528v1](http://arxiv.org/abs/2503.04528v1)|null|
 |**2025-03-06**|**Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis**|Xiyue Zhang et.al.|[2503.04473v1](http://arxiv.org/abs/2503.04473v1)|null|
 |**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451v1](http://arxiv.org/abs/2503.04451v1)|null|
