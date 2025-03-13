@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**|Nannan Wu et.al.|[2503.09587v1](http://arxiv.org/abs/2503.09587v1)|null|
+|**2025-03-12**|**Mitigating Membership Inference Vulnerability in Personalized Federated Learning**|Kangsoo Jung et.al.|[2503.09414v1](http://arxiv.org/abs/2503.09414v1)|null|
+|**2025-03-12**|**Robust Asymmetric Heterogeneous Federated Learning with Corrupted Clients**|Xiuwen Fang et.al.|[2503.09206v1](http://arxiv.org/abs/2503.09206v1)|null|
+|**2025-03-12**|**Differential Privacy Personalized Federated Learning Based on Dynamically Sparsified Client Updates**|Chuanyin Wang et.al.|[2503.09192v1](http://arxiv.org/abs/2503.09192v1)|null|
+|**2025-03-12**|**Efficient UAV Swarm-Based Multi-Task Federated Learning with Dynamic Task Knowledge Sharing**|Yubo Yang et.al.|[2503.09144v1](http://arxiv.org/abs/2503.09144v1)|null|
+|**2025-03-12**|**Drift-Aware Federated Learning: A Causal Perspective**|Yunjie Fang et.al.|[2503.09116v1](http://arxiv.org/abs/2503.09116v1)|null|
+|**2025-03-12**|**Incentive Analysis for Agent Participation in Federated Learning**|Lihui Yi et.al.|[2503.09039v1](http://arxiv.org/abs/2503.09039v1)|null|
+|**2025-03-12**|**Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning**|Zirui Gong et.al.|[2503.08976v1](http://arxiv.org/abs/2503.08976v1)|null|
+|**2025-03-11**|**Smoothing ADMM for Non-convex and Non-smooth Hierarchical Federated Learning**|Reza Mirzaeifard et.al.|[2503.08869v1](http://arxiv.org/abs/2503.08869v1)|null|
 |**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652v1](http://arxiv.org/abs/2503.08652v1)|null|
 |**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634v1](http://arxiv.org/abs/2503.08634v1)|null|
 |**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325v1](http://arxiv.org/abs/2503.08325v1)|null|
@@ -433,13 +442,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992v1](http://arxiv.org/abs/2503.08992v1)|null|
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639v1](http://arxiv.org/abs/2503.08639v1)|null|
 |**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421v1](http://arxiv.org/abs/2503.08421v1)|null|
-|**2025-03-11**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101v1](http://arxiv.org/abs/2503.08101v1)|**[link](https://github.com/iseri27/tg_gbc)**|
+|**2025-03-12**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101v2](http://arxiv.org/abs/2503.08101v2)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092v1](http://arxiv.org/abs/2503.08092v1)|null|
 |**2025-03-10**|**Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Youjun Zhao et.al.|[2503.07593v1](http://arxiv.org/abs/2503.07593v1)|null|
 |**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133v1](http://arxiv.org/abs/2503.07133v1)|null|
-|**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085v1](http://arxiv.org/abs/2503.07085v1)|null|
+|**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085v2](http://arxiv.org/abs/2503.07085v2)|null|
 |**2025-03-09**|**SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**|Shijia Zhao et.al.|[2503.06467v1](http://arxiv.org/abs/2503.06467v1)|null|
 |**2025-03-09**|**OV-SCAN: Semantically Consistent Alignment for Novel Object Discovery in Open-Vocabulary 3D Object Detection**|Adrian Chow et.al.|[2503.06435v1](http://arxiv.org/abs/2503.06435v1)|null|
 |**2025-03-08**|**From Dataset to Real-world: General 3D Object Detection via Generalized Cross-domain Few-shot Learning**|Shuangzhi Li et.al.|[2503.06282v1](http://arxiv.org/abs/2503.06282v1)|null|
