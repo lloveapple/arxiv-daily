@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -443,19 +443,19 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
 
 ## det3d
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|null|
-|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
 |**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878v1](http://arxiv.org/abs/2503.09878v1)|null|
 |**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[2503.09803v1](http://arxiv.org/abs/2503.09803v1)|null|
 |**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992v1](http://arxiv.org/abs/2503.08992v1)|null|
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639v1](http://arxiv.org/abs/2503.08639v1)|null|
-|**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421v2](http://arxiv.org/abs/2503.08421v2)|null|
+|**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421v2](http://arxiv.org/abs/2503.08421v2)|**[link](https://github.com/xmuqimingxia/dota)**|
 |**2025-03-12**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101v2](http://arxiv.org/abs/2503.08101v2)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092v1](http://arxiv.org/abs/2503.08092v1)|null|
 |**2025-03-10**|**Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Youjun Zhao et.al.|[2503.07593v1](http://arxiv.org/abs/2503.07593v1)|null|
@@ -539,7 +539,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
