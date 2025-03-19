@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Technical Report: Aggregation on Learnable Manifolds for Asynchronous Federated Optimization**|Archie Licudi et.al.|[2503.14396v1](http://arxiv.org/abs/2503.14396v1)|null|
+|**2025-03-18**|**Entente: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning**|Jiacen Xu et.al.|[2503.14284v1](http://arxiv.org/abs/2503.14284v1)|null|
+|**2025-03-18**|**Trading-off Accuracy and Communication Cost in Federated Learning**|Mattia Jacopo Villani et.al.|[2503.14246v1](http://arxiv.org/abs/2503.14246v1)|null|
+|**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084v1](http://arxiv.org/abs/2503.14084v1)|null|
+|**2025-03-18**|**LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions**|Xiaopei Chen et.al.|[2503.13819v1](http://arxiv.org/abs/2503.13819v1)|null|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745v1](http://arxiv.org/abs/2503.13745v1)|null|
+|**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624v1](http://arxiv.org/abs/2503.13624v1)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404v1](http://arxiv.org/abs/2503.13404v1)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255v1](http://arxiv.org/abs/2503.13255v1)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254v1](http://arxiv.org/abs/2503.13254v1)|null|
@@ -459,10 +466,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493v1](http://arxiv.org/abs/2503.14493v1)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914v1](http://arxiv.org/abs/2503.13914v1)|null|
+|**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743v1](http://arxiv.org/abs/2503.13743v1)|null|
 |**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914v1](http://arxiv.org/abs/2503.12914v1)|null|
 |**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595v1](http://arxiv.org/abs/2503.12595v1)|null|
 |**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093v1](http://arxiv.org/abs/2503.12093v1)|null|
-|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009v1](http://arxiv.org/abs/2503.12009v1)|null|
+|**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009v2](http://arxiv.org/abs/2503.12009v2)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777v1](http://arxiv.org/abs/2503.10777v1)|null|
 |**2025-03-15**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v2](http://arxiv.org/abs/2503.10579v2)|null|
 |**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
