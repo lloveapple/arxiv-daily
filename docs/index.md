@@ -36,19 +36,19 @@ layout: default
 |**2025-03-18**|**Trading-off Accuracy and Communication Cost in Federated Learning**|Mattia Jacopo Villani et.al.|[2503.14246v1](http://arxiv.org/abs/2503.14246v1)|null|
 |**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084v1](http://arxiv.org/abs/2503.14084v1)|null|
 |**2025-03-18**|**LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions**|Xiaopei Chen et.al.|[2503.13819v1](http://arxiv.org/abs/2503.13819v1)|null|
-|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745v1](http://arxiv.org/abs/2503.13745v1)|null|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745v1](http://arxiv.org/abs/2503.13745v1)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624v1](http://arxiv.org/abs/2503.13624v1)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404v1](http://arxiv.org/abs/2503.13404v1)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255v1](http://arxiv.org/abs/2503.13255v1)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254v1](http://arxiv.org/abs/2503.13254v1)|null|
-|**2025-03-17**|**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**|Yijie Liu et.al.|[2503.13227v1](http://arxiv.org/abs/2503.13227v1)|null|
-|**2025-03-17**|**GC-Fed: Gradient Centralized Federated Learning with Partial Client Participation**|Jungwon Seo et.al.|[2503.13180v1](http://arxiv.org/abs/2503.13180v1)|null|
-|**2025-03-17**|**PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning**|Ori Peleg et.al.|[2503.13173v1](http://arxiv.org/abs/2503.13173v1)|null|
+|**2025-03-17**|**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**|Yijie Liu et.al.|[2503.13227v1](http://arxiv.org/abs/2503.13227v1)|**[link](https://github.com/jay-codeman/sage)**|
+|**2025-03-17**|**GC-Fed: Gradient Centralized Federated Learning with Partial Client Participation**|Jungwon Seo et.al.|[2503.13180v1](http://arxiv.org/abs/2503.13180v1)|**[link](https://github.com/thejungwon/gc-fed)**|
+|**2025-03-17**|**PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning**|Ori Peleg et.al.|[2503.13173v1](http://arxiv.org/abs/2503.13173v1)|**[link](https://github.com/oritalp/PAUSE)**|
 |**2025-03-17**|**Federated Learning with Domain Shift Eraser**|Zheng Wang et.al.|[2503.13063v1](http://arxiv.org/abs/2503.13063v1)|null|
 |**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958v1](http://arxiv.org/abs/2503.12958v1)|null|
 |**2025-03-17**|**Federated Continual Instruction Tuning**|Haiyang Guo et.al.|[2503.12897v1](http://arxiv.org/abs/2503.12897v1)|null|
 |**2025-03-17**|**A Linearized Alternating Direction Multiplier Method for Federated Matrix Completion Problems**|Patrick Hytla et.al.|[2503.12733v1](http://arxiv.org/abs/2503.12733v1)|null|
-|**2025-03-13**|**Exploring the Vulnerabilities of Federated Learning: A Deep Dive into Gradient Inversion Attacks**|Pengxin Guo et.al.|[2503.11514v1](http://arxiv.org/abs/2503.11514v1)|null|
+|**2025-03-13**|**Exploring the Vulnerabilities of Federated Learning: A Deep Dive into Gradient Inversion Attacks**|Pengxin Guo et.al.|[2503.11514v1](http://arxiv.org/abs/2503.11514v1)|**[link](https://github.com/1wrx1/GIA)**|
 |**2025-03-14**|**Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection**|Long Tan Le et.al.|[2503.11255v1](http://arxiv.org/abs/2503.11255v1)|null|
 |**2025-03-14**|**Enabling Weak Client Participation via On-device Knowledge Distillation in Heterogenous Federated Learning**|Jihyun Lim et.al.|[2503.11151v1](http://arxiv.org/abs/2503.11151v1)|null|
 |**2025-03-14**|**Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**|Jisoo Kim et.al.|[2503.11146v1](http://arxiv.org/abs/2503.11146v1)|null|
@@ -74,14 +74,14 @@ layout: default
 |**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634v1](http://arxiv.org/abs/2503.08634v1)|null|
 |**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325v1](http://arxiv.org/abs/2503.08325v1)|null|
 |**2025-03-11**|**Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices**|Tao Shen et.al.|[2503.08223v1](http://arxiv.org/abs/2503.08223v1)|null|
-|**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141v1](http://arxiv.org/abs/2503.08141v1)|null|
+|**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141v1](http://arxiv.org/abs/2503.08141v1)|**[link](https://github.com/J0nasSeng/federated-spn)**|
 |**2025-03-11**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085v1](http://arxiv.org/abs/2503.08085v1)|**[link](https://github.com/tjrudrnr2/PRISM_ICLR25)**|
 |**2025-03-11**|**Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection**|Jiahao Xu et.al.|[2503.07978v1](http://arxiv.org/abs/2503.07978v1)|**[link](https://github.com/jiiahaoxu/alignins)**|
 |**2025-03-10**|**Right Reward Right Time for Federated Learning**|Thanh Linh Nguyen et.al.|[2503.07869v1](http://arxiv.org/abs/2503.07869v1)|null|
 |**2025-03-10**|**Sublinear Algorithms for Wasserstein and Total Variation Distances: Applications to Fairness and Privacy Auditing**|Debabrota Basu et.al.|[2503.07775v1](http://arxiv.org/abs/2503.07775v1)|null|
 |**2025-03-10**|**Scaffold with Stochastic Gradients: New Analysis with Linear Speed-Up**|Paul Mangold et.al.|[2503.07594v1](http://arxiv.org/abs/2503.07594v1)|**[link](https://github.com/pmangold/scaffold-speed-up)**|
 |**2025-03-10**|**Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability**|Mukesh Sahani et.al.|[2503.07570v1](http://arxiv.org/abs/2503.07570v1)|null|
-|**2025-03-10**|**Federated Multimodal Learning with Dual Adapters and Selective Pruning for Communication and Computational Efficiency**|Duy Phuong Nguyen et.al.|[2503.07552v1](http://arxiv.org/abs/2503.07552v1)|null|
+|**2025-03-10**|**Federated Multimodal Learning with Dual Adapters and Selective Pruning for Communication and Computational Efficiency**|Duy Phuong Nguyen et.al.|[2503.07552v1](http://arxiv.org/abs/2503.07552v1)|**[link](https://github.com/dphuongn/FedDLP)**|
 |**2025-03-10**|**From Centralized to Decentralized Federated Learning: Theoretical Insights, Privacy Preservation, and Robustness Challenges**|Qiongxiu Li et.al.|[2503.07505v1](http://arxiv.org/abs/2503.07505v1)|null|
 |**2025-03-10**|**Federated Learning in NTNs: Design, Architecture and Challenges**|Amin Farajzadeh et.al.|[2503.07272v1](http://arxiv.org/abs/2503.07272v1)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231v1](http://arxiv.org/abs/2503.07231v1)|null|
