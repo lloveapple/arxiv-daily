@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Streaming Federated Learning with Markovian Data**|Tan-Khiem Huynh et.al.|[2503.18807v1](http://arxiv.org/abs/2503.18807v1)|null|
+|**2025-03-24**|**Distributionally Robust Federated Learning: An ADMM Algorithm**|Wen Bai et.al.|[2503.18436v1](http://arxiv.org/abs/2503.18436v1)|null|
+|**2025-03-24**|**Byzantine-Resilient Over-the-Air Federated Learning under Zero-Trust Architecture**|Jiacheng Yao et.al.|[2503.18284v1](http://arxiv.org/abs/2503.18284v1)|null|
+|**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064v1](http://arxiv.org/abs/2503.18064v1)|null|
+|**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[2503.17697v1](http://arxiv.org/abs/2503.17697v1)|null|
+|**2025-03-22**|**Quantized Analog Beamforming Enabled Multi-task Federated Learning Over-the-air**|Jiacheng Yao et.al.|[2503.17649v1](http://arxiv.org/abs/2503.17649v1)|null|
 |**2025-03-21**|**LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning**|Li Zhang et.al.|[2503.17231v1](http://arxiv.org/abs/2503.17231v1)|null|
 |**2025-03-21**|**A Thorough Assessment of the Non-IID Data Impact in Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2503.17070v1](http://arxiv.org/abs/2503.17070v1)|null|
 |**2025-03-20**|**Fed-NDIF: A Noise-Embedded Federated Diffusion Model For Low-Count Whole-Body PET Denoising**|Yinchi Zhou et.al.|[2503.16635v1](http://arxiv.org/abs/2503.16635v1)|null|
