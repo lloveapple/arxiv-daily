@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## FL
@@ -492,7 +492,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v1](http://arxiv.org/abs/2503.17175v1)|null|
+|**2025-03-25**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v2](http://arxiv.org/abs/2503.17175v2)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168v1](http://arxiv.org/abs/2503.17168v1)|null|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811v1](http://arxiv.org/abs/2503.16811v1)|null|
 |**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125v1](http://arxiv.org/abs/2503.16125v1)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -492,13 +492,13 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
 
 ## det3d
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v1](http://arxiv.org/abs/2503.17175v1)|null|
+|**2025-03-25**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v2](http://arxiv.org/abs/2503.17175v2)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168v1](http://arxiv.org/abs/2503.17168v1)|null|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811v1](http://arxiv.org/abs/2503.16811v1)|null|
 |**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125v1](http://arxiv.org/abs/2503.16125v1)|null|
@@ -602,7 +602,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
