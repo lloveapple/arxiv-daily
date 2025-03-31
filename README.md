@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**|Dongping Liao et.al.|[2503.22263v1](http://arxiv.org/abs/2503.22263v1)|**[link](https://github.com/0-ml/flip)**|
+|**2025-03-28**|**Route-and-Aggregate Decentralized Federated Learning Under Communication Errors**|Weicai Li et.al.|[2503.22186v1](http://arxiv.org/abs/2503.22186v1)|null|
+|**2025-03-28**|**Federated Intrusion Detection System Based on Unsupervised Machine Learning**|Maxime Gourceyraud et.al.|[2503.22065v1](http://arxiv.org/abs/2503.22065v1)|null|
 |**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|null|
 |**2025-03-27**|**Provable Reduction in Communication Rounds for Non-Smooth Convex Federated Learning**|Karlo Palenzuela et.al.|[2503.21627v1](http://arxiv.org/abs/2503.21627v1)|null|
 |**2025-03-27**|**Improving $(α, f)$ -Byzantine Resilience in Federated Learning via layerwise aggregation and cosine distance**|Mario García-Márquez et.al.|[2503.21244v1](http://arxiv.org/abs/2503.21244v1)|null|
