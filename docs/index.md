@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947v1](http://arxiv.org/abs/2504.01947v1)|null|
+|**2025-04-02**|**Client Selection in Federated Learning with Data Heterogeneity and Network Latencies**|Harsh Vardhan et.al.|[2504.01921v1](http://arxiv.org/abs/2504.01921v1)|null|
+|**2025-04-02**|**CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**|Diego Cajaraville-Aboy et.al.|[2504.01882v1](http://arxiv.org/abs/2504.01882v1)|null|
+|**2025-04-02**|**A Randomized Zeroth-Order Hierarchical Framework for Heterogeneous Federated Learning**|Yuyang Qiu et.al.|[2504.01839v1](http://arxiv.org/abs/2504.01839v1)|null|
+|**2025-04-02**|**A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**|Jinhao Ouyang et.al.|[2504.01752v1](http://arxiv.org/abs/2504.01752v1)|null|
+|**2025-04-02**|**Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**|Md Mahabub Uz Zaman et.al.|[2504.01705v1](http://arxiv.org/abs/2504.01705v1)|null|
+|**2025-04-02**|**Split Federated Learning for UAV-Enabled Integrated Sensing, Computation, and Communication**|Xiangwang Hou et.al.|[2504.01443v1](http://arxiv.org/abs/2504.01443v1)|null|
+|**2025-04-02**|**Age-Aware Partial Gradient Update Strategy for Federated Learning Over the Air**|Ruihao Du et.al.|[2504.01357v1](http://arxiv.org/abs/2504.01357v1)|null|
+|**2025-04-01**|**Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends**|Kai Li et.al.|[2504.01240v1](http://arxiv.org/abs/2504.01240v1)|null|
+|**2025-04-01**|**Personalized Federated Training of Diffusion Models with Privacy Guarantees**|Kumar Kshitij Patel et.al.|[2504.00952v1](http://arxiv.org/abs/2504.00952v1)|null|
 |**2025-03-31**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al.|[2503.23981v1](http://arxiv.org/abs/2503.23981v1)|null|
 |**2025-03-31**|**Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**|Yongle Li et.al.|[2503.23869v1](http://arxiv.org/abs/2503.23869v1)|null|
 |**2025-03-31**|**Blockchain for Federated Learning in the Internet of Things: Trustworthy Adaptation, Standards, and the Road Ahead**|Farhana Javed et.al.|[2503.23823v1](http://arxiv.org/abs/2503.23823v1)|null|
@@ -526,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-01**|**Intrinsic-feature-guided 3D Object Detection**|Wanjing Zhang et.al.|[2504.00382v1](http://arxiv.org/abs/2504.00382v1)|null|
 |**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099v1](http://arxiv.org/abs/2503.21099v1)|**[link](https://github.com/zyrant/cpdet3d)**|
 |**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614v1](http://arxiv.org/abs/2503.20614v1)|**[link](https://github.com/sanjay-810/savid)**|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011v1](http://arxiv.org/abs/2503.20011v1)|null|
