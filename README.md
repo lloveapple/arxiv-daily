@@ -43,7 +43,7 @@
 |**2025-03-29**|**Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning**|Satyavrat Wagle et.al.|[2503.23218v1](http://arxiv.org/abs/2503.23218v1)|null|
 |**2025-03-29**|**Enhancing Federated Learning Through Secure Cluster-Weighted Client Aggregation**|Kanishka Ranaweera et.al.|[2503.22971v1](http://arxiv.org/abs/2503.22971v1)|null|
 |**2025-03-28**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**|Dongping Liao et.al.|[2503.22263v1](http://arxiv.org/abs/2503.22263v1)|**[link](https://github.com/0-ml/flip)**|
-|**2025-03-28**|**Route-and-Aggregate Decentralized Federated Learning Under Communication Errors**|Weicai Li et.al.|[2503.22186v1](http://arxiv.org/abs/2503.22186v1)|null|
+|**2025-03-28**|**Route-and-Aggregate Decentralized Federated Learning Under Communication Errors**|Weicai Li et.al.|[2503.22186v1](http://arxiv.org/abs/2503.22186v1)|**[link](https://github.com/jasminebear2024/RouteAndAggregate)**|
 |**2025-03-28**|**Federated Intrusion Detection System Based on Unsupervised Machine Learning**|Maxime Gourceyraud et.al.|[2503.22065v1](http://arxiv.org/abs/2503.22065v1)|null|
 |**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|null|
 |**2025-03-27**|**Provable Reduction in Communication Rounds for Non-Smooth Convex Federated Learning**|Karlo Palenzuela et.al.|[2503.21627v1](http://arxiv.org/abs/2503.21627v1)|null|
@@ -460,7 +460,7 @@
 |**2024-12-21**|**Label Privacy in Split Learning for Large Models with Parameter-Efficient Training**|Philip Zmushko et.al.|[2412.16669v1](http://arxiv.org/abs/2412.16669v1)|**[link](https://github.com/p3eft-iclr-2025/p3eft-iclr-2025)**|
 |**2024-12-21**|**FedGA: Federated Learning with Gradient Alignment for Error Asymmetry Mitigation**|Chenguang Xiao et.al.|[2412.16582v1](http://arxiv.org/abs/2412.16582v1)|null|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|null|
-|**2024-12-20**|**fluke: Federated Learning Utility frameworK for Experimentation and research**|Mirko Polato et.al.|[2412.15728v1](http://arxiv.org/abs/2412.15728v1)|null|
+|**2024-12-20**|**fluke: Federated Learning Utility frameworK for Experimentation and research**|Mirko Polato et.al.|[2412.15728v1](http://arxiv.org/abs/2412.15728v1)|**[link](https://github.com/makgyver/fluke)**|
 |**2024-12-20**|**Code Review Automation Via Multi-task Federated LLM -- An Empirical Study**|Jahnavi Kumar et.al.|[2412.15676v1](http://arxiv.org/abs/2412.15676v1)|null|
 |**2024-12-20**|**AutoRank: MCDA Based Rank Personalization for LoRA-Enabled Distributed Learning**|Shuaijun Chen et.al.|[2412.15553v1](http://arxiv.org/abs/2412.15553v1)|null|
 |**2024-12-20**|**The Impact of Cut Layer Selection in Split Federated Learning**|Justin Dachille et.al.|[2412.15536v1](http://arxiv.org/abs/2412.15536v1)|null|
@@ -527,7 +527,7 @@
 |**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924v1](http://arxiv.org/abs/2412.03924v1)|null|
 |**2024-12-05**|**GP-FL: Model-Based Hessian Estimation for Second-Order Over-the-Air Federated Learning**|Shayan Mohajer Hamidi et.al.|[2412.03867v1](http://arxiv.org/abs/2412.03867v1)|null|
 |**2024-12-05**|**FedMetaMed: Federated Meta-Learning for Personalized Medication in Distributed Healthcare Systems**|Jiechao Gao et.al.|[2412.03851v1](http://arxiv.org/abs/2412.03851v1)|null|
-|**2024-12-04**|**Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning**|Debora Caldarola et.al.|[2412.03752v1](http://arxiv.org/abs/2412.03752v1)|null|
+|**2024-12-04**|**Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning**|Debora Caldarola et.al.|[2412.03752v1](http://arxiv.org/abs/2412.03752v1)|**[link](https://github.com/pietrocagnasso/fedgloss)**|
 |**2024-12-04**|**Adaptive Personalized Over-the-Air Federated Learning with Reflecting Intelligent Surfaces**|Jiayu Mao et.al.|[2412.03514v1](http://arxiv.org/abs/2412.03514v1)|null|
 |**2024-11-29**|**Rethinking the initialization of Momentum in Federated Learning with Heterogeneous Data**|Chenguang Xiao et.al.|[2411.19798v1](http://arxiv.org/abs/2411.19798v1)|null|
 |**2024-11-29**|**Gradient Inversion Attack on Graph Neural Networks**|Divya Anand Sinha et.al.|[2411.19440v1](http://arxiv.org/abs/2411.19440v1)|null|
@@ -589,7 +589,7 @@
 |**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607v1](http://arxiv.org/abs/2502.20607v1)|**[link](https://github.com/zhefan-xu/lv-dot)**|
 |**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316v1](http://arxiv.org/abs/2502.20316v1)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694v1](http://arxiv.org/abs/2502.19694v1)|null|
-|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630v1](http://arxiv.org/abs/2502.19630v1)|null|
+|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630v1](http://arxiv.org/abs/2502.19630v1)|**[link](https://github.com/mickeykang16/ev3dod)**|
 |**2025-03-05**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039v2](http://arxiv.org/abs/2502.17039v2)|null|
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488v1](http://arxiv.org/abs/2502.15488v1)|null|
