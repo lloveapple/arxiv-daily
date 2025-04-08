@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|null|
+|**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238v1](http://arxiv.org/abs/2504.05238v1)|null|
+|**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|null|
+|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138v1](http://arxiv.org/abs/2504.05138v1)|null|
+|**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107v1](http://arxiv.org/abs/2504.05107v1)|null|
+|**2025-04-07**|**FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**|Ming-Lun Lee et.al.|[2504.04867v1](http://arxiv.org/abs/2504.04867v1)|null|
+|**2025-04-07**|**Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation**|Robert J. Hayek et.al.|[2504.04678v1](http://arxiv.org/abs/2504.04678v1)|**[link](https://github.com/Net-X-Research-Group/federated_learning_testbed)**|
+|**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642v1](http://arxiv.org/abs/2504.04642v1)|null|
+|**2025-04-06**|**WeiDetect: Weibull Distribution-Based Defense against Poisoning Attacks in Federated Learning for Network Intrusion Detection Systems**|Sameera K. M. et.al.|[2504.04367v1](http://arxiv.org/abs/2504.04367v1)|null|
+|**2025-04-05**|**Scaling Federated Learning Solutions with Kubernetes for Synthesizing Histopathology Images**|Andrei-Alexandru Preda et.al.|[2504.04130v1](http://arxiv.org/abs/2504.04130v1)|null|
 |**2025-04-04**|**Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments**|Wai Fong Tam et.al.|[2504.03505v1](http://arxiv.org/abs/2504.03505v1)|null|
 |**2025-04-04**|**PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data**|Hongliang Zhang et.al.|[2504.03173v1](http://arxiv.org/abs/2504.03173v1)|null|
 |**2025-04-03**|**Integrating Identity-Based Identification against Adaptive Adversaries in Federated Learning**|Jakub Kacper Szelag et.al.|[2504.03077v1](http://arxiv.org/abs/2504.03077v1)|null|
@@ -545,8 +555,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|null|
+|**2025-04-07**|**Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**|Zhenxing Ming et.al.|[2504.04732v1](http://arxiv.org/abs/2504.04732v1)|null|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|null|
+|**2025-04-07**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|null|
 |**2025-04-03**|**CornerPoint3D: Look at the Nearest Corner Instead of the Center**|Ruixiao Zhang et.al.|[2504.02464v1](http://arxiv.org/abs/2504.02464v1)|null|
 |**2025-04-01**|**Intrinsic-feature-guided 3D Object Detection**|Wanjing Zhang et.al.|[2504.00382v1](http://arxiv.org/abs/2504.00382v1)|null|
