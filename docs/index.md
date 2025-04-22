@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090v1](http://arxiv.org/abs/2504.15090v1)|null|
+|**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835v1](http://arxiv.org/abs/2504.14835v1)|null|
+|**2025-04-20**|**Learning Critically: Selective Self Distillation in Federated Learning on Non-IID Data**|Yuting He et.al.|[2504.14694v1](http://arxiv.org/abs/2504.14694v1)|null|
+|**2025-04-20**|**Efficient Federated Split Learning for Large Language Models over Communication Networks**|Kai Zhao et.al.|[2504.14667v1](http://arxiv.org/abs/2504.14667v1)|null|
+|**2025-04-20**|**GENE-FL: Gene-Driven Parameter-Efficient Dynamic Federated Learning**|Shunxin Guo et.al.|[2504.14628v1](http://arxiv.org/abs/2504.14628v1)|null|
+|**2025-04-19**|**PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models**|Nusrat Jahan Prottasha et.al.|[2504.14117v1](http://arxiv.org/abs/2504.14117v1)|null|
 |**2025-04-18**|**SFL-LEO: Asynchronous Split-Federated Learning Design for LEO Satellite-Ground Network Framework**|Jiasheng Wu et.al.|[2504.13479v1](http://arxiv.org/abs/2504.13479v1)|null|
 |**2025-04-18**|**Stratify: Rethinking Federated Learning for Non-IID Data through Balanced Sampling**|Hui Yeok Wong et.al.|[2504.13462v1](http://arxiv.org/abs/2504.13462v1)|null|
 |**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365v1](http://arxiv.org/abs/2504.13365v1)|null|
@@ -597,11 +603,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297v1](http://arxiv.org/abs/2504.13297v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
 |**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643v2](http://arxiv.org/abs/2504.12643v2)|null|
-|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v2](http://arxiv.org/abs/2504.11014v2)|null|
+|**2025-04-21**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v3](http://arxiv.org/abs/2504.11014v3)|null|
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506v1](http://arxiv.org/abs/2504.09506v1)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086v1](http://arxiv.org/abs/2504.09086v1)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172v1](http://arxiv.org/abs/2504.08172v1)|null|
