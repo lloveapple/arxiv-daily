@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866v1](http://arxiv.org/abs/2504.16866v1)|null|
+|**2025-04-23**|**Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology**|Yanjie Wu et.al.|[2504.16732v1](http://arxiv.org/abs/2504.16732v1)|null|
+|**2025-04-23**|**Efficient Data Valuation Approximation in Federated Learning: A Sampling-based Approach**|Shuyue Wei et.al.|[2504.16668v1](http://arxiv.org/abs/2504.16668v1)|null|
+|**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612v1](http://arxiv.org/abs/2504.16612v1)|null|
+|**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515v1](http://arxiv.org/abs/2504.16515v1)|null|
+|**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438v1](http://arxiv.org/abs/2504.16438v1)|null|
+|**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357v1](http://arxiv.org/abs/2504.16357v1)|null|
+|**2025-04-22**|**Towards a Distributed Federated Learning Aggregation Placement using Particle Swarm Intelligence**|Amir Ali-Pour et.al.|[2504.16227v1](http://arxiv.org/abs/2504.16227v1)|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032v1](http://arxiv.org/abs/2504.16032v1)|null|
 |**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995v1](http://arxiv.org/abs/2504.15995v1)|null|
 |**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924v1](http://arxiv.org/abs/2504.15924v1)|null|
@@ -619,6 +627,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
+|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368v1](http://arxiv.org/abs/2504.16368v1)|null|
 |**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297v1](http://arxiv.org/abs/2504.13297v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
