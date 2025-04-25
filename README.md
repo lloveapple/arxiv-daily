@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|null|
+|**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617v1](http://arxiv.org/abs/2504.17617v1)|null|
+|**2025-04-24**|**TACO: Tackling Over-correction in Federated Learning with Tailored Adaptive Correction**|Weijie Liu et.al.|[2504.17528v1](http://arxiv.org/abs/2504.17528v1)|null|
 |**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866v1](http://arxiv.org/abs/2504.16866v1)|null|
 |**2025-04-23**|**Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology**|Yanjie Wu et.al.|[2504.16732v1](http://arxiv.org/abs/2504.16732v1)|null|
 |**2025-04-23**|**Efficient Data Valuation Approximation in Federated Learning: A Sampling-based Approach**|Shuyue Wei et.al.|[2504.16668v1](http://arxiv.org/abs/2504.16668v1)|null|
