@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519v1](http://arxiv.org/abs/2504.18519v1)|null|
+|**2025-04-25**|**Switch-Based Multi-Part Neural Network**|Surajit Majumder et.al.|[2504.18241v1](http://arxiv.org/abs/2504.18241v1)|null|
+|**2025-04-25**|**Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation under Statistical Heterogeneity**|Xiaolu Chen et.al.|[2504.18078v1](http://arxiv.org/abs/2504.18078v1)|null|
+|**2025-04-25**|**Federated Client-tailored Adapter for Medical Image Segmentation**|Guyue Hu et.al.|[2504.18020v1](http://arxiv.org/abs/2504.18020v1)|null|
+|**2025-04-25**|**Differential Privacy-Driven Framework for Enhancing Heart Disease Prediction**|Yazan Otoum et.al.|[2504.18007v1](http://arxiv.org/abs/2504.18007v1)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|null|
 |**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617v1](http://arxiv.org/abs/2504.17617v1)|null|
 |**2025-04-24**|**TACO: Tackling Over-correction in Federated Learning with Tailored Adaptive Correction**|Weijie Liu et.al.|[2504.17528v1](http://arxiv.org/abs/2504.17528v1)|null|
@@ -624,6 +629,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203v1](http://arxiv.org/abs/2504.18203v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
 |**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368v1](http://arxiv.org/abs/2504.16368v1)|null|
 |**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|**[link](https://github.com/tosshero/ros_packages)**|
