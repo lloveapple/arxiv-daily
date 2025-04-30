@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988v1](http://arxiv.org/abs/2504.20988v1)|null|
+|**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860v1](http://arxiv.org/abs/2504.20860v1)|null|
+|**2025-04-29**|**Federated learning, ethics, and the double black box problem in medical AI**|Joshua Hatherley et.al.|[2504.20656v1](http://arxiv.org/abs/2504.20656v1)|null|
+|**2025-04-29**|**Learning and Generalization with Mixture Data**|Harsh Vardhan et.al.|[2504.20651v1](http://arxiv.org/abs/2504.20651v1)|null|
+|**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570v1](http://arxiv.org/abs/2504.20570v1)|null|
+|**2025-04-29**|**Clustering-Based Evolutionary Federated Multiobjective Optimization and Learning**|Chengui Xiao et.al.|[2504.20346v1](http://arxiv.org/abs/2504.20346v1)|null|
+|**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282v1](http://arxiv.org/abs/2504.20282v1)|null|
+|**2025-04-28**|**Financial Data Analysis with Robust Federated Logistic Regression**|Kun Yang et.al.|[2504.20250v1](http://arxiv.org/abs/2504.20250v1)|null|
 |**2025-04-28**|**Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model**|Malhar A. Managoli et.al.|[2504.19955v1](http://arxiv.org/abs/2504.19955v1)|null|
 |**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903v1](http://arxiv.org/abs/2504.19903v1)|null|
 |**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882v1](http://arxiv.org/abs/2504.19882v1)|null|
