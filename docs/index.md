@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## FL
@@ -655,7 +655,7 @@ layout: default
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297v1](http://arxiv.org/abs/2504.13297v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
 |**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643v2](http://arxiv.org/abs/2504.12643v2)|null|
-|**2025-04-21**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v3](http://arxiv.org/abs/2504.11014v3)|null|
+|**2025-04-30**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v4](http://arxiv.org/abs/2504.11014v4)|null|
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506v1](http://arxiv.org/abs/2504.09506v1)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086v1](http://arxiv.org/abs/2504.09086v1)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172v1](http://arxiv.org/abs/2504.08172v1)|null|
