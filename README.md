@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775v1](http://arxiv.org/abs/2504.21775v1)|null|
+|**2025-04-30**|**Bilateral Differentially Private Vertical Federated Boosted Decision Trees**|Bokang Zhang et.al.|[2504.21739v1](http://arxiv.org/abs/2504.21739v1)|null|
+|**2025-04-30**|**Whispers of Data: Unveiling Label Distributions in Federated Learning Through Virtual Client Simulation**|Zhixuan Ma et.al.|[2504.21436v1](http://arxiv.org/abs/2504.21436v1)|null|
+|**2025-04-30**|**A Generalized Meta Federated Learning Framework with Theoretical Convergence Guarantees**|Mohammad Vahid Jamali et.al.|[2504.21327v1](http://arxiv.org/abs/2504.21327v1)|null|
+|**2025-04-29**|**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs**|Zihan Chen et.al.|[2504.21206v1](http://arxiv.org/abs/2504.21206v1)|null|
+|**2025-04-29**|**Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions**|Gulsah Hancerliogullari Koksalmis et.al.|[2504.21189v1](http://arxiv.org/abs/2504.21189v1)|null|
+|**2025-04-29**|**Federated One-Shot Learning with Data Privacy and Objective-Hiding**|Maximilian Egger et.al.|[2504.21182v1](http://arxiv.org/abs/2504.21182v1)|null|
+|**2025-04-29**|**Relaxed Choices in Bottom-Up Asynchronous Multiparty Session Types**|Ivan Prokić et.al.|[2504.21108v1](http://arxiv.org/abs/2504.21108v1)|null|
+|**2025-04-29**|**A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**|Jieming Bian et.al.|[2504.21099v1](http://arxiv.org/abs/2504.21099v1)|null|
 |**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988v1](http://arxiv.org/abs/2504.20988v1)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860v1](http://arxiv.org/abs/2504.20860v1)|null|
 |**2025-04-29**|**Federated learning, ethics, and the double black box problem in medical AI**|Joshua Hatherley et.al.|[2504.20656v1](http://arxiv.org/abs/2504.20656v1)|null|
