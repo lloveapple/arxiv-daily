@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231v1](http://arxiv.org/abs/2505.05231v1)|null|
+|**2025-05-08**|**QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation**|Mengze Hong et.al.|[2505.05225v1](http://arxiv.org/abs/2505.05225v1)|null|
+|**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155v1](http://arxiv.org/abs/2505.05155v1)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130v1](http://arxiv.org/abs/2505.05130v1)|null|
+|**2025-05-08**|**Balancing Client Participation in Federated Learning Using AoI**|Alireza Javani et.al.|[2505.05099v1](http://arxiv.org/abs/2505.05099v1)|null|
+|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979v1](http://arxiv.org/abs/2505.04979v1)|null|
+|**2025-05-08**|**DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data Distributions**|Hongliang Zhang et.al.|[2505.04947v1](http://arxiv.org/abs/2505.04947v1)|null|
+|**2025-05-08**|**FedRE: Robust and Effective Federated Learning with Privacy Preference**|Tianzhe Xiao et.al.|[2505.04889v1](http://arxiv.org/abs/2505.04889v1)|null|
+|**2025-05-08**|**Federated Learning for Cyber Physical Systems: A Comprehensive Survey**|Minh K. Quan et.al.|[2505.04873v1](http://arxiv.org/abs/2505.04873v1)|null|
 |**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535v1](http://arxiv.org/abs/2505.04535v1)|null|
 |**2025-05-07**|**FedBWO: Enhancing Communication Efficiency in Federated Learning**|Vahideh Hayyolalam et.al.|[2505.04435v1](http://arxiv.org/abs/2505.04435v1)|null|
 |**2025-05-07**|**FRAIN to Train: A Fast-and-Reliable Solution for Decentralized Federated Learning**|Sanghyeon Park et.al.|[2505.04223v1](http://arxiv.org/abs/2505.04223v1)|null|
@@ -679,7 +688,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v1](http://arxiv.org/abs/2505.04594v1)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v2](http://arxiv.org/abs/2505.04594v2)|null|
 |**2025-04-29**|**Floating Car Observers in Intelligent Transportation Systems: Detection Modeling and Temporal Insights**|Jeremias Gerner et.al.|[2505.02845v1](http://arxiv.org/abs/2505.02845v1)|null|
 |**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857v1](http://arxiv.org/abs/2505.01857v1)|null|
 |**2025-05-01**|**Efficient On-Chip Implementation of 4D Radar-Based 3D Object Detection on Hailo-8L**|Woong-Chan Byun et.al.|[2505.00757v1](http://arxiv.org/abs/2505.00757v1)|null|
