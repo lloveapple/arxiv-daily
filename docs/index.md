@@ -31,7 +31,7 @@ layout: default
 |**2025-05-05**|**Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions**|Imane Cheikh et.al.|[2505.03036v1](http://arxiv.org/abs/2505.03036v1)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795v1](http://arxiv.org/abs/2505.02795v1)|null|
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540v1](http://arxiv.org/abs/2505.02540v1)|null|
-|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490v1](http://arxiv.org/abs/2505.02490v1)|null|
+|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490v1](http://arxiv.org/abs/2505.02490v1)|**[link](https://github.com/sciml-fl/bra-fl)**|
 |**2025-05-05**|**Incentivizing Inclusive Contributions in Model Sharing Markets**|Enpei Zhang et.al.|[2505.02462v1](http://arxiv.org/abs/2505.02462v1)|null|
 |**2025-05-05**|**Towards One-shot Federated Learning: Advances, Challenges, and Future Directions**|Flora Amato et.al.|[2505.02426v1](http://arxiv.org/abs/2505.02426v1)|null|
 |**2025-05-05**|**Sampling-based federated inference for M-estimators with non-smooth objective functions**|Xiudi Li et.al.|[2505.02356v1](http://arxiv.org/abs/2505.02356v1)|null|
@@ -68,7 +68,7 @@ layout: default
 |**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903v1](http://arxiv.org/abs/2504.19903v1)|null|
 |**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882v1](http://arxiv.org/abs/2504.19882v1)|null|
 |**2025-04-28**|**A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging**|Youngjoon Lee et.al.|[2504.19639v1](http://arxiv.org/abs/2504.19639v1)|null|
-|**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602v1](http://arxiv.org/abs/2504.19602v1)|null|
+|**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602v1](http://arxiv.org/abs/2504.19602v1)|**[link](https://github.com/kitsuyaazuma/scarlet)**|
 |**2025-04-27**|**Harmonizing Generalization and Personalization in Ring-topology Decentralized Federated Learning**|Shunxin Guo et.al.|[2504.19103v1](http://arxiv.org/abs/2504.19103v1)|null|
 |**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101v1](http://arxiv.org/abs/2504.19101v1)|null|
 |**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939v1](http://arxiv.org/abs/2504.18939v1)|null|
@@ -86,18 +86,18 @@ layout: default
 |**2025-04-23**|**Efficient Data Valuation Approximation in Federated Learning: A Sampling-based Approach**|Shuyue Wei et.al.|[2504.16668v1](http://arxiv.org/abs/2504.16668v1)|null|
 |**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612v1](http://arxiv.org/abs/2504.16612v1)|null|
 |**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515v1](http://arxiv.org/abs/2504.16515v1)|null|
-|**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438v1](http://arxiv.org/abs/2504.16438v1)|null|
+|**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438v1](http://arxiv.org/abs/2504.16438v1)|**[link](https://github.com/meiyuw/popri)**|
 |**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357v1](http://arxiv.org/abs/2504.16357v1)|null|
 |**2025-04-22**|**Towards a Distributed Federated Learning Aggregation Placement using Particle Swarm Intelligence**|Amir Ali-Pour et.al.|[2504.16227v1](http://arxiv.org/abs/2504.16227v1)|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032v1](http://arxiv.org/abs/2504.16032v1)|null|
 |**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995v1](http://arxiv.org/abs/2504.15995v1)|null|
-|**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924v1](http://arxiv.org/abs/2504.15924v1)|null|
+|**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924v1](http://arxiv.org/abs/2504.15924v1)|**[link](https://github.com/alycia-noel/udj-fl)**|
 |**2025-04-22**|**CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters**|Xiang Liu et.al.|[2504.15847v1](http://arxiv.org/abs/2504.15847v1)|null|
 |**2025-04-22**|**Collaborative Split Federated Learning with Parallel Training and Aggregation**|Yiannis Papageorgiou et.al.|[2504.15724v1](http://arxiv.org/abs/2504.15724v1)|null|
 |**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717v1](http://arxiv.org/abs/2504.15717v1)|null|
 |**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674v1](http://arxiv.org/abs/2504.15674v1)|null|
 |**2025-04-22**|**Federated Latent Factor Learning for Recovering Wireless Sensor Networks Signal with Privacy-Preserving**|Chengjun Yu et.al.|[2504.15525v1](http://arxiv.org/abs/2504.15525v1)|null|
-|**2025-04-21**|**FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching**|Qifan Yan et.al.|[2504.15366v1](http://arxiv.org/abs/2504.15366v1)|null|
+|**2025-04-21**|**FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching**|Qifan Yan et.al.|[2504.15366v1](http://arxiv.org/abs/2504.15366v1)|**[link](https://github.com/distributedml/fedfetch)**|
 |**2025-04-21**|**Bayesian Federated Learning for Continual Training**|Usevalad Milasheuski et.al.|[2504.15328v1](http://arxiv.org/abs/2504.15328v1)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090v1](http://arxiv.org/abs/2504.15090v1)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835v1](http://arxiv.org/abs/2504.14835v1)|null|
@@ -423,7 +423,7 @@ layout: default
 |**2025-02-07**|**Graph Federated Learning Based Proactive Content Caching in Edge Computing**|Rui Wang et.al.|[2502.04760v1](http://arxiv.org/abs/2502.04760v1)|null|
 |**2025-02-07**|**LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation**|Abhinav Kumar et.al.|[2502.04601v1](http://arxiv.org/abs/2502.04601v1)|null|
 |**2025-02-06**|**Private Federated Learning In Real World Application -- A Case Study**|An Ji et.al.|[2502.04565v1](http://arxiv.org/abs/2502.04565v1)|null|
-|**2025-02-06**|**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction**|Valiyeh A. Nezhad et.al.|[2502.04521v1](http://arxiv.org/abs/2502.04521v1)|null|
+|**2025-02-06**|**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction**|Valiyeh A. Nezhad et.al.|[2502.04521v1](http://arxiv.org/abs/2502.04521v1)|**[link](https://github.com/icon-lab/FedGAT)**|
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243v1](http://arxiv.org/abs/2502.04243v1)|null|
 |**2025-02-06**|**The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning**|Kunlan Xiang et.al.|[2502.04106v1](http://arxiv.org/abs/2502.04106v1)|null|
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045v1](http://arxiv.org/abs/2502.04045v1)|null|
