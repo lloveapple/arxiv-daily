@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Enhancing Federated Learning with Kolmogorov-Arnold Networks: A Comparative Study Across Diverse Aggregation Strategies**|Yizhou Ma et.al.|[2505.07629v1](http://arxiv.org/abs/2505.07629v1)|null|
+|**2025-05-12**|**Personalized Federated Learning under Model Dissimilarity Constraints**|Samuel Erickson et.al.|[2505.07575v1](http://arxiv.org/abs/2505.07575v1)|null|
+|**2025-05-12**|**Adaptive Latent-Space Constraints in Personalized FL**|Sana Ayromlou et.al.|[2505.07525v1](http://arxiv.org/abs/2505.07525v1)|null|
+|**2025-05-12**|**FedIFL: A federated cross-domain diagnostic framework for motor-driven systems with inconsistent fault modes**|Zexiao Wang et.al.|[2505.07315v1](http://arxiv.org/abs/2505.07315v1)|null|
+|**2025-05-12**|**Securing Genomic Data Against Inference Attacks in Federated Learning Environments**|Chetan Pathade et.al.|[2505.07188v1](http://arxiv.org/abs/2505.07188v1)|null|
+|**2025-05-12**|**Empowering the Grid: Collaborative Edge Artificial Intelligence for Decentralized Energy Systems**|Eddie de Paula Jr et.al.|[2505.07170v1](http://arxiv.org/abs/2505.07170v1)|null|
+|**2025-05-11**|**AugMixCloak: A Defense against Membership Inference Attacks via Image Transformation**|Heqing Ren et.al.|[2505.07149v1](http://arxiv.org/abs/2505.07149v1)|null|
+|**2025-05-11**|**Standing Firm in 5G: A Single-Round, Dropout-Resilient Secure Aggregation for Federated Learning**|Yiwei Zhang et.al.|[2505.07148v1](http://arxiv.org/abs/2505.07148v1)|null|
+|**2025-05-11**|**Empirical Analysis of Asynchronous Federated Learning on Heterogeneous Devices: Efficiency, Fairness, and Privacy Trade-offs**|Samaneh Mohammadi et.al.|[2505.07041v1](http://arxiv.org/abs/2505.07041v1)|null|
+|**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982v1](http://arxiv.org/abs/2505.06982v1)|null|
 |**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171v1](http://arxiv.org/abs/2505.06171v1)|null|
 |**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Rustem Islamov et.al.|[2505.06053v1](http://arxiv.org/abs/2505.06053v1)|null|
 |**2025-05-09**|**DaringFed: A Dynamic Bayesian Persuasion Pricing for Online Federated Learning under Two-sided Incomplete Information**|Yun Xin et.al.|[2505.05842v1](http://arxiv.org/abs/2505.05842v1)|null|
@@ -692,6 +702,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398v1](http://arxiv.org/abs/2505.07398v1)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|null|
 |**2025-05-09**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v3](http://arxiv.org/abs/2505.04594v3)|null|
 |**2025-04-29**|**Floating Car Observers in Intelligent Transportation Systems: Detection Modeling and Temporal Insights**|Jeremias Gerner et.al.|[2505.02845v1](http://arxiv.org/abs/2505.02845v1)|null|
