@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Modular Federated Learning: A Meta-Framework Perspective**|Frederico Vicente et.al.|[2505.08646v1](http://arxiv.org/abs/2505.08646v1)|null|
+|**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325v1](http://arxiv.org/abs/2505.08325v1)|null|
+|**2025-05-13**|**Privacy-Preserving Analytics for Smart Meter (AMI) Data: A Hybrid Approach to Comply with CPUC Privacy Regulations**|Benjamin Westrich et.al.|[2505.08237v1](http://arxiv.org/abs/2505.08237v1)|null|
+|**2025-05-13**|**Multi-Layer Hierarchical Federated Learning with Quantization**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2505.08145v1](http://arxiv.org/abs/2505.08145v1)|null|
+|**2025-05-12**|**Sharp Gaussian approximations for Decentralized Federated Learning**|Soham Bonnerjee et.al.|[2505.08125v1](http://arxiv.org/abs/2505.08125v1)|null|
+|**2025-05-12**|**A Federated Random Forest Solution for Secure Distributed Machine Learning**|Alexandre Cotorobai et.al.|[2505.08085v1](http://arxiv.org/abs/2505.08085v1)|**[link](https://github.com/ieeta-pt/fed_rf)**|
+|**2025-05-12**|**Demo: A Practical Testbed for Decentralized Federated Learning on Physical Edge Devices**|Chao Feng et.al.|[2505.08033v1](http://arxiv.org/abs/2505.08033v1)|null|
 |**2025-05-12**|**Enhancing Federated Learning with Kolmogorov-Arnold Networks: A Comparative Study Across Diverse Aggregation Strategies**|Yizhou Ma et.al.|[2505.07629v1](http://arxiv.org/abs/2505.07629v1)|null|
 |**2025-05-12**|**Personalized Federated Learning under Model Dissimilarity Constraints**|Samuel Erickson et.al.|[2505.07575v1](http://arxiv.org/abs/2505.07575v1)|null|
 |**2025-05-12**|**Adaptive Latent-Space Constraints in Personalized FL**|Sana Ayromlou et.al.|[2505.07525v1](http://arxiv.org/abs/2505.07525v1)|**[link](https://github.com/vectorinstitute/fl4health)**|
