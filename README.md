@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-05-15**|**Sybil-based Virtual Data Poisoning Attacks in Federated Learning**|Changxun Zhu et.al.|[2505.09983v1](http://arxiv.org/abs/2505.09983v1)|null|
 |**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854v1](http://arxiv.org/abs/2505.09854v1)|null|
 |**2025-05-14**|**Robust Federated Learning with Confidence-Weighted Filtering and GAN-Based Completion under Noisy and Incomplete Data**|Alpaslan Gokcen et.al.|[2505.09733v1](http://arxiv.org/abs/2505.09733v1)|null|
-|**2025-05-14**|**Energy-Efficient Federated Learning for AIoT using Clustering Methods**|Roberto Pereira et.al.|[2505.09704v1](http://arxiv.org/abs/2505.09704v1)|null|
+|**2025-05-14**|**Energy-Efficient Federated Learning for AIoT using Clustering Methods**|Roberto Pereira et.al.|[2505.09704v1](http://arxiv.org/abs/2505.09704v1)|**[link](https://github.com/robertomatheuspp/clustering_ee_fl)**|
 |**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295v1](http://arxiv.org/abs/2505.09295v1)|**[link](https://github.com/qimingwu/fedida)**|
 |**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287v1](http://arxiv.org/abs/2505.09287v1)|**[link](https://github.com/limu-research/2025-edm-fl)**|
 |**2025-05-14**|**Toward Malicious Clients Detection in Federated Learning**|Zhihao Dou et.al.|[2505.09110v1](http://arxiv.org/abs/2505.09110v1)|null|
@@ -721,7 +721,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 ## det3d
 
@@ -866,7 +866,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
