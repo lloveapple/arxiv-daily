@@ -56,9 +56,9 @@ layout: default
 |**2025-05-08**|**DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data Distributions**|Hongliang Zhang et.al.|[2505.04947v1](http://arxiv.org/abs/2505.04947v1)|null|
 |**2025-05-08**|**FedRE: Robust and Effective Federated Learning with Privacy Preference**|Tianzhe Xiao et.al.|[2505.04889v1](http://arxiv.org/abs/2505.04889v1)|null|
 |**2025-05-08**|**Federated Learning for Cyber Physical Systems: A Comprehensive Survey**|Minh K. Quan et.al.|[2505.04873v1](http://arxiv.org/abs/2505.04873v1)|null|
-|**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535v1](http://arxiv.org/abs/2505.04535v1)|null|
+|**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535v1](http://arxiv.org/abs/2505.04535v1)|**[link](https://github.com/miketheologitis/FDA-Opt)**|
 |**2025-05-07**|**FedBWO: Enhancing Communication Efficiency in Federated Learning**|Vahideh Hayyolalam et.al.|[2505.04435v1](http://arxiv.org/abs/2505.04435v1)|null|
-|**2025-05-07**|**FRAIN to Train: A Fast-and-Reliable Solution for Decentralized Federated Learning**|Sanghyeon Park et.al.|[2505.04223v1](http://arxiv.org/abs/2505.04223v1)|null|
+|**2025-05-07**|**FRAIN to Train: A Fast-and-Reliable Solution for Decentralized Federated Learning**|Sanghyeon Park et.al.|[2505.04223v1](http://arxiv.org/abs/2505.04223v1)|**[link](https://github.com/BRAIN-chain/FRAIN)**|
 |**2025-05-07**|**Privacy Challenges In Image Processing Applications**|Maneesha et.al.|[2505.04181v1](http://arxiv.org/abs/2505.04181v1)|null|
 |**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533v1](http://arxiv.org/abs/2505.03533v1)|null|
 |**2025-05-05**|**Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions**|Imane Cheikh et.al.|[2505.03036v1](http://arxiv.org/abs/2505.03036v1)|null|
@@ -66,7 +66,7 @@ layout: default
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540v1](http://arxiv.org/abs/2505.02540v1)|null|
 |**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490v1](http://arxiv.org/abs/2505.02490v1)|**[link](https://github.com/sciml-fl/bra-fl)**|
 |**2025-05-05**|**Incentivizing Inclusive Contributions in Model Sharing Markets**|Enpei Zhang et.al.|[2505.02462v1](http://arxiv.org/abs/2505.02462v1)|null|
-|**2025-05-05**|**Towards One-shot Federated Learning: Advances, Challenges, and Future Directions**|Flora Amato et.al.|[2505.02426v1](http://arxiv.org/abs/2505.02426v1)|null|
+|**2025-05-05**|**Towards One-shot Federated Learning: Advances, Challenges, and Future Directions**|Flora Amato et.al.|[2505.02426v1](http://arxiv.org/abs/2505.02426v1)|**[link](https://github.com/Xtra-Computing/NIID-Bench)**|
 |**2025-05-05**|**Sampling-based federated inference for M-estimators with non-smooth objective functions**|Xiudi Li et.al.|[2505.02356v1](http://arxiv.org/abs/2505.02356v1)|null|
 |**2025-05-04**|**Bayesian Federated Cause-of-Death Classification and Quantification Under Distribution Shift**|Yu Zhu et.al.|[2505.02257v1](http://arxiv.org/abs/2505.02257v1)|null|
 |**2025-05-04**|**A Survey on Privacy Risks and Protection in Large Language Models**|Kang Chen et.al.|[2505.01976v1](http://arxiv.org/abs/2505.01976v1)|null|
@@ -96,16 +96,16 @@ layout: default
 |**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570v1](http://arxiv.org/abs/2504.20570v1)|null|
 |**2025-04-29**|**Clustering-Based Evolutionary Federated Multiobjective Optimization and Learning**|Chengui Xiao et.al.|[2504.20346v1](http://arxiv.org/abs/2504.20346v1)|null|
 |**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282v1](http://arxiv.org/abs/2504.20282v1)|null|
-|**2025-04-28**|**Financial Data Analysis with Robust Federated Logistic Regression**|Kun Yang et.al.|[2504.20250v1](http://arxiv.org/abs/2504.20250v1)|null|
+|**2025-04-28**|**Financial Data Analysis with Robust Federated Logistic Regression**|Kun Yang et.al.|[2504.20250v1](http://arxiv.org/abs/2504.20250v1)|**[link](https://github.com/kun0906/flr)**|
 |**2025-04-28**|**Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model**|Malhar A. Managoli et.al.|[2504.19955v1](http://arxiv.org/abs/2504.19955v1)|null|
 |**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903v1](http://arxiv.org/abs/2504.19903v1)|null|
 |**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882v1](http://arxiv.org/abs/2504.19882v1)|null|
-|**2025-04-28**|**A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging**|Youngjoon Lee et.al.|[2504.19639v1](http://arxiv.org/abs/2504.19639v1)|null|
+|**2025-04-28**|**A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging**|Youngjoon Lee et.al.|[2504.19639v1](http://arxiv.org/abs/2504.19639v1)|**[link](https://github.com/yjlee22/fkan)**|
 |**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602v1](http://arxiv.org/abs/2504.19602v1)|**[link](https://github.com/kitsuyaazuma/scarlet)**|
 |**2025-04-27**|**Harmonizing Generalization and Personalization in Ring-topology Decentralized Federated Learning**|Shunxin Guo et.al.|[2504.19103v1](http://arxiv.org/abs/2504.19103v1)|null|
 |**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101v1](http://arxiv.org/abs/2504.19101v1)|null|
 |**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939v1](http://arxiv.org/abs/2504.18939v1)|null|
-|**2025-04-26**|**UnifyFL: Enabling Decentralized Cross-Silo Federated Learning**|Sarang S et.al.|[2504.18916v1](http://arxiv.org/abs/2504.18916v1)|null|
+|**2025-04-26**|**UnifyFL: Enabling Decentralized Cross-Silo Federated Learning**|Sarang S et.al.|[2504.18916v1](http://arxiv.org/abs/2504.18916v1)|**[link](https://github.com/dash-lab-csis/unifyfl)**|
 |**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519v1](http://arxiv.org/abs/2504.18519v1)|null|
 |**2025-04-25**|**Switch-Based Multi-Part Neural Network**|Surajit Majumder et.al.|[2504.18241v1](http://arxiv.org/abs/2504.18241v1)|null|
 |**2025-04-25**|**Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation under Statistical Heterogeneity**|Xiaolu Chen et.al.|[2504.18078v1](http://arxiv.org/abs/2504.18078v1)|null|
@@ -366,7 +366,7 @@ layout: default
 |**2025-03-02**|**Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model**|Ziyuan Yang et.al.|[2503.00908v1](http://arxiv.org/abs/2503.00908v1)|null|
 |**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171v1](http://arxiv.org/abs/2502.21171v1)|null|
 |**2025-02-28**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al.|[2502.21012v1](http://arxiv.org/abs/2502.21012v1)|null|
-|**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882v1](http://arxiv.org/abs/2502.20882v1)|null|
+|**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882v1](http://arxiv.org/abs/2502.20882v1)|**[link](https://github.com/CWL-FLOps/DecentralizedFL-CWL)**|
 |**2025-02-28**|**Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter**|Zhengyi Zhong et.al.|[2502.20709v1](http://arxiv.org/abs/2502.20709v1)|null|
 |**2025-02-28**|**FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients**|Leming Shen et.al.|[2502.20639v1](http://arxiv.org/abs/2502.20639v1)|**[link](https://github.com/lemingshen/FedConv)**|
 |**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565v1](http://arxiv.org/abs/2502.20565v1)|null|
