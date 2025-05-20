@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319v1](http://arxiv.org/abs/2505.13319v1)|null|
+|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292v1](http://arxiv.org/abs/2505.13292v1)|null|
+|**2025-05-19**|**RIFLES: Resource-effIcient Federated LEarning via Scheduling**|Sara Alosaime et.al.|[2505.13169v1](http://arxiv.org/abs/2505.13169v1)|null|
+|**2025-05-19**|**FLTG: Byzantine-Robust Federated Learning via Angle-Based Defense and Non-IID-Aware Weighting**|Yanhua Wen et.al.|[2505.12851v1](http://arxiv.org/abs/2505.12851v1)|null|
+|**2025-05-19**|**FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA**|Seanie Lee et.al.|[2505.12805v1](http://arxiv.org/abs/2505.12805v1)|null|
+|**2025-05-18**|**$γ$ -FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning**|Rongwei Lu et.al.|[2505.12479v1](http://arxiv.org/abs/2505.12479v1)|null|
+|**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453v1](http://arxiv.org/abs/2505.12453v1)|null|
+|**2025-05-17**|**FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients**|Jianyi Zhang et.al.|[2505.12019v1](http://arxiv.org/abs/2505.12019v1)|null|
+|**2025-05-17**|**Incentivize Contribution and Learn Parameters Too: Federated Learning with Strategic Data Owners**|Drashthi Doshi et.al.|[2505.12010v1](http://arxiv.org/abs/2505.12010v1)|null|
+|**2025-05-17**|**FedHQ: Hybrid Runtime Quantization for Federated Learning**|Zihao Zheng et.al.|[2505.11982v1](http://arxiv.org/abs/2505.11982v1)|null|
 |**2025-05-16**|**Heterogeneity-Aware Client Sampling: A Unified Solution for Consistent Federated Learning**|Shudi Weng et.al.|[2505.11304v1](http://arxiv.org/abs/2505.11304v1)|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191v1](http://arxiv.org/abs/2505.11191v1)|null|
 |**2025-05-16**|**FedDuA: Doubly Adaptive Federated Learning**|Shokichi Takakura et.al.|[2505.11126v1](http://arxiv.org/abs/2505.11126v1)|null|
