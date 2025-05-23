@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857v1](http://arxiv.org/abs/2505.16857v1)|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|null|
+|**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|null|
+|**2025-05-22**|**WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning**|Zhaomin Wu et.al.|[2505.16635v1](http://arxiv.org/abs/2505.16635v1)|null|
+|**2025-05-22**|**From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling**|Yi Hu et.al.|[2505.16573v1](http://arxiv.org/abs/2505.16573v1)|null|
+|**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403v1](http://arxiv.org/abs/2505.16403v1)|null|
+|**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371v1](http://arxiv.org/abs/2505.16371v1)|null|
+|**2025-05-22**|**Enhancing Federated Survival Analysis through Peer-Driven Client Reputation in Healthcare**|Navid Seidi et.al.|[2505.16190v1](http://arxiv.org/abs/2505.16190v1)|null|
+|**2025-05-22**|**Multimodal Online Federated Learning with Modality Missing in Internet of Things**|Heqiang Wang et.al.|[2505.16138v1](http://arxiv.org/abs/2505.16138v1)|null|
 |**2025-05-21**|**Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions**|Hossein Zakerinia et.al.|[2505.15579v1](http://arxiv.org/abs/2505.15579v1)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376v1](http://arxiv.org/abs/2505.15376v1)|null|
 |**2025-05-21**|**Distributionally Robust Federated Learning with Client Drift Minimization**|Mounssif Krouka et.al.|[2505.15371v1](http://arxiv.org/abs/2505.15371v1)|null|
@@ -756,6 +765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524v1](http://arxiv.org/abs/2505.16524v1)|null|
 |**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817v1](http://arxiv.org/abs/2505.13817v1)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422v1](http://arxiv.org/abs/2505.09422v1)|null|
 |**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398v1](http://arxiv.org/abs/2505.07398v1)|null|
