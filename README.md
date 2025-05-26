@@ -30,7 +30,7 @@
 |**2025-05-21**|**Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions**|Hossein Zakerinia et.al.|[2505.15579v1](http://arxiv.org/abs/2505.15579v1)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376v1](http://arxiv.org/abs/2505.15376v1)|null|
 |**2025-05-21**|**Distributionally Robust Federated Learning with Client Drift Minimization**|Mounssif Krouka et.al.|[2505.15371v1](http://arxiv.org/abs/2505.15371v1)|null|
-|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244v1](http://arxiv.org/abs/2505.15244v1)|null|
+|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244v1](http://arxiv.org/abs/2505.15244v1)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
 |**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124v1](http://arxiv.org/abs/2505.15124v1)|null|
 |**2025-05-20**|**Efficient Privacy-Preserving Cross-Silo Federated Learning with Multi-Key Homomorphic Encryption**|Abdullah Al Omar et.al.|[2505.14797v1](http://arxiv.org/abs/2505.14797v1)|null|
 |**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507v1](http://arxiv.org/abs/2505.14507v1)|null|
@@ -46,8 +46,8 @@
 |**2025-05-19**|**FLTG: Byzantine-Robust Federated Learning via Angle-Based Defense and Non-IID-Aware Weighting**|Yanhua Wen et.al.|[2505.12851v1](http://arxiv.org/abs/2505.12851v1)|null|
 |**2025-05-19**|**FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA**|Seanie Lee et.al.|[2505.12805v1](http://arxiv.org/abs/2505.12805v1)|null|
 |**2025-05-18**|**$γ$ -FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning**|Rongwei Lu et.al.|[2505.12479v1](http://arxiv.org/abs/2505.12479v1)|null|
-|**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453v1](http://arxiv.org/abs/2505.12453v1)|null|
-|**2025-05-17**|**FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients**|Jianyi Zhang et.al.|[2505.12019v1](http://arxiv.org/abs/2505.12019v1)|null|
+|**2025-05-18**|**SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding**|Peihua Mai et.al.|[2505.12453v1](http://arxiv.org/abs/2505.12453v1)|**[link](https://github.com/nusioraprivacy/secemb)**|
+|**2025-05-17**|**FL-PLAS: Federated Learning with Partial Layer Aggregation for Backdoor Defense Against High-Ratio Malicious Clients**|Jianyi Zhang et.al.|[2505.12019v1](http://arxiv.org/abs/2505.12019v1)|**[link](https://github.com/besticsp/fl-plas)**|
 |**2025-05-17**|**Incentivize Contribution and Learn Parameters Too: Federated Learning with Strategic Data Owners**|Drashthi Doshi et.al.|[2505.12010v1](http://arxiv.org/abs/2505.12010v1)|null|
 |**2025-05-17**|**FedHQ: Hybrid Runtime Quantization for Federated Learning**|Zihao Zheng et.al.|[2505.11982v1](http://arxiv.org/abs/2505.11982v1)|null|
 |**2025-05-16**|**Heterogeneity-Aware Client Sampling: A Unified Solution for Consistent Federated Learning**|Shudi Weng et.al.|[2505.11304v1](http://arxiv.org/abs/2505.11304v1)|null|
@@ -874,7 +874,7 @@
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037v1](http://arxiv.org/abs/2501.01037v1)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911v1](http://arxiv.org/abs/2412.20911v1)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165v1](http://arxiv.org/abs/2412.19165v1)|null|
-|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884v2](http://arxiv.org/abs/2412.18884v2)|null|
+|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884v2](http://arxiv.org/abs/2412.18884v2)|**[link](https://github.com/uddd821/hv-bev)**|
 |**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870v1](http://arxiv.org/abs/2412.18870v1)|**[link](https://github.com/ansonlcy/TSceneJAL)**|
 |**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571v1](http://arxiv.org/abs/2412.14571v1)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017v1](http://arxiv.org/abs/2412.13017v1)|null|
@@ -896,7 +896,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054v1](http://arxiv.org/abs/2412.02054v1)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692v2](http://arxiv.org/abs/2412.00692v2)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860v1](http://arxiv.org/abs/2411.19860v1)|null|
-|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|null|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|**[link](https://github.com/wb014/FreeGS)**|
 |**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761v1](http://arxiv.org/abs/2411.17761v1)|**[link](https://github.com/VDIGPKU/OpenAD)**|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833v1](http://arxiv.org/abs/2411.16833v1)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657v1](http://arxiv.org/abs/2411.15657v1)|null|
