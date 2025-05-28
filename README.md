@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Multimodal Federated Learning With Missing Modalities through Feature Imputation Network**|Pranav Poudel et.al.|[2505.20232v1](http://arxiv.org/abs/2505.20232v1)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020v1](http://arxiv.org/abs/2505.20020v1)|null|
-|**2025-05-26**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888v1](http://arxiv.org/abs/2505.19888v1)|null|
+|**2025-05-27**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888v2](http://arxiv.org/abs/2505.19888v2)|null|
 |**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823v1](http://arxiv.org/abs/2505.19823v1)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699v1](http://arxiv.org/abs/2505.19699v1)|null|
 |**2025-05-26**|**Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity**|Aggrey Muhebwa et.al.|[2505.19605v1](http://arxiv.org/abs/2505.19605v1)|null|
@@ -28,6 +28,7 @@
 |**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|null|
 |**2025-05-25**|**FedORA: Resource Allocation for Federated Learning in ORAN using Radio Intelligent Controllers**|Abdelaziz Salama et.al.|[2505.19211v1](http://arxiv.org/abs/2505.19211v1)|null|
 |**2025-05-25**|**Federated Learning: From Theory to Practice**|A. Jung et.al.|[2505.19183v1](http://arxiv.org/abs/2505.19183v1)|null|
+|**2025-05-25**|**FedSKC: Federated Learning with Non-IID Data via Structural Knowledge Collaboration**|Huan Wang et.al.|[2505.18981v1](http://arxiv.org/abs/2505.18981v1)|null|
 |**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961v1](http://arxiv.org/abs/2505.17961v1)|null|
 |**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226v1](http://arxiv.org/abs/2505.17226v1)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857v1](http://arxiv.org/abs/2505.16857v1)|null|
@@ -771,7 +772,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## det3d
 
@@ -920,7 +921,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
