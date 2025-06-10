@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Distribution-Level AirComp for Wireless Federated Learning under Data Scarcity and Heterogeneity**|Jun-Pyo Hong et.al.|[2506.06090v1](http://arxiv.org/abs/2506.06090v1)|null|
+|**2025-06-06**|**Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models**|Yingqi Hu et.al.|[2506.06060v1](http://arxiv.org/abs/2506.06060v1)|null|
+|**2025-06-06**|**Multi-Modal Multi-Task Federated Foundation Models for Next-Generation Extended Reality Systems: Towards Privacy-Preserving Distributed Intelligence in AR/VR/MR**|Fardis Nadimi et.al.|[2506.05683v1](http://arxiv.org/abs/2506.05683v1)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640v1](http://arxiv.org/abs/2506.05640v1)|null|
+|**2025-06-05**|**Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**|Arian Raje et.al.|[2506.05568v1](http://arxiv.org/abs/2506.05568v1)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138v1](http://arxiv.org/abs/2506.05138v1)|null|
 |**2025-06-05**|**Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection**|Gabriele Digregorio et.al.|[2506.04978v1](http://arxiv.org/abs/2506.04978v1)|null|
 |**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672v1](http://arxiv.org/abs/2506.04672v1)|null|
-|**2025-06-05**|**Federated Learning Assisted Edge Caching Scheme Based on Lightweight Architecture DDPM**|Xun Li et.al.|[2506.04593v1](http://arxiv.org/abs/2506.04593v1)|null|
+|**2025-06-05**|**Federated Learning Assisted Edge Caching Scheme Based on Lightweight Architecture DDPM**|Xun Li et.al.|[2506.04593v1](http://arxiv.org/abs/2506.04593v1)|**[link](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)**|
 |**2025-06-05**|**Communication Efficient Adaptive Model-Driven Quantum Federated Learning**|Dev Gurung et.al.|[2506.04548v1](http://arxiv.org/abs/2506.04548v1)|null|
 |**2025-06-04**|**Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning**|Hasin Us Sami et.al.|[2506.04453v1](http://arxiv.org/abs/2506.04453v1)|null|
 |**2025-06-04**|**Model Splitting Enhanced Communication-Efficient Federated Learning for CSI Feedback**|Yanjie Dong et.al.|[2506.04113v1](http://arxiv.org/abs/2506.04113v1)|null|
@@ -827,7 +832,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## det3d
 
@@ -981,7 +986,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
