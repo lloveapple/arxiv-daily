@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870v1](http://arxiv.org/abs/2506.09870v1)|null|
+|**2025-06-11**|**Weighted Loss Methods for Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v1](http://arxiv.org/abs/2506.09824v1)|null|
+|**2025-06-11**|**Load-Aware Training Scheduling for Model Circulation-based Decentralized Federated Learning**|Haruki Kainuma et.al.|[2506.09769v1](http://arxiv.org/abs/2506.09769v1)|null|
+|**2025-06-11**|**Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning**|Alessandro Licciardi et.al.|[2506.09674v1](http://arxiv.org/abs/2506.09674v1)|null|
+|**2025-06-11**|**SyncFed: Time-Aware Federated Learning through Explicit Timestamping and Synchronization**|Baran Can Gül et.al.|[2506.09660v1](http://arxiv.org/abs/2506.09660v1)|null|
+|**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638v1](http://arxiv.org/abs/2506.09638v1)|null|
+|**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[2506.09512v1](http://arxiv.org/abs/2506.09512v1)|null|
+|**2025-06-10**|**FLoRIST: Singular Value Thresholding for Efficient and Accurate Federated Fine-Tuning of Large Language Models**|Hariharan Ramesh et.al.|[2506.09199v1](http://arxiv.org/abs/2506.09199v1)|null|
+|**2025-06-10**|**Integrating Asynchronous AdaBoost into Federated Learning: Five Real World Applications**|Arthur Oghlukyan et.al.|[2506.09090v1](http://arxiv.org/abs/2506.09090v1)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
 |**2025-06-10**|**Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings**|Mingyuan Fan et.al.|[2506.08435v1](http://arxiv.org/abs/2506.08435v1)|null|
 |**2025-06-10**|**HASFL: Heterogeneity-aware Split Federated Learning over Edge Computing Systems**|Zheng Lin et.al.|[2506.08426v1](http://arxiv.org/abs/2506.08426v1)|null|
@@ -854,9 +863,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541v1](http://arxiv.org/abs/2506.09541v1)|null|
 |**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v1](http://arxiv.org/abs/2506.09042v1)|null|
-|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v1](http://arxiv.org/abs/2506.08777v1)|null|
-|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v1](http://arxiv.org/abs/2506.07737v1)|null|
+|**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v2](http://arxiv.org/abs/2506.08777v2)|null|
+|**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491v1](http://arxiv.org/abs/2506.07491v1)|null|
 |**2025-06-04**|**FALO: Fast and Accurate LiDAR 3D Object Detection on Resource-Constrained Devices**|Shizhong Han et.al.|[2506.04499v1](http://arxiv.org/abs/2506.04499v1)|null|
 |**2025-06-04**|**FSHNet: Fully Sparse Hybrid Network for 3D Object Detection**|Shuai Liu et.al.|[2506.03714v1](http://arxiv.org/abs/2506.03714v1)|null|
