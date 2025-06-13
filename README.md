@@ -18,8 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607v1](http://arxiv.org/abs/2506.10607v1)|null|
+|**2025-06-12**|**Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators**|Roopkatha Banerjee et.al.|[2506.10413v1](http://arxiv.org/abs/2506.10413v1)|null|
+|**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280v1](http://arxiv.org/abs/2506.10280v1)|null|
+|**2025-06-11**|**A new type of federated clustering: A non-model-sharing approach**|Yuji Kawamata et.al.|[2506.10244v1](http://arxiv.org/abs/2506.10244v1)|null|
+|**2025-06-11**|**Intelligent Travel Activity Monitoring: Generalized Distributed Acoustic Sensing Approaches**|Ruikang Zhong et.al.|[2506.10237v1](http://arxiv.org/abs/2506.10237v1)|null|
+|**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207v1](http://arxiv.org/abs/2506.10207v1)|null|
 |**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870v1](http://arxiv.org/abs/2506.09870v1)|null|
-|**2025-06-11**|**Weighted Loss Methods for Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v1](http://arxiv.org/abs/2506.09824v1)|null|
+|**2025-06-12**|**A Weighted Loss Approach to Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v2](http://arxiv.org/abs/2506.09824v2)|null|
 |**2025-06-11**|**Load-Aware Training Scheduling for Model Circulation-based Decentralized Federated Learning**|Haruki Kainuma et.al.|[2506.09769v1](http://arxiv.org/abs/2506.09769v1)|null|
 |**2025-06-11**|**Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning**|Alessandro Licciardi et.al.|[2506.09674v1](http://arxiv.org/abs/2506.09674v1)|null|
 |**2025-06-11**|**SyncFed: Time-Aware Federated Learning through Explicit Timestamping and Synchronization**|Baran Can Gül et.al.|[2506.09660v1](http://arxiv.org/abs/2506.09660v1)|null|
@@ -863,6 +869,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242v1](http://arxiv.org/abs/2506.10242v1)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541v1](http://arxiv.org/abs/2506.09541v1)|null|
 |**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v2](http://arxiv.org/abs/2506.09042v2)|null|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v2](http://arxiv.org/abs/2506.08777v2)|null|
