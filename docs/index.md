@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413v1](http://arxiv.org/abs/2506.11413v1)|null|
 |**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607v1](http://arxiv.org/abs/2506.10607v1)|null|
 |**2025-06-12**|**Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators**|Roopkatha Banerjee et.al.|[2506.10413v1](http://arxiv.org/abs/2506.10413v1)|null|
 |**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280v1](http://arxiv.org/abs/2506.10280v1)|null|
@@ -863,6 +864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|null|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242v1](http://arxiv.org/abs/2506.10242v1)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541v1](http://arxiv.org/abs/2506.09541v1)|null|
 |**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v2](http://arxiv.org/abs/2506.09042v2)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
