@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626v1](http://arxiv.org/abs/2506.15626v1)|null|
+|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365v1](http://arxiv.org/abs/2506.15365v1)|null|
+|**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264v1](http://arxiv.org/abs/2506.15264v1)|null|
+|**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189v1](http://arxiv.org/abs/2506.15189v1)|null|
+|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|null|
+|**2025-06-17**|**Event-Driven Online Vertical Federated Learning**|Ganyu Wang et.al.|[2506.14911v1](http://arxiv.org/abs/2506.14911v1)|null|
 |**2025-06-17**|**Knowledge Adaptation as Posterior Correction**|Mohammad Emtiyaz Khan et.al.|[2506.14262v1](http://arxiv.org/abs/2506.14262v1)|null|
 |**2025-06-17**|**Convergence-Privacy-Fairness Trade-Off in Personalized Federated Learning**|Xiyu Zhao et.al.|[2506.14251v1](http://arxiv.org/abs/2506.14251v1)|null|
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165v1](http://arxiv.org/abs/2506.14165v1)|null|
@@ -876,17 +882,19 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## det3d
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
+|**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835v1](http://arxiv.org/abs/2506.14835v1)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|null|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242v1](http://arxiv.org/abs/2506.10242v1)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541v1](http://arxiv.org/abs/2506.09541v1)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v2](http://arxiv.org/abs/2506.09042v2)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
+|**2025-06-18**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v3](http://arxiv.org/abs/2506.09042v3)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v2](http://arxiv.org/abs/2506.08777v2)|null|
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491v1](http://arxiv.org/abs/2506.07491v1)|null|
@@ -1038,7 +1046,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
