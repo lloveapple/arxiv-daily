@@ -14,7 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626v1](http://arxiv.org/abs/2506.15626v1)|null|
+|**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
+|**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731v1](http://arxiv.org/abs/2506.16731v1)|null|
+|**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723v1](http://arxiv.org/abs/2506.16723v1)|null|
+|**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600v1](http://arxiv.org/abs/2506.16600v1)|null|
+|**2025-06-19**|**SecureFed: A Two-Phase Framework for Detecting Malicious Clients in Federated Learning**|Likhitha Annapurna Kavuri et.al.|[2506.16458v1](http://arxiv.org/abs/2506.16458v1)|null|
+|**2025-06-19**|**Leveraging Optimal Transport for Distributed Two-Sample Testing: An Integrated Transportation Distance-based Framework**|Zhengqi Lin et.al.|[2506.16047v1](http://arxiv.org/abs/2506.16047v1)|null|
+|**2025-06-18**|**PNCS:Power-Norm Cosine Similarity for Diverse Client Selection in Federated Learning**|Liangyan Li et.al.|[2506.15923v1](http://arxiv.org/abs/2506.15923v1)|null|
+|**2025-06-19**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626v2](http://arxiv.org/abs/2506.15626v2)|null|
 |**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365v1](http://arxiv.org/abs/2506.15365v1)|**[link](https://github.com/f1onae/fedwsidd)**|
 |**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264v1](http://arxiv.org/abs/2506.15264v1)|null|
 |**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189v1](http://arxiv.org/abs/2506.15189v1)|null|
@@ -882,6 +890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531v1](http://arxiv.org/abs/2506.16531v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835v1](http://arxiv.org/abs/2506.14835v1)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|null|
