@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Neural Collapse based Deep Supervised Federated Learning for Signal Detection in OFDM Systems**|Kaidi Xu et.al.|[2506.19476v1](http://arxiv.org/abs/2506.19476v1)|null|
+|**2025-06-24**|**Network Structures as an Attack Surface: Topology-Based Privacy Leakage in Federated Learning**|Murtaza Rangwala et.al.|[2506.19260v1](http://arxiv.org/abs/2506.19260v1)|null|
+|**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246v1](http://arxiv.org/abs/2506.19246v1)|null|
+|**2025-06-24**|**Private Model Personalization Revisited**|Conor Snedeker et.al.|[2506.19220v1](http://arxiv.org/abs/2506.19220v1)|null|
+|**2025-06-23**|**GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model**|Amir Faiyaz et.al.|[2506.19164v1](http://arxiv.org/abs/2506.19164v1)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789v1](http://arxiv.org/abs/2506.18789v1)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732v1](http://arxiv.org/abs/2506.18732v1)|null|
 |**2025-06-23**|**Federated Loss Exploration for Improved Convergence on Non-IID Data**|Christian Internò et.al.|[2506.18640v1](http://arxiv.org/abs/2506.18640v1)|null|
@@ -900,6 +905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
 |**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531v1](http://arxiv.org/abs/2506.16531v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835v1](http://arxiv.org/abs/2506.14835v1)|null|
