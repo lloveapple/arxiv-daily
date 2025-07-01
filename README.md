@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836v1](http://arxiv.org/abs/2506.23836v1)|null|
+|**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759v1](http://arxiv.org/abs/2506.23759v1)|null|
+|**2025-06-30**|**Asymptotically Optimal Secure Aggregation for Wireless Federated Learning with Multiple Servers**|Zhenhao Huang et.al.|[2506.23680v1](http://arxiv.org/abs/2506.23680v1)|null|
+|**2025-06-30**|**Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures**|Jiahui Wu et.al.|[2506.23622v1](http://arxiv.org/abs/2506.23622v1)|null|
+|**2025-06-30**|**Detect \& Score: Privacy-Preserving Misbehaviour Detection and Contribution Evaluation in Federated Learning**|Marvin Xhemrishi et.al.|[2506.23583v1](http://arxiv.org/abs/2506.23583v1)|null|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523v1](http://arxiv.org/abs/2506.23523v1)|null|
+|**2025-06-30**|**FedWSQ: Efficient Federated Learning with Weight Standardization and Distribution-Aware Non-Uniform Quantization**|Seung-Wook Kim et.al.|[2506.23516v1](http://arxiv.org/abs/2506.23516v1)|null|
+|**2025-06-29**|**Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation**|Hongyi Pan et.al.|[2506.23334v1](http://arxiv.org/abs/2506.23334v1)|null|
+|**2025-06-29**|**FedRef: Communication-Efficient Bayesian Fine Tuning with Reference Model**|Taehwan Yoon et.al.|[2506.23210v1](http://arxiv.org/abs/2506.23210v1)|null|
+|**2025-06-28**|**P $^2$ U: Progressive Precision Update For Efficient Model Distribution**|Homayun Afrabandpey et.al.|[2506.22871v1](http://arxiv.org/abs/2506.22871v1)|null|
 |**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
 |**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374v1](http://arxiv.org/abs/2506.22374v1)|null|
 |**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190v1](http://arxiv.org/abs/2506.22190v1)|null|
@@ -934,6 +944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565v1](http://arxiv.org/abs/2506.23565v1)|null|
+|**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[2506.23426v1](http://arxiv.org/abs/2506.23426v1)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
 |**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531v1](http://arxiv.org/abs/2506.16531v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
