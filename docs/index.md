@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743v1](http://arxiv.org/abs/2507.08743v1)|null|
+|**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617v1](http://arxiv.org/abs/2507.08617v1)|null|
+|**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508v1](http://arxiv.org/abs/2507.08508v1)|null|
+|**2025-07-10**|**Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach**|Atit Pokharel et.al.|[2507.08217v1](http://arxiv.org/abs/2507.08217v1)|null|
 |**2025-07-10**|**HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric**|Carlos Beis Penedo et.al.|[2507.07637v1](http://arxiv.org/abs/2507.07637v1)|null|
 |**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|null|
 |**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|null|
@@ -983,6 +987,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644v1](http://arxiv.org/abs/2507.08644v1)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976v1](http://arxiv.org/abs/2507.06976v1)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260v1](http://arxiv.org/abs/2507.05260v1)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587v1](http://arxiv.org/abs/2507.04587v1)|null|
