@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474v1](http://arxiv.org/abs/2507.10474v1)|null|
-|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430v1](http://arxiv.org/abs/2507.10430v1)|null|
+|**2025-07-15**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430v2](http://arxiv.org/abs/2507.10430v2)|null|
 |**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348v1](http://arxiv.org/abs/2507.10348v1)|null|
 |**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325v1](http://arxiv.org/abs/2507.10325v1)|null|
 |**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162v1](http://arxiv.org/abs/2507.10162v1)|null|
@@ -997,7 +997,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 ## det3d
 
@@ -1174,7 +1174,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
