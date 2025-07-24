@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796v1](http://arxiv.org/abs/2507.15796v1)|null|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601v1](http://arxiv.org/abs/2507.15601v1)|null|
 |**2025-07-22**|**FedMultiEmo: Real-Time Emotion Recognition via Multimodal Federated Learning**|Baran Can Gül et.al.|[2507.15470v2](http://arxiv.org/abs/2507.15470v2)|null|
-|**2025-07-22**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v2](http://arxiv.org/abs/2507.15460v2)|null|
+|**2025-07-23**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v3](http://arxiv.org/abs/2507.15460v3)|null|
 |**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349v1](http://arxiv.org/abs/2507.15349v1)|null|
 |**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256v1](http://arxiv.org/abs/2507.15256v1)|null|
 |**2025-07-20**|**Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**|Yunfeng Li et.al.|[2507.14999v1](http://arxiv.org/abs/2507.14999v1)|null|
@@ -1026,7 +1026,7 @@
 |**2024-11-27**|**Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization**|Shivam Pal et.al.|[2411.18385v1](http://arxiv.org/abs/2411.18385v1)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343v1](http://arxiv.org/abs/2411.18343v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## det3d
 
@@ -1208,7 +1208,7 @@
 |**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
